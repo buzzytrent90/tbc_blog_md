@@ -1,0 +1,70 @@
+---
+post_number: "1975"
+title: "Nairobi"
+slug: "nairobi"
+author: "Jeremy Tammik"
+tags: ['csharp', 'elements', 'geometry', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
+source_file: "1975_nairobi.md"
+original_url: "https://thebuildingcoder.typepad.com/blog/1975_nairobi.html"
+---
+
+### APS, Nairobi and NetTopologySuite
+I am writing this in Nairobi, Kenya, getting to know the team here; also, the new APS landing page just went live, and Benoit points out a useful geometric modelling library to help power your Revit add-in:
+- [DAS team in Nairobi, Kenya](#2)
+- [NetTopologySuite in Revit add-ins](#3)
+- [New APS landing page](#4)
+- [You can create RVT using APS](#5)
+#### DAS Team in Nairobi, Kenya
+Unexpectedly, I find myself travelling again, on rather short notice, to our new office in Nairobi, Kenya.
+I arrived Monday night and find it very pleasant here.
+Met with the Nairobi DAS team yesterday:
+![Nairobi team](img/2022-12-06_nairobi_team.jpg "Nairobi team")
+
+Nairobi team: Fidel, Carol, Brian, Jeremy, Harun, Emmanuel, George (sans Timothy and Allan)
+
+Today I spent the morning with Timothy and Allan.
+The purpose of the visit is team building.
+I am also continuing with my normal work, i.e., supporting
+the [Revit API discussion forum](http://forums.autodesk.com/t5/revit-api-forum/bd-p/160) and
+blogging.
+Plus, I received my new PC, a MacBook M1, and am hoping to set it up during my visit here.
+Hopefully, the reports on running Windows in Parallels and [Revit on the MacBook M1](https://kinship.io/blog/revit-m1-macbook-pro/) will indeed work out.
+#### NetTopologySuite in Revit Add-Ins
+Returning to the Revit API and current cases,
+Benoit Favre, CEO of [etudes & automates](http://www.etudesetautomates.com),
+made an interesting suggestion in
+the [Revit API discussion forum](http://forums.autodesk.com/t5/revit-api-forum/bd-p/160) thread
+on [room boundary to baseboards: group up the connected line segments](https://forums.autodesk.com/t5/revit-api-forum/room-boundary-to-baseboards-group-up-the-connected-line-segments/m-p/11582383#M67643):
+> ... Creating railings is tedious if the aim is only to work on geometry.
+We've done a lot of geometry of this type.
+I guess you retrieve the geometry of the room with `GetBoundarySegments`.
+I never encountered a case where the arrangement of the BoundarySegments are not consecutive (and I've seen tens, and my algos thousands), so, I'm really curious (and skeptical) about that.
+We made the choice to compute geometry using both internal and external tools,
+e.g., [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/index.html),
+because we need to have Boolean algebra and specific tools to work on Room boundaries, which we found tedious using XYZ.
+> We did many things with [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/index.html):
+> - automatically place furniture in housing (from beds, the easiest, to TV set, kitchen appliances and bathroom stuff)
+- automatically place electric fixtures in housing (lights, switches, plugs) or HVAC elements (ventilation, heating)
+- automatically recognize housing units and name Rooms from their characteristics
+> The first 2 examples use mainly simple geometric rules, while the last makes an extensive use of Boolean 2D operations.
+And we are currently working on connecting 2 elements with for ex. cold water pipe, which is not that easy (more geometry there ;))
+Many thanks to Benoit for the interesting pointer!
+#### New APS Landing Page
+As you may have heard,
+[Autodesk Forge was renamed to Autodesk Platform Services, APS](https://thebuildingcoder.typepad.com/blog/2022/09/aps-au-and-miter-wall-join-for-full-face.html#2).
+Now, we are glad and proud to announce the new [APS landing page](https://aps.autodesk.com) went live.
+I immediately grabbed the chance to highlight that in this clarification on how to create an RVT project file from scratch without running Revit locally:
+#### You Can Create RVT using APS
+APS came up in the question on [creating .RVT file from C#](https://forums.autodesk.com/t5/revit-api-forum/create-rvt-file-from-c/td-p/9693451):
+\*\*Question:\*\* I am a software developer and I am very new to Revit and AutoCAD.
+For a project, I need to create RVT file from C# using the Revit API.
+I do not want to develop a plugin, I want to simply be able to draw objects and save them in a file `.rvt` extension so that the end user can just double click on this file and open it directly in Revit.
+I am unable to figure out a way to do this since the API documentation suggests its usage for building plugins.
+\*\*Answer:\*\* Using APS, you can manipulate models without the need to open Revit.
+There is no (official) way to programmatically create an RVT project file without making use of the Revit API, and the Revit API requires a running session of Revit.exe to obtain a valid Revit API context. Without such a valid Revit API context, the API cannot be used. It is completely event driven, and only Revit can launch the necessary events.
+So, for the desktop, this means you need to have a full Revit product installation and a running Revit session.
+However, you can make use of the [APS Autodesk Platform Services (formerly Forge)](https://aps.autodesk.com).
+The APS Design Automation API for Revit enables you to create an RVT project file without installing Revit on your local machine.
+Instead, a Revit engine is launched in the cloud and executes your add-in code on a server, returning the resulting RVT file for you to download locally:
+- [APS Design Automation API](https://aps.autodesk.com/en/docs/design-automation/v3/developers_guide/overview/)
+- [APS Design Automation API for Revit](https://aps.autodesk.com/en/docs/design-automation/v3/developers_guide/overview/#design-automation-api-for-revit)

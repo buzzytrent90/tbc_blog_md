@@ -1,0 +1,188 @@
+---
+post_number: "1150"
+title: "Room Editor Element Properties and the Async Trap"
+slug: "roomedit_prop_async"
+author: "Jeremy Tammik"
+tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
+source_file: "1150_roomedit_prop_async.htm"
+original_url: "https://thebuildingcoder.typepad.com/blog/1150_roomedit_prop_async.html"
+---
+
+### Room Editor Element Properties and the Async Trap
+
+I made significant progress with my Tech Summit preparations, in spite of trying to "dance at many weddings", as the Germans say, i.e. juggle too many balls at once, what with new technologies, meetups, hackathons, AU preparations, support cases, email requests, blogging and all the normal everyday admin work that we are all confronted with.
+
+I originally had plans for three main enhancements of the room editor:
+
+1. Display sheet, views and floor plan geometry
+
+- Revit add-in part implemented, web part aborted
+
+2. Improve the 2D graphical editing
+
+- Integrated Raphaël.FreeTransform module
+- Removed it because it ignores SVG view box transformation
+
+3. Store, edit and update non-graphical property data
+
+**1.** I implemented the Revit add-in part to determine and display the nested
+[size and location of viewports on a sheet](http://thebuildingcoder.typepad.com/blog/2014/04/determining-the-size-and-location-of-viewports-on-a-sheet.html) and the
+[sheet-view-element transforms](http://thebuildingcoder.typepad.com/blog/2014/04/revit-as-a-service-and-sheet-view-transform.html) to
+generate simplified floor plan geometry in a preview window, and also added the code to upload and store all the required information for that in the cloud database.
+
+Displaying and editing it in the HTML, SVG and JavaScript-implemented browser view, however, turned out to be too much work for too little value, so I aborted that part.
+
+**2.** I integrated the
+[Raphaël.FreeTransform](https://github.com/ElbertF/Raphael.FreeTransform) module
+supporting grip editing of the parts, to replace my rather clunky 'rotate' and 'rotate counter-clockwise' buttons.
+
+However, that module does not work reliably together with the SVG ViewBox functionality that I use to transform the paper coordinates, so I gave that up as well rather than complicating things yet more.
+
+**3.** Finally, we get to the storage, editing and updating of non-graphical property data.
+
+That is complete now.
+
+To round it off, let me mention the last stumbling block I encountered and solved, a significant hiccup concerning [async callback function execution](#2) demonstrating a typical experience that everyone working with web interfaces and asynchronous calls needs to run into now and again.
+
+The current complete solution is available for [download](#3) from GitHub.
+
+#### Falling into the Async Trap Again
+
+One of the things I struggled with in my initial roomedit implementation last year was the asynchronous response to database queries.
+
+The solution I ended up with was to implement cascading response handlers: submit the second query within the function handling the response to the first, and so on.
+
+I fell into the same trap now again.
+
+I implemented the following function save\_doc to store a modified document:
+
+```
+// save a furniture document
+
+function save_doc(fdoc) {
+  if( fdoc.hasOwnProperty('loop') ) {
+    delete fdoc.loop;
+  }
+  db.saveDoc( fdoc,
+    function (err, data) {
+      if (err) {
+        alert(err);
+      }
+    }
+  );
+}
+```
+
+It is called from this helper method that retrieves modified element properties from a form, updates and saves the document, and then sets a new window location, back to where we came from:
+
+```
+// save modified element properties
+
+function save_properties(fdoc,do_save) {
+  if(do_save) {
+    var a = fdoc.properties;
+    var keys = jt_get_keys( a );
+    var n = keys.length;
+    var modified_count = 0;
+    for( var i=0; i<n; ++i ) {
+      var key = keys[i];
+      var val = a[key];
+      var key_id = unspace(key);
+      if( 'w' == val[0] ) {
+        var w = $('#' + key_id);
+        var val2 = w.val();
+        if( val2 != val.slice(2) ) {
+          ++modified_count;
+          fdoc.properties[key] = 'w ' + val2;
+        }
+      }
+    }
+    if( 0 < modified_count ) {
+      save_doc(fdoc);
+    }
+  }
+  var rid = fdoc.roomId;
+  window.location.href = url + '?roomid=' + rid;
+}
+```
+
+This implementation worked fine when testing on a local database on the mac, but not on Windows.
+
+I even saw an error message flash up sometimes, with no possibility to pause it to read the message or otherwise track it down.
+
+After some debugging on both systems, using both Firefox and Chrome, I suddenly realised what the problem was.
+
+If save\_doc is called, an asynchronous new thread to store the modified document via a RESTful database call is launched.
+Setting the window location href property immediately afterwards interferes with that process.
+
+The situation obviously only appears if some property is modified and the save\_doc function is called.
+
+Here is the updated implementation resolving the problem, by setting the window location within the database response handler if that path is taken, and in the main thread (as before) otherwise:
+
+```
+// save modified element properties
+
+function save_properties(fdoc,do_save) {
+  var modified_count = 0;
+  var url_room = url + '?roomid=' + fdoc.roomId;
+
+  if(do_save) {
+    var a = fdoc.properties;
+    var keys = jt_get_keys( a );
+    var n = keys.length;
+    for( var i=0; i<n; ++i ) {
+      var key = keys[i];
+      var val = a[key];
+      var key_id = unspace(key);
+      if( 'w' == val[0] ) {
+        var w = $('#' + key_id);
+        var val2 = w.val(); // equals w.attr('value');
+        if( val2 != val.slice(2) ) {
+          ++modified_count;
+          fdoc.properties[key] = 'w ' + val2;
+        }
+      }
+    }
+    if( 0 < modified_count ) {
+      if( fdoc.hasOwnProperty('loop') ) {
+        delete fdoc.loop;
+      }
+      db.saveDoc( fdoc,
+        function (err, data) {
+          if (err) {
+            console.log(err);
+            alert(JSON.stringify(err));
+          }
+          window.location.href = url_room;
+        }
+      );
+    }
+  }
+  // bad boy!
+  // cannot execute anything important here,
+  // because that will interfere with the async
+  // callback function execution in save_doc.
+  //var rid = fdoc.roomId;
+  //window.location.href = url + '?roomid=' + rid;
+
+  if( 0 == modified_count ) {
+    window.location.href = url_room;
+  }
+}
+```
+
+With that in place, and numerous other little snags addressed and resolved, all works fine now.
+
+The room editor implements round-trip display and editing of both non-graphical and graphical properties – element parameter values and family instance location and rotation.
+
+#### Download
+
+The updated CouchDB database design, Kanso package definition and sample dataset is available from the
+[roomedit GitHub repository](https://github.com/jeremytammik/roomedit),
+and the version described above is
+[release 2.0.0.6](https://github.com/jeremytammik/roomedit/releases/tag/2.0.0.6).
+
+The RoomEditorApp Revit add-in with its Visual Studio solution and add-in manifest is provided in the
+[RoomEditorApp GitHub repository](https://github.com/jeremytammik/RoomEditorApp),
+and the version described above is
+[2015.0.2.15](https://github.com/jeremytammik/RoomEditorApp/releases/tag/2015.0.2.15).

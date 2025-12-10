@@ -1,0 +1,57 @@
+---
+post_number: "0841"
+title: "Point Cloud Request Batching"
+slug: "point_cloud_batching"
+author: "Jeremy Tammik"
+tags: ['family', 'filtering', 'levels', 'revit-api', 'views']
+source_file: "0841_point_cloud_batching.htm"
+original_url: "https://thebuildingcoder.typepad.com/blog/0841_point_cloud_batching.html"
+---
+
+﻿
+
+### Point Cloud Request Batching
+
+Here is some important information for point cloud engine developers, who may be confused by the SDK samples provided.
+
+**Question:** We have taken the Revit point cloud engine example provided and modified it to create three cells, each loading its points from an ASCII file.
+The cell boundary is then drawn as blue random points.
+
+We noticed that the maximum number of points ever requested is 512 \* 512 and decreases as you zoom out.
+This number is applied to all cells, so the third and second cells disappear rather that fewer points being drawn in each cell.
+
+This of course prompts some questions:
+
+1. What sets the size of the buffer that is to be filled with points?- How does the point engine pass the buffer to each cell such that a closer cell would be requesting more points than one in the distance?
+
+**Answer:** An instance of the IPointCloudAccess class will be requested by Revit when drawing the point cloud in the view.
+For performance reasons, when rendering every frame, Revit asks the engine to fetch the necessary points split into multiple batches.
+The number of batches requested depends on the view: the smaller the projection of the cloud bounding box on the screen the fewer batches Revit requests.
+Revit assumes that each batch contains points uniformly distributed over the visible part of the cloud ('visible' as defined by the filter).
+Thus, the points supplied by the engine should not be geometrically distinct, e.g. divided into multiple independent volumes, because otherwise, at distant zoom levels, Revit will only request a few batches and only part of the cloud will be displayed.
+
+In other words, on every frame, Revit asks the engine to fetch some number of points in a few batches.
+Each batch is 256K points.
+The number of batches requested depends on the frame: the smaller the projection of the cloud bounding box on the screen, e.g. when you zoom out or orbit, the fewer batches Revit requests.
+Revit assumes that each batch contains points uniformly distributed over the visible part of the cloud, where 'visible' is defined by the filter.
+
+In the sample code, the plug-in does the complete opposite: it groups points in a few cubes, 256K each, and returns one cube per requested batch.
+So if Revit requests 3\*256K points, it gets three cubes, but if you zoom out and Revit requests only 2\*256K points, it receives only 2 cubes.
+In this example Revit expects to get 2\*256K points uniformly distributed over the 3 cubes.
+
+This assumption is currently not reflected adequately in the documentation.
+Sorry!
+It should say something like:
+
+The main purpose of the engine is to quickly fetch points from one point cloud file satisfying certain conditions described in the client query.
+Typical request would be to get specified number of representative points within specified volume, e.g. a view frustum.
+By representative we mean that it is responsibility of the engine to make sure that the points being returned give a good idea of the distribution of all points satisfying the query rather than, e.g. concentrating all in one area.
+
+This simply shows how a contrived SDK engine sample may not provide the best example for real-world usage, not having a database of points which can be queried representatively.
+
+#### Programmatically Flip Work Plane
+
+Saikat Bhattacharya provided a very clear and succinct explanation on flipping the the work plane for a family instance, and a code sample
+[using the IsWorkPlaneFlipped property](http://adndevblog.typepad.com/aec/2012/10/flipping-work-plane-programmatically-in-revit.html) to
+achieve this programmatically.
+![Flip work plane](img/flip_work_plane_icon.png)

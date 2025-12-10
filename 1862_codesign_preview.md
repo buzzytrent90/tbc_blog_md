@@ -1,0 +1,189 @@
+---
+post_number: "1862"
+title: "Codesign Preview"
+slug: "codesign_preview"
+author: "Jeremy Tammik"
+tags: ['csharp', 'elements', 'family', 'filtering', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'windows']
+source_file: "1862_codesign_preview.md"
+original_url: "https://thebuildingcoder.typepad.com/blog/1862_codesign_preview.html"
+---
+
+### Preview, Code Signing and Element Type Predicates
+Picking up a few interesting threads from
+the [Revit API discussion forum](http://forums.autodesk.com/t5/revit-api-forum/bd-p/160) and AI news:
+- [Revit add-in code signing YAML](#2)
+- [Preview control rotates model](#3)
+- [Element type predicates](#4)
+- [AI ethics](#5)
+![Weight of a heart versus feather of truth in Book of the Dead](img/scale_weight_heart_versus_feather_of_truth_in_book_of_the_dead.jpg "Weight of a heart versus feather of truth in Book of the Dead")
+
+Weight of a heart versus feather of truth in Book of the Dead
+
+#### Revit Add-In Code Signing YAML
+Peter Hirn's [YAML file for automating the code signing](https://thebuildingcoder.typepad.com/blog/2020/08/revitlookup-continuous-integration-and-graphql.html#3) of
+the [continuous integration build of RevitLookup](https://thebuildingcoder.typepad.com/blog/2020/08/revitlookup-continuous-integration-and-graphql.html#2) helps solve
+the [Revit API discussion forum](http://forums.autodesk.com/t5/revit-api-forum/bd-p/160) thread
+on [Revit 2018 Code Signing](https://forums.autodesk.com/t5/revit-api-forum/revit-2018-code-signing/m-p/9715700):
+\*\*Question:\*\* I am attempting to code sign my Revit add-in and I cannot seem to get Revit to recognise it.
+I have a self-signed certificate which I have manually installed into my trusted root authorities, I have built out the add-in in Visual Studio and copied all DLL's and addin file to the addins folder. I have then run the sign tool command:
+```csharp
+signtool sign /f "Path/To/codesign.pfx" /t \
+http://timestamp.comodoca.com/authenticode \
+/p "MyPassword" "Path/To/Addins//2018/AppName.dll"
+```
+This command executes successfully and I can see a digital signatures tab containing the information I added for my self-signed certificate in the DLL properties.
+Yet, When I start Revit, it still says it is unsigned...
+Where did I go wrong?
+I have tried various other combinations of this command including passing in the .addin file which errors out saying unrecognized file and signing all dlls in my addins folder.
+\*\*Answer:\*\* Peter Hirn added an automatic signing step to the [RevitLookup continuous integration on GitLab](https://thebuildingcoder.typepad.com/blog/2020/08/revitlookup-continuous-integration-and-graphql.html#2).
+The YAML file executing the add-in signing is available in the [RevitLookup GitHub repository](https://github.com/jeremytammik/RevitLookup).
+The pertinent bits are
+the [lines 53-79 in `.gitlab-ci.yml`](https://github.com/jeremytammik/RevitLookup/blob/master/.gitlab-ci.yml#L53-L79):
+
+```
+  script:
+    - apt-get update && apt-get install -y --no-install-recommends osslsigncode
+    - mkdir -p .secrets && mount -t ramfs -o size=1M ramfs .secrets/
+    - echo "${CODESIGN_CERTIFICATE}" | base64 --decode > .secrets/authenticode.spc
+    - echo "${CODESIGN_KEY}" | base64 --decode > .secrets/authenticode.key
+    - osslsigncode -h sha1 -spc .secrets/authenticode.spc -key .secrets/authenticode.key -t ${TIMESERVER} -in "${ASSEMBLY}" -out "${ASSEMBLY}-sha1"
+    - osslsigncode -nest -h sha2 -spc .secrets/authenticode.spc -key .secrets/authenticode.key -t ${TIMESERVER} -in "${ASSEMBLY}-sha1" -out "${ASSEMBLY}"
+    - rm "${ASSEMBLY}-sha1"
+```
+
+\*\*Response:\*\* This is great!
+I am going to utilize that in my own Repos.
+Ok, I finally got windows to recognize my cert;
+Let me track through what I did and how I got it to work.
+Originally, I was using `openssl` on a linux server to generate the certs and private keys.
+I then used `openssl` to convert those to a `pfx` file and was using that to sign stuff;
+Looks like that does not work too well.
+I followed the post in this thread and that worked...
+To rehash what I did to make this work:
+Notes before you begin: `MakeCert.exe`, `pvk2pfx.exe`, and `signtool.exe` are all located in \*C:\Program Files (x86)\Windows Kits\8.1\bin\x64\*.
+I have already added this to my environment variables; make sure you do so too, otherwise you will have to specify in your command where to find these exes.
+```csharp
+MakeCert.exe -r -sv AVT_CodeSign.pvk -n "CN=AVT" AVTCodeSign.cer -b 01/01/2020 -e 12/31/2020
+```
+NOTE: MakeCert is deprecated according to official Microsoft sources, but at the time of this writing that command still works.
+They have an alternative PowerShell commandlet that does the same thing though I did not try that since MakeCert worked for me.
+```csharp
+pvk2pfx.exe -pvk codesign.pvk -pi MySecurePassword -spc codesign.cer -pfx codesign.pfx -po MyOtherSecurePassword
+```
+NOTE: The passwords can be the same here; The password I'm using here is from a prompt from Step 1.
+That prompt will ask you to supply a password for the private key or give you the option to press "none".
+Whichever you choose, supply that password in step 2.
+Step 3: Use `CertMgr.msc` to install your `codesign.pfx` file NOT the certificate.
+Install it Trusted Publishers, then in Trusted Root Certification Authorities
+NOTE: It's important here to click your `.pfx` file as when I did this step, the default was choosing the cert file.
+I'm unsure if this way is better than simply right clicking and hitting "install cert" but it seems both will get you to the same spot.
+```csharp
+signtool sign /f "Path\To\codesign.pfx" /t http://timestamp.verisign.com/scripts/timstamp.dll /p "MySecurePassword" "Path\To\RevitAddin.dll"
+```
+Following this process, I was able to get a valid digital signature.
+I'm not sure why generating it using `openssl` on linux was causing an issue but there may be something to this method that works better.
+Many thanks to ShinyKey for testing and confirming this, and thanks again to Peter Hirn for the smooth RevitLookup CI and code signing workflow.
+#### Preview Control Rotates Model
+Scott Ehrenworth of [Microdesk Inc.](https://www.microdesk.com) pointed out a few interesting aspects of using and interacting with the Revit API [PreviewControl class](https://www.revitapidocs.com/2020/50112279-5c9d-0351-bbd1-698e76be9e36.htm) in
+the [Revit API discussion forum](http://forums.autodesk.com/t5/revit-api-forum/bd-p/160) thread
+on [using PreviewControl ElementHost and PickPoint]( https://forums.autodesk.com/t5/revit-api-forum/used-previewcontrol-elementhost-amp-pickpoint/m-p/9715680):
+Firstly, The `PreviewControl` is not a pure preview control, providing read-only access and no user interaction with the model.
+Proof: When changing the orientation or rotation of a 3D view inside of a `PreviewControl` window, the model's 3D view will rotate as well:
+[
+
+](img/preview_control_rotates_model.mp4)
+Zoom and Pan do not have this effect.
+Secondly, even though the preview control modifies the model's current view settings, it does not require a transaction to do so.
+However, it does require the manual transaction option, presumably so that it can start and commit its own transaction internally.
+This could be like the `PromptForFamilyInstancePlacement` method that has a transaction control built in.
+The PreviewControl class is full of Event Handlers, so maybe this is the case?
+Here's the very basic sample of the external command I used to test this for 3D views.
+```csharp
+[Transaction( TransactionMode.Manual )]
+class PreviewControlTest : IExternalCommand
+{
+public Result Execute(
+ExternalCommandData commandData,
+ref string message,
+ElementSet elements )
+{
+UIApplication uiapp = commandData.Application;
+UIDocument uidoc = uiapp.ActiveUIDocument;
+Document doc = uidoc.Document;
+WPF_GridContainer newGrid = new WPF_GridContainer();
+newGrid.theGrid.Children.Add( new PreviewControl( doc,
+new FilteredElementCollector( doc )
+.OfClass( typeof( View3D ) )
+.FirstElementId() ) );
+newGrid.ShowDialog();
+return Result.Succeeded;
+}
+}
+```
+I assume it will refuse to run in read-only transaction mode, then...
+Yes, I can confirm:
+Switching the `TransactionMode` to `ReadOnly` is now just hanging the command (never opens the window for the PreviewControl).
+Funky stuff, but good to know!
+Many thanks to Scott for this useful information and research.
+For pointers to several previous discussions of various aspects of the `PreviewControl`, check out the post
+on [zooming in a preview control](https://thebuildingcoder.typepad.com/blog/2013/09/appstore-advice-and-zooming-in-a-preview-control.html#4).
+#### Element Type Predicates
+Here are a bunch of ways to check and filter for Revit element types making use of both .NET generics and the Revit API filtering functionality suggested in the question on how
+to [determine if element is `ElementType`](https://forums.autodesk.com/t5/revit-api-forum/determine-if-element-is-elementtype/m-p/9713330):
+\*\*Question:\*\* I'm listening to the `Application` `DocumentChanged` event and would like to see if the element modified is an Instance or an ElementType.
+I'm currently doing the following but it doesn't quite satisfy all the conditions:
+```csharp
+static bool IsElementType( Element element )
+{
+var typeId = element?.GetTypeId();
+if( typeId == null || typeId == ElementId.InvalidElementId )
+{
+if( !(element is Room) && !(element is PipeSegment) )
+{
+return true;
+}
+}
+return false;
+}
+```
+I'm not native to Revit sorry if my terminology is off.
+How does the `FilterCollector.WhereElementIsElementType()` determine it's an ElementType?
+\*\*Answer:\*\* This will return false if type is `ElementType` but true if is derived from `ElementType`:
+```csharp
+bool Bl = element.GetType().IsSubclassOf( typeof( ElementType ) );
+```
+This will return true if type is ElementType or is derived from ElementType:
+```csharp
+bool B2 = typeof( ElementType ).IsAssignableFrom( element.GetType() );
+```
+Here's a more Revit orientated approach in VB: you asked how a collector determines an ElementType, but you can always pass a list of a single element into a collector and filter that:
+```csharp
+Dim FEC As New FilteredElementCollector(element.Document, {element.Id}.ToList)
+Dim B3 As Boolean = FEC.WhereElementIsElementType.ToElementIds.Count > 0
+```
+You can't do it in C# in this abbreviated fashion due to the need to use `ICollection` directly (option `Strict` `off` in VB), but you can do similar.
+\*\*Answer 2:\*\* Here's a simpler way of putting it:
+```csharp
+static bool IsElementType( Element element )
+{
+return element is ElementType;
+}
+```
+I'd suggest not even making a method for this and just using the `is` expression.
+\*\*Answer 3:\*\* I use the `is` operator quite often in my work.
+Here is an online method which will use a [type pattern](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/is#type-pattern) to give you the `EType` as a variable:
+```csharp
+if( element is ElementType EType )
+{
+TaskDialog.Show( "Type Name", EType.Name );
+}
+```
+Interesting to note that in VB the `is` statement only returns true if the exact same type is compared.
+Since `is` is used to check if two things are the same object instance.
+The equivalent to the way it is used in C# seems to be:
+```vbnet
+Dim B1 As Boolean = TypeOf Element Is ElementType
+```
+#### AI Ethics
+A very interesting and promising first stab at creating 'good' AI and NLP that conforms with common human ethical judgement and behaviour is presented in the research paper
+on [Aligning AI With Shared Human Values](https://arxiv.org/pdf/2008.02275v1.pdf).

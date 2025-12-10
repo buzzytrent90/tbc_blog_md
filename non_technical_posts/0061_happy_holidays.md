@@ -1,0 +1,17 @@
+---
+post_number: "0061"
+title: "Happy Holidays"
+slug: "happy_holidays"
+author: "Jeremy Tammik"
+tags: ['revit-api']
+source_file: "0061_happy_holidays.htm"
+original_url: "https://thebuildingcoder.typepad.com/blog/0061_happy_holidays.html"
+---
+
+### Happy Holidays
+
+I am taking a two-week break over the holiday season. Hurra!
+My blog output will slow down or more probably stop completely during this time.
+I wish all the readers of "The Building Coder" the very best.
+Thank you for your support and readership over the past months.
+I have very much enjoyed writing for and communicating with you, and I am looking forward to a fun, productive and communicative 2009! :-)

@@ -1,0 +1,151 @@
+---
+post_number: "1919"
+title: "Py Cs Template"
+slug: "py_cs_template"
+author: "Jeremy Tammik"
+tags: ['csharp', 'elements', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls']
+source_file: "1919_py_cs_template.md"
+original_url: "https://thebuildingcoder.typepad.com/blog/1919_py_cs_template.html"
+---
+
+### Snooping Parts, C# Templates and Python Topics
+A neat RevitLookup enhancement, powerful new Revit add-in template, and a couple of Python related topics:
+- [RevitLookup handles `PartUtils`](#2)
+- [Nice3point Revit add-in C# template](#3)
+- [IronPython hosting in C# add-in](#4)
+- [Python 3, CPython, pyRevit and Dynamo](#5)
+#### RevitLookup Handles PartUtils
+RevitLookup now displays `PartUtils` information.
+[mphelt](https://github.com/mphelt) submitted
+[pull request #91 to add `PartUtilsStream`](https://github.com/jeremytammik/RevitLookup/pull/91),
+integrated in [RevitLookup release 2022.0.0.16](https://github.com/jeremytammik/RevitLookup/releases/tag/2022.0.0.16).
+The new `PartUtils` stream also populates the following highlighted entries:
+![Snoop PartUtils](img/revitlookup_PartUtilsStream.png "Snoop PartUtils")
+- Duplicated `OriginalCategoryId` shows value as f.e. `OST_Walls` instead of
+- Duplicated `GetSourceElementIds` shows a flattened list of elements instead of original list of `LinkElementIds`
+- Duplicated `GetSourceElementOriginalCategoryIds` uses `EnumerableAsString` to show value as f.e. 'OST_Walls, OST_Walls'
+Many thanks to [mphelt](https://github.com/mphelt) for this important enhancement!
+#### Nice3point Revit Add-In C# Template
+We mentioned several alternatives to
+my very simple [Visual Studio Revit add-in wizard](https://github.com/jeremytammik/VisualStudioRevitAddinWizard) in
+the past.
+I just added a list of them to the GitHub repo readme and
+the corresponding [topic group](https://thebuildingcoder.typepad.com/blog/about-the-author.html#5.20).
+Roman Karpov, aka Роман Карпович, now shares another one, saying:
+> I made some really cool templates for creating Revit plugins.
+They include a build system, creating installers, creating bundles for the Autodesk AppStore, ready-made files for AzureDevOps, and GitHubActions.
+They require a minimum of steps for starting and routine work.
+All GUIDs are automatically generated when creating a project.
+Added the ability to merge several DLLs into one; just specify the names of the merged files.
+For Debug configurations, all files are copied to the add-ins folder by themselves.
+It is also possible to add unique configurations; for example, a configuration for AdskStore, where you can check whether a plugin has been purchased or not; if not, display an informational message and redirect to a page in the store.
+> You can test them at [Nice3point/RevitTemplates](https://github.com/Nice3point/RevitTemplates).
+> Check out the example videos:
+- [FirstSteps.mp4](https://drive.google.com/file/d/1Pm0tygJNRcXP_8O8XCsk2C5Jt3FQFCym/view)
+- [StoreVersion.mp4](https://drive.google.com/file/d/1bPveyMoGi0U9MVTT0UxWVPK7gXb2amJu/view)
+- [Nice3point/RevitTemplates](https://github.com/Nice3point/RevitTemplates)
+Thank you very much for sharing these, Роман!
+#### IronPython Hosting in C# Add-In
+Daniel Gerčák shares a solution implementing his
+own [IronPython](https://ironpython.net) hosting in a Revit add-in in
+the [Revit API discussion forum](http://forums.autodesk.com/t5/revit-api-forum/bd-p/160) thread
+on [C# and IronPython hosting for Revit addins](https://forums.autodesk.com/t5/revit-api-forum/c-and-ironpython-hosting-for-revit-addins/m-p/10629723):
+\*\*Question:\*\* I try to run IronPython scripts via IronPython.Hosting in C#, inspired by Nick Cosentino's
+article [Python, Visual Studio, and C#, so sweet](https://www.codeproject.com/Articles/657698/Python-Visual-Studio-and-Csharp-So-Sweet).
+The purpose of such effort is to create easy distributable and accessible addins in our company which are developed by a small group of non IT experts on the IronPython platform due to its flexibility and lower demandings for coding skills.
+Yes, I've heard about RevitPythonShell, but this is not exactly what would make sufficient result.
+I was able to run classes using references to `RevitAPI` and `RevitAPIUI` but receive empty objects trying to use `RevitServices`:
+
+```
+from RevitServices.Persistence import DocumentManager
+doc = DocumentManager.Instance.CurrentDBDocument
+uiapp = DocumentManager.Instance.CurrentUIApplication
+uidoc = DocumentManager.Instance.CurrentUIApplication.ActiveUIDocument
+```
+
+I wonder if my intention to run such scripts is useless effort due to some restrictions in source code or is there some way to deal with this issue.
+Here is a piece of code for better overview of what I am trying to achieve,
+[totalSelectedVolume.zip](zip/dg_totalSelectedVolume.zip),
+containing totalSelectedVolumeCommand.cs and totalSelectedVolume.py.
+The former implements an external command and executes the latter via the `IronPython.Hosting` `ExecuteFile` method, performing the actual computation.
+\*\*Answer:\*\* You can take a look at the open source implementations
+of [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell)
+and [pyRevit](https://github.com/eirannejad/pyRevit) to
+discover how they have addressed this same issue.
+\*\*Response:\*\* I did a little research and I was successful.
+The point was to create a new variable within the IronPython engine and assign the `commandData.Application` object to it so that you can access it from the Python environment.
+I named it the same way as it is in RPS, `__revit__`, in order to keep compatibility with scripts developed for RPS.
+Since I've tested it only by using simple Python code, I don't guarantee its functionality with more complex scripts.
+Additional settings might be required.
+The execute function looks like this.
+```csharp
+public Result Execute(
+ExternalCommandData commandData,
+ref string message,
+ElementSet elements )
+{
+UIApplication _revit = commandData.Application;
+UIDocument uidoc = _revit.ActiveUIDocument;
+Document doc = uidoc.Document;
+var flags = new Dictionary() {
+{ "Frames", true },
+{ "FullFrames", true } };
+var py = IronPython.Hosting.Python.CreateEngine( flags );
+var scope = IronPython.Hosting.Python.CreateModule( py, "__main__" );
+scope.SetVariable( "__commandData__", commandData );
+// add special variable: __revit__ to be globally visible everywhere:
+var builtin = IronPython.Hosting.Python.GetBuiltinModule( py );
+builtin.SetVariable( "__revit__", _revit );
+py.Runtime.LoadAssembly( typeof( Autodesk.Revit.DB.Document ).Assembly );
+py.Runtime.LoadAssembly( typeof( Autodesk.Revit.UI.TaskDialog ).Assembly );
+try
+{
+py.ExecuteFile( "totalSelectedVolume.py" );
+}
+catch( Exception ex )
+{
+TaskDialog myDialog = new TaskDialog( "IronPython Error" );
+myDialog.MainInstruction = "Couldn't execute IronPython script totalSelectedVolume.py: ";
+myDialog.ExpandedContent = ex.Message;
+myDialog.Show();
+}
+return Result.Succeeded;
+}
+```
+Here is [IronPython_engine.zip](zip/dg_IronPython_engine.zip) containing a complete testing project.
+Many thanks to Daniel for his research and useful solution!
+#### Python 3, CPython, pyRevit and Dynamo
+Continuing with Python related issues, here is a quick update on upcoming releases of pyRevit and Dynamo and their support for Python 3, prompted by
+EatRevitPoopCad (love the handle) in their discussion
+of [PyRevit and Revit 2022 w/ Dynamo](https://forums.autodesk.com/t5/revit-api-forum/pyrevit-and-revit-2022-w-dynamo/m-p/10638367):
+\*\*Question:\*\* I believe I saw somewhere that IronPython will not be supported with Revit 2022 and/or the Dynamo version it will come with...
+Some of my plugins use IronPython, which isn't a big deal, I can convert them to whatever the "New python" Dynamo will use...
+But what about... let's say PyRevit?
+I know it runs on IronPython.
+Does that mean it will not work?
+Or can you still install an older version of Dynamo in Revit 2022 that will support IronPython?
+\*\*Answer:\*\* The Revit API is based on .NET.
+Therefore, everything and anything that supports .NET can be used to work with the Revit API.
+IronPython is designed to enable usage of Python with .NET.
+I see no reason why it should stop working.
+What gave you that idea?
+That said, you might also try to discuss pyRevit related issues directly with its creator Ehsan in
+the [pyRevit repository](https://github.com/eirannejad/pyRevit) via
+the appropriate [channels](https://github.com/eirannejad/pyRevit#staying-updated).
+\*\*Response:\*\* Thanks for clearing that up, Jeremy.
+I saw this on a webinar and misunderstood it, and only used IronPython inside Dynamo.
+Basically, the new Dynamo is transitioning
+from [IronPython](https://ironpython.net)
+to [CPython](https://github.com/python/cpython).
+Revit 2021 came with Dynamo and IronPython by default.
+Revit 2022 comes with Dynamo that has IronPython and CPython, and recommends using CPython.
+I am assuming in the future it will drop IronPython.
+This won't affect pyRevit the way I thought it would; Dynamo and pyRevit are independent of each other.
+Please refer to the article
+on the [top 5 new features for Dynamo for Revit 2022](https://www.caddmicrosystems.com/blog/top-5-new-features-for-dynamo-for-revit-2022):
+> One of the biggest things the Dynamo Core team has been working on is the transition from IronPython which limits Python to version to 2.7 to CPython which allows the use of python 3 syntax. This is HUGE for using python to access addition elements in the Revit API, as well as to handle more complex logic scenarios. As of the initial launch of Revit 2022, both ironpython and Cpython are installed as python engines and the engine used can vary within a single dynamo script (although that is not advised).
+IronPython remains the default Python engine, but can be changed in the settings.
+To help with the transition, there is a transition tool that will help migrate your python script from ironpython to Cpython.
+Many thanks to EatRevitPoopCad for the interesting background information.
+I was unaware of it until now.
+Myself, I just use (normal, standalone) Python for command line scripts and am still in a very slow and much overdue transitioning process from 2.7 to 3+...

@@ -1,0 +1,24 @@
+---
+post_number: "0108"
+title: "Real Break"
+slug: "real_break"
+author: "Jeremy Tammik"
+tags: ['elements', 'revit-api']
+source_file: "0108_real_break.htm"
+original_url: "https://thebuildingcoder.typepad.com/blog/0108_real_break.html"
+---
+
+### Real Break
+
+I am looking forward to taking a real break now after a couple of months of working rather a lot.
+Cut my blog and PC connection for a while.
+I will be going to Napoli and Sicilia in Italy, with no fixed goals or itinerary beyond that.
+Rather exciting, not knowing.
+
+After a week or two of thinking this over and gradually getting used to the idea, I have finally completed the process of deciding not to take my computer with me either.
+That is a tough decision to take for me!
+If I take it, I automatically have all the information I need about anything with me.
+If I don't, there are any number of things I might forget and will not have access to.
+Still, I guess both me and the rest of the world will survive regardless.
+
+#### Vind för Våg It is also a challenge to leave the blog 'vind för våg' for a couple of weeks, to the wind and waves, exposed to the elements, alone and adrift out at sea, so to speak. I may prepare a post or two to be auto-published in the coming weeks during my absence, but I will not be there to check them or answer any comments. Adam Nagy has very friendlily agreed to have a look at your comments now and then in my absence. Truly gone By the time you read this, I will already have left. I wish you all many interesting and challenging problems to tackle, and wonderful creative effective solutions to them, with lots of fun in the process. I'll see you again at the end of March. Meanwhile, if you are interested in some exciting news on upcoming Revit API functionality, have a look at [Matt Mason's blog](http://cadappdev.blogspot.com).

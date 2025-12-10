@@ -1,0 +1,66 @@
+---
+post_number: "1830"
+title: "Face Bounding Box Uv"
+slug: "face_bounding_box_uv"
+author: "Jeremy Tammik"
+tags: ['revit-api', 'sheets']
+source_file: "1830_face_bounding_box_uv.md"
+original_url: "https://thebuildingcoder.typepad.com/blog/1830_face_bounding_box_uv.html"
+---
+
+### Command Binding Conflicts and Face UV Coords
+Today, let's pick up two recent discussions on the `UV` coordinate space on a face and the replacement of add-in command bindings:
+- [Understanding the Face `BoundingBoxUV`](#2)
+- [Handling add-in command binding conflicts](#3)
+#### Understanding the Face BoundingBoxUV
+This question was raised in
+the [Revit API discussion forum](http://forums.autodesk.com/t5/revit-api-forum/bd-p/160) thread
+on [how to understand the `BoundingBoxUV` of face](https://forums.autodesk.com/t5/revit-api-forum/how-to-understand-the-boundingboxuv-of-face/m-p/9374555):
+\*\*Question:\*\* I am doing something with AVF, and have some problems with the `BoundingBoxUV` of face.
+I use the following code to find the feature points in the bottom-left corner area of the face:
+```csharp
+BoundingBoxUV bb = face.GetBoundingBox();
+UV pmid = 0.5 \* (bb.Min + bb.Max);
+```
+However, the result shows that these points refer to the upper-right corner area:
+![Face bounding box lower left](img/face_bounding_box_ll.png "Face bounding box lower left")
+I'm confused about this result! Can anyone can help me? Thanks in advance!
+\*\*Answer:\*\* You need to know in which `XYZ` direction in 3D space the `UV` vector components `U` and `V` are pointing.
+You can find out by using
+the [Project method](https://www.revitapidocs.com/2020/802cc09b-d0a4-dfc5-8ca1-e8c5e8cd4ced.htm) to
+project a `XYZ` point onto the face surface and seeing where it ends up.
+There is probably some more direct way to query either the face or its underlying surface for the U and V directions in 3D space.
+\*\*Response:\*\* Forgive me, I don't understand your method, but it inspired me to think of another way.
+I use Dynamo to query the U and V directions of the face, and I am glad to share it:
+![Dynamo query for face U and V](img/face_bounding_box_uv_dyn.png "Dynamo query for face U and V")
+Many thanks to Bing Yongcao for sharing this solution!
+#### Handling Add-In Command Binding Conflicts
+An interesting question was raised by Smcoder and addressed by Autodesk developer Phil Xia in
+a [series](https://thebuildingcoder.typepad.com/blog/2012/06/replacing-built-in-commands-and-their-ids.html#comment-4837624436)
+[of](https://thebuildingcoder.typepad.com/blog/2012/06/replacing-built-in-commands-and-their-ids.html#comment-4837714095)
+[comments](https://thebuildingcoder.typepad.com/blog/2012/06/replacing-built-in-commands-and-their-ids.html#comment-4838966941)
+on [replacing built-in commands and obtaining their ids](https://thebuildingcoder.typepad.com/blog/2012/06/replacing-built-in-commands-and-their-ids.html):
+\*\*Question:\*\* Do you know how it is handled if two different external applications bind to the same Revit Built-In Command?
+I haven't found any documentation, so I'm thinking of testing it myself to see what happens.
+In the case of a commercial product, you don't want your external application to conflict with any other product that may be running.
+So, how does Revit handle precedence when multiple add-ins subscribe to the same events or commands?
+Update: From conducting my own testing, it appears that `AddInCommandBinding` is first come, first served.
+On Revit startup, the various addins load alphabetically based on the name of the manifest file.
+It appears to me that when multiple external apps all attempt to bind the same built-in command, only the first app to load gets it.
+That being the case, one and only one of the applications responds when the desired BuiltInCommand is detected.
+If this is true, then any reliance on `AddInCommandBinding` would be extremely risky business if you're producing commercial software.
+If you had the bad fortune of the user installing another addin that ties up the same command and happens to alphabetize before your app, then you could have core features that will not fire.
+Can anyone confirm this finding?
+\*\*Answer:\*\* I am Phil from development team.
+Yes, you are right, and the `AddInCommandBinding` is indeed first come, first served, based on the name of manifest file alphabetically.
+I would suggest that use a `try` `catch` handler to wrap the code to create the addincommand binding so it will throw an exception to say "The command xxx has already been replaced by xxx addin" in this case.
+You can build your UI experience based on this exception to help customer to make the decision to choose which addin they want to use or not.
+It is not an elegant solution because the customer has to unload one addin and restart Revit.
+![AddInCommandBinding already replaced](img/AddInCommandBinding_already_replaced.png "AddInCommandBinding already replaced")
+\*\*Response:\*\* Thank you for following up on this.
+It's great to know exactly how the binding works so that I can plan accordingly.
+In my case, I may opt for an altogether different solution that does not require binding to the built-in command.
+On closer inspection, I now see the mistake that prevented me from highlighting this issue earlier.
+I had over-constrained my external application's `OnStartup` routine with an overall `try` `catch` wrapper that simply returned "Result.Failed" on exception.
+So, the routine was being stopped and the error was being caught, but no actionable information was returned in the form of exception text, etc.
+Many thanks to Phil and Smcoder for raising and clarifying this question.

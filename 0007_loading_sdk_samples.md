@@ -1,0 +1,125 @@
+---
+post_number: "0007"
+title: "Loading SDK Samples"
+slug: "loading_sdk_samples"
+author: "Jeremy Tammik"
+tags: ['levels', 'revit-api']
+source_file: "0007_loading_sdk_samples.htm"
+original_url: "https://thebuildingcoder.typepad.com/blog/0007_loading_sdk_samples.html"
+---
+
+### Loading SDK Samples
+
+The
+[previous post](http://thebuildingcoder.typepad.com/blog/2008/???.html)
+discussed the use of the unified solution file SDKSamples2009.sln
+to manage, compile and search the entire collection of over hundred
+sample applications provided in the Revit SDK. In order to actually
+execute a sample for testing and debugging, it also needs to be loaded
+into Revit. The most direct way to achieve this is to edit Revit.ini
+to add an entry to the Revit Tools > External Tools menu.
+Another possibility is to use the Add-In Manager provided with the SDK.
+Both of these approaches are tedious or even impossible to execute
+manually if you
+really want to be able to look at any one of the samples at any time.
+Happily, a perfect solution to this problem is already included in the
+Revit SDK: RvtSamples.
+
+RvtSamples is a Revit external application.
+That means that is can define a user interface within the Revit UI.
+The user interface can consist of menus and toolbars.
+Each menu entry or toolbar button can be linked to a Revit external command.
+What RvtSamples does is read a text file containing information about
+all the Revit SDK samples that are external commands and the menu structure
+that we would like these to be presented in and set up this structure in
+a hierarchical menu inside the Revit menu system.
+
+By default, the text file is named RvtSamples.txt and lives either in
+the same directory as the RvtSamples assembly DLL, or one or two levels
+above it, based on the assumption the RvtSamples.dll is in a bin/Debug
+subdirectory of the RvtSamples source code directory.
+
+RvtSamples.txt contains a combination of the information specifying
+the desired menu hierarchy and the information required to load and
+execute the sample code, which is more or less the same as the data
+required to specify an external command in Revit.ini, i.e.
+ECName, ECDescription, ECAssembly and ECClassName.
+In Revit.ini, these four are used to define the menu item text and
+the status bar description for the external command in the Revit
+user interface on one hand, and the command class assembly path and
+fully qualified class name including namespace prefix on the other.
+For RvtSamples, the description, assembly path and class name
+remain the same, and the menu item text is enhanced to include
+the full definition of the menu hierarchy.
+For example, here is the first entry from my RvtSamples.txt:
+
+```
+/RvtSamples/By Flavour/All/About Revit
+Show the Revit product name, version and build number.
+C:\a\lib\revit\2009\SDK\Samples\VersionChecking\CS\bin\Debug\VersionChecking.dll
+Revit.SDK.Samples.VersionChecking.CS.Command
+```
+
+This is asking RvtSamples to construct a new top level menu RvtSamples
+in the Revit menu with a submenu 'By Flavour', another submenu 'All'
+within it, and, finally, a menu entry for the VersionChecking sample with
+the menu text 'About Revit'.
+
+![Revit SDK Samples menu](img/RvtSamples04.png)
+
+RvtSamples.txt comes pre-populated with entries all Revit SDK samples
+classified once by Revit flavour, i.e. Architecture, MEP and Structure,
+and secondly by Revit version, i.e. 8, 9, 2009 etc. Other classifications
+are conceivable and also useful. The problem is that with the over hundred
+samples provided, each new classification is going to generate over one
+hundred new menu entries in the Revit menu, and this will hit a built-in
+limit of about 500 pretty soon. Therefore, only two classifications
+have been implemented for the moment.
+
+Looking again at the data entered into RvtSamples.txt, you may note
+that there is nothing at all limiting it to create one single top level
+menu, or to be used to manage only the Revit SDK samples.
+Actually, RvtSamples is a completely generic menu generator.
+You can easily add your own entries to RvtSamples.txt to manage other
+external commands as well. For instance, I append a pretty large file
+to RvtSamples.txt on my system to provide an additional menu giving
+access to all the ADN Revit training labs as well, as you can see here:
+
+![Additional ADN Samples menu](img/RvtSamples06.png)
+
+Once you have compiled RvtSamples, all you need to do to activate it,
+i.e. load it into Revit, is to add the following lines to Revit.ini:
+
+```
+[ExternalApplications]
+EACount=1
+EAClassName1=RvtSamples.Application
+EAAssembly1=RvtSamples.dll
+```
+
+Obviously, if you already have defined a section for external applications
+in your Revit.ini files, you will add just the two appropriate lines for
+RvtSamples to that existing section.
+Once you have added the external application item into Revit.ini,
+RvtSamples will automatically create the specified additional menus
+and add menu items to the Revit menu for all samples listed in the text file
+every time Revit starts up.
+
+**Executive summary:**
+RvtSamples is a generic Revit menu generator which reads a text file
+RvtSamples.txt listing all the Revit SDK samples categorised in
+various ways and creates a new top level hierarchical menu providing
+simultaneous classified access to all of them.
+It is not limited to making the samples available,
+the text file can contain arbitrary other menu entry
+definitions as well or instead of the Revit SDK sample ones defined in RvtSamples.txt.
+
+- RvtSamples is an external application
+- Defines entire menu hierarchy
+- Generic menu generator
+- Provides access to all Revit SDK samples
+- Multiple categorisations
+- Database driven
+- Avoid hitting max. number of menu entries
+- Minimal edits in Revit.ini
+- Can be used for other external commands as well
