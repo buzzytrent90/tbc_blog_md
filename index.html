@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Building Coder - Jeremy Tammik's Revit API Blog</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f6f8fa;
+        }
+        .header {
+            text-align: center;
+            background: #24292e;
+            color: #fff;
+            padding: 40px 20px;
+            margin: -20px -20px 30px -20px;
+            border-radius: 6px 6px 0 0;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: 300;
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            text-align: center;
+            min-width: 150px;
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #0366d6;
+        }
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+        .description {
+            background: white;
+            padding: 30px;
+            border-radius: 6px;
+            margin-bottom: 30px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .download-section {
+            background: white;
+            padding: 30px;
+            border-radius: 6px;
+            margin-bottom: 30px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .download-btn {
+            display: inline-block;
+            background: #28a745;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 6px;
+            margin: 10px 10px 0 0;
+            transition: background 0.2s;
+        }
+        .download-btn:hover {
+            background: #218838;
+        }
+        .search-box {
+            background: white;
+            padding: 20px;
+            border-radius: 6px;
+            margin-bottom: 30px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .file-list {
+            background: white;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .file-item {
+            display: flex;
+            padding: 12px 20px;
+            border-bottom: 1px solid #eee;
+            transition: background 0.2s;
+        }
+        .file-item:hover {
+            background: #f6f8fa;
+        }
+        .file-item:last-child {
+            border-bottom: none;
+        }
+        .file-number {
+            font-weight: bold;
+            color: #666;
+            min-width: 60px;
+        }
+        .file-name {
+            flex-grow: 1;
+        }
+        .file-link {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .file-link:hover {
+            text-decoration: underline;
+        }
+        .file-size {
+            color: #666;
+            font-size: 0.9em;
+            margin-left: 10px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #666;
+        }
+        .hidden {
+            display: none;
+        }
+        .pagination {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .pagination button {
+            padding: 8px 16px;
+            margin: 0 5px;
+            border: 1px solid #ddd;
+            background: white;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .pagination button:hover {
+            background: #f6f8fa;
+        }
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .showing {
+            text-align: center;
+            margin: 20px 0;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>The Building Coder</h1>
+        <p>Jeremy Tammik's Revit API Blog - Complete Archive</p>
+        <p>Converted to clean markdown format for AI/LLM consumption</p>
+    </div>
+
+    <div class="stats">
+        <div class="stat-card">
+            <div class="stat-number">2,053</div>
+            <div class="stat-label">Blog Posts</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">2008-2023</div>
+            <div class="stat-label">Years Covered</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">Revit API</div>
+            <div class="stat-label">Focus Area</div>
+        </div>
+    </div>
+
+    <div class="description">
+        <h2>About This Archive</h2>
+        <p>This is a complete archive of <strong>The Building Coder</strong> blog by Jeremy Tammik, containing 2,053 blog posts about the Revit API. The posts have been converted from HTML to clean markdown format, making them ideal for consumption by AI and RAG systems.</p>
+
+        <p><strong>Original blog:</strong> <a href="https://thebuildingcoder.typepad.com/">https://thebuildingcoder.typepad.com/</a></p>
+        <p><strong>GitHub repository:</strong> <a href="https://github.com/buzzytrent90/tbc_blog_md">https://github.com/buzzytrent90/tbc_blog_md</a></p>
+    </div>
+
+    <div class="search-box">
+        <h3>Search Posts</h3>
+        <input type="text" id="searchInput" placeholder="Search by title, post number, or keywords..." onkeyup="filterFiles()">
+        <div class="showing" id="showingCount"></div>
+    </div>
+
+    <div class="file-list" id="fileList">
+        <div class="file-item">
+            <span class="file-number">Loading...</span>
+            <span class="file-name">Please wait while files are being loaded...</span>
+        </div>
+    </div>
+
+    <div class="pagination" id="pagination">
+        <button id="prevBtn" onclick="changePage(-1)">Previous</button>
+        <span id="pageInfo"></span>
+        <button id="nextBtn" onclick="changePage(1)">Next</button>
+    </div>
+
+    <div class="download-section">
+        <h3>Download Options</h3>
+        <p>For bulk ingestion into AI systems:</p>
+        <a href="archon_index.json" class="download-btn">📄 Download archon_index.json</a>
+        <a href="sitemap.json" class="download-btn">🗺️ Download sitemap.json</a>
+    </div>
+
+    <div class="footer">
+        <p>Converted and maintained with ❤️ for the Revit API community</p>
+        <p>Last updated: <span id="lastUpdated"></span></p>
+    </div>
+
+    <script>
+        let allFiles = [];
+        let filteredFiles = [];
+        let currentPage = 1;
+        const filesPerPage = 100;
+        let totalPages = 1;
+
+        // Load file list from archon_index.json
+        async function loadFiles() {
+            try {
+                const response = await fetch('archon_index.json');
+                const data = await response.json();
+                allFiles = data.files || [];
+                filteredFiles = [...allFiles];
+                totalPages = Math.ceil(filteredFiles.length / filesPerPage);
+
+                // Update last updated date
+                document.getElementById('lastUpdated').textContent =
+                    new Date(data.generated_date || Date.now()).toLocaleDateString();
+
+                displayFiles();
+            } catch (error) {
+                console.error('Error loading file list:', error);
+                document.getElementById('fileList').innerHTML =
+                    '<div class="file-item">Error loading file list. Please refresh the page.</div>';
+            }
+        }
+
+        function displayFiles() {
+            const startIndex = (currentPage - 1) * filesPerPage;
+            const endIndex = startIndex + filesPerPage;
+            const pageFiles = filteredFiles.slice(startIndex, endIndex);
+
+            const fileList = document.getElementById('fileList');
+            fileList.innerHTML = '';
+
+            if (pageFiles.length === 0) {
+                fileList.innerHTML = '<div class="file-item">No files found matching your search.</div>';
+                return;
+            }
+
+            pageFiles.forEach(file => {
+                const fileItem = document.createElement('div');
+                fileItem.className = 'file-item';
+
+                const sizeInKB = (file.size / 1024).toFixed(1);
+
+                fileItem.innerHTML = `
+                    <span class="file-number">${file.post_number || file.filename.substring(0, 4)}</span>
+                    <span class="file-name">
+                        <a href="${file.filename}" class="file-link">${file.title || file.filename}</a>
+                    </span>
+                    <span class="file-size">${sizeInKB} KB</span>
+                `;
+
+                fileList.appendChild(fileItem);
+            });
+
+            // Update pagination
+            document.getElementById('pageInfo').textContent =
+                `Page ${currentPage} of ${totalPages}`;
+            document.getElementById('prevBtn').disabled = currentPage === 1;
+            document.getElementById('nextBtn').disabled = currentPage === totalPages;
+
+            // Update showing count
+            document.getElementById('showingCount').textContent =
+                `Showing ${startIndex + 1}-${Math.min(endIndex, filteredFiles.length)} of ${filteredFiles.length} files`;
+        }
+
+        function filterFiles() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+
+            if (searchTerm === '') {
+                filteredFiles = [...allFiles];
+            } else {
+                filteredFiles = allFiles.filter(file => {
+                    return (
+                        file.filename.toLowerCase().includes(searchTerm) ||
+                        (file.title && file.title.toLowerCase().includes(searchTerm)) ||
+                        (file.post_number && file.post_number.includes(searchTerm)) ||
+                        (file.tags && file.tags.some(tag => tag.toLowerCase().includes(searchTerm)))
+                    );
+                });
+            }
+
+            currentPage = 1;
+            totalPages = Math.ceil(filteredFiles.length / filesPerPage);
+            displayFiles();
+        }
+
+        function changePage(direction) {
+            const newPage = currentPage + direction;
+            if (newPage >= 1 && newPage <= totalPages) {
+                currentPage = newPage;
+                displayFiles();
+                window.scrollTo(0, 0);
+            }
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', loadFiles);
+    </script>
+</body>
+</html>
