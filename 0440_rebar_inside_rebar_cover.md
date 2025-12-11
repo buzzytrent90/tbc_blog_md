@@ -1,11 +1,20 @@
 ---
-post_number: "0440"
-title: "Adding a Rebar inside a Rebar Cover"
-slug: "rebar_inside_rebar_cover"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api']
-source_file: "0440_rebar_inside_rebar_cover.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0440_rebar_inside_rebar_cover.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.949332'
+original_url: https://thebuildingcoder.typepad.com/blog/0440_rebar_inside_rebar_cover.html
+post_number: '0440'
+reading_time_minutes: 2
+series: general
+slug: rebar_inside_rebar_cover
+source_file: 0440_rebar_inside_rebar_cover.htm
+tags:
+- csharp
+- revit-api
+title: Adding a Rebar inside a Rebar Cover
+word_count: 405
 ---
 
 ### Adding a Rebar inside a Rebar Cover

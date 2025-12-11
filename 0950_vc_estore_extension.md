@@ -1,11 +1,27 @@
 ---
-post_number: "0950"
-title: "Effortless Extensible Storage"
-slug: "vc_estore_extension"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0950_vc_estore_extension.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0950_vc_estore_extension.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.975316'
+original_url: https://thebuildingcoder.typepad.com/blog/0950_vc_estore_extension.html
+post_number: 0950
+reading_time_minutes: 9
+series: general
+slug: vc_estore_extension
+source_file: 0950_vc_estore_extension.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Effortless Extensible Storage
+word_count: 1852
 ---
 
 ### Effortless Extensible Storage

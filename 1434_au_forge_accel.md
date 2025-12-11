@@ -1,11 +1,23 @@
 ---
-post_number: "1434"
-title: "Au Forge Accel"
-slug: "au_forge_accel"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1434_au_forge_accel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1434_au_forge_accel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.019198'
+original_url: https://thebuildingcoder.typepad.com/blog/1434_au_forge_accel.html
+post_number: '1434'
+reading_time_minutes: 3
+series: general
+slug: au_forge_accel
+source_file: 1434_au_forge_accel.md
+tags:
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Au Forge Accel
+word_count: 598
 ---
 
 ### Forge and Autodesk University Call for Proposals

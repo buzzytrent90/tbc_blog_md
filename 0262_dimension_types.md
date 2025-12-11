@@ -1,11 +1,24 @@
 ---
-post_number: "0262"
-title: "Distinguish Different Dimension Types"
-slug: "dimension_types"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0262_dimension_types.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0262_dimension_types.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.639985'
+original_url: https://thebuildingcoder.typepad.com/blog/0262_dimension_types.html
+post_number: '0262'
+reading_time_minutes: 6
+series: elements
+slug: dimension_types
+source_file: 0262_dimension_types.htm
+tags:
+- csharp
+- elements
+- parameters
+- references
+- revit-api
+- views
+title: Distinguish Different Dimension Types
+word_count: 1110
 ---
 
 ### Distinguish Different Dimension Types

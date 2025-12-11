@@ -1,11 +1,27 @@
 ---
-post_number: "1892"
-title: "Forge Group Da4r Lang"
-slug: "forge_group_da4r_lang"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'schedules', 'selection', 'sheets', 'views']
-source_file: "1892_forge_group_da4r_lang.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1892_forge_group_da4r_lang.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.977502'
+original_url: https://thebuildingcoder.typepad.com/blog/1892_forge_group_da4r_lang.html
+post_number: '1892'
+reading_time_minutes: 6
+series: general
+slug: forge_group_da4r_lang
+source_file: 1892_forge_group_da4r_lang.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- schedules
+- selection
+- sheets
+- views
+title: Forge Group Da4r Lang
+word_count: 1242
 ---
 
 ### Model Group and DA4R Language in Forge

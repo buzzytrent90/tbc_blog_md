@@ -1,11 +1,26 @@
 ---
-post_number: "0357"
-title: "AutoJoinElements"
-slug: "autojoinelements"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'revit-api', 'rooms', 'transactions', 'walls', 'windows']
-source_file: "0357_autojoinelements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0357_autojoinelements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.803695'
+original_url: https://thebuildingcoder.typepad.com/blog/0357_autojoinelements.html
+post_number: '0357'
+reading_time_minutes: 5
+series: elements
+slug: autojoinelements
+source_file: 0357_autojoinelements.htm
+tags:
+- doors
+- elements
+- geometry
+- revit-api
+- rooms
+- transactions
+- walls
+- windows
+title: AutoJoinElements
+word_count: 1074
 ---
 
 ### AutoJoinElements

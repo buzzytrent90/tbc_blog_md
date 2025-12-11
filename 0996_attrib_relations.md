@@ -1,11 +1,28 @@
 ---
-post_number: "0996"
-title: "Attributes, Relationships and Other Stuff"
-slug: "attrib_relations"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0996_attrib_relations.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0996_attrib_relations.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.081275'
+original_url: https://thebuildingcoder.typepad.com/blog/0996_attrib_relations.html
+post_number: 0996
+reading_time_minutes: 6
+series: general
+slug: attrib_relations
+source_file: 0996_attrib_relations.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Attributes, Relationships and Other Stuff
+word_count: 1136
 ---
 
 ### Attributes, Relationships and Other Stuff

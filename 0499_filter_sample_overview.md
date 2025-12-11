@@ -1,11 +1,28 @@
 ---
-post_number: "0499"
-title: "Filtered Element Collector Sample Overview"
-slug: "filter_sample_overview"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "0499_filter_sample_overview.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0499_filter_sample_overview.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: news
+optimization_date: '2025-12-11T11:44:14.059013'
+original_url: https://thebuildingcoder.typepad.com/blog/0499_filter_sample_overview.html
+post_number: 0499
+reading_time_minutes: 6
+series: filtering
+slug: filter_sample_overview
+source_file: 0499_filter_sample_overview.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+title: Filtered Element Collector Sample Overview
+word_count: 1103
 ---
 
 ### Filtered Element Collector Sample Overview

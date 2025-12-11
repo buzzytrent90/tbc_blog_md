@@ -1,11 +1,22 @@
 ---
-post_number: "0322"
-title: "Family Problems Missing Components"
-slug: "family_problems"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api']
-source_file: "0322_family_problems.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0322_family_problems.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.741830'
+original_url: https://thebuildingcoder.typepad.com/blog/0322_family_problems.html
+post_number: '0322'
+reading_time_minutes: 1
+series: family
+slug: family_problems
+source_file: 0322_family_problems.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+title: Family Problems Missing Components
+word_count: 286
 ---
 
 ### Family Problems Missing Components

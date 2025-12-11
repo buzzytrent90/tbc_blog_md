@@ -1,11 +1,26 @@
 ---
-post_number: "0014"
-title: "Wall Dimensions"
-slug: "wall_dimensions"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0014_wall_dimensions.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0014_wall_dimensions.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.231593'
+original_url: https://thebuildingcoder.typepad.com/blog/0014_wall_dimensions.html
+post_number: '0014'
+reading_time_minutes: 7
+series: general
+slug: wall_dimensions
+source_file: 0014_wall_dimensions.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: Wall Dimensions
+word_count: 1391
 ---
 
 ### Wall Dimensions

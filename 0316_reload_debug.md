@@ -1,11 +1,21 @@
 ---
-post_number: "0316"
-title: "Dynamically Load and Debug Plug-ins"
-slug: "reload_debug"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api']
-source_file: "0316_reload_debug.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0316_reload_debug.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.734243'
+original_url: https://thebuildingcoder.typepad.com/blog/0316_reload_debug.html
+post_number: '0316'
+reading_time_minutes: 2
+series: structural
+slug: reload_debug
+source_file: 0316_reload_debug.htm
+tags:
+- python
+- revit-api
+- structural
+title: Dynamically Load and Debug Plug-ins
+word_count: 340
 ---
 
 ### Dynamically Load and Debug Plug-ins

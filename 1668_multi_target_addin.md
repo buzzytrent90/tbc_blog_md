@@ -1,11 +1,24 @@
 ---
-post_number: "1668"
-title: "Multi Target Addin"
-slug: "multi_target_addin"
-author: "Jeremy Tammik"
-tags: ['python', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1668_multi_target_addin.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1668_multi_target_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.495758'
+original_url: https://thebuildingcoder.typepad.com/blog/1668_multi_target_addin.html
+post_number: '1668'
+reading_time_minutes: 8
+series: general
+slug: multi_target_addin
+source_file: 1668_multi_target_addin.md
+tags:
+- python
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Multi Target Addin
+word_count: 1535
 ---
 
 ### Multi-Targeting Revit Versions, CAD Terms, Textures

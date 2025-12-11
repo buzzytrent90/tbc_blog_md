@@ -1,11 +1,23 @@
 ---
-post_number: "1177"
-title: "IFC GUID Algorithm Update and Family Modification"
-slug: "ifc_guid_fami_modi"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'filtering', 'parameters', 'revit-api']
-source_file: "1177_ifc_guid_fami_modi.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1177_ifc_guid_fami_modi.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.459886'
+original_url: https://thebuildingcoder.typepad.com/blog/1177_ifc_guid_fami_modi.html
+post_number: '1177'
+reading_time_minutes: 2
+series: general
+slug: ifc_guid_fami_modi
+source_file: 1177_ifc_guid_fami_modi.htm
+tags:
+- csharp
+- family
+- filtering
+- parameters
+- revit-api
+title: IFC GUID Algorithm Update and Family Modification
+word_count: 484
 ---
 
 ### IFC GUID Algorithm Update and Family Modification

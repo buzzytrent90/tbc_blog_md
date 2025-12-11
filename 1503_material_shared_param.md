@@ -1,11 +1,31 @@
 ---
-post_number: "1503"
-title: "Material Shared Param"
-slug: "material_shared_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1503_material_shared_param.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1503_material_shared_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.174353'
+original_url: https://thebuildingcoder.typepad.com/blog/1503_material_shared_param.html
+post_number: '1503'
+reading_time_minutes: 12
+series: materials
+slug: material_shared_param
+source_file: 1503_material_shared_param.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- materials
+title: Material Shared Param
+word_count: 2350
 ---
 
 ### Material Shared Parameters and ADN Xtra Labs

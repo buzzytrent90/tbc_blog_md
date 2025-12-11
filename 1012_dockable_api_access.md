@@ -1,11 +1,26 @@
 ---
-post_number: "1012"
-title: "No Command Launching from Dockable Panel"
-slug: "dockable_api_access"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'rooms', 'transactions', 'views', 'windows']
-source_file: "1012_dockable_api_access.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1012_dockable_api_access.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.117381'
+original_url: https://thebuildingcoder.typepad.com/blog/1012_dockable_api_access.html
+post_number: '1012'
+reading_time_minutes: 4
+series: general
+slug: dockable_api_access
+source_file: 1012_dockable_api_access.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- rooms
+- transactions
+- views
+- windows
+title: No Command Launching from Dockable Panel
+word_count: 757
 ---
 
 ### No Command Launching from Dockable Panel

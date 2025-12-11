@@ -1,11 +1,25 @@
 ---
-post_number: "1022"
-title: "AppStore Advice and Zooming in a Preview Control"
-slug: "preview_control_zoom"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'references', 'revit-api', 'views', 'windows']
-source_file: "1022_preview_control_zoom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1022_preview_control_zoom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.141394'
+original_url: https://thebuildingcoder.typepad.com/blog/1022_preview_control_zoom.html
+post_number: '1022'
+reading_time_minutes: 8
+series: views
+slug: preview_control_zoom
+source_file: 1022_preview_control_zoom.htm
+tags:
+- csharp
+- elements
+- levels
+- references
+- revit-api
+- views
+- windows
+title: AppStore Advice and Zooming in a Preview Control
+word_count: 1554
 ---
 
 ### AppStore Advice and Zooming in a Preview Control

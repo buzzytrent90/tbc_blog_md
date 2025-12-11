@@ -1,11 +1,27 @@
 ---
-post_number: "0107"
-title: "Create Room on Level in Phase"
-slug: "room_on_level_in_phase"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'schedules', 'transactions', 'views']
-source_file: "0107_room_on_level_in_phase.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0107_room_on_level_in_phase.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.375091'
+original_url: https://thebuildingcoder.typepad.com/blog/0107_room_on_level_in_phase.html
+post_number: '0107'
+reading_time_minutes: 5
+series: general
+slug: room_on_level_in_phase
+source_file: 0107_room_on_level_in_phase.htm
+tags:
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- schedules
+- transactions
+- views
+title: Create Room on Level in Phase
+word_count: 901
 ---
 
 ### Create Room on Level in Phase

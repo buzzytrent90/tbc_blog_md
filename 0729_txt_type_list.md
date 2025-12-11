@@ -1,11 +1,23 @@
 ---
-post_number: "0729"
-title: "A TXT File may be a Type List"
-slug: "txt_type_list"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'references', 'revit-api']
-source_file: "0729_txt_type_list.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0729_txt_type_list.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.474875'
+original_url: https://thebuildingcoder.typepad.com/blog/0729_txt_type_list.html
+post_number: 0729
+reading_time_minutes: 1
+series: elements
+slug: txt_type_list
+source_file: 0729_txt_type_list.htm
+tags:
+- family
+- parameters
+- references
+- revit-api
+- elements
+title: A TXT File may be a Type List
+word_count: 268
 ---
 
 ### A TXT File may be a Type List

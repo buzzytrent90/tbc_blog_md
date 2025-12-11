@@ -1,11 +1,19 @@
 ---
-post_number: "1201"
-title: "Revit Server Thumbnail Requires Redistributable"
-slug: "rvt_server_thumbnail"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1201_rvt_server_thumbnail.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1201_rvt_server_thumbnail.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.499171'
+original_url: https://thebuildingcoder.typepad.com/blog/1201_rvt_server_thumbnail.html
+post_number: '1201'
+reading_time_minutes: 2
+series: general
+slug: rvt_server_thumbnail
+source_file: 1201_rvt_server_thumbnail.htm
+tags:
+- revit-api
+title: Revit Server Thumbnail Requires Redistributable
+word_count: 329
 ---
 
 ### Revit Server Thumbnail Requires Redistributable

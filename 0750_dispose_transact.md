@@ -1,11 +1,23 @@
 ---
-post_number: "0750"
-title: "Scope and Dispose of Transactions"
-slug: "dispose_transact"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0750_dispose_transact.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0750_dispose_transact.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.517347'
+original_url: https://thebuildingcoder.typepad.com/blog/0750_dispose_transact.html
+post_number: '0750'
+reading_time_minutes: 3
+series: general
+slug: dispose_transact
+source_file: 0750_dispose_transact.htm
+tags:
+- csharp
+- revit-api
+- transactions
+- views
+- walls
+title: Scope and Dispose of Transactions
+word_count: 681
 ---
 
 ### Scope and Dispose of Transactions

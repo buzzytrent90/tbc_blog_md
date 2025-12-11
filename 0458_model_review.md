@@ -1,11 +1,21 @@
 ---
-post_number: "0458"
-title: "Model Review for Standards Compliance"
-slug: "model_review"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'views']
-source_file: "0458_model_review.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0458_model_review.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:13.979501'
+original_url: https://thebuildingcoder.typepad.com/blog/0458_model_review.html
+post_number: 0458
+reading_time_minutes: 2
+series: views
+slug: model_review
+source_file: 0458_model_review.htm
+tags:
+- family
+- revit-api
+- views
+title: Model Review for Standards Compliance
+word_count: 409
 ---
 
 ### Model Review for Standards Compliance

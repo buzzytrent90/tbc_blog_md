@@ -1,11 +1,31 @@
 ---
-post_number: "1924"
-title: "Modeless Revitlookup"
-slug: "modeless_revitlookup"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1924_modeless_revitlookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1924_modeless_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.054067'
+original_url: https://thebuildingcoder.typepad.com/blog/1924_modeless_revitlookup.html
+post_number: '1924'
+reading_time_minutes: 5
+series: general
+slug: modeless_revitlookup
+source_file: 1924_modeless_revitlookup.md
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Modeless Revitlookup
+word_count: 956
 ---
 
 ### Bridges, Regeneration and Modeless RevitLookup

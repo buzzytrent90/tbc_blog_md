@@ -1,11 +1,22 @@
 ---
-post_number: "0668"
-title: "Revit Add-in File Load Exception"
-slug: "file_load_exception"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'windows']
-source_file: "0668_file_load_exception.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0668_file_load_exception.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.362808'
+original_url: https://thebuildingcoder.typepad.com/blog/0668_file_load_exception.html
+post_number: 0668
+reading_time_minutes: 2
+series: structural
+slug: file_load_exception
+source_file: 0668_file_load_exception.htm
+tags:
+- python
+- revit-api
+- windows
+- structural
+title: Revit Add-in File Load Exception
+word_count: 467
 ---
 
 ### Revit Add-in File Load Exception

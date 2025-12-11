@@ -1,11 +1,26 @@
 ---
-post_number: "0501"
-title: "VSTA to Stay and Updater to Go"
-slug: "vsta_and_updater"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'references', 'revit-api', 'transactions', 'vbnet', 'views', 'walls']
-source_file: "0501_vsta_and_updater.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0501_vsta_and_updater.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.063053'
+original_url: https://thebuildingcoder.typepad.com/blog/0501_vsta_and_updater.html
+post_number: '0501'
+reading_time_minutes: 6
+series: general
+slug: vsta_and_updater
+source_file: 0501_vsta_and_updater.htm
+tags:
+- elements
+- levels
+- references
+- revit-api
+- transactions
+- vbnet
+- views
+- walls
+title: VSTA to Stay and Updater to Go
+word_count: 1208
 ---
 
 ### VSTA to Stay and Updater to Go

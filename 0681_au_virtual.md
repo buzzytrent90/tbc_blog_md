@@ -1,11 +1,20 @@
 ---
-post_number: "0681"
-title: "AU Virtual and Collaborative Translation"
-slug: "au_virtual"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0681_au_virtual.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0681_au_virtual.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: news
+optimization_date: '2025-12-11T11:44:14.386910'
+original_url: https://thebuildingcoder.typepad.com/blog/0681_au_virtual.html
+post_number: 0681
+reading_time_minutes: 2
+series: general
+slug: au_virtual
+source_file: 0681_au_virtual.htm
+tags:
+- revit-api
+- views
+title: AU Virtual and Collaborative Translation
+word_count: 403
 ---
 
 ### AU Virtual and Collaborative Translation

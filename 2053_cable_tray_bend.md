@@ -1,11 +1,32 @@
 ---
-post_number: "2053"
-title: "Cable Tray Bend"
-slug: "cable_tray_bend"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "2053_cable_tray_bend.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2053_cable_tray_bend.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.373237'
+original_url: https://thebuildingcoder.typepad.com/blog/2053_cable_tray_bend.html
+post_number: '2053'
+reading_time_minutes: 13
+series: mep
+slug: cable_tray_bend
+source_file: 2053_cable_tray_bend.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- mep
+title: Cable Tray Bend
+word_count: 2662
 ---
 
 ### MEP Cable Tray Bend and Tee Analysis

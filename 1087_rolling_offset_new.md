@@ -1,11 +1,24 @@
 ---
-post_number: "1087"
-title: "Creating a Rolling Offset Pipe Between Two Pipes"
-slug: "rolling_offset_new"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'revit-api']
-source_file: "1087_rolling_offset_new.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1087_rolling_offset_new.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.279268'
+original_url: https://thebuildingcoder.typepad.com/blog/1087_rolling_offset_new.html
+post_number: '1087'
+reading_time_minutes: 5
+series: general
+slug: rolling_offset_new
+source_file: 1087_rolling_offset_new.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+title: Creating a Rolling Offset Pipe Between Two Pipes
+word_count: 956
 ---
 
 ### Creating a Rolling Offset Pipe Between Two Pipes

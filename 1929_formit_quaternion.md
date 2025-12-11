@@ -1,11 +1,22 @@
 ---
-post_number: "1929"
-title: "Formit Quaternion"
-slug: "formit_quaternion"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'sheets', 'views']
-source_file: "1929_formit_quaternion.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1929_formit_quaternion.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:17.065355'
+original_url: https://thebuildingcoder.typepad.com/blog/1929_formit_quaternion.html
+post_number: '1929'
+reading_time_minutes: 5
+series: general
+slug: formit_quaternion
+source_file: 1929_formit_quaternion.md
+tags:
+- family
+- revit-api
+- sheets
+- views
+title: Formit Quaternion
+word_count: 966
 ---
 
 ### Installer Asset, FormIt and Quaternions

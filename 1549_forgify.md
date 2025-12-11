@@ -1,11 +1,26 @@
 ---
-post_number: "1549"
-title: "Forgify"
-slug: "forgify"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1549_forgify.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1549_forgify.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.270224'
+original_url: https://thebuildingcoder.typepad.com/blog/1549_forgify.html
+post_number: '1549'
+reading_time_minutes: 4
+series: general
+slug: forgify
+source_file: 1549_forgify.md
+tags:
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Forgify
+word_count: 793
 ---
 
 ### Forgify

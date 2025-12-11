@@ -1,11 +1,23 @@
 ---
-post_number: "0250"
-title: "Nested Family"
-slug: "nested_family"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api']
-source_file: "0250_nested_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0250_nested_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.622633'
+original_url: https://thebuildingcoder.typepad.com/blog/0250_nested_family.html
+post_number: '0250'
+reading_time_minutes: 3
+series: family
+slug: nested_family
+source_file: 0250_nested_family.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+title: Nested Family
+word_count: 523
 ---
 
 ### Nested Family

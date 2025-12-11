@@ -1,11 +1,21 @@
 ---
-post_number: "1866"
-title: "Quo Vadis Revit"
-slug: "quo_vadis_revit"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "1866_quo_vadis_revit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1866_quo_vadis_revit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: news
+optimization_date: '2025-12-11T11:44:16.923239'
+original_url: https://thebuildingcoder.typepad.com/blog/1866_quo_vadis_revit.html
+post_number: '1866'
+reading_time_minutes: 2
+series: general
+slug: quo_vadis_revit
+source_file: 1866_quo_vadis_revit.md
+tags:
+- revit-api
+- sheets
+- views
+title: Quo Vadis Revit
+word_count: 350
 ---
 
 ### Quo Vadis Revit

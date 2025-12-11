@@ -1,11 +1,22 @@
 ---
-post_number: "0420"
-title: "DWG and DXF Export Xdata Specification"
-slug: "dwf_dxf_export_xdata"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'parameters', 'revit-api']
-source_file: "0420_dwf_dxf_export_xdata.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0420_dwf_dxf_export_xdata.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.919827'
+original_url: https://thebuildingcoder.typepad.com/blog/0420_dwf_dxf_export_xdata.html
+post_number: '0420'
+reading_time_minutes: 3
+series: general
+slug: dwf_dxf_export_xdata
+source_file: 0420_dwf_dxf_export_xdata.htm
+tags:
+- doors
+- elements
+- parameters
+- revit-api
+title: DWG and DXF Export Xdata Specification
+word_count: 652
 ---
 
 ### DWG and DXF Export Xdata Specification

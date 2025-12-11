@@ -1,11 +1,23 @@
 ---
-post_number: "0319"
-title: "Object Relationships in VB"
-slug: "object_relationship_vb"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'references', 'revit-api']
-source_file: "0319_object_relationship_vb.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0319_object_relationship_vb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.738032'
+original_url: https://thebuildingcoder.typepad.com/blog/0319_object_relationship_vb.html
+post_number: 0319
+reading_time_minutes: 2
+series: general
+slug: object_relationship_vb
+source_file: 0319_object_relationship_vb.htm
+tags:
+- csharp
+- elements
+- family
+- references
+- revit-api
+title: Object Relationships in VB
+word_count: 483
 ---
 
 ### Object Relationships in VB

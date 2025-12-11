@@ -1,11 +1,27 @@
 ---
-post_number: "1442"
-title: "Roomedit3d"
-slug: "roomedit3d"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1442_roomedit3d.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1442_roomedit3d.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.034958'
+original_url: https://thebuildingcoder.typepad.com/blog/1442_roomedit3d.html
+post_number: '1442'
+reading_time_minutes: 8
+series: general
+slug: roomedit3d
+source_file: 1442_roomedit3d.md
+tags:
+- csharp
+- elements
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Roomedit3d
+word_count: 1577
 ---
 
 ### Roomedit3d Live Real-Time BIM Update Recording

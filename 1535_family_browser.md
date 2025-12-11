@@ -1,11 +1,21 @@
 ---
-post_number: "1535"
-title: "Family Browser"
-slug: "family_browser"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'sheets']
-source_file: "1535_family_browser.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1535_family_browser.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.238724'
+original_url: https://thebuildingcoder.typepad.com/blog/1535_family_browser.html
+post_number: '1535'
+reading_time_minutes: 1
+series: family
+slug: family_browser
+source_file: 1535_family_browser.md
+tags:
+- family
+- revit-api
+- sheets
+title: Family Browser
+word_count: 180
 ---
 
 ### WPF Revit Family Browser and Vacation

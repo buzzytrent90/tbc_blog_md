@@ -1,11 +1,21 @@
 ---
-post_number: "0930"
-title: "Revit 2014 Product GUIDs and GUID Algorithm"
-slug: "revit_2014_guids"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "0930_revit_2014_guids.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0930_revit_2014_guids.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.918393'
+original_url: https://thebuildingcoder.typepad.com/blog/0930_revit_2014_guids.html
+post_number: 0930
+reading_time_minutes: 6
+series: general
+slug: revit_2014_guids
+source_file: 0930_revit_2014_guids.htm
+tags:
+- csharp
+- revit-api
+- windows
+title: Revit 2014 Product GUIDs and GUID Algorithm
+word_count: 1152
 ---
 
 ### Revit 2014 Product GUIDs and GUID Algorithm

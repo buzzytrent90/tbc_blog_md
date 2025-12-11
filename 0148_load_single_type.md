@@ -1,11 +1,22 @@
 ---
-post_number: "0148"
-title: "Add-In Ribbon Panel and Loading One Single Type"
-slug: "load_single_type"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'walls']
-source_file: "0148_load_single_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0148_load_single_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.444280'
+original_url: https://thebuildingcoder.typepad.com/blog/0148_load_single_type.html
+post_number: 0148
+reading_time_minutes: 2
+series: elements
+slug: load_single_type
+source_file: 0148_load_single_type.htm
+tags:
+- family
+- revit-api
+- walls
+- elements
+title: Add-In Ribbon Panel and Loading One Single Type
+word_count: 416
 ---
 
 ### Add-In Ribbon Panel and Loading One Single Type

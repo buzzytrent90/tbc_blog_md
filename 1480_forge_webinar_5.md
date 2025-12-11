@@ -1,11 +1,23 @@
 ---
-post_number: "1480"
-title: "The Building Coder"
-slug: "forge_webinar_5"
-author: "Jeremy Tammik"
-tags: ['family', 'filtering', 'revit-api', 'sheets', 'views']
-source_file: "1480_forge_webinar_5.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1480_forge_webinar_5.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.122306'
+original_url: https://thebuildingcoder.typepad.com/blog/1480_forge_webinar_5.html
+post_number: '1480'
+reading_time_minutes: 3
+series: general
+slug: forge_webinar_5
+source_file: 1480_forge_webinar_5.md
+tags:
+- family
+- filtering
+- revit-api
+- sheets
+- views
+title: The Building Coder
+word_count: 558
 ---
 
 ### Forge Webinars on Design Automation and BIM360

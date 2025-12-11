@@ -1,11 +1,22 @@
 ---
-post_number: "1058"
-title: "The Developer Guide is Back on WikiHelp"
-slug: "wikihelp_is_back"
-author: "Jeremy Tammik"
-tags: ['family', 'levels', 'revit-api', 'views']
-source_file: "1058_wikihelp_is_back.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1058_wikihelp_is_back.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.213866'
+original_url: https://thebuildingcoder.typepad.com/blog/1058_wikihelp_is_back.html
+post_number: '1058'
+reading_time_minutes: 3
+series: general
+slug: wikihelp_is_back
+source_file: 1058_wikihelp_is_back.htm
+tags:
+- family
+- levels
+- revit-api
+- views
+title: The Developer Guide is Back on WikiHelp
+word_count: 537
 ---
 
 ### The Developer Guide is Back on WikiHelp

@@ -1,11 +1,26 @@
 ---
-post_number: "0106"
-title: "List Linked Elements"
-slug: "list_linked_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'python', 'revit-api', 'selection', 'views']
-source_file: "0106_list_linked_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0106_list_linked_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.372921'
+original_url: https://thebuildingcoder.typepad.com/blog/0106_list_linked_elements.html
+post_number: '0106'
+reading_time_minutes: 5
+series: elements
+slug: list_linked_elements
+source_file: 0106_list_linked_elements.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- python
+- revit-api
+- selection
+- views
+title: List Linked Elements
+word_count: 918
 ---
 
 ### List Linked Elements

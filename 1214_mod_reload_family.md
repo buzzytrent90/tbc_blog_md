@@ -1,11 +1,28 @@
 ---
-post_number: "1214"
-title: "Modifying, Saving and Reloading Families"
-slug: "mod_reload_family"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'transactions', 'views']
-source_file: "1214_mod_reload_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1214_mod_reload_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.525090'
+original_url: https://thebuildingcoder.typepad.com/blog/1214_mod_reload_family.html
+post_number: '1214'
+reading_time_minutes: 13
+series: structural
+slug: mod_reload_family
+source_file: 1214_mod_reload_family.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- transactions
+- views
+- structural
+title: Modifying, Saving and Reloading Families
+word_count: 2559
 ---
 
 ### Modifying, Saving and Reloading Families

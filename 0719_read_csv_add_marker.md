@@ -1,11 +1,22 @@
 ---
-post_number: "0719"
-title: "Add Reference Points Read From CSV File"
-slug: "read_csv_add_marker"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'references', 'revit-api']
-source_file: "0719_read_csv_add_marker.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0719_read_csv_add_marker.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.459341'
+original_url: https://thebuildingcoder.typepad.com/blog/0719_read_csv_add_marker.html
+post_number: 0719
+reading_time_minutes: 3
+series: general
+slug: read_csv_add_marker
+source_file: 0719_read_csv_add_marker.htm
+tags:
+- csharp
+- family
+- references
+- revit-api
+title: Add Reference Points Read From CSV File
+word_count: 517
 ---
 
 ### Add Reference Points Read From CSV File

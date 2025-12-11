@@ -1,11 +1,29 @@
 ---
-post_number: "0702"
-title: "Avoid Idling"
-slug: "avoid_idling"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'parameters', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'windows']
-source_file: "0702_avoid_idling.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0702_avoid_idling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.428143'
+original_url: https://thebuildingcoder.typepad.com/blog/0702_avoid_idling.html
+post_number: '0702'
+reading_time_minutes: 15
+series: general
+slug: avoid_idling
+source_file: 0702_avoid_idling.htm
+tags:
+- doors
+- elements
+- family
+- parameters
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- windows
+title: Avoid Idling
+word_count: 2923
 ---
 
 ### Avoid Idling

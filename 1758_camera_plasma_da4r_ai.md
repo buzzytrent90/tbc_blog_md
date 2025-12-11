@@ -1,11 +1,26 @@
 ---
-post_number: "1758"
-title: "Camera Plasma Da4r Ai"
-slug: "camera_plasma_da4r_ai"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1758_camera_plasma_da4r_ai.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1758_camera_plasma_da4r_ai.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.685285'
+original_url: https://thebuildingcoder.typepad.com/blog/1758_camera_plasma_da4r_ai.html
+post_number: '1758'
+reading_time_minutes: 5
+series: general
+slug: camera_plasma_da4r_ai
+source_file: 1758_camera_plasma_da4r_ai.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Camera Plasma Da4r Ai
+word_count: 1051
 ---
 
 ### Revit Camera Settings, Project Plasma, DA4R and AI

@@ -1,11 +1,26 @@
 ---
-post_number: "0231"
-title: "Analytical Support Tolerance"
-slug: "analytical_support_tolerance"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'rooms']
-source_file: "0231_analytical_support_tolerance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0231_analytical_support_tolerance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.592041'
+original_url: https://thebuildingcoder.typepad.com/blog/0231_analytical_support_tolerance.html
+post_number: '0231'
+reading_time_minutes: 3
+series: structural
+slug: analytical_support_tolerance
+source_file: 0231_analytical_support_tolerance.htm
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- structural
+title: Analytical Support Tolerance
+word_count: 572
 ---
 
 ### Analytical Support Tolerance

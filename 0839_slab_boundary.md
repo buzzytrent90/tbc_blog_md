@@ -1,11 +1,27 @@
 ---
-post_number: "0839"
-title: "Slab Boundary Revisited"
-slug: "slab_boundary"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'walls', 'windows']
-source_file: "0839_slab_boundary.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0839_slab_boundary.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.707086'
+original_url: https://thebuildingcoder.typepad.com/blog/0839_slab_boundary.html
+post_number: 0839
+reading_time_minutes: 5
+series: general
+slug: slab_boundary
+source_file: 0839_slab_boundary.htm
+tags:
+- elements
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- walls
+- windows
+title: Slab Boundary Revisited
+word_count: 992
 ---
 
 ### Slab Boundary Revisited

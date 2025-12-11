@@ -1,11 +1,26 @@
 ---
-post_number: "0291"
-title: "Extra Transaction Required"
-slug: "extra_transaction"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'transactions', 'views']
-source_file: "0291_extra_transaction.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0291_extra_transaction.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.690137'
+original_url: https://thebuildingcoder.typepad.com/blog/0291_extra_transaction.html
+post_number: 0291
+reading_time_minutes: 4
+series: transactions
+slug: extra_transaction
+source_file: 0291_extra_transaction.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- transactions
+- views
+title: Extra Transaction Required
+word_count: 833
 ---
 
 ### Extra Transaction Required

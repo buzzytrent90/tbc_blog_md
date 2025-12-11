@@ -1,11 +1,32 @@
 ---
-post_number: "0915"
-title: "Revit 2014 and Supporting Columns"
-slug: "2014_supporting_columns"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'schedules', 'selection', 'transactions', 'views', 'windows']
-source_file: "0915_2014_supporting_columns.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0915_2014_supporting_columns.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.880665'
+original_url: https://thebuildingcoder.typepad.com/blog/0915_2014_supporting_columns.html
+post_number: 0915
+reading_time_minutes: 12
+series: structural
+slug: 2014_supporting_columns
+source_file: 0915_2014_supporting_columns.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- schedules
+- selection
+- transactions
+- views
+- windows
+- structural
+title: Revit 2014 and Supporting Columns
+word_count: 2474
 ---
 
 ### Revit 2014 and Supporting Columns

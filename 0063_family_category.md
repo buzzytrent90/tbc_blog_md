@@ -1,11 +1,23 @@
 ---
-post_number: "0063"
-title: "Family Category and Filtering"
-slug: "family_category"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api']
-source_file: "0063_family_category.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0063_family_category.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.303104'
+original_url: https://thebuildingcoder.typepad.com/blog/0063_family_category.html
+post_number: '0063'
+reading_time_minutes: 2
+series: elements
+slug: family_category
+source_file: 0063_family_category.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+title: Family Category and Filtering
+word_count: 412
 ---
 
 ### Family Category and Filtering

@@ -1,11 +1,28 @@
 ---
-post_number: "0410"
-title: "Change Element Type"
-slug: "change_element_type"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0410_change_element_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0410_change_element_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.903258'
+original_url: https://thebuildingcoder.typepad.com/blog/0410_change_element_type.html
+post_number: '0410'
+reading_time_minutes: 4
+series: transactions
+slug: change_element_type
+source_file: 0410_change_element_type.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- transactions
+- walls
+- windows
+title: Change Element Type
+word_count: 736
 ---
 
 ### Change Element Type

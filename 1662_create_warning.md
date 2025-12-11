@@ -1,11 +1,26 @@
 ---
-post_number: "1662"
-title: "Create Warning"
-slug: "create_warning"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1662_create_warning.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1662_create_warning.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.485910'
+original_url: https://thebuildingcoder.typepad.com/blog/1662_create_warning.html
+post_number: '1662'
+reading_time_minutes: 3
+series: general
+slug: create_warning
+source_file: 1662_create_warning.md
+tags:
+- doors
+- elements
+- filtering
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Create Warning
+word_count: 555
 ---
 
 ### Creating a Warning Using the Failure API

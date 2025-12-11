@@ -1,11 +1,24 @@
 ---
-post_number: "0003"
-title: "Getting Started with the Revit API"
-slug: "getting_started"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'schedules', 'views']
-source_file: "0003_getting_started.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0003_getting_started.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.211534'
+original_url: https://thebuildingcoder.typepad.com/blog/0003_getting_started.html
+post_number: '0003'
+reading_time_minutes: 3
+series: getting_started
+slug: getting_started
+source_file: 0003_getting_started.htm
+tags:
+- elements
+- filtering
+- revit-api
+- schedules
+- views
+- getting_started
+title: Getting Started with the Revit API
+word_count: 613
 ---
 
 ### Getting Started with the Revit API

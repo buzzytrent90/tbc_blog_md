@@ -1,11 +1,23 @@
 ---
-post_number: "1430"
-title: "Room Editor 2017"
-slug: "room_editor_2017"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'rooms', 'sheets', 'windows']
-source_file: "1430_room_editor_2017.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1430_room_editor_2017.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.006377'
+original_url: https://thebuildingcoder.typepad.com/blog/1430_room_editor_2017.html
+post_number: '1430'
+reading_time_minutes: 11
+series: general
+slug: room_editor_2017
+source_file: 1430_room_editor_2017.md
+tags:
+- references
+- revit-api
+- rooms
+- sheets
+- windows
+title: Room Editor 2017
+word_count: 2154
 ---
 
 ### Room Editor – First Revit 2017 Addin Migration

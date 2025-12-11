@@ -1,11 +1,26 @@
 ---
-post_number: "0933"
-title: "Grouping Schedule Headers and How to Do Something"
-slug: "group_headers"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'schedules', 'transactions', 'views', 'windows']
-source_file: "0933_group_headers.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0933_group_headers.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.925526'
+original_url: https://thebuildingcoder.typepad.com/blog/0933_group_headers.html
+post_number: 0933
+reading_time_minutes: 5
+series: general
+slug: group_headers
+source_file: 0933_group_headers.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- schedules
+- transactions
+- views
+- windows
+title: Grouping Schedule Headers and How to Do Something
+word_count: 1004
 ---
 
 ### Grouping Schedule Headers and How to Do Something

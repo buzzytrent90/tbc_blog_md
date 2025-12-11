@@ -1,11 +1,24 @@
 ---
-post_number: "1588"
-title: "First Plugin"
-slug: "first_plugin"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1588_first_plugin.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1588_first_plugin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.347386'
+original_url: https://thebuildingcoder.typepad.com/blog/1588_first_plugin.html
+post_number: '1588'
+reading_time_minutes: 5
+series: general
+slug: first_plugin
+source_file: 1588_first_plugin.md
+tags:
+- elements
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: First Plugin
+word_count: 1065
 ---
 
 ### My First Revit Plugin Enhancements

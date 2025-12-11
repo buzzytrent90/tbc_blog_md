@@ -1,11 +1,22 @@
 ---
-post_number: "0075"
-title: "Transaction Responsibility"
-slug: "transaction_responsibility"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'transactions']
-source_file: "0075_transaction_responsibility.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0075_transaction_responsibility.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.320386'
+original_url: https://thebuildingcoder.typepad.com/blog/0075_transaction_responsibility.html
+post_number: '0075'
+reading_time_minutes: 1
+series: transactions
+slug: transaction_responsibility
+source_file: 0075_transaction_responsibility.htm
+tags:
+- csharp
+- parameters
+- revit-api
+- transactions
+title: Transaction Responsibility
+word_count: 203
 ---
 
 ### Transaction Responsibility

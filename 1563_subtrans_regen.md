@@ -1,11 +1,24 @@
 ---
-post_number: "1563"
-title: "Subtrans Regen"
-slug: "subtrans_regen"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1563_subtrans_regen.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1563_subtrans_regen.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.295331'
+original_url: https://thebuildingcoder.typepad.com/blog/1563_subtrans_regen.html
+post_number: '1563'
+reading_time_minutes: 3
+series: general
+slug: subtrans_regen
+source_file: 1563_subtrans_regen.md
+tags:
+- family
+- geometry
+- revit-api
+- sheets
+- transactions
+- views
+title: Subtrans Regen
+word_count: 557
 ---
 
 ### AI News and Sub-Transaction Regen

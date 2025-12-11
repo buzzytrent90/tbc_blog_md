@@ -1,11 +1,24 @@
 ---
-post_number: "0415"
-title: "DevTV Add-In Templates"
-slug: "devtv_addin_templates"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'selection', 'vbnet', 'windows']
-source_file: "0415_devtv_addin_templates.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0415_devtv_addin_templates.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.911583'
+original_url: https://thebuildingcoder.typepad.com/blog/0415_devtv_addin_templates.html
+post_number: '0415'
+reading_time_minutes: 4
+series: general
+slug: devtv_addin_templates
+source_file: 0415_devtv_addin_templates.htm
+tags:
+- csharp
+- references
+- revit-api
+- selection
+- vbnet
+- windows
+title: DevTV Add-In Templates
+word_count: 738
 ---
 
 ### DevTV Add-In Templates

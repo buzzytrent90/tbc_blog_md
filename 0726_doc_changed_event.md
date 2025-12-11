@@ -1,11 +1,26 @@
 ---
-post_number: "0726"
-title: "Build Your Own Document Changed Event"
-slug: "doc_changed_event"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'python', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0726_doc_changed_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0726_doc_changed_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.470112'
+original_url: https://thebuildingcoder.typepad.com/blog/0726_doc_changed_event.html
+post_number: '0726'
+reading_time_minutes: 3
+series: transactions
+slug: doc_changed_event
+source_file: 0726_doc_changed_event.htm
+tags:
+- elements
+- levels
+- python
+- revit-api
+- views
+- walls
+- windows
+- transactions
+title: Build Your Own Document Changed Event
+word_count: 540
 ---
 
 ### Build Your Own Document Changed Event

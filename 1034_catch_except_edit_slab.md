@@ -1,11 +1,23 @@
 ---
-post_number: "1034"
-title: "Handle Your Own Exceptions and Edit Slab Boundaries"
-slug: "catch_except_edit_slab"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions', 'windows']
-source_file: "1034_catch_except_edit_slab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1034_catch_except_edit_slab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.164952'
+original_url: https://thebuildingcoder.typepad.com/blog/1034_catch_except_edit_slab.html
+post_number: '1034'
+reading_time_minutes: 5
+series: general
+slug: catch_except_edit_slab
+source_file: 1034_catch_except_edit_slab.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+- windows
+title: Handle Your Own Exceptions and Edit Slab Boundaries
+word_count: 1027
 ---
 
 ### Handle Your Own Exceptions and Edit Slab Boundaries

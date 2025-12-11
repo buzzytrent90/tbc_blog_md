@@ -1,11 +1,20 @@
 ---
-post_number: "0545"
-title: "Structural Analysis Links to Revit Structure"
-slug: "rst_link_apps"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0545_rst_link_apps.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0545_rst_link_apps.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:14.144280'
+original_url: https://thebuildingcoder.typepad.com/blog/0545_rst_link_apps.html
+post_number: '0545'
+reading_time_minutes: 1
+series: general
+slug: rst_link_apps
+source_file: 0545_rst_link_apps.htm
+tags:
+- revit-api
+- views
+title: Structural Analysis Links to Revit Structure
+word_count: 228
 ---
 
 ### Structural Analysis Links to Revit Structure

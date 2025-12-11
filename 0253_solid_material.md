@@ -1,11 +1,23 @@
 ---
-post_number: "0253"
-title: "Solid Material"
-slug: "solid_material"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'revit-api']
-source_file: "0253_solid_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0253_solid_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.626345'
+original_url: https://thebuildingcoder.typepad.com/blog/0253_solid_material.html
+post_number: '0253'
+reading_time_minutes: 1
+series: materials
+slug: solid_material
+source_file: 0253_solid_material.htm
+tags:
+- doors
+- elements
+- geometry
+- revit-api
+- materials
+title: Solid Material
+word_count: 191
 ---
 
 ### Solid Material

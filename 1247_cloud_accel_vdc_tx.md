@@ -1,11 +1,21 @@
 ---
-post_number: "1247"
-title: "Cloud Accelerator, VDC and Transaction Groups"
-slug: "cloud_accel_vdc_tx"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'transactions']
-source_file: "1247_cloud_accel_vdc_tx.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1247_cloud_accel_vdc_tx.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.600878'
+original_url: https://thebuildingcoder.typepad.com/blog/1247_cloud_accel_vdc_tx.html
+post_number: '1247'
+reading_time_minutes: 4
+series: general
+slug: cloud_accel_vdc_tx
+source_file: 1247_cloud_accel_vdc_tx.htm
+tags:
+- elements
+- revit-api
+- transactions
+title: Cloud Accelerator, VDC and Transaction Groups
+word_count: 781
 ---
 
 ### Cloud Accelerator, VDC and Transaction Groups

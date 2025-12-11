@@ -1,11 +1,22 @@
 ---
-post_number: "0732"
-title: "Split a Duct or Pipe"
-slug: "split_duct_pipe"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'walls']
-source_file: "0732_split_duct_pipe.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0732_split_duct_pipe.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.478701'
+original_url: https://thebuildingcoder.typepad.com/blog/0732_split_duct_pipe.html
+post_number: '0732'
+reading_time_minutes: 1
+series: mep
+slug: split_duct_pipe
+source_file: 0732_split_duct_pipe.htm
+tags:
+- elements
+- revit-api
+- walls
+- mep
+title: Split a Duct or Pipe
+word_count: 295
 ---
 
 ### Split a Duct or Pipe

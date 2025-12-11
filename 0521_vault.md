@@ -1,11 +1,21 @@
 ---
-post_number: "0521"
-title: "Using Vault with Revit"
-slug: "vault"
-author: "Jeremy Tammik"
-tags: ['family', 'levels', 'revit-api']
-source_file: "0521_vault.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0521_vault.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.096046'
+original_url: https://thebuildingcoder.typepad.com/blog/0521_vault.html
+post_number: '0521'
+reading_time_minutes: 4
+series: general
+slug: vault
+source_file: 0521_vault.htm
+tags:
+- family
+- levels
+- revit-api
+title: Using Vault with Revit
+word_count: 830
 ---
 
 ### Using Vault with Revit

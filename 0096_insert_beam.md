@@ -1,11 +1,27 @@
 ---
-post_number: "0096"
-title: "Inserting a Beam"
-slug: "insert_beam"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api']
-source_file: "0096_insert_beam.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0096_insert_beam.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.351992'
+original_url: https://thebuildingcoder.typepad.com/blog/0096_insert_beam.html
+post_number: 0096
+reading_time_minutes: 6
+series: structural
+slug: insert_beam
+source_file: 0096_insert_beam.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- structural
+title: Inserting a Beam
+word_count: 1155
 ---
 
 ### Inserting a Beam

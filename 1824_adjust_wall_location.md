@@ -1,11 +1,27 @@
 ---
-post_number: "1824"
-title: "Adjust Wall Location"
-slug: "adjust_wall_location"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1824_adjust_wall_location.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1824_adjust_wall_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.820600'
+original_url: https://thebuildingcoder.typepad.com/blog/1824_adjust_wall_location.html
+post_number: '1824'
+reading_time_minutes: 8
+series: general
+slug: adjust_wall_location
+source_file: 1824_adjust_wall_location.md
+tags:
+- elements
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Adjust Wall Location
+word_count: 1577
 ---
 
 ### Adjusting Wall Location Curve and Visual Presentation

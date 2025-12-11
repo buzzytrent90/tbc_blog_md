@@ -1,11 +1,24 @@
 ---
-post_number: "0599"
-title: "Implicit Line Continuation in VB 2010"
-slug: "vb_line_continuation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions', 'vbnet', 'views']
-source_file: "0599_vb_line_continuation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0599_vb_line_continuation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: news
+optimization_date: '2025-12-11T11:44:14.238004'
+original_url: https://thebuildingcoder.typepad.com/blog/0599_vb_line_continuation.html
+post_number: 0599
+reading_time_minutes: 2
+series: general
+slug: vb_line_continuation
+source_file: 0599_vb_line_continuation.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+- vbnet
+- views
+title: Implicit Line Continuation in VB 2010
+word_count: 466
 ---
 
 ### Implicit Line Continuation in VB 2010

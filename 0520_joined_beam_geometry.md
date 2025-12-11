@@ -1,11 +1,26 @@
 ---
-post_number: "0520"
-title: "Joined Beam Geometry Access"
-slug: "joined_beam_geometry"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions']
-source_file: "0520_joined_beam_geometry.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0520_joined_beam_geometry.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.094380'
+original_url: https://thebuildingcoder.typepad.com/blog/0520_joined_beam_geometry.html
+post_number: '0520'
+reading_time_minutes: 3
+series: geometry
+slug: joined_beam_geometry
+source_file: 0520_joined_beam_geometry.htm
+tags:
+- csharp
+- elements
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+title: Joined Beam Geometry Access
+word_count: 521
 ---
 
 ### Joined Beam Geometry Access

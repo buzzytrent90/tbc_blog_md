@@ -1,11 +1,27 @@
 ---
-post_number: "1904"
-title: "Sort Loops"
-slug: "sort_loops"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1904_sort_loops.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1904_sort_loops.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.010239'
+original_url: https://thebuildingcoder.typepad.com/blog/1904_sort_loops.html
+post_number: '1904'
+reading_time_minutes: 13
+series: general
+slug: sort_loops
+source_file: 1904_sort_loops.md
+tags:
+- elements
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Sort Loops
+word_count: 2564
 ---
 
 ### Roadmap Today and Sorting Non-Planar Curve Loops

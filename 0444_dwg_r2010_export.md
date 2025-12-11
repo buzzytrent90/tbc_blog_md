@@ -1,11 +1,21 @@
 ---
-post_number: "0444"
-title: "AutoCAD 2010 DWG Export"
-slug: "dwg_r2010_export"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'views']
-source_file: "0444_dwg_r2010_export.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0444_dwg_r2010_export.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.955340'
+original_url: https://thebuildingcoder.typepad.com/blog/0444_dwg_r2010_export.html
+post_number: '0444'
+reading_time_minutes: 2
+series: general
+slug: dwg_r2010_export
+source_file: 0444_dwg_r2010_export.htm
+tags:
+- csharp
+- revit-api
+- views
+title: AutoCAD 2010 DWG Export
+word_count: 347
 ---
 
 ### AutoCAD 2010 DWG Export

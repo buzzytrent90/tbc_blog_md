@@ -1,11 +1,26 @@
 ---
-post_number: "1746"
-title: "Filter Location"
-slug: "filter_location"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets']
-source_file: "1746_filter_location.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1746_filter_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.660484'
+original_url: https://thebuildingcoder.typepad.com/blog/1746_filter_location.html
+post_number: '1746'
+reading_time_minutes: 7
+series: filtering
+slug: filter_location
+source_file: 1746_filter_location.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+title: Filter Location
+word_count: 1301
 ---
 
 ### Location Point and Filtering Hints

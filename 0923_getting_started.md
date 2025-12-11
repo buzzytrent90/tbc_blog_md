@@ -1,11 +1,25 @@
 ---
-post_number: "0923"
-title: "Getting Started with the Revit API"
-slug: "getting_started"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'views']
-source_file: "0923_getting_started.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0923_getting_started.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.903303'
+original_url: https://thebuildingcoder.typepad.com/blog/0923_getting_started.html
+post_number: 0923
+reading_time_minutes: 7
+series: getting_started
+slug: getting_started
+source_file: 0923_getting_started.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- views
+- getting_started
+title: Getting Started with the Revit API
+word_count: 1400
 ---
 
 ### Getting Started with the Revit API

@@ -1,11 +1,22 @@
 ---
-post_number: "0212"
-title: "Obfuscation Tools"
-slug: "obfuscation_tools"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api', 'views']
-source_file: "0212_obfuscation_tools.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0212_obfuscation_tools.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.559876'
+original_url: https://thebuildingcoder.typepad.com/blog/0212_obfuscation_tools.html
+post_number: '0212'
+reading_time_minutes: 4
+series: general
+slug: obfuscation_tools
+source_file: 0212_obfuscation_tools.htm
+tags:
+- csharp
+- levels
+- revit-api
+- views
+title: Obfuscation Tools
+word_count: 724
 ---
 
 ### Obfuscation Tools

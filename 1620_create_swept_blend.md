@@ -1,11 +1,23 @@
 ---
-post_number: "1620"
-title: "Create Swept Blend"
-slug: "create_swept_blend"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'sheets']
-source_file: "1620_create_swept_blend.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1620_create_swept_blend.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.404481'
+original_url: https://thebuildingcoder.typepad.com/blog/1620_create_swept_blend.html
+post_number: '1620'
+reading_time_minutes: 2
+series: general
+slug: create_swept_blend
+source_file: 1620_create_swept_blend.md
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- sheets
+title: Create Swept Blend
+word_count: 469
 ---
 
 ### Create Swept Blend DirectShape in C++

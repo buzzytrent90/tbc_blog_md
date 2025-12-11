@@ -1,11 +1,27 @@
 ---
-post_number: "0977"
-title: "Recursively Disable Architecture Mismatch Warning"
-slug: "architecture_mismatch"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'references', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0977_architecture_mismatch.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0977_architecture_mismatch.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.035086'
+original_url: https://thebuildingcoder.typepad.com/blog/0977_architecture_mismatch.html
+post_number: 0977
+reading_time_minutes: 9
+series: general
+slug: architecture_mismatch
+source_file: 0977_architecture_mismatch.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- references
+- revit-api
+- views
+- walls
+- windows
+title: Recursively Disable Architecture Mismatch Warning
+word_count: 1746
 ---
 
 ### Recursively Disable Architecture Mismatch Warning

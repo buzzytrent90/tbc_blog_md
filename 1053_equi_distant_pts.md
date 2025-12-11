@@ -1,11 +1,29 @@
 ---
-post_number: "1053"
-title: "Placing Equidistant Points Along a Curve"
-slug: "equi_distant_pts"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1053_equi_distant_pts.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1053_equi_distant_pts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.204881'
+original_url: https://thebuildingcoder.typepad.com/blog/1053_equi_distant_pts.html
+post_number: '1053'
+reading_time_minutes: 5
+series: general
+slug: equi_distant_pts
+source_file: 1053_equi_distant_pts.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Placing Equidistant Points Along a Curve
+word_count: 1024
 ---
 
 ### Placing Equidistant Points Along a Curve

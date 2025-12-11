@@ -1,11 +1,22 @@
 ---
-post_number: "2070"
-title: "Orchestration"
-slug: "orchestration"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'sheets', 'views']
-source_file: "2070_orchestration.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2070_orchestration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.416366'
+original_url: https://thebuildingcoder.typepad.com/blog/2070_orchestration.html
+post_number: '2070'
+reading_time_minutes: 14
+series: general
+slug: orchestration
+source_file: 2070_orchestration.md
+tags:
+- parameters
+- revit-api
+- sheets
+- views
+title: Orchestration
+word_count: 2755
 ---
 
 ### Docs, Local APS LLM and Parallel Task Orchestration

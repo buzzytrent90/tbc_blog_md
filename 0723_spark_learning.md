@@ -1,11 +1,25 @@
 ---
-post_number: "0723"
-title: "BIM versus Free Geometry and Product Training"
-slug: "spark_learning"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "0723_spark_learning.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0723_spark_learning.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.465452'
+original_url: https://thebuildingcoder.typepad.com/blog/0723_spark_learning.html
+post_number: '0723'
+reading_time_minutes: 4
+series: general
+slug: spark_learning
+source_file: 0723_spark_learning.htm
+tags:
+- elements
+- geometry
+- levels
+- revit-api
+- sheets
+- views
+- walls
+title: BIM versus Free Geometry and Product Training
+word_count: 819
 ---
 
 ### BIM versus Free Geometry and Product Training

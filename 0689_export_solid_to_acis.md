@@ -1,11 +1,23 @@
 ---
-post_number: "0689"
-title: "Export Solid to ACIS"
-slug: "export_solid_to_acis"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'schedules', 'transactions', 'views']
-source_file: "0689_export_solid_to_acis.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0689_export_solid_to_acis.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.400579'
+original_url: https://thebuildingcoder.typepad.com/blog/0689_export_solid_to_acis.html
+post_number: 0689
+reading_time_minutes: 1
+series: general
+slug: export_solid_to_acis
+source_file: 0689_export_solid_to_acis.htm
+tags:
+- elements
+- revit-api
+- schedules
+- transactions
+- views
+title: Export Solid to ACIS
+word_count: 259
 ---
 
 ﻿

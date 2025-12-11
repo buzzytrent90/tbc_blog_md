@@ -1,11 +1,26 @@
 ---
-post_number: "1846"
-title: "Open Rvt File Version"
-slug: "open_rvt_file_version"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1846_open_rvt_file_version.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1846_open_rvt_file_version.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.879912'
+original_url: https://thebuildingcoder.typepad.com/blog/1846_open_rvt_file_version.html
+post_number: '1846'
+reading_time_minutes: 5
+series: general
+slug: open_rvt_file_version
+source_file: 1846_open_rvt_file_version.md
+tags:
+- elements
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Open Rvt File Version
+word_count: 1061
 ---
 
 ### Automatically Open Correct RVT File Version

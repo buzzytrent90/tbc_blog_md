@@ -1,11 +1,26 @@
 ---
-post_number: "0133"
-title: "Transform an Element"
-slug: "transform_element"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'walls']
-source_file: "0133_transform_element.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0133_transform_element.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.413937'
+original_url: https://thebuildingcoder.typepad.com/blog/0133_transform_element.html
+post_number: '0133'
+reading_time_minutes: 7
+series: geometry
+slug: transform_element
+source_file: 0133_transform_element.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- walls
+title: Transform an Element
+word_count: 1472
 ---
 
 ### Transform an Element

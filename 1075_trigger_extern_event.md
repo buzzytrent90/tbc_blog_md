@@ -1,11 +1,24 @@
 ---
-post_number: "1075"
-title: "Triggering Immediate External Event Execution"
-slug: "trigger_extern_event"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'references', 'revit-api', 'rooms', 'windows']
-source_file: "1075_trigger_extern_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1075_trigger_extern_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.253150'
+original_url: https://thebuildingcoder.typepad.com/blog/1075_trigger_extern_event.html
+post_number: '1075'
+reading_time_minutes: 4
+series: general
+slug: trigger_extern_event
+source_file: 1075_trigger_extern_event.htm
+tags:
+- csharp
+- python
+- references
+- revit-api
+- rooms
+- windows
+title: Triggering Immediate External Event Execution
+word_count: 866
 ---
 
 ### Triggering Immediate External Event Execution

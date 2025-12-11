@@ -1,11 +1,24 @@
 ---
-post_number: "0166"
-title: "Get and Set Family Category and Parameters"
-slug: "family_category_param"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'revit-api', 'transactions']
-source_file: "0166_family_category_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0166_family_category_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.473306'
+original_url: https://thebuildingcoder.typepad.com/blog/0166_family_category_param.html
+post_number: '0166'
+reading_time_minutes: 2
+series: elements
+slug: family_category_param
+source_file: 0166_family_category_param.htm
+tags:
+- elements
+- family
+- parameters
+- python
+- revit-api
+- transactions
+title: Get and Set Family Category and Parameters
+word_count: 392
 ---
 
 ### Get and Set Family Category and Parameters

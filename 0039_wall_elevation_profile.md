@@ -1,11 +1,24 @@
 ---
-post_number: "0039"
-title: "Wall Elevation Profile"
-slug: "wall_elevation_profile"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'selection', 'walls']
-source_file: "0039_wall_elevation_profile.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0039_wall_elevation_profile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.272385'
+original_url: https://thebuildingcoder.typepad.com/blog/0039_wall_elevation_profile.html
+post_number: 0039
+reading_time_minutes: 4
+series: general
+slug: wall_elevation_profile
+source_file: 0039_wall_elevation_profile.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- selection
+- walls
+title: Wall Elevation Profile
+word_count: 794
 ---
 
 ### Wall Elevation Profile

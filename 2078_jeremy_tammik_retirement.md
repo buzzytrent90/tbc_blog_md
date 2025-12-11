@@ -1,11 +1,22 @@
 ---
-post_number: "2078"
-title: "Jeremy Tammik Retirement"
-slug: "jeremy_tammik_retirement"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'views']
-source_file: "2078_jeremy_tammik_retirement.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2078_jeremy_tammik_retirement.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.435960'
+original_url: https://thebuildingcoder.typepad.com/blog/2078_jeremy_tammik_retirement.html
+post_number: '2078'
+reading_time_minutes: 4
+series: general
+slug: jeremy_tammik_retirement
+source_file: 2078_jeremy_tammik_retirement.md
+tags:
+- elements
+- geometry
+- revit-api
+- views
+title: Jeremy Tammik Retirement
+word_count: 781
 ---
 
 Jeremy's Retirement, Continuation of the Blog, Revit SDK 2026.2

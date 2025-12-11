@@ -1,11 +1,22 @@
 ---
-post_number: "0760"
-title: "Read-only and Automatic Transaction Modes"
-slug: "read_auto_transact"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'transactions', 'views']
-source_file: "0760_read_auto_transact.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0760_read_auto_transact.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.536168'
+original_url: https://thebuildingcoder.typepad.com/blog/0760_read_auto_transact.html
+post_number: '0760'
+reading_time_minutes: 3
+series: general
+slug: read_auto_transact
+source_file: 0760_read_auto_transact.htm
+tags:
+- family
+- revit-api
+- transactions
+- views
+title: Read-only and Automatic Transaction Modes
+word_count: 659
 ---
 
 ### Read-only and Automatic Transaction Modes

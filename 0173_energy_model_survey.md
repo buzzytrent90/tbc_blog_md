@@ -1,11 +1,19 @@
 ---
-post_number: "0173"
-title: "Harvard Energy Model Survey"
-slug: "energy_model_survey"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0173_energy_model_survey.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0173_energy_model_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.485503'
+original_url: https://thebuildingcoder.typepad.com/blog/0173_energy_model_survey.html
+post_number: '0173'
+reading_time_minutes: 1
+series: general
+slug: energy_model_survey
+source_file: 0173_energy_model_survey.htm
+tags:
+- revit-api
+title: Harvard Energy Model Survey
+word_count: 127
 ---
 
 ### Harvard Energy Model Survey

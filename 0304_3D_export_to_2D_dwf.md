@@ -1,11 +1,22 @@
 ---
-post_number: "0304"
-title: "Export 3D View to 2D DWF"
-slug: "3D_export_to_2D_dwf"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "0304_3D_export_to_2D_dwf.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0304_3D_export_to_2D_dwf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.713552'
+original_url: https://thebuildingcoder.typepad.com/blog/0304_3D_export_to_2D_dwf.html
+post_number: '0304'
+reading_time_minutes: 2
+series: general
+slug: 3D_export_to_2D_dwf
+source_file: 0304_3D_export_to_2D_dwf.htm
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Export 3D View to 2D DWF
+word_count: 337
 ---
 
 ### Export 3D View to 2D DWF

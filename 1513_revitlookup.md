@@ -1,11 +1,21 @@
 ---
-post_number: "1513"
-title: "Revitlookup"
-slug: "revitlookup"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'selection', 'sheets']
-source_file: "1513_revitlookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1513_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.192371'
+original_url: https://thebuildingcoder.typepad.com/blog/1513_revitlookup.html
+post_number: '1513'
+reading_time_minutes: 2
+series: general
+slug: revitlookup
+source_file: 1513_revitlookup.md
+tags:
+- revit-api
+- selection
+- sheets
+title: Revitlookup
+word_count: 459
 ---
 
 ### RevitLookup Supports Spot Dimension and Escape

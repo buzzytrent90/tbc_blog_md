@@ -1,11 +1,24 @@
 ---
-post_number: "0306"
-title: "Texture Data UV Coordinates and FBX"
-slug: "uv_coords_fbx"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'revit-api', 'selection', 'walls']
-source_file: "0306_uv_coords_fbx.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0306_uv_coords_fbx.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.717080'
+original_url: https://thebuildingcoder.typepad.com/blog/0306_uv_coords_fbx.html
+post_number: '0306'
+reading_time_minutes: 4
+series: geometry
+slug: uv_coords_fbx
+source_file: 0306_uv_coords_fbx.htm
+tags:
+- elements
+- geometry
+- levels
+- revit-api
+- selection
+- walls
+title: Texture Data UV Coordinates and FBX
+word_count: 810
 ---
 
 ### Texture Data UV Coordinates and FBX

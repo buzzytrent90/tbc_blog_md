@@ -1,11 +1,24 @@
 ---
-post_number: "1325"
-title: "Geometry Creation and Line Intersection Exceptions"
-slug: "solid_line_intersect"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'revit-api', 'views']
-source_file: "1325_solid_line_intersect.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1325_solid_line_intersect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.775384'
+original_url: https://thebuildingcoder.typepad.com/blog/1325_solid_line_intersect.html
+post_number: '1325'
+reading_time_minutes: 8
+series: general
+slug: solid_line_intersect
+source_file: 1325_solid_line_intersect.htm
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- revit-api
+- views
+title: Geometry Creation and Line Intersection Exceptions
+word_count: 1505
 ---
 
 ### Geometry Creation and Line Intersection Exceptions

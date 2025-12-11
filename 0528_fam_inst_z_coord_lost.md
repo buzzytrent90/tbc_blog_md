@@ -1,11 +1,24 @@
 ---
-post_number: "0528"
-title: "Family Instance Z Coordinate Lost"
-slug: "fam_inst_z_coord_lost"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'revit-api']
-source_file: "0528_fam_inst_z_coord_lost.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0528_fam_inst_z_coord_lost.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.109203'
+original_url: https://thebuildingcoder.typepad.com/blog/0528_fam_inst_z_coord_lost.html
+post_number: 0528
+reading_time_minutes: 3
+series: general
+slug: fam_inst_z_coord_lost
+source_file: 0528_fam_inst_z_coord_lost.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- revit-api
+title: Family Instance Z Coordinate Lost
+word_count: 526
 ---
 
 ### Family Instance Z Coordinate Lost

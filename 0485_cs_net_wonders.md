@@ -1,11 +1,21 @@
 ---
-post_number: "0485"
-title: "C# and .NET Little Wonders"
-slug: "cs_net_wonders"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'views']
-source_file: "0485_cs_net_wonders.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0485_cs_net_wonders.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.030627'
+original_url: https://thebuildingcoder.typepad.com/blog/0485_cs_net_wonders.html
+post_number: 0485
+reading_time_minutes: 2
+series: general
+slug: cs_net_wonders
+source_file: 0485_cs_net_wonders.htm
+tags:
+- csharp
+- revit-api
+- views
+title: C# and .NET Little Wonders
+word_count: 336
 ---
 
 ### C# and .NET Little Wonders

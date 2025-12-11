@@ -1,11 +1,26 @@
 ---
-post_number: "0857"
-title: "Roll Your Own Toggle Button"
-slug: "toggle_button"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'references', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0857_toggle_button.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0857_toggle_button.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.745186'
+original_url: https://thebuildingcoder.typepad.com/blog/0857_toggle_button.html
+post_number: 0857
+reading_time_minutes: 5
+series: general
+slug: toggle_button
+source_file: 0857_toggle_button.htm
+tags:
+- csharp
+- elements
+- python
+- references
+- revit-api
+- transactions
+- walls
+- windows
+title: Roll Your Own Toggle Button
+word_count: 1073
 ---
 
 ### Roll Your Own Toggle Button

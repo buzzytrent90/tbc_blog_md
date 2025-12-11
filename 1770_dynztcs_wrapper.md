@@ -1,11 +1,23 @@
 ---
-post_number: "1770"
-title: "Dynztcs Wrapper"
-slug: "dynztcs_wrapper"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'sheets', 'views']
-source_file: "1770_dynztcs_wrapper.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1770_dynztcs_wrapper.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.709613'
+original_url: https://thebuildingcoder.typepad.com/blog/1770_dynztcs_wrapper.html
+post_number: '1770'
+reading_time_minutes: 4
+series: general
+slug: dynztcs_wrapper
+source_file: 1770_dynztcs_wrapper.md
+tags:
+- csharp
+- elements
+- revit-api
+- sheets
+- views
+title: Dynztcs Wrapper
+word_count: 744
 ---
 
 ### Zero Touch Node Wrapper and Load from Stream

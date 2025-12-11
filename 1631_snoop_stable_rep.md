@@ -1,11 +1,27 @@
 ---
-post_number: "1631"
-title: "Snoop Stable Rep"
-slug: "snoop_stable_rep"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1631_snoop_stable_rep.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1631_snoop_stable_rep.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.426395'
+original_url: https://thebuildingcoder.typepad.com/blog/1631_snoop_stable_rep.html
+post_number: '1631'
+reading_time_minutes: 4
+series: general
+slug: snoop_stable_rep
+source_file: 1631_snoop_stable_rep.md
+tags:
+- elements
+- family
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- views
+- walls
+title: Snoop Stable Rep
+word_count: 889
 ---
 
 ### Export Geometry and Snoop Stable Representation

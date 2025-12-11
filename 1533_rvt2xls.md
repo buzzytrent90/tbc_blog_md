@@ -1,11 +1,23 @@
 ---
-post_number: "1533"
-title: "Rvt2xls"
-slug: "rvt2xls"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'sheets', 'views']
-source_file: "1533_rvt2xls.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1533_rvt2xls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:16.234523'
+original_url: https://thebuildingcoder.typepad.com/blog/1533_rvt2xls.html
+post_number: '1533'
+reading_time_minutes: 2
+series: general
+slug: rvt2xls
+source_file: 1533_rvt2xls.md
+tags:
+- elements
+- geometry
+- revit-api
+- sheets
+- views
+title: Rvt2xls
+word_count: 385
 ---
 
 ### RVT Properties to XLS and Forge Accelerators

@@ -1,11 +1,32 @@
 ---
-post_number: "1375"
-title: "Flatten To Directshape"
-slug: "flatten_to_directshape"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1375_flatten_to_directshape.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1375_flatten_to_directshape.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.882929'
+original_url: https://thebuildingcoder.typepad.com/blog/1375_flatten_to_directshape.html
+post_number: '1375'
+reading_time_minutes: 3
+series: general
+slug: flatten_to_directshape
+source_file: 1375_flatten_to_directshape.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Flatten To Directshape
+word_count: 639
 ---
 
 ### Flatten All Elements to DirectShape

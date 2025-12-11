@@ -1,11 +1,24 @@
 ---
-post_number: "1472"
-title: "The Building Coder"
-slug: "roomedit3d_forge"
-author: "Jeremy Tammik"
-tags: ['family', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1472_roomedit3d_forge.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1472_roomedit3d_forge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: news
+optimization_date: '2025-12-11T11:44:16.103450'
+original_url: https://thebuildingcoder.typepad.com/blog/1472_roomedit3d_forge.html
+post_number: '1472'
+reading_time_minutes: 4
+series: general
+slug: roomedit3d_forge
+source_file: 1472_roomedit3d_forge.md
+tags:
+- family
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: The Building Coder
+word_count: 782
 ---
 
 ### Forge Webinar Series and Roomedit Starting Points

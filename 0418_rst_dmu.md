@@ -1,11 +1,27 @@
 ---
-post_number: "0418"
-title: "Structural Dynamic Model Update Sample"
-slug: "rst_dmu"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'transactions']
-source_file: "0418_rst_dmu.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0418_rst_dmu.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.916782'
+original_url: https://thebuildingcoder.typepad.com/blog/0418_rst_dmu.html
+post_number: 0418
+reading_time_minutes: 8
+series: general
+slug: rst_dmu
+source_file: 0418_rst_dmu.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- transactions
+title: Structural Dynamic Model Update Sample
+word_count: 1684
 ---
 
 ### Structural Dynamic Model Update Sample

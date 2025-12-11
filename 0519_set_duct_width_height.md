@@ -1,11 +1,25 @@
 ---
-post_number: "0519"
-title: "Setting Duct Width and Height Requires Regeneration"
-slug: "set_duct_width_height"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'transactions']
-source_file: "0519_set_duct_width_height.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0519_set_duct_width_height.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.092653'
+original_url: https://thebuildingcoder.typepad.com/blog/0519_set_duct_width_height.html
+post_number: 0519
+reading_time_minutes: 2
+series: mep
+slug: set_duct_width_height
+source_file: 0519_set_duct_width_height.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- transactions
+- mep
+title: Setting Duct Width and Height Requires Regeneration
+word_count: 495
 ---
 
 ### Setting Duct Width and Height Requires Regeneration

@@ -1,11 +1,19 @@
 ---
-post_number: "0056"
-title: "64 bit Revit API Issues"
-slug: "64_bit_revit_api"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0056_64_bit_revit_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0056_64_bit_revit_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.296131'
+original_url: https://thebuildingcoder.typepad.com/blog/0056_64_bit_revit_api.html
+post_number: '0056'
+reading_time_minutes: 1
+series: general
+slug: 64_bit_revit_api
+source_file: 0056_64_bit_revit_api.htm
+tags:
+- revit-api
+title: 64 bit Revit API Issues
+word_count: 129
 ---
 
 ### 64 bit Revit API Issues

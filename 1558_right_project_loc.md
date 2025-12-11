@@ -1,11 +1,21 @@
 ---
-post_number: "1558"
-title: "Right Project Loc"
-slug: "right_project_loc"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets']
-source_file: "1558_right_project_loc.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1558_right_project_loc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.286093'
+original_url: https://thebuildingcoder.typepad.com/blog/1558_right_project_loc.html
+post_number: '1558'
+reading_time_minutes: 2
+series: general
+slug: right_project_loc
+source_file: 1558_right_project_loc.md
+tags:
+- elements
+- revit-api
+- sheets
+title: Right Project Loc
+word_count: 487
 ---
 
 ### Finding the Right Project Location

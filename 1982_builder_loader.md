@@ -1,11 +1,33 @@
 ---
-post_number: "1982"
-title: "Builder Loader"
-slug: "builder_loader"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'vbnet', 'views']
-source_file: "1982_builder_loader.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1982_builder_loader.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.185599'
+original_url: https://thebuildingcoder.typepad.com/blog/1982_builder_loader.html
+post_number: '1982'
+reading_time_minutes: 8
+series: structural
+slug: builder_loader
+source_file: 1982_builder_loader.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- vbnet
+- views
+- structural
+title: Builder Loader
+word_count: 1641
 ---
 
 ### Pyramid Builder, CommandLoader, et al

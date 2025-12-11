@@ -1,11 +1,27 @@
 ---
-post_number: "1488"
-title: "The Building Coder"
-slug: "revit_api_panel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1488_revit_api_panel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1488_revit_api_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.139811'
+original_url: https://thebuildingcoder.typepad.com/blog/1488_revit_api_panel.html
+post_number: '1488'
+reading_time_minutes: 8
+series: general
+slug: revit_api_panel
+source_file: 1488_revit_api_panel.md
+tags:
+- csharp
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: The Building Coder
+word_count: 1641
 ---
 
 ### RTC Revit API Panel, Idea Station, Edit and Continue

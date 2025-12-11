@@ -1,11 +1,25 @@
 ---
-post_number: "1351"
-title: "Md Fusion Rev Upgr"
-slug: "md_fusion_rev_upgr"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1351_md_fusion_rev_upgr.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1351_md_fusion_rev_upgr.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.824244'
+original_url: https://thebuildingcoder.typepad.com/blog/1351_md_fusion_rev_upgr.html
+post_number: '1351'
+reading_time_minutes: 6
+series: general
+slug: md_fusion_rev_upgr
+source_file: 1351_md_fusion_rev_upgr.md
+tags:
+- csharp
+- family
+- geometry
+- python
+- revit-api
+- sheets
+- views
+title: Md Fusion Rev Upgr
+word_count: 1246
 ---
 
 ### Markdown, the Fusion Accelerator, Revisions and Bulk Upgrade

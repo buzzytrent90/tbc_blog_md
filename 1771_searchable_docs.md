@@ -1,11 +1,23 @@
 ---
-post_number: "1771"
-title: "Searchable Docs"
-slug: "searchable_docs"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "1771_searchable_docs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1771_searchable_docs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.710963'
+original_url: https://thebuildingcoder.typepad.com/blog/1771_searchable_docs.html
+post_number: '1771'
+reading_time_minutes: 2
+series: filtering
+slug: searchable_docs
+source_file: 1771_searchable_docs.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+- filtering
+title: Searchable Docs
+word_count: 332
 ---
 
 ### 11 Years and Revit API Docs Full Text Search

@@ -1,11 +1,27 @@
 ---
-post_number: "0327"
-title: "API Wish List Survey Results"
-slug: "api_wishlist_survey"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0327_api_wishlist_survey.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0327_api_wishlist_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: news
+optimization_date: '2025-12-11T11:44:13.749791'
+original_url: https://thebuildingcoder.typepad.com/blog/0327_api_wishlist_survey.html
+post_number: '0327'
+reading_time_minutes: 2
+series: general
+slug: api_wishlist_survey
+source_file: 0327_api_wishlist_survey.htm
+tags:
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: API Wish List Survey Results
+word_count: 337
 ---
 
 ### API Wish List Survey Results

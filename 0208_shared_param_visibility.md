@@ -1,11 +1,23 @@
 ---
-post_number: "0208"
-title: "Shared Parameter Visibility"
-slug: "shared_param_visibility"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'windows']
-source_file: "0208_shared_param_visibility.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0208_shared_param_visibility.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.552078'
+original_url: https://thebuildingcoder.typepad.com/blog/0208_shared_param_visibility.html
+post_number: 0208
+reading_time_minutes: 2
+series: views
+slug: shared_param_visibility
+source_file: 0208_shared_param_visibility.htm
+tags:
+- csharp
+- parameters
+- revit-api
+- windows
+- views
+title: Shared Parameter Visibility
+word_count: 373
 ---
 
 ### Shared Parameter Visibility

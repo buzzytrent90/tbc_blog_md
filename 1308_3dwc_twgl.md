@@ -1,11 +1,28 @@
 ---
-post_number: "1308"
-title: "Exporting 3D Element Geometry to a WebGL Viewer"
-slug: "3dwc_twgl"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'python', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1308_3dwc_twgl.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1308_3dwc_twgl.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.737648'
+original_url: https://thebuildingcoder.typepad.com/blog/1308_3dwc_twgl.html
+post_number: '1308'
+reading_time_minutes: 7
+series: general
+slug: 3dwc_twgl
+source_file: 1308_3dwc_twgl.htm
+tags:
+- elements
+- family
+- geometry
+- python
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Exporting 3D Element Geometry to a WebGL Viewer
+word_count: 1390
 ---
 
 ### Exporting 3D Element Geometry to a WebGL Viewer

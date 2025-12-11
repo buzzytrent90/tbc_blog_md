@@ -1,11 +1,23 @@
 ---
-post_number: "0074"
-title: "Toolbar Image List"
-slug: "toolbar_image_list"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'geometry', 'revit-api']
-source_file: "0074_toolbar_image_list.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0074_toolbar_image_list.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.318587'
+original_url: https://thebuildingcoder.typepad.com/blog/0074_toolbar_image_list.html
+post_number: '0074'
+reading_time_minutes: 2
+series: general
+slug: toolbar_image_list
+source_file: 0074_toolbar_image_list.htm
+tags:
+- csharp
+- doors
+- family
+- geometry
+- revit-api
+title: Toolbar Image List
+word_count: 473
 ---
 
 ### Toolbar Image List

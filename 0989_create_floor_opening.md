@@ -1,11 +1,28 @@
 ---
-post_number: "0989"
-title: "Create a Floor with an Opening or Complex Boundary"
-slug: "create_floor_opening"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'references', 'revit-api', 'rooms', 'selection', 'transactions', 'views']
-source_file: "0989_create_floor_opening.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0989_create_floor_opening.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.066630'
+original_url: https://thebuildingcoder.typepad.com/blog/0989_create_floor_opening.html
+post_number: 0989
+reading_time_minutes: 7
+series: general
+slug: create_floor_opening
+source_file: 0989_create_floor_opening.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+title: Create a Floor with an Opening or Complex Boundary
+word_count: 1478
 ---
 
 ### Create a Floor with an Opening or Complex Boundary

@@ -1,11 +1,30 @@
 ---
-post_number: "1963"
-title: "Point Cloud"
-slug: "point_cloud"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1963_point_cloud.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1963_point_cloud.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.141364'
+original_url: https://thebuildingcoder.typepad.com/blog/1963_point_cloud.html
+post_number: '1963'
+reading_time_minutes: 11
+series: geometry
+slug: point_cloud
+source_file: 1963_point_cloud.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- geometry
+title: Point Cloud
+word_count: 2125
 ---
 
 ### Point Clouds, Coloured Triangles and Faces

@@ -1,11 +1,23 @@
 ---
-post_number: "1350"
-title: "Revit Add-In Wizard GitHub Installer"
-slug: "wizard_github_install"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'vbnet', 'views', 'windows']
-source_file: "1350_wizard_github_install.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1350_wizard_github_install.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.822476'
+original_url: https://thebuildingcoder.typepad.com/blog/1350_wizard_github_install.html
+post_number: '1350'
+reading_time_minutes: 5
+series: general
+slug: wizard_github_install
+source_file: 1350_wizard_github_install.htm
+tags:
+- csharp
+- revit-api
+- vbnet
+- views
+- windows
+title: Revit Add-In Wizard GitHub Installer
+word_count: 1030
 ---
 
 ### Revit Add-In Wizard GitHub Installer

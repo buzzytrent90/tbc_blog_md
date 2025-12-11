@@ -1,11 +1,25 @@
 ---
-post_number: "0578"
-title: "Improved MEP Element Shape and Ararat"
-slug: "mep_element_shape_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'windows']
-source_file: "0578_mep_element_shape_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0578_mep_element_shape_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.205122'
+original_url: https://thebuildingcoder.typepad.com/blog/0578_mep_element_shape_2.html
+post_number: 0578
+reading_time_minutes: 4
+series: elements
+slug: mep_element_shape_2
+source_file: 0578_mep_element_shape_2.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- windows
+title: Improved MEP Element Shape and Ararat
+word_count: 864
 ---
 
 ### Improved MEP Element Shape and Ararat

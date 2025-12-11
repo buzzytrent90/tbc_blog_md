@@ -1,11 +1,23 @@
 ---
-post_number: "1753"
-title: "Edge Face"
-slug: "edge_face"
-author: "Jeremy Tammik"
-tags: ['family', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1753_edge_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1753_edge_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.672204'
+original_url: https://thebuildingcoder.typepad.com/blog/1753_edge_face.html
+post_number: '1753'
+reading_time_minutes: 4
+series: general
+slug: edge_face
+source_file: 1753_edge_face.md
+tags:
+- family
+- references
+- revit-api
+- sheets
+- views
+title: Edge Face
+word_count: 719
 ---
 
 ### Secret Reference Line Faces

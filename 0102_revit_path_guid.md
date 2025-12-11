@@ -1,11 +1,20 @@
 ---
-post_number: "0102"
-title: "Revit Install Path and Product GUIDs"
-slug: "revit_path_guid"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'windows']
-source_file: "0102_revit_path_guid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0102_revit_path_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.365185'
+original_url: https://thebuildingcoder.typepad.com/blog/0102_revit_path_guid.html
+post_number: '0102'
+reading_time_minutes: 4
+series: general
+slug: revit_path_guid
+source_file: 0102_revit_path_guid.htm
+tags:
+- revit-api
+- windows
+title: Revit Install Path and Product GUIDs
+word_count: 811
 ---
 
 ### Revit Install Path and Product GUIDs

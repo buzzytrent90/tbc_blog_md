@@ -1,11 +1,25 @@
 ---
-post_number: "1371"
-title: "Add Materials"
-slug: "add_materials"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1371_add_materials.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1371_add_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:15.873819'
+original_url: https://thebuildingcoder.typepad.com/blog/1371_add_materials.html
+post_number: '1371'
+reading_time_minutes: 2
+series: materials
+slug: add_materials
+source_file: 1371_add_materials.md
+tags:
+- csharp
+- geometry
+- python
+- revit-api
+- sheets
+- views
+- materials
+title: Add Materials
+word_count: 457
 ---
 
 ### Fill Pattern Viewer Fix and Add Materials 2016

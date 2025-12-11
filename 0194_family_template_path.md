@@ -1,11 +1,20 @@
 ---
-post_number: "0194"
-title: "Default Family Template Path"
-slug: "family_template_path"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0194_family_template_path.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0194_family_template_path.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.523601'
+original_url: https://thebuildingcoder.typepad.com/blog/0194_family_template_path.html
+post_number: 0194
+reading_time_minutes: 1
+series: family
+slug: family_template_path
+source_file: 0194_family_template_path.htm
+tags:
+- family
+- revit-api
+title: Default Family Template Path
+word_count: 83
 ---
 
 ### Default Family Template Path

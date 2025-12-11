@@ -1,11 +1,26 @@
 ---
-post_number: "0833"
-title: "IFC Export Area Calculation Enhancement"
-slug: "ifc_area_enhancement"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'rooms', 'vbnet', 'views', 'walls']
-source_file: "0833_ifc_area_enhancement.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0833_ifc_area_enhancement.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.697365'
+original_url: https://thebuildingcoder.typepad.com/blog/0833_ifc_area_enhancement.html
+post_number: 0833
+reading_time_minutes: 4
+series: general
+slug: ifc_area_enhancement
+source_file: 0833_ifc_area_enhancement.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- rooms
+- vbnet
+- views
+- walls
+title: IFC Export Area Calculation Enhancement
+word_count: 744
 ---
 
 ﻿

@@ -1,11 +1,22 @@
 ---
-post_number: "0590"
-title: "File Upgrader Plugin of the Month"
-slug: "file_upgrader_potm"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'rooms', 'views']
-source_file: "0590_file_upgrader_potm.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0590_file_upgrader_potm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.223272'
+original_url: https://thebuildingcoder.typepad.com/blog/0590_file_upgrader_potm.html
+post_number: 0590
+reading_time_minutes: 2
+series: general
+slug: file_upgrader_potm
+source_file: 0590_file_upgrader_potm.htm
+tags:
+- family
+- revit-api
+- rooms
+- views
+title: File Upgrader Plugin of the Month
+word_count: 387
 ---
 
 ### File Upgrader Plugin of the Month

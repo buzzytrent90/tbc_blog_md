@@ -1,11 +1,24 @@
 ---
-post_number: "2006"
-title: "Threads Geo Equal"
-slug: "threads_geo_equal"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'references', 'revit-api', 'sheets', 'views']
-source_file: "2006_threads_geo_equal.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2006_threads_geo_equal.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.254711'
+original_url: https://thebuildingcoder.typepad.com/blog/2006_threads_geo_equal.html
+post_number: '2006'
+reading_time_minutes: 12
+series: general
+slug: threads_geo_equal
+source_file: 2006_threads_geo_equal.md
+tags:
+- elements
+- geometry
+- references
+- revit-api
+- sheets
+- views
+title: Threads Geo Equal
+word_count: 2360
 ---
 
 ### Add-In Threads and Geometry Comparison

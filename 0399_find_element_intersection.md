@@ -1,11 +1,25 @@
 ---
-post_number: "0399"
-title: "Intersection Between Elements"
-slug: "find_element_intersection"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'references', 'revit-api', 'rooms']
-source_file: "0399_find_element_intersection.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0399_find_element_intersection.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.884647'
+original_url: https://thebuildingcoder.typepad.com/blog/0399_find_element_intersection.html
+post_number: 0399
+reading_time_minutes: 2
+series: elements
+slug: find_element_intersection
+source_file: 0399_find_element_intersection.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+title: Intersection Between Elements
+word_count: 366
 ---
 
 ### Intersection Between Elements

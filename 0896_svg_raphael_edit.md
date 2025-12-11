@@ -1,11 +1,26 @@
 ---
-post_number: "0896"
-title: "2D SVG Editing on Mobile Device with Raphaël"
-slug: "svg_raphael_edit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "0896_svg_raphael_edit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0896_svg_raphael_edit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.817304'
+original_url: https://thebuildingcoder.typepad.com/blog/0896_svg_raphael_edit.html
+post_number: 0896
+reading_time_minutes: 12
+series: general
+slug: svg_raphael_edit
+source_file: 0896_svg_raphael_edit.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: "2D SVG Editing on Mobile Device with Rapha\xEBl"
+word_count: 2397
 ---
 
 ### 2D SVG Editing on Mobile Device with Raphaël

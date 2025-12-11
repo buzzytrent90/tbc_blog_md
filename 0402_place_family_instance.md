@@ -1,11 +1,28 @@
 ---
-post_number: "0402"
-title: "Place Family Instance"
-slug: "place_family_instance"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'transactions', 'views']
-source_file: "0402_place_family_instance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0402_place_family_instance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.889756'
+original_url: https://thebuildingcoder.typepad.com/blog/0402_place_family_instance.html
+post_number: '0402'
+reading_time_minutes: 5
+series: elements
+slug: place_family_instance
+source_file: 0402_place_family_instance.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- transactions
+- views
+title: Place Family Instance
+word_count: 927
 ---
 
 ### Place Family Instance

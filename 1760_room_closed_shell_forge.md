@@ -1,11 +1,27 @@
 ---
-post_number: "1760"
-title: "Room Closed Shell Forge"
-slug: "room_closed_shell_forge"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1760_room_closed_shell_forge.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1760_room_closed_shell_forge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.690288'
+original_url: https://thebuildingcoder.typepad.com/blog/1760_room_closed_shell_forge.html
+post_number: '1760'
+reading_time_minutes: 11
+series: general
+slug: room_closed_shell_forge
+source_file: 1760_room_closed_shell_forge.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+title: Room Closed Shell Forge
+word_count: 2289
 ---
 
 ### Room Closed Shell DirectShape for Forge Viewer

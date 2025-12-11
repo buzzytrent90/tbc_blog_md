@@ -1,11 +1,31 @@
 ---
-post_number: "1744"
-title: "2020 Sdk Samples"
-slug: "2020_sdk_samples"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1744_2020_sdk_samples.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1744_2020_sdk_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.656519'
+original_url: https://thebuildingcoder.typepad.com/blog/1744_2020_sdk_samples.html
+post_number: '1744'
+reading_time_minutes: 9
+series: general
+slug: 2020_sdk_samples
+source_file: 1744_2020_sdk_samples.md
+tags:
+- doors
+- elements
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- windows
+title: 2020 Sdk Samples
+word_count: 1711
 ---
 
 ### New Revit 2020 SDK Samples

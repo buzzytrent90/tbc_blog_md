@@ -1,11 +1,27 @@
 ---
-post_number: "1006"
-title: "Setting a Default 3D View Orientation"
-slug: "3d_view_orientation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1006_3d_view_orientation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1006_3d_view_orientation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.104446'
+original_url: https://thebuildingcoder.typepad.com/blog/1006_3d_view_orientation.html
+post_number: '1006'
+reading_time_minutes: 3
+series: views
+slug: 3d_view_orientation
+source_file: 1006_3d_view_orientation.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: Setting a Default 3D View Orientation
+word_count: 660
 ---
 
 ### Setting a Default 3D View Orientation

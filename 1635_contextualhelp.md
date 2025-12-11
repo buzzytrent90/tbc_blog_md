@@ -1,11 +1,24 @@
 ---
-post_number: "1635"
-title: "Contextualhelp"
-slug: "contextualhelp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'sheets', 'transactions', 'windows']
-source_file: "1635_contextualhelp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1635_contextualhelp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.433583'
+original_url: https://thebuildingcoder.typepad.com/blog/1635_contextualhelp.html
+post_number: '1635'
+reading_time_minutes: 4
+series: general
+slug: contextualhelp
+source_file: 1635_contextualhelp.md
+tags:
+- csharp
+- elements
+- revit-api
+- sheets
+- transactions
+- windows
+title: Contextualhelp
+word_count: 816
 ---
 
 ### Contextual Help Best Practice

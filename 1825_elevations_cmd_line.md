@@ -1,11 +1,28 @@
 ---
-post_number: "1825"
-title: "Elevations Cmd Line"
-slug: "elevations_cmd_line"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1825_elevations_cmd_line.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1825_elevations_cmd_line.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.822988'
+original_url: https://thebuildingcoder.typepad.com/blog/1825_elevations_cmd_line.html
+post_number: '1825'
+reading_time_minutes: 5
+series: general
+slug: elevations_cmd_line
+source_file: 1825_elevations_cmd_line.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- sheets
+- views
+- windows
+title: Elevations Cmd Line
+word_count: 926
 ---
 
 ### Coding, Interior Elevations and Command Line Options

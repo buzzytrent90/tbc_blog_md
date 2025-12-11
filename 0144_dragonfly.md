@@ -1,11 +1,21 @@
 ---
-post_number: "0144"
-title: "Revit and Dragonfly"
-slug: "dragonfly"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'windows']
-source_file: "0144_dragonfly.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0144_dragonfly.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.438091'
+original_url: https://thebuildingcoder.typepad.com/blog/0144_dragonfly.html
+post_number: '0144'
+reading_time_minutes: 1
+series: general
+slug: dragonfly
+source_file: 0144_dragonfly.htm
+tags:
+- levels
+- revit-api
+- windows
+title: Revit and Dragonfly
+word_count: 285
 ---
 
 ### Revit and Dragonfly

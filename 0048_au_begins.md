@@ -1,11 +1,20 @@
 ---
-post_number: "0048"
-title: "AU Begins"
-slug: "au_begins"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'walls']
-source_file: "0048_au_begins.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0048_au_begins.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.284592'
+original_url: https://thebuildingcoder.typepad.com/blog/0048_au_begins.html
+post_number: 0048
+reading_time_minutes: 3
+series: general
+slug: au_begins
+source_file: 0048_au_begins.htm
+tags:
+- revit-api
+- walls
+title: AU Begins
+word_count: 519
 ---
 
 ### AU Begins

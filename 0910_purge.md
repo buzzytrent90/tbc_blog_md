@@ -1,11 +1,28 @@
 ---
-post_number: "0910"
-title: "Determining Purgeable Elements"
-slug: "purge"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0910_purge.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0910_purge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.869014'
+original_url: https://thebuildingcoder.typepad.com/blog/0910_purge.html
+post_number: 0910
+reading_time_minutes: 4
+series: general
+slug: purge
+source_file: 0910_purge.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- transactions
+- walls
+- windows
+title: Determining Purgeable Elements
+word_count: 848
 ---
 
 ### Determining Purgeable Elements

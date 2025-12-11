@@ -1,11 +1,29 @@
 ---
-post_number: "0941"
-title: "My Cloud-Based 2D Editor Implementation Status"
-slug: "couchdb_views"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'schedules', 'selection', 'views']
-source_file: "0941_couchdb_views.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0941_couchdb_views.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.955036'
+original_url: https://thebuildingcoder.typepad.com/blog/0941_couchdb_views.html
+post_number: 0941
+reading_time_minutes: 11
+series: views
+slug: couchdb_views
+source_file: 0941_couchdb_views.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- views
+title: My Cloud-Based 2D Editor Implementation Status
+word_count: 2220
 ---
 
 ### My Cloud-Based 2D Editor Implementation Status

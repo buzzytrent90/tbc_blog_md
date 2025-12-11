@@ -1,11 +1,23 @@
 ---
-post_number: "0234"
-title: "System Versus User Family Category"
-slug: "system_category"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'revit-api']
-source_file: "0234_system_category.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0234_system_category.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.596768'
+original_url: https://thebuildingcoder.typepad.com/blog/0234_system_category.html
+post_number: '0234'
+reading_time_minutes: 1
+series: elements
+slug: system_category
+source_file: 0234_system_category.htm
+tags:
+- elements
+- family
+- levels
+- parameters
+- revit-api
+title: System Versus User Family Category
+word_count: 201
 ---
 
 ### System Versus User Family Category

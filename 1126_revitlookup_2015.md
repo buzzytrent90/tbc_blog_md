@@ -1,11 +1,24 @@
 ---
-post_number: "1126"
-title: "RevitLookup for Revit 2015"
-slug: "revitlookup_2015"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1126_revitlookup_2015.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1126_revitlookup_2015.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.353382'
+original_url: https://thebuildingcoder.typepad.com/blog/1126_revitlookup_2015.html
+post_number: '1126'
+reading_time_minutes: 2
+series: general
+slug: revitlookup_2015
+source_file: 1126_revitlookup_2015.htm
+tags:
+- elements
+- family
+- references
+- revit-api
+- sheets
+- views
+title: RevitLookup for Revit 2015
+word_count: 337
 ---
 
 ### RevitLookup for Revit 2015

@@ -1,11 +1,26 @@
 ---
-post_number: "0441"
-title: "Speed Up Selection"
-slug: "speed_up_selection"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0441_speed_up_selection.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0441_speed_up_selection.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.950652'
+original_url: https://thebuildingcoder.typepad.com/blog/0441_speed_up_selection.html
+post_number: '0441'
+reading_time_minutes: 4
+series: filtering
+slug: speed_up_selection
+source_file: 0441_speed_up_selection.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- selection
+- transactions
+- views
+- filtering
+title: Speed Up Selection
+word_count: 834
 ---
 
 ### Speed Up Selection

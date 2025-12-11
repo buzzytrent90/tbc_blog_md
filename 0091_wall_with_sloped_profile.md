@@ -1,11 +1,21 @@
 ---
-post_number: "0091"
-title: "Creating a Wall with a Sloped Profile"
-slug: "wall_with_sloped_profile"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'walls']
-source_file: "0091_wall_with_sloped_profile.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0091_wall_with_sloped_profile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.345041'
+original_url: https://thebuildingcoder.typepad.com/blog/0091_wall_with_sloped_profile.html
+post_number: 0091
+reading_time_minutes: 2
+series: general
+slug: wall_with_sloped_profile
+source_file: 0091_wall_with_sloped_profile.htm
+tags:
+- csharp
+- revit-api
+- walls
+title: Creating a Wall with a Sloped Profile
+word_count: 342
 ---
 
 ### Creating a Wall with a Sloped Profile

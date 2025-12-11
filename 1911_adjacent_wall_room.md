@@ -1,11 +1,31 @@
 ---
-post_number: "1911"
-title: "Adjacent Wall Room"
-slug: "adjacent_wall_room"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'vbnet', 'views', 'walls', 'windows']
-source_file: "1911_adjacent_wall_room.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1911_adjacent_wall_room.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.026346'
+original_url: https://thebuildingcoder.typepad.com/blog/1911_adjacent_wall_room.html
+post_number: '1911'
+reading_time_minutes: 7
+series: general
+slug: adjacent_wall_room
+source_file: 1911_adjacent_wall_room.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- vbnet
+- views
+- walls
+- windows
+title: Adjacent Wall Room
+word_count: 1482
 ---
 
 ### Installer, List of Failures, Adjacent Rooms and Walls

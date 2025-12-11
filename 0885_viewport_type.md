@@ -1,11 +1,28 @@
 ---
-post_number: "0885"
-title: "Changing Viewport Type"
-slug: "viewport_type"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'revit-api', 'schedules', 'sheets', 'vbnet', 'views', 'walls']
-source_file: "0885_viewport_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0885_viewport_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.794383'
+original_url: https://thebuildingcoder.typepad.com/blog/0885_viewport_type.html
+post_number: 0885
+reading_time_minutes: 3
+series: elements
+slug: viewport_type
+source_file: 0885_viewport_type.htm
+tags:
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- schedules
+- sheets
+- vbnet
+- views
+- walls
+title: Changing Viewport Type
+word_count: 584
 ---
 
 ### Changing Viewport Type

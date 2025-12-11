@@ -1,11 +1,28 @@
 ---
-post_number: "1572"
-title: "Ifc Utils Openings"
-slug: "ifc_utils_openings"
-author: "Jeremy Tammik"
-tags: ['doors', 'family', 'geometry', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'walls', 'windows']
-source_file: "1572_ifc_utils_openings.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1572_ifc_utils_openings.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.313354'
+original_url: https://thebuildingcoder.typepad.com/blog/1572_ifc_utils_openings.html
+post_number: '1572'
+reading_time_minutes: 3
+series: general
+slug: ifc_utils_openings
+source_file: 1572_ifc_utils_openings.md
+tags:
+- doors
+- family
+- geometry
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- walls
+- windows
+title: Ifc Utils Openings
+word_count: 651
 ---
 
 ### Copy Local False and IFC Utils for Wall Openings

@@ -1,11 +1,23 @@
 ---
-post_number: "0447"
-title: "DoorSwing Fix"
-slug: "doorswing"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'geometry', 'revit-api', 'transactions']
-source_file: "0447_doorswing.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0447_doorswing.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.960989'
+original_url: https://thebuildingcoder.typepad.com/blog/0447_doorswing.html
+post_number: '0447'
+reading_time_minutes: 3
+series: general
+slug: doorswing
+source_file: 0447_doorswing.htm
+tags:
+- csharp
+- doors
+- geometry
+- revit-api
+- transactions
+title: DoorSwing Fix
+word_count: 642
 ---
 
 ### DoorSwing Fix

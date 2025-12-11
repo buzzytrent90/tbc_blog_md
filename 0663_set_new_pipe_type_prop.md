@@ -1,11 +1,28 @@
 ---
-post_number: "0663"
-title: "Set New Pipe Type Properties"
-slug: "set_new_pipe_type_prop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0663_set_new_pipe_type_prop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0663_set_new_pipe_type_prop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.354547'
+original_url: https://thebuildingcoder.typepad.com/blog/0663_set_new_pipe_type_prop.html
+post_number: '0663'
+reading_time_minutes: 4
+series: elements
+slug: set_new_pipe_type_prop
+source_file: 0663_set_new_pipe_type_prop.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- transactions
+- walls
+- windows
+title: Set New Pipe Type Properties
+word_count: 833
 ---
 
 ### Set New Pipe Type Properties

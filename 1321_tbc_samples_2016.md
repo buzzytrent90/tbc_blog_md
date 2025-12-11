@@ -1,11 +1,22 @@
 ---
-post_number: "1321"
-title: "Migrating The Building Coder Samples to Revit 2016"
-slug: "tbc_samples_2016"
-author: "Jeremy Tammik"
-tags: ['parameters', 'references', 'revit-api', 'walls']
-source_file: "1321_tbc_samples_2016.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1321_tbc_samples_2016.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.766636'
+original_url: https://thebuildingcoder.typepad.com/blog/1321_tbc_samples_2016.html
+post_number: '1321'
+reading_time_minutes: 3
+series: general
+slug: tbc_samples_2016
+source_file: 1321_tbc_samples_2016.htm
+tags:
+- parameters
+- references
+- revit-api
+- walls
+title: Migrating The Building Coder Samples to Revit 2016
+word_count: 696
 ---
 
 ### Migrating The Building Coder Samples to Revit 2016

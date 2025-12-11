@@ -1,11 +1,27 @@
 ---
-post_number: "1486"
-title: "The Building Coder"
-slug: "webgl_forge_intro"
-author: "Jeremy Tammik"
-tags: ['family', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1486_webgl_forge_intro.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1486_webgl_forge_intro.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.135566'
+original_url: https://thebuildingcoder.typepad.com/blog/1486_webgl_forge_intro.html
+post_number: '1486'
+reading_time_minutes: 10
+series: general
+slug: webgl_forge_intro
+source_file: 1486_webgl_forge_intro.md
+tags:
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: The Building Coder
+word_count: 2089
 ---
 
 ### Forge Formats, Webinars and Fusion 360 Client API

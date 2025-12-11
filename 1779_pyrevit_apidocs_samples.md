@@ -1,11 +1,21 @@
 ---
-post_number: "1779"
-title: "Pyrevit Apidocs Samples"
-slug: "pyrevit_apidocs_samples"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'sheets']
-source_file: "1779_pyrevit_apidocs_samples.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1779_pyrevit_apidocs_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.729218'
+original_url: https://thebuildingcoder.typepad.com/blog/1779_pyrevit_apidocs_samples.html
+post_number: '1779'
+reading_time_minutes: 2
+series: general
+slug: pyrevit_apidocs_samples
+source_file: 1779_pyrevit_apidocs_samples.md
+tags:
+- python
+- revit-api
+- sheets
+title: Pyrevit Apidocs Samples
+word_count: 394
 ---
 
 ### pyRevit Home and ApiDocs Code Sample Collection

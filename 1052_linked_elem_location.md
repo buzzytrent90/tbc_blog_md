@@ -1,11 +1,27 @@
 ---
-post_number: "1052"
-title: "Determining Host Document Location of a Linked Element"
-slug: "linked_elem_location"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'python', 'references', 'revit-api', 'selection', 'walls']
-source_file: "1052_linked_elem_location.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1052_linked_elem_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.202386'
+original_url: https://thebuildingcoder.typepad.com/blog/1052_linked_elem_location.html
+post_number: '1052'
+reading_time_minutes: 7
+series: general
+slug: linked_elem_location
+source_file: 1052_linked_elem_location.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- python
+- references
+- revit-api
+- selection
+- walls
+title: Determining Host Document Location of a Linked Element
+word_count: 1378
 ---
 
 ### Determining Host Document Location of a Linked Element

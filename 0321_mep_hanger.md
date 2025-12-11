@@ -1,11 +1,22 @@
 ---
-post_number: "0321"
-title: "MEP Hangers"
-slug: "mep_hanger"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api']
-source_file: "0321_mep_hanger.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0321_mep_hanger.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.740656'
+original_url: https://thebuildingcoder.typepad.com/blog/0321_mep_hanger.html
+post_number: '0321'
+reading_time_minutes: 1
+series: mep
+slug: mep_hanger
+source_file: 0321_mep_hanger.htm
+tags:
+- elements
+- family
+- revit-api
+- mep
+title: MEP Hangers
+word_count: 290
 ---
 
 ### MEP Hangers

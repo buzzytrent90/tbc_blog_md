@@ -1,11 +1,23 @@
 ---
-post_number: "1566"
-title: "Align Grid"
-slug: "align_grid"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1566_align_grid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1566_align_grid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.301746'
+original_url: https://thebuildingcoder.typepad.com/blog/1566_align_grid.html
+post_number: '1566'
+reading_time_minutes: 3
+series: general
+slug: align_grid
+source_file: 1566_align_grid.md
+tags:
+- elements
+- revit-api
+- sheets
+- transactions
+- views
+title: Align Grid
+word_count: 636
 ---
 
 ### Aligning a Slightly Off-Axis Grid

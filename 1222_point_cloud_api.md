@@ -1,11 +1,23 @@
 ---
-post_number: "1222"
-title: "Point Cloud Indexing Update"
-slug: "point_cloud_api"
-author: "Jeremy Tammik"
-tags: ['parameters', 'python', 'revit-api', 'views']
-source_file: "1222_point_cloud_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1222_point_cloud_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.541308'
+original_url: https://thebuildingcoder.typepad.com/blog/1222_point_cloud_api.html
+post_number: '1222'
+reading_time_minutes: 8
+series: geometry
+slug: point_cloud_api
+source_file: 1222_point_cloud_api.htm
+tags:
+- parameters
+- python
+- revit-api
+- views
+- geometry
+title: Point Cloud Indexing Update
+word_count: 1643
 ---
 
 ### Point Cloud Indexing Update

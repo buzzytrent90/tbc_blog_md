@@ -1,11 +1,31 @@
 ---
-post_number: "0936"
-title: "Room and Furniture Loops Using Symbols"
-slug: "room_loops_symbols"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'references', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "0936_room_loops_symbols.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0936_room_loops_symbols.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.932497'
+original_url: https://thebuildingcoder.typepad.com/blog/0936_room_loops_symbols.html
+post_number: 0936
+reading_time_minutes: 16
+series: elements
+slug: room_loops_symbols
+source_file: 0936_room_loops_symbols.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- references
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: Room and Furniture Loops Using Symbols
+word_count: 3100
 ---
 
 ### Room and Furniture Loops Using Symbols

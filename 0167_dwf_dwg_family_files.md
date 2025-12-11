@@ -1,11 +1,22 @@
 ---
-post_number: "0167"
-title: "DWG and DWF Family Creation"
-slug: "dwf_dwg_family_files"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'parameters', 'revit-api']
-source_file: "0167_dwf_dwg_family_files.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0167_dwf_dwg_family_files.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.475005'
+original_url: https://thebuildingcoder.typepad.com/blog/0167_dwf_dwg_family_files.html
+post_number: '0167'
+reading_time_minutes: 4
+series: family
+slug: dwf_dwg_family_files
+source_file: 0167_dwf_dwg_family_files.htm
+tags:
+- family
+- geometry
+- parameters
+- revit-api
+title: DWG and DWF Family Creation
+word_count: 871
 ---
 
 ### DWG and DWF Family Creation

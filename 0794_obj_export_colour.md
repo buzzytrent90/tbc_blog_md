@@ -1,11 +1,21 @@
 ---
-post_number: "0794"
-title: "OBJ Model Exporter with Colours"
-slug: "obj_export_colour"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'views']
-source_file: "0794_obj_export_colour.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0794_obj_export_colour.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.606828'
+original_url: https://thebuildingcoder.typepad.com/blog/0794_obj_export_colour.html
+post_number: 0794
+reading_time_minutes: 3
+series: general
+slug: obj_export_colour
+source_file: 0794_obj_export_colour.htm
+tags:
+- elements
+- revit-api
+- views
+title: OBJ Model Exporter with Colours
+word_count: 683
 ---
 
 ### OBJ Model Exporter with Colours

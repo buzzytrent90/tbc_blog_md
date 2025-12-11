@@ -1,11 +1,32 @@
 ---
-post_number: "1119"
-title: "Selecting Visible Categories from a Set of Views"
-slug: "select_categories"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'geometry', 'levels', 'python', 'revit-api', 'rooms', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1119_select_categories.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1119_select_categories.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.339719'
+original_url: https://thebuildingcoder.typepad.com/blog/1119_select_categories.html
+post_number: '1119'
+reading_time_minutes: 9
+series: general
+slug: select_categories
+source_file: 1119_select_categories.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- geometry
+- levels
+- python
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Selecting Visible Categories from a Set of Views
+word_count: 1730
 ---
 
 ### Selecting Visible Categories from a Set of Views

@@ -1,11 +1,26 @@
 ---
-post_number: "1900"
-title: "Forgetypeid"
-slug: "forgetypeid"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1900_forgetypeid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1900_forgetypeid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.998748'
+original_url: https://thebuildingcoder.typepad.com/blog/1900_forgetypeid.html
+post_number: '1900'
+reading_time_minutes: 10
+series: elements
+slug: forgetypeid
+source_file: 1900_forgetypeid.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Forgetypeid
+word_count: 1905
 ---
 
 ### PDF Export, ForgeTypeId and Multi-Target Add-In

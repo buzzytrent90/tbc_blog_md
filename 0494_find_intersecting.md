@@ -1,11 +1,28 @@
 ---
-post_number: "0494"
-title: "Find Intersecting Elements"
-slug: "find_intersecting"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'python', 'references', 'revit-api', 'schedules', 'selection', 'transactions', 'views']
-source_file: "0494_find_intersecting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0494_find_intersecting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.051558'
+original_url: https://thebuildingcoder.typepad.com/blog/0494_find_intersecting.html
+post_number: 0494
+reading_time_minutes: 3
+series: general
+slug: find_intersecting
+source_file: 0494_find_intersecting.htm
+tags:
+- elements
+- family
+- filtering
+- python
+- references
+- revit-api
+- schedules
+- selection
+- transactions
+- views
+title: Find Intersecting Elements
+word_count: 558
 ---
 
 ### Find Intersecting Elements

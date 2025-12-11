@@ -1,11 +1,21 @@
 ---
-post_number: "0664"
-title: "Families Guide"
-slug: "families_guide"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'views']
-source_file: "0664_families_guide.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0664_families_guide.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.356353'
+original_url: https://thebuildingcoder.typepad.com/blog/0664_families_guide.html
+post_number: '0664'
+reading_time_minutes: 2
+series: general
+slug: families_guide
+source_file: 0664_families_guide.htm
+tags:
+- family
+- revit-api
+- views
+title: Families Guide
+word_count: 460
 ---
 
 ### Families Guide

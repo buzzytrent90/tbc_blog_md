@@ -1,11 +1,24 @@
 ---
-post_number: "0345"
-title: "Manual Regeneration Option Danger"
-slug: "manual_regeneration"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'revit-api', 'transactions']
-source_file: "0345_manual_regeneration.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0345_manual_regeneration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: news
+optimization_date: '2025-12-11T11:44:13.781747'
+original_url: https://thebuildingcoder.typepad.com/blog/0345_manual_regeneration.html
+post_number: '0345'
+reading_time_minutes: 4
+series: general
+slug: manual_regeneration
+source_file: 0345_manual_regeneration.htm
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- revit-api
+- transactions
+title: Manual Regeneration Option Danger
+word_count: 754
 ---
 
 ### Manual Regeneration Option Danger

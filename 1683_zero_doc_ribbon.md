@@ -1,11 +1,23 @@
 ---
-post_number: "1683"
-title: "Zero Doc Ribbon"
-slug: "zero_doc_ribbon"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1683_zero_doc_ribbon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1683_zero_doc_ribbon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.516178'
+original_url: https://thebuildingcoder.typepad.com/blog/1683_zero_doc_ribbon.html
+post_number: '1683'
+reading_time_minutes: 6
+series: general
+slug: zero_doc_ribbon
+source_file: 1683_zero_doc_ribbon.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- views
+title: Zero Doc Ribbon
+word_count: 1194
 ---
 
 ### Support DLL, Zero Doc State and Forge Accelerators

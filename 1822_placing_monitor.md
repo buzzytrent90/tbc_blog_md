@@ -1,11 +1,25 @@
 ---
-post_number: "1822"
-title: "Placing Monitor"
-slug: "placing_monitor"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'references', 'revit-api', 'sheets', 'transactions', 'windows']
-source_file: "1822_placing_monitor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1822_placing_monitor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.816321'
+original_url: https://thebuildingcoder.typepad.com/blog/1822_placing_monitor.html
+post_number: '1822'
+reading_time_minutes: 5
+series: general
+slug: placing_monitor
+source_file: 1822_placing_monitor.md
+tags:
+- elements
+- family
+- references
+- revit-api
+- sheets
+- transactions
+- windows
+title: Placing Monitor
+word_count: 999
 ---
 
 ### Multi-Threading Family Instance Placement Monitor

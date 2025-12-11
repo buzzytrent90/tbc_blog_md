@@ -1,11 +1,24 @@
 ---
-post_number: "0230"
-title: "Unrotate North"
-slug: "unrotate_north"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'selection', 'views']
-source_file: "0230_unrotate_north.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0230_unrotate_north.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.589970'
+original_url: https://thebuildingcoder.typepad.com/blog/0230_unrotate_north.html
+post_number: '0230'
+reading_time_minutes: 5
+series: general
+slug: unrotate_north
+source_file: 0230_unrotate_north.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- selection
+- views
+title: Unrotate North
+word_count: 932
 ---
 
 ### Unrotate North

@@ -1,11 +1,24 @@
 ---
-post_number: "1230"
-title: "Attached Detail Groups and Inverse Relationships"
-slug: "attached_detail_group"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'parameters', 'revit-api', 'walls', 'windows']
-source_file: "1230_attached_detail_group.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1230_attached_detail_group.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.561528'
+original_url: https://thebuildingcoder.typepad.com/blog/1230_attached_detail_group.html
+post_number: '1230'
+reading_time_minutes: 2
+series: general
+slug: attached_detail_group
+source_file: 1230_attached_detail_group.htm
+tags:
+- doors
+- elements
+- parameters
+- revit-api
+- walls
+- windows
+title: Attached Detail Groups and Inverse Relationships
+word_count: 450
 ---
 
 ### Attached Detail Groups and Inverse Relationships

@@ -1,11 +1,28 @@
 ---
-post_number: "1942"
-title: "Prevent Modification"
-slug: "prevent_modification"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views', 'windows']
-source_file: "1942_prevent_modification.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1942_prevent_modification.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.094117'
+original_url: https://thebuildingcoder.typepad.com/blog/1942_prevent_modification.html
+post_number: '1942'
+reading_time_minutes: 9
+series: general
+slug: prevent_modification
+source_file: 1942_prevent_modification.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+- windows
+title: Prevent Modification
+word_count: 1782
 ---
 
 ### RevitLookup, WPF, Preventing Modification

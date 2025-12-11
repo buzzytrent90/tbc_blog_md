@@ -1,11 +1,27 @@
 ---
-post_number: "1476"
-title: "The Building Coder"
-slug: "roomedit3d_forge_warn"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1476_roomedit3d_forge_warn.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1476_roomedit3d_forge_warn.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.112868'
+original_url: https://thebuildingcoder.typepad.com/blog/1476_roomedit3d_forge_warn.html
+post_number: '1476'
+reading_time_minutes: 9
+series: general
+slug: roomedit3d_forge_warn
+source_file: 1476_roomedit3d_forge_warn.md
+tags:
+- elements
+- family
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: The Building Coder
+word_count: 1886
 ---
 
 ### Warning Swallower and Roomedit3d Viewer Extension

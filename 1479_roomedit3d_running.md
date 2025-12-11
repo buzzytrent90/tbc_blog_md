@@ -1,11 +1,28 @@
 ---
-post_number: "1479"
-title: "The Building Coder"
-slug: "roomedit3d_running"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1479_roomedit3d_running.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1479_roomedit3d_running.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.119752'
+original_url: https://thebuildingcoder.typepad.com/blog/1479_roomedit3d_running.html
+post_number: '1479'
+reading_time_minutes: 8
+series: general
+slug: roomedit3d_running
+source_file: 1479_roomedit3d_running.md
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: The Building Coder
+word_count: 1625
 ---
 
 ### Roomedit3dv3 Up and Running with Demo Recording

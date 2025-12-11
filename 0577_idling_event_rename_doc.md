@@ -1,11 +1,24 @@
 ---
-post_number: "0577"
-title: "Cascaded Events and Renaming the Active Document"
-slug: "idling_event_rename_doc"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'levels', 'python', 'revit-api', 'transactions']
-source_file: "0577_idling_event_rename_doc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0577_idling_event_rename_doc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.203521'
+original_url: https://thebuildingcoder.typepad.com/blog/0577_idling_event_rename_doc.html
+post_number: '0577'
+reading_time_minutes: 7
+series: general
+slug: idling_event_rename_doc
+source_file: 0577_idling_event_rename_doc.htm
+tags:
+- csharp
+- doors
+- levels
+- python
+- revit-api
+- transactions
+title: Cascaded Events and Renaming the Active Document
+word_count: 1433
 ---
 
 ### Cascaded Events and Renaming the Active Document

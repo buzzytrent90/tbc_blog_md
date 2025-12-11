@@ -1,11 +1,23 @@
 ---
-post_number: "1732"
-title: "Snoop Appearance Asset"
-slug: "snoop_appearance_asset"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'sheets', 'views']
-source_file: "1732_snoop_appearance_asset.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1732_snoop_appearance_asset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.626724'
+original_url: https://thebuildingcoder.typepad.com/blog/1732_snoop_appearance_asset.html
+post_number: '1732'
+reading_time_minutes: 2
+series: materials
+slug: snoop_appearance_asset
+source_file: 1732_snoop_appearance_asset.md
+tags:
+- levels
+- revit-api
+- sheets
+- views
+- materials
+title: Snoop Appearance Asset
+word_count: 497
 ---
 
 ### Forge Picture, Debugging, Snooping Appearances

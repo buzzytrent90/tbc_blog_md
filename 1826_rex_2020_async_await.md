@@ -1,11 +1,28 @@
 ---
-post_number: "1826"
-title: "Rex 2020 Async Await"
-slug: "rex_2020_async_await"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1826_rex_2020_async_await.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1826_rex_2020_async_await.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.825565'
+original_url: https://thebuildingcoder.typepad.com/blog/1826_rex_2020_async_await.html
+post_number: '1826'
+reading_time_minutes: 8
+series: general
+slug: rex_2020_async_await
+source_file: 1826_rex_2020_async_await.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Rex 2020 Async Await
+word_count: 1601
 ---
 
 ### Another Async Await, REX + Structural Analysis SDK

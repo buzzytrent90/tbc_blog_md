@@ -1,11 +1,26 @@
 ---
-post_number: "0907"
-title: "Sweep Family Performance Enhancement"
-slug: "sweep_performance"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0907_sweep_performance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0907_sweep_performance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.861549'
+original_url: https://thebuildingcoder.typepad.com/blog/0907_sweep_performance.html
+post_number: 0907
+reading_time_minutes: 6
+series: general
+slug: sweep_performance
+source_file: 0907_sweep_performance.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- transactions
+- views
+- windows
+title: Sweep Family Performance Enhancement
+word_count: 1194
 ---
 
 ﻿

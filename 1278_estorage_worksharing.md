@@ -1,11 +1,25 @@
 ---
-post_number: "1278"
-title: "Extensible Storage in a Worksharing Environment"
-slug: "estorage_worksharing"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "1278_estorage_worksharing.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1278_estorage_worksharing.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.661314'
+original_url: https://thebuildingcoder.typepad.com/blog/1278_estorage_worksharing.html
+post_number: '1278'
+reading_time_minutes: 11
+series: general
+slug: estorage_worksharing
+source_file: 1278_estorage_worksharing.htm
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- transactions
+- views
+- walls
+title: Extensible Storage in a Worksharing Environment
+word_count: 2281
 ---
 
 ### Extensible Storage in a Worksharing Environment

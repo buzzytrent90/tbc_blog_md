@@ -1,11 +1,31 @@
 ---
-post_number: "0688"
-title: "Unit Conversion and Display String Formatting"
-slug: "unit_display_str"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "0688_unit_display_str.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0688_unit_display_str.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.397881'
+original_url: https://thebuildingcoder.typepad.com/blog/0688_unit_display_str.html
+post_number: 0688
+reading_time_minutes: 11
+series: general
+slug: unit_display_str
+source_file: 0688_unit_display_str.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Unit Conversion and Display String Formatting
+word_count: 2239
 ---
 
 ﻿

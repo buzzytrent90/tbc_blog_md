@@ -1,11 +1,23 @@
 ---
-post_number: "1817"
-title: "Async Await"
-slug: "async_await"
-author: "Jeremy Tammik"
-tags: ['levels', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1817_async_await.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1817_async_await.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.804714'
+original_url: https://thebuildingcoder.typepad.com/blog/1817_async_await.html
+post_number: '1817'
+reading_time_minutes: 7
+series: general
+slug: async_await
+source_file: 1817_async_await.md
+tags:
+- levels
+- python
+- revit-api
+- sheets
+- views
+title: Async Await
+word_count: 1431
 ---
 
 ### External Communication and Async Await Event

@@ -1,11 +1,28 @@
 ---
-post_number: "1356"
-title: "Geom Transact Link"
-slug: "geom_transact_link"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1356_geom_transact_link.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1356_geom_transact_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.836989'
+original_url: https://thebuildingcoder.typepad.com/blog/1356_geom_transact_link.html
+post_number: '1356'
+reading_time_minutes: 4
+series: general
+slug: geom_transact_link
+source_file: 1356_geom_transact_link.md
+tags:
+- elements
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Geom Transact Link
+word_count: 700
 ---
 
 ### Geometry Basics and No Modifying Linked Files

@@ -1,11 +1,25 @@
 ---
-post_number: "1516"
-title: "Dim Vert"
-slug: "dim_vert"
-author: "Jeremy Tammik"
-tags: ['geometry', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1516_dim_vert.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1516_dim_vert.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.198515'
+original_url: https://thebuildingcoder.typepad.com/blog/1516_dim_vert.html
+post_number: '1516'
+reading_time_minutes: 13
+series: general
+slug: dim_vert
+source_file: 1516_dim_vert.md
+tags:
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Dim Vert
+word_count: 2561
 ---
 
 ### Vertical Dimensioning and Revit API QAS Research

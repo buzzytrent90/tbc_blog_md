@@ -1,11 +1,23 @@
 ---
-post_number: "0053"
-title: "2D Polygon Areas and Outer Loop"
-slug: "2d_polygon_area_outer_loop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'walls', 'windows']
-source_file: "0053_2d_polygon_area_outer_loop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0053_2d_polygon_area_outer_loop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.291955'
+original_url: https://thebuildingcoder.typepad.com/blog/0053_2d_polygon_area_outer_loop.html
+post_number: '0053'
+reading_time_minutes: 6
+series: general
+slug: 2d_polygon_area_outer_loop
+source_file: 0053_2d_polygon_area_outer_loop.htm
+tags:
+- csharp
+- elements
+- revit-api
+- walls
+- windows
+title: 2D Polygon Areas and Outer Loop
+word_count: 1243
 ---
 
 ### 2D Polygon Areas and Outer Loop

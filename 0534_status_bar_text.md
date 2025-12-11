@@ -1,11 +1,22 @@
 ---
-post_number: "0534"
-title: "Status Bar Text"
-slug: "status_bar_text"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'windows']
-source_file: "0534_status_bar_text.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0534_status_bar_text.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.120820'
+original_url: https://thebuildingcoder.typepad.com/blog/0534_status_bar_text.html
+post_number: '0534'
+reading_time_minutes: 3
+series: general
+slug: status_bar_text
+source_file: 0534_status_bar_text.htm
+tags:
+- csharp
+- elements
+- revit-api
+- windows
+title: Status Bar Text
+word_count: 621
 ---
 
 ### Status Bar Text

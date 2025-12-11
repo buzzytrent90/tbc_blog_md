@@ -1,11 +1,19 @@
 ---
-post_number: "0270"
-title: "Create a Real Revit Ribbon Tab"
-slug: "revit_ribbon_tab"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0270_revit_ribbon_tab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0270_revit_ribbon_tab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.653849'
+original_url: https://thebuildingcoder.typepad.com/blog/0270_revit_ribbon_tab.html
+post_number: '0270'
+reading_time_minutes: 1
+series: general
+slug: revit_ribbon_tab
+source_file: 0270_revit_ribbon_tab.htm
+tags:
+- revit-api
+title: Create a Real Revit Ribbon Tab
+word_count: 227
 ---
 
 ### Create a Real Revit Ribbon Tab

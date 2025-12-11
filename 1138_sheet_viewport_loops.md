@@ -1,11 +1,29 @@
 ---
-post_number: "1138"
-title: "Determining the Size and Location of Viewports on a Sheet"
-slug: "sheet_viewport_loops"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1138_sheet_viewport_loops.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1138_sheet_viewport_loops.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.376795'
+original_url: https://thebuildingcoder.typepad.com/blog/1138_sheet_viewport_loops.html
+post_number: '1138'
+reading_time_minutes: 4
+series: views
+slug: sheet_viewport_loops
+source_file: 1138_sheet_viewport_loops.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Determining the Size and Location of Viewports on a Sheet
+word_count: 709
 ---
 
 ### Determining the Size and Location of Viewports on a Sheet

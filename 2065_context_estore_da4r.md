@@ -1,11 +1,27 @@
 ---
-post_number: "2065"
-title: "Context Estore Da4r"
-slug: "context_estore_da4r"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "2065_context_estore_da4r.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2065_context_estore_da4r.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.403430'
+original_url: https://thebuildingcoder.typepad.com/blog/2065_context_estore_da4r.html
+post_number: '2065'
+reading_time_minutes: 9
+series: general
+slug: context_estore_da4r
+source_file: 2065_context_estore_da4r.md
+tags:
+- csharp
+- elements
+- filtering
+- python
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Context Estore Da4r
+word_count: 1846
 ---
 
 ### API Context and Extensible Storage in DA4R

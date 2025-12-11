@@ -1,11 +1,23 @@
 ---
-post_number: "0154"
-title: "Rename a Group"
-slug: "rename_group"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'walls']
-source_file: "0154_rename_group.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0154_rename_group.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.453476'
+original_url: https://thebuildingcoder.typepad.com/blog/0154_rename_group.html
+post_number: '0154'
+reading_time_minutes: 2
+series: general
+slug: rename_group
+source_file: 0154_rename_group.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- walls
+title: Rename a Group
+word_count: 363
 ---
 
 ### Rename a Group

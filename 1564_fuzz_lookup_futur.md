@@ -1,11 +1,26 @@
 ---
-post_number: "1564"
-title: "Fuzz Lookup Futur"
-slug: "fuzz_lookup_futur"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1564_fuzz_lookup_futur.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1564_fuzz_lookup_futur.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.297536'
+original_url: https://thebuildingcoder.typepad.com/blog/1564_fuzz_lookup_futur.html
+post_number: '1564'
+reading_time_minutes: 5
+series: general
+slug: fuzz_lookup_futur
+source_file: 1564_fuzz_lookup_futur.md
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Fuzz Lookup Futur
+word_count: 1078
 ---
 
 ### Connected BIM, Intuitive AI, RevitLookup and Fuzzy Comparison

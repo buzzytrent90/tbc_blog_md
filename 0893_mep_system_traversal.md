@@ -1,11 +1,24 @@
 ---
-post_number: "0893"
-title: "Simple MEP System Traversal"
-slug: "mep_system_traversal"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'transactions']
-source_file: "0893_mep_system_traversal.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0893_mep_system_traversal.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.811331'
+original_url: https://thebuildingcoder.typepad.com/blog/0893_mep_system_traversal.html
+post_number: 0893
+reading_time_minutes: 3
+series: mep
+slug: mep_system_traversal
+source_file: 0893_mep_system_traversal.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- transactions
+- mep
+title: Simple MEP System Traversal
+word_count: 574
 ---
 
 ### Simple MEP System Traversal

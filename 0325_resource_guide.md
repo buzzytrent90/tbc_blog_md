@@ -1,11 +1,23 @@
 ---
-post_number: "0325"
-title: "Revit API Resource and Getting Started Guide"
-slug: "resource_guide"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'vbnet', 'views', 'windows']
-source_file: "0325_resource_guide.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0325_resource_guide.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.746559'
+original_url: https://thebuildingcoder.typepad.com/blog/0325_resource_guide.html
+post_number: '0325'
+reading_time_minutes: 1
+series: general
+slug: resource_guide
+source_file: 0325_resource_guide.htm
+tags:
+- csharp
+- revit-api
+- vbnet
+- views
+- windows
+title: Revit API Resource and Getting Started Guide
+word_count: 190
 ---
 
 ### Revit API Resource and Getting Started Guide

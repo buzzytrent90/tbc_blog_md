@@ -1,11 +1,25 @@
 ---
-post_number: "1140"
-title: "WPF Fill Pattern Viewer Control Benchmark"
-slug: "fill_pattern_benchmark"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'rooms', 'transactions', 'views']
-source_file: "1140_fill_pattern_benchmark.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1140_fill_pattern_benchmark.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.380223'
+original_url: https://thebuildingcoder.typepad.com/blog/1140_fill_pattern_benchmark.html
+post_number: '1140'
+reading_time_minutes: 5
+series: general
+slug: fill_pattern_benchmark
+source_file: 1140_fill_pattern_benchmark.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- rooms
+- transactions
+- views
+title: WPF Fill Pattern Viewer Control Benchmark
+word_count: 948
 ---
 
 ### WPF Fill Pattern Viewer Control Benchmark

@@ -1,11 +1,27 @@
 ---
-post_number: "1385"
-title: "External Service"
-slug: "external_service"
-author: "Jeremy Tammik"
-tags: ['csharp', 'filtering', 'geometry', 'levels', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1385_external_service.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1385_external_service.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.908033'
+original_url: https://thebuildingcoder.typepad.com/blog/1385_external_service.html
+post_number: '1385'
+reading_time_minutes: 5
+series: general
+slug: external_service
+source_file: 1385_external_service.md
+tags:
+- csharp
+- filtering
+- geometry
+- levels
+- python
+- references
+- revit-api
+- sheets
+- views
+title: External Service
+word_count: 940
 ---
 
 ### External Services

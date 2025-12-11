@@ -1,11 +1,24 @@
 ---
-post_number: "1114"
-title: "Using Balloon Tips in Revit"
-slug: "balloon_tip"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'selection', 'windows']
-source_file: "1114_balloon_tip.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1114_balloon_tip.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.331147'
+original_url: https://thebuildingcoder.typepad.com/blog/1114_balloon_tip.html
+post_number: '1114'
+reading_time_minutes: 3
+series: general
+slug: balloon_tip
+source_file: 1114_balloon_tip.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- selection
+- windows
+title: Using Balloon Tips in Revit
+word_count: 617
 ---
 
 ### Using Balloon Tips in Revit

@@ -1,11 +1,26 @@
 ---
-post_number: "1969"
-title: "Chain Idling"
-slug: "chain_idling"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1969_chain_idling.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1969_chain_idling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.156151'
+original_url: https://thebuildingcoder.typepad.com/blog/1969_chain_idling.html
+post_number: '1969'
+reading_time_minutes: 13
+series: general
+slug: chain_idling
+source_file: 1969_chain_idling.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- sheets
+- views
+- windows
+title: Chain Idling
+word_count: 2550
 ---
 
 ### Can You Avoid Chaining Idling?

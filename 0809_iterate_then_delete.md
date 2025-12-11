@@ -1,11 +1,23 @@
 ---
-post_number: "0809"
-title: "Do Not Delete During Iteration"
-slug: "iterate_then_delete"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'rooms', 'transactions']
-source_file: "0809_iterate_then_delete.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0809_iterate_then_delete.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.638702'
+original_url: https://thebuildingcoder.typepad.com/blog/0809_iterate_then_delete.html
+post_number: 0809
+reading_time_minutes: 3
+series: general
+slug: iterate_then_delete
+source_file: 0809_iterate_then_delete.htm
+tags:
+- elements
+- family
+- revit-api
+- rooms
+- transactions
+title: Do Not Delete During Iteration
+word_count: 635
 ---
 
 ### Do Not Delete During Iteration

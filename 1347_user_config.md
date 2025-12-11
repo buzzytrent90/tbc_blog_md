@@ -1,11 +1,22 @@
 ---
-post_number: "1347"
-title: "Revit Future and Saving User Configuration Settings"
-slug: "user_config"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'views']
-source_file: "1347_user_config.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1347_user_config.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.817979'
+original_url: https://thebuildingcoder.typepad.com/blog/1347_user_config.html
+post_number: '1347'
+reading_time_minutes: 3
+series: general
+slug: user_config
+source_file: 1347_user_config.htm
+tags:
+- elements
+- levels
+- revit-api
+- views
+title: Revit Future and Saving User Configuration Settings
+word_count: 576
 ---
 
 ### Revit Future and Saving User Configuration Settings

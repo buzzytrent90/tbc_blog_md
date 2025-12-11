@@ -1,11 +1,25 @@
 ---
-post_number: "1675"
-title: "10year Modeless"
-slug: "10year_modeless"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1675_10year_modeless.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1675_10year_modeless.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.504430'
+original_url: https://thebuildingcoder.typepad.com/blog/1675_10year_modeless.html
+post_number: '1675'
+reading_time_minutes: 4
+series: general
+slug: 10year_modeless
+source_file: 1675_10year_modeless.md
+tags:
+- elements
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: 10year Modeless
+word_count: 746
 ---
 
 ### Ten Years of TBC and Revit API with MVVM, WPF and WinForm

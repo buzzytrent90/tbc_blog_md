@@ -1,11 +1,22 @@
 ---
-post_number: "0462"
-title: "Plane Normal and Points on Plane"
-slug: "points_on_plane"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'references', 'revit-api']
-source_file: "0462_points_on_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0462_points_on_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.985831'
+original_url: https://thebuildingcoder.typepad.com/blog/0462_points_on_plane.html
+post_number: '0462'
+reading_time_minutes: 1
+series: geometry
+slug: points_on_plane
+source_file: 0462_points_on_plane.htm
+tags:
+- elements
+- geometry
+- references
+- revit-api
+title: Plane Normal and Points on Plane
+word_count: 262
 ---
 
 ### Plane Normal and Points on Plane

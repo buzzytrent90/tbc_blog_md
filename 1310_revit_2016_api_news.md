@@ -1,11 +1,21 @@
 ---
-post_number: "1310"
-title: "Revit 2016 API News and DevDays Online Recording"
-slug: "revit_2016_api_news"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'views']
-source_file: "1310_revit_2016_api_news.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1310_revit_2016_api_news.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: news
+optimization_date: '2025-12-11T11:44:15.742862'
+original_url: https://thebuildingcoder.typepad.com/blog/1310_revit_2016_api_news.html
+post_number: '1310'
+reading_time_minutes: 3
+series: general
+slug: revit_2016_api_news
+source_file: 1310_revit_2016_api_news.htm
+tags:
+- elements
+- revit-api
+- views
+title: Revit 2016 API News and DevDays Online Recording
+word_count: 591
 ---
 
 ﻿

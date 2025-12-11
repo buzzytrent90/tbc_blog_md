@@ -1,11 +1,24 @@
 ---
-post_number: "0630"
-title: "View Discipline Enumeration Values"
-slug: "view_discipline"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "0630_view_discipline.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0630_view_discipline.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.296576'
+original_url: https://thebuildingcoder.typepad.com/blog/0630_view_discipline.html
+post_number: '0630'
+reading_time_minutes: 1
+series: views
+slug: view_discipline
+source_file: 0630_view_discipline.htm
+tags:
+- csharp
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: View Discipline Enumeration Values
+word_count: 281
 ---
 
 ### View Discipline Enumeration Values

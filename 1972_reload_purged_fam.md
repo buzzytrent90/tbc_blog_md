@@ -1,11 +1,25 @@
 ---
-post_number: "1972"
-title: "Reload Purged Fam"
-slug: "reload_purged_fam"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1972_reload_purged_fam.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1972_reload_purged_fam.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.163182'
+original_url: https://thebuildingcoder.typepad.com/blog/1972_reload_purged_fam.html
+post_number: '1972'
+reading_time_minutes: 6
+series: structural
+slug: reload_purged_fam
+source_file: 1972_reload_purged_fam.md
+tags:
+- family
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- structural
+title: Reload Purged Fam
+word_count: 1176
 ---
 
 ### APS Accelerator and Reloading a Purged Family

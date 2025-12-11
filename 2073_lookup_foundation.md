@@ -1,11 +1,28 @@
 ---
-post_number: "2073"
-title: "Lookup Foundation"
-slug: "lookup_foundation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "2073_lookup_foundation.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2073_lookup_foundation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.424902'
+original_url: https://thebuildingcoder.typepad.com/blog/2073_lookup_foundation.html
+post_number: '2073'
+reading_time_minutes: 8
+series: general
+slug: lookup_foundation
+source_file: 2073_lookup_foundation.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Lookup Foundation
+word_count: 1599
 ---
 
 ### Lookup Foundation, RevitLookup 2026 and DA4R 2026

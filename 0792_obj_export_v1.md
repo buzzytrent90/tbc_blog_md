@@ -1,11 +1,29 @@
 ---
-post_number: "0792"
-title: "OBJ Model Exporter Take One"
-slug: "obj_export_v1"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0792_obj_export_v1.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0792_obj_export_v1.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.602048'
+original_url: https://thebuildingcoder.typepad.com/blog/0792_obj_export_v1.html
+post_number: 0792
+reading_time_minutes: 13
+series: general
+slug: obj_export_v1
+source_file: 0792_obj_export_v1.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: OBJ Model Exporter Take One
+word_count: 2567
 ---
 
 ### OBJ Model Exporter Take One

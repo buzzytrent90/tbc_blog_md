@@ -1,11 +1,21 @@
 ---
-post_number: "0649"
-title: "Revit IFC Exporter Released as Open Source"
-slug: "ifc_export_open_src"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api']
-source_file: "0649_ifc_export_open_src.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0649_ifc_export_open_src.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.329269'
+original_url: https://thebuildingcoder.typepad.com/blog/0649_ifc_export_open_src.html
+post_number: 0649
+reading_time_minutes: 4
+series: general
+slug: ifc_export_open_src
+source_file: 0649_ifc_export_open_src.htm
+tags:
+- elements
+- parameters
+- revit-api
+title: Revit IFC Exporter Released as Open Source
+word_count: 777
 ---
 
 ### Revit IFC Exporter Released as Open Source

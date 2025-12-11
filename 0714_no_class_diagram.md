@@ -1,11 +1,22 @@
 ---
-post_number: "0714"
-title: "No Revit API Class Diagram"
-slug: "no_class_diagram"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'views']
-source_file: "0714_no_class_diagram.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0714_no_class_diagram.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.450114'
+original_url: https://thebuildingcoder.typepad.com/blog/0714_no_class_diagram.html
+post_number: '0714'
+reading_time_minutes: 3
+series: general
+slug: no_class_diagram
+source_file: 0714_no_class_diagram.htm
+tags:
+- csharp
+- references
+- revit-api
+- views
+title: No Revit API Class Diagram
+word_count: 653
 ---
 
 ### No Revit API Class Diagram

@@ -1,11 +1,26 @@
 ---
-post_number: "0211"
-title: "New Sweep and References"
-slug: "new_sweep_references"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'references', 'revit-api', 'vbnet', 'walls']
-source_file: "0211_new_sweep_references.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0211_new_sweep_references.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.557803'
+original_url: https://thebuildingcoder.typepad.com/blog/0211_new_sweep_references.html
+post_number: '0211'
+reading_time_minutes: 5
+series: general
+slug: new_sweep_references
+source_file: 0211_new_sweep_references.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- references
+- revit-api
+- vbnet
+- walls
+title: New Sweep and References
+word_count: 998
 ---
 
 ### New Sweep and References

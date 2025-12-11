@@ -1,11 +1,26 @@
 ---
-post_number: "1489"
-title: "The Building Coder"
-slug: "tu_darmstadt"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'rooms', 'sheets', 'vbnet', 'views', 'walls']
-source_file: "1489_tu_darmstadt.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1489_tu_darmstadt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.142500'
+original_url: https://thebuildingcoder.typepad.com/blog/1489_tu_darmstadt.html
+post_number: '1489'
+reading_time_minutes: 6
+series: general
+slug: tu_darmstadt
+source_file: 1489_tu_darmstadt.md
+tags:
+- csharp
+- elements
+- revit-api
+- rooms
+- sheets
+- vbnet
+- views
+- walls
+title: The Building Coder
+word_count: 1283
 ---
 
 ### Revit API Connecting Desktop and Cloud @ TUDa

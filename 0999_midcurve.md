@@ -1,11 +1,28 @@
 ---
-post_number: "0999"
-title: "Generating a MidCurve Between Two Curve Elements"
-slug: "midcurve"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions']
-source_file: "0999_midcurve.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0999_midcurve.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.089653'
+original_url: https://thebuildingcoder.typepad.com/blog/0999_midcurve.html
+post_number: 0999
+reading_time_minutes: 7
+series: geometry
+slug: midcurve
+source_file: 0999_midcurve.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+title: Generating a MidCurve Between Two Curve Elements
+word_count: 1309
 ---
 
 ### Generating a MidCurve Between Two Curve Elements

@@ -1,11 +1,25 @@
 ---
-post_number: "1938"
-title: "Utils Stirrups"
-slug: "utils_stirrups"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1938_utils_stirrups.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1938_utils_stirrups.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.086022'
+original_url: https://thebuildingcoder.typepad.com/blog/1938_utils_stirrups.html
+post_number: '1938'
+reading_time_minutes: 8
+series: general
+slug: utils_stirrups
+source_file: 1938_utils_stirrups.md
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+title: Utils Stirrups
+word_count: 1562
 ---
 
 ### Utility Classes and Constraining Stirrups

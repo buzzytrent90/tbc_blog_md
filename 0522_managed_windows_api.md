@@ -1,11 +1,22 @@
 ---
-post_number: "0522"
-title: "Managed Windows API"
-slug: "managed_windows_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'vbnet', 'windows']
-source_file: "0522_managed_windows_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0522_managed_windows_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.098113'
+original_url: https://thebuildingcoder.typepad.com/blog/0522_managed_windows_api.html
+post_number: '0522'
+reading_time_minutes: 1
+series: general
+slug: managed_windows_api
+source_file: 0522_managed_windows_api.htm
+tags:
+- csharp
+- revit-api
+- vbnet
+- windows
+title: Managed Windows API
+word_count: 183
 ---
 
 ### Managed Windows API

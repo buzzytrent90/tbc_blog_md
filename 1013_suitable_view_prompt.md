@@ -1,11 +1,23 @@
 ---
-post_number: "1013"
-title: "Set a Suitable View for Family Instance Placement"
-slug: "suitable_view_prompt"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'vbnet', 'views']
-source_file: "1013_suitable_view_prompt.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1013_suitable_view_prompt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.119203'
+original_url: https://thebuildingcoder.typepad.com/blog/1013_suitable_view_prompt.html
+post_number: '1013'
+reading_time_minutes: 5
+series: views
+slug: suitable_view_prompt
+source_file: 1013_suitable_view_prompt.htm
+tags:
+- elements
+- family
+- revit-api
+- vbnet
+- views
+title: Set a Suitable View for Family Instance Placement
+word_count: 1085
 ---
 
 ### Set a Suitable View for Family Instance Placement

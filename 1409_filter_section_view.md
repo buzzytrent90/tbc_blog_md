@@ -1,11 +1,28 @@
 ---
-post_number: "1409"
-title: "Filter Section View"
-slug: "filter_section_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1409_filter_section_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1409_filter_section_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.958234'
+original_url: https://thebuildingcoder.typepad.com/blog/1409_filter_section_view.html
+post_number: '1409'
+reading_time_minutes: 5
+series: filtering
+slug: filter_section_view
+source_file: 1409_filter_section_view.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Filter Section View
+word_count: 981
 ---
 
 ### API, SDK and View Section Box Element Intersection

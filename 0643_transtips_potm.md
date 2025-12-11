@@ -1,11 +1,20 @@
 ---
-post_number: "0643"
-title: "TransTips ADN Plugin of the Month"
-slug: "transtips_potm"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0643_transtips_potm.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0643_transtips_potm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:14.318468'
+original_url: https://thebuildingcoder.typepad.com/blog/0643_transtips_potm.html
+post_number: '0643'
+reading_time_minutes: 1
+series: general
+slug: transtips_potm
+source_file: 0643_transtips_potm.htm
+tags:
+- revit-api
+- views
+title: TransTips ADN Plugin of the Month
+word_count: 275
 ---
 
 ### TransTips ADN Plugin of the Month

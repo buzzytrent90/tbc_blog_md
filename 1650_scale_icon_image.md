@@ -1,11 +1,21 @@
 ---
-post_number: "1650"
-title: "Scale Icon Image"
-slug: "scale_icon_image"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'sheets']
-source_file: "1650_scale_icon_image.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1650_scale_icon_image.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.461186'
+original_url: https://thebuildingcoder.typepad.com/blog/1650_scale_icon_image.html
+post_number: '1650'
+reading_time_minutes: 2
+series: general
+slug: scale_icon_image
+source_file: 1650_scale_icon_image.md
+tags:
+- revit-api
+- rooms
+- sheets
+title: Scale Icon Image
+word_count: 478
 ---
 
 ### Scaling a Bitmap for the Large and Small Image Icons

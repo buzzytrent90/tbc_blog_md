@@ -1,11 +1,29 @@
 ---
-post_number: "1236"
-title: "Creating Topography Contours and Building Masses"
-slug: "data_topo_building"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "1236_data_topo_building.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1236_data_topo_building.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.576307'
+original_url: https://thebuildingcoder.typepad.com/blog/1236_data_topo_building.html
+post_number: '1236'
+reading_time_minutes: 11
+series: general
+slug: data_topo_building
+source_file: 1236_data_topo_building.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Creating Topography Contours and Building Masses
+word_count: 2286
 ---
 
 ### Creating Topography Contours and Building Masses

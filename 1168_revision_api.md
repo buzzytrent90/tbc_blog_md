@@ -1,11 +1,27 @@
 ---
-post_number: "1168"
-title: "The Revision API and a Form on the Fly"
-slug: "revision_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1168_revision_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1168_revision_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.440523'
+original_url: https://thebuildingcoder.typepad.com/blog/1168_revision_api.html
+post_number: '1168'
+reading_time_minutes: 8
+series: general
+slug: revision_api
+source_file: 1168_revision_api.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: The Revision API and a Form on the Fly
+word_count: 1600
 ---
 
 ### The Revision API and a Form on the Fly

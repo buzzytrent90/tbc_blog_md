@@ -1,11 +1,21 @@
 ---
-post_number: "1095"
-title: "REST POST Request to Revit Server 2014"
-slug: "post_to_revit_server"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'views']
-source_file: "1095_post_to_revit_server.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1095_post_to_revit_server.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.295250'
+original_url: https://thebuildingcoder.typepad.com/blog/1095_post_to_revit_server.html
+post_number: '1095'
+reading_time_minutes: 2
+series: general
+slug: post_to_revit_server
+source_file: 1095_post_to_revit_server.htm
+tags:
+- levels
+- revit-api
+- views
+title: REST POST Request to Revit Server 2014
+word_count: 414
 ---
 
 ### REST POST Request to Revit Server 2014

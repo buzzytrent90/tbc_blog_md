@@ -1,11 +1,29 @@
 ---
-post_number: "1093"
-title: "Final Rolling Offset Using Pipe.Create"
-slug: "pipe_create"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'transactions', 'views']
-source_file: "1093_pipe_create.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1093_pipe_create.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.290659'
+original_url: https://thebuildingcoder.typepad.com/blog/1093_pipe_create.html
+post_number: '1093'
+reading_time_minutes: 8
+series: mep
+slug: pipe_create
+source_file: 1093_pipe_create.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- mep
+title: Final Rolling Offset Using Pipe.Create
+word_count: 1622
 ---
 
 ### Final Rolling Offset Using Pipe.Create

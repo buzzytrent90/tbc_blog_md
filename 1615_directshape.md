@@ -1,11 +1,30 @@
 ---
-post_number: "1615"
-title: "Directshape"
-slug: "directshape"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1615_directshape.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1615_directshape.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.395605'
+original_url: https://thebuildingcoder.typepad.com/blog/1615_directshape.html
+post_number: '1615'
+reading_time_minutes: 14
+series: general
+slug: directshape
+source_file: 1615_directshape.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Directshape
+word_count: 2884
 ---
 
 ### DirectShape Topics and Happy New Year!

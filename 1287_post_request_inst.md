@@ -1,11 +1,27 @@
 ---
-post_number: "1287"
-title: "PostRequestForElementTypePlacement Sample"
-slug: "post_request_inst"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'python', 'revit-api', 'transactions', 'vbnet', 'views', 'walls']
-source_file: "1287_post_request_inst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1287_post_request_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.685076'
+original_url: https://thebuildingcoder.typepad.com/blog/1287_post_request_inst.html
+post_number: '1287'
+reading_time_minutes: 3
+series: general
+slug: post_request_inst
+source_file: 1287_post_request_inst.htm
+tags:
+- elements
+- family
+- filtering
+- python
+- revit-api
+- transactions
+- vbnet
+- views
+- walls
+title: PostRequestForElementTypePlacement Sample
+word_count: 642
 ---
 
 ### PostRequestForElementTypePlacement Sample

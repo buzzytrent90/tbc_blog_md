@@ -1,11 +1,30 @@
 ---
-post_number: "1432"
-title: "Fireratingclient"
-slug: "fireratingclient"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1432_fireratingclient.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1432_fireratingclient.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: news
+optimization_date: '2025-12-11T11:44:16.014087'
+original_url: https://thebuildingcoder.typepad.com/blog/1432_fireratingclient.html
+post_number: '1432'
+reading_time_minutes: 6
+series: general
+slug: fireratingclient
+source_file: 1432_fireratingclient.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Fireratingclient
+word_count: 1127
 ---
 
 ### Real-Time BIM Update via FireRatingCloud Windows Client

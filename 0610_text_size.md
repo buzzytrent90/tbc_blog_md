@@ -1,11 +1,25 @@
 ---
-post_number: "0610"
-title: "Text Size"
-slug: "text_size"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'references', 'revit-api', 'selection', 'transactions']
-source_file: "0610_text_size.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0610_text_size.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.260283'
+original_url: https://thebuildingcoder.typepad.com/blog/0610_text_size.html
+post_number: '0610'
+reading_time_minutes: 1
+series: general
+slug: text_size
+source_file: 0610_text_size.htm
+tags:
+- csharp
+- elements
+- parameters
+- references
+- revit-api
+- selection
+- transactions
+title: Text Size
+word_count: 263
 ---
 
 ### Text Size

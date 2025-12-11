@@ -1,11 +1,27 @@
 ---
-post_number: "0766"
-title: "Selecting a Face in a Linked File"
-slug: "sel_face_linked_file"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'references', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0766_sel_face_linked_file.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0766_sel_face_linked_file.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.550321'
+original_url: https://thebuildingcoder.typepad.com/blog/0766_sel_face_linked_file.html
+post_number: '0766'
+reading_time_minutes: 5
+series: general
+slug: sel_face_linked_file
+source_file: 0766_sel_face_linked_file.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- selection
+- transactions
+- walls
+title: Selecting a Face in a Linked File
+word_count: 946
 ---
 
 ### Selecting a Face in a Linked File

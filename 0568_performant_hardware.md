@@ -1,11 +1,22 @@
 ---
-post_number: "0568"
-title: "Performant Hardware"
-slug: "performant_hardware"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'rooms', 'views']
-source_file: "0568_performant_hardware.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0568_performant_hardware.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.189591'
+original_url: https://thebuildingcoder.typepad.com/blog/0568_performant_hardware.html
+post_number: 0568
+reading_time_minutes: 2
+series: general
+slug: performant_hardware
+source_file: 0568_performant_hardware.htm
+tags:
+- family
+- revit-api
+- rooms
+- views
+title: Performant Hardware
+word_count: 398
 ---
 
 ### Performant Hardware

@@ -1,11 +1,22 @@
 ---
-post_number: "0660"
-title: "Reloading a Family Again"
-slug: "reload_family"
-author: "Jeremy Tammik"
-tags: ['family', 'references', 'revit-api']
-source_file: "0660_reload_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0660_reload_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.347998'
+original_url: https://thebuildingcoder.typepad.com/blog/0660_reload_family.html
+post_number: '0660'
+reading_time_minutes: 2
+series: structural
+slug: reload_family
+source_file: 0660_reload_family.htm
+tags:
+- family
+- references
+- revit-api
+- structural
+title: Reloading a Family Again
+word_count: 387
 ---
 
 ### Reloading a Family Again

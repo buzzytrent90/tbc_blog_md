@@ -1,11 +1,22 @@
 ---
-post_number: "1418"
-title: "Win10 Security"
-slug: "win10_security"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'sheets', 'windows']
-source_file: "1418_win10_security.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1418_win10_security.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.975007'
+original_url: https://thebuildingcoder.typepad.com/blog/1418_win10_security.html
+post_number: '1418'
+reading_time_minutes: 3
+series: general
+slug: win10_security
+source_file: 1418_win10_security.md
+tags:
+- python
+- revit-api
+- sheets
+- windows
+title: Win10 Security
+word_count: 530
 ---
 
 ### .NET Runtime Security Blocks External Command

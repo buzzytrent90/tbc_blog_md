@@ -1,11 +1,23 @@
 ---
-post_number: "0504"
-title: "Modeless Door Lister and Deleter"
-slug: "list_project_doors"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'revit-api', 'views']
-source_file: "0504_list_project_doors.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0504_list_project_doors.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.066786'
+original_url: https://thebuildingcoder.typepad.com/blog/0504_list_project_doors.html
+post_number: '0504'
+reading_time_minutes: 2
+series: general
+slug: list_project_doors
+source_file: 0504_list_project_doors.htm
+tags:
+- csharp
+- doors
+- elements
+- revit-api
+- views
+title: Modeless Door Lister and Deleter
+word_count: 445
 ---
 
 ### Modeless Door Lister and Deleter

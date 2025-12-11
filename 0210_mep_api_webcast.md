@@ -1,11 +1,22 @@
 ---
-post_number: "0210"
-title: "Revit MEP API Webcast"
-slug: "mep_api_webcast"
-author: "Jeremy Tammik"
-tags: ['filtering', 'revit-api', 'schedules']
-source_file: "0210_mep_api_webcast.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0210_mep_api_webcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.555816'
+original_url: https://thebuildingcoder.typepad.com/blog/0210_mep_api_webcast.html
+post_number: '0210'
+reading_time_minutes: 1
+series: mep
+slug: mep_api_webcast
+source_file: 0210_mep_api_webcast.htm
+tags:
+- filtering
+- revit-api
+- schedules
+- mep
+title: Revit MEP API Webcast
+word_count: 111
 ---
 
 ### Revit MEP API Webcast

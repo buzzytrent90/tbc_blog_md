@@ -1,11 +1,21 @@
 ---
-post_number: "0753"
-title: "Using Using Automagically Disposes and Rolls Back"
-slug: "dispose_transact_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'transactions']
-source_file: "0753_dispose_transact_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0753_dispose_transact_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.523454'
+original_url: https://thebuildingcoder.typepad.com/blog/0753_dispose_transact_2.html
+post_number: '0753'
+reading_time_minutes: 2
+series: general
+slug: dispose_transact_2
+source_file: 0753_dispose_transact_2.htm
+tags:
+- csharp
+- revit-api
+- transactions
+title: Using Using Automagically Disposes and Rolls Back
+word_count: 406
 ---
 
 ### Using Using Automagically Disposes and Rolls Back

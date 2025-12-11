@@ -1,11 +1,23 @@
 ---
-post_number: "0023"
-title: "RVT File Version"
-slug: "rvt_file_version"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0023_rvt_file_version.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0023_rvt_file_version.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.244689'
+original_url: https://thebuildingcoder.typepad.com/blog/0023_rvt_file_version.html
+post_number: '0023'
+reading_time_minutes: 4
+series: general
+slug: rvt_file_version
+source_file: 0023_rvt_file_version.htm
+tags:
+- python
+- revit-api
+- views
+- walls
+- windows
+title: RVT File Version
+word_count: 763
 ---
 
 ### RVT File Version

@@ -1,11 +1,21 @@
 ---
-post_number: "0252"
-title: "New Project Document"
-slug: "new_project_doc"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api']
-source_file: "0252_new_project_doc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0252_new_project_doc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.625233'
+original_url: https://thebuildingcoder.typepad.com/blog/0252_new_project_doc.html
+post_number: '0252'
+reading_time_minutes: 1
+series: general
+slug: new_project_doc
+source_file: 0252_new_project_doc.htm
+tags:
+- csharp
+- elements
+- revit-api
+title: New Project Document
+word_count: 167
 ---
 
 ### New Project Document

@@ -1,11 +1,29 @@
 ---
-post_number: "2060"
-title: "Modeless Tutor"
-slug: "modeless_tutor"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'windows']
-source_file: "2060_modeless_tutor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2060_modeless_tutor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.388971'
+original_url: https://thebuildingcoder.typepad.com/blog/2060_modeless_tutor.html
+post_number: '2060'
+reading_time_minutes: 12
+series: general
+slug: modeless_tutor
+source_file: 2060_modeless_tutor.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- windows
+title: Modeless Tutor
+word_count: 2385
 ---
 
 ### DevCon, AI for Revit API, Modeless Add-Ins, Leave

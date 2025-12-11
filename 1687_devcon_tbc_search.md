@@ -1,11 +1,27 @@
 ---
-post_number: "1687"
-title: "Devcon Tbc Search"
-slug: "devcon_tbc_search"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1687_devcon_tbc_search.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1687_devcon_tbc_search.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.523395'
+original_url: https://thebuildingcoder.typepad.com/blog/1687_devcon_tbc_search.html
+post_number: '1687'
+reading_time_minutes: 5
+series: filtering
+slug: devcon_tbc_search
+source_file: 1687_devcon_tbc_search.md
+tags:
+- elements
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Devcon Tbc Search
+word_count: 919
 ---
 
 ### DevCon Europe and Typepad versus Google Search

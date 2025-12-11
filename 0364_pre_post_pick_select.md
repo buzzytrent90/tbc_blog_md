@@ -1,11 +1,27 @@
 ---
-post_number: "0364"
-title: "Pre-, Post- and Pick Select"
-slug: "pre_post_pick_select"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "0364_pre_post_pick_select.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0364_pre_post_pick_select.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.820611'
+original_url: https://thebuildingcoder.typepad.com/blog/0364_pre_post_pick_select.html
+post_number: '0364'
+reading_time_minutes: 6
+series: general
+slug: pre_post_pick_select
+source_file: 0364_pre_post_pick_select.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+title: Pre-, Post- and Pick Select
+word_count: 1162
 ---
 
 ### Pre-, Post- and Pick Select

@@ -1,11 +1,24 @@
 ---
-post_number: "0279"
-title: "Curve Parameterisation"
-slug: "abg02_curve_parameterisation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'parameters', 'revit-api', 'vbnet', 'walls']
-source_file: "0279_abg02_curve_parameterisation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0279_abg02_curve_parameterisation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.668549'
+original_url: https://thebuildingcoder.typepad.com/blog/0279_abg02_curve_parameterisation.html
+post_number: 0279
+reading_time_minutes: 2
+series: geometry
+slug: abg02_curve_parameterisation
+source_file: 0279_abg02_curve_parameterisation.htm
+tags:
+- csharp
+- geometry
+- parameters
+- revit-api
+- vbnet
+- walls
+title: Curve Parameterisation
+word_count: 474
 ---
 
 ### Curve Parameterisation

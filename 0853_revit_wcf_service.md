@@ -1,11 +1,24 @@
 ---
-post_number: "0853"
-title: "Drive Revit through a WCF Service"
-slug: "revit_wcf_service"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'revit-api', 'views', 'walls']
-source_file: "0853_revit_wcf_service.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0853_revit_wcf_service.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.738896'
+original_url: https://thebuildingcoder.typepad.com/blog/0853_revit_wcf_service.html
+post_number: 0853
+reading_time_minutes: 6
+series: general
+slug: revit_wcf_service
+source_file: 0853_revit_wcf_service.htm
+tags:
+- csharp
+- family
+- python
+- revit-api
+- views
+- walls
+title: Drive Revit through a WCF Service
+word_count: 1117
 ---
 
 ﻿

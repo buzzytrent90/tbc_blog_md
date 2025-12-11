@@ -1,11 +1,21 @@
 ---
-post_number: "0807"
-title: "Cancel Family Creation and UK NBS and BIM News"
-slug: "cancel_family_create"
-author: "Jeremy Tammik"
-tags: ['family', 'python', 'revit-api']
-source_file: "0807_cancel_family_create.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0807_cancel_family_create.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.634266'
+original_url: https://thebuildingcoder.typepad.com/blog/0807_cancel_family_create.html
+post_number: 0807
+reading_time_minutes: 2
+series: family
+slug: cancel_family_create
+source_file: 0807_cancel_family_create.htm
+tags:
+- family
+- python
+- revit-api
+title: Cancel Family Creation and UK NBS and BIM News
+word_count: 343
 ---
 
 ### Cancel Family Creation and UK NBS and BIM News

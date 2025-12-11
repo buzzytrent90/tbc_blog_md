@@ -1,11 +1,27 @@
 ---
-post_number: "1469"
-title: "The Building Coder"
-slug: "macromanager"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1469_macromanager.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1469_macromanager.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.095518'
+original_url: https://thebuildingcoder.typepad.com/blog/1469_macromanager.html
+post_number: '1469'
+reading_time_minutes: 8
+series: general
+slug: macromanager
+source_file: 1469_macromanager.md
+tags:
+- csharp
+- elements
+- filtering
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: The Building Coder
+word_count: 1569
 ---
 
 ### MacroManager, Materials and Getting Started

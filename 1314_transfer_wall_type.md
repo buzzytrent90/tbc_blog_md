@@ -1,11 +1,26 @@
 ---
-post_number: "1314"
-title: "Transferring a Wall Type"
-slug: "transfer_wall_type"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'transactions', 'walls']
-source_file: "1314_transfer_wall_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1314_transfer_wall_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.749805'
+original_url: https://thebuildingcoder.typepad.com/blog/1314_transfer_wall_type.html
+post_number: '1314'
+reading_time_minutes: 4
+series: elements
+slug: transfer_wall_type
+source_file: 1314_transfer_wall_type.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- transactions
+- walls
+title: Transferring a Wall Type
+word_count: 854
 ---
 
 ### Transferring a Wall Type

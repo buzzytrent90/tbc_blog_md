@@ -1,11 +1,26 @@
 ---
-post_number: "1474"
-title: "The Building Coder"
-slug: "flip_section_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1474_flip_section_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1474_flip_section_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.107696'
+original_url: https://thebuildingcoder.typepad.com/blog/1474_flip_section_view.html
+post_number: '1474'
+reading_time_minutes: 4
+series: views
+slug: flip_section_view
+source_file: 1474_flip_section_view.md
+tags:
+- elements
+- family
+- filtering
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: The Building Coder
+word_count: 845
 ---
 
 ### Flipping a Section View and Forge Webinar 3

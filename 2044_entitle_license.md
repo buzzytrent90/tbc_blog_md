@@ -1,11 +1,26 @@
 ---
-post_number: "2044"
-title: "Entitle License"
-slug: "entitle_license"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'windows']
-source_file: "2044_entitle_license.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2044_entitle_license.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.350164'
+original_url: https://thebuildingcoder.typepad.com/blog/2044_entitle_license.html
+post_number: '2044'
+reading_time_minutes: 21
+series: general
+slug: entitle_license
+source_file: 2044_entitle_license.md
+tags:
+- csharp
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- windows
+title: Entitle License
+word_count: 4196
 ---
 
 ### Entitlement API for Revit, Licensing for Add-Ins

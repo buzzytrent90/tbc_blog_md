@@ -1,11 +1,27 @@
 ---
-post_number: "0012"
-title: "Geometry Library"
-slug: "geometry_library"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'views', 'windows']
-source_file: "0012_geometry_library.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0012_geometry_library.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.228071'
+original_url: https://thebuildingcoder.typepad.com/blog/0012_geometry_library.html
+post_number: '0012'
+reading_time_minutes: 7
+series: geometry
+slug: geometry_library
+source_file: 0012_geometry_library.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- views
+- windows
+title: Geometry Library
+word_count: 1361
 ---
 
 ### Geometry Library

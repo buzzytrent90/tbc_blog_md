@@ -1,11 +1,22 @@
 ---
-post_number: "1197"
-title: "How to Fail, Still Win Big and Handle Duplicate Types"
-slug: "scott_adams_dup_typ"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'views']
-source_file: "1197_scott_adams_dup_typ.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1197_scott_adams_dup_typ.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.491004'
+original_url: https://thebuildingcoder.typepad.com/blog/1197_scott_adams_dup_typ.html
+post_number: '1197'
+reading_time_minutes: 4
+series: general
+slug: scott_adams_dup_typ
+source_file: 1197_scott_adams_dup_typ.htm
+tags:
+- elements
+- references
+- revit-api
+- views
+title: How to Fail, Still Win Big and Handle Duplicate Types
+word_count: 856
 ---
 
 ### How to Fail, Still Win Big and Handle Duplicate Types

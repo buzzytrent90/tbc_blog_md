@@ -1,11 +1,29 @@
 ---
-post_number: "1008"
-title: "Open MEP Connector Warning"
-slug: "loose_connector"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'views', 'windows']
-source_file: "1008_loose_connector.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1008_loose_connector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.109260'
+original_url: https://thebuildingcoder.typepad.com/blog/1008_loose_connector.html
+post_number: '1008'
+reading_time_minutes: 7
+series: mep
+slug: loose_connector
+source_file: 1008_loose_connector.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- views
+- windows
+- mep
+title: Open MEP Connector Warning
+word_count: 1305
 ---
 
 ### Open MEP Connector Warning

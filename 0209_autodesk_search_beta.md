@@ -1,11 +1,20 @@
 ---
-post_number: "0209"
-title: "Autodesk Search Beta"
-slug: "autodesk_search_beta"
-author: "Jeremy Tammik"
-tags: ['filtering', 'revit-api']
-source_file: "0209_autodesk_search_beta.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0209_autodesk_search_beta.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:13.553907'
+original_url: https://thebuildingcoder.typepad.com/blog/0209_autodesk_search_beta.html
+post_number: 0209
+reading_time_minutes: 1
+series: filtering
+slug: autodesk_search_beta
+source_file: 0209_autodesk_search_beta.htm
+tags:
+- filtering
+- revit-api
+title: Autodesk Search Beta
+word_count: 167
 ---
 
 ### Autodesk Search Beta

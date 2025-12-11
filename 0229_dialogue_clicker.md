@@ -1,11 +1,23 @@
 ---
-post_number: "0229"
-title: "Dismiss Dialogue using Windows API"
-slug: "dialogue_clicker"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'transactions', 'vbnet', 'windows']
-source_file: "0229_dialogue_clicker.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0229_dialogue_clicker.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.587661'
+original_url: https://thebuildingcoder.typepad.com/blog/0229_dialogue_clicker.html
+post_number: 0229
+reading_time_minutes: 11
+series: general
+slug: dialogue_clicker
+source_file: 0229_dialogue_clicker.htm
+tags:
+- csharp
+- revit-api
+- transactions
+- vbnet
+- windows
+title: Dismiss Dialogue using Windows API
+word_count: 2217
 ---
 
 ### Dismiss Dialogue using Windows API

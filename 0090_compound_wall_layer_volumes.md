@@ -1,11 +1,26 @@
 ---
-post_number: "0090"
-title: "Compound Wall Layer Volumes"
-slug: "compound_wall_layer_volumes"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'python', 'revit-api', 'selection', 'walls']
-source_file: "0090_compound_wall_layer_volumes.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0090_compound_wall_layer_volumes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.343649'
+original_url: https://thebuildingcoder.typepad.com/blog/0090_compound_wall_layer_volumes.html
+post_number: 0090
+reading_time_minutes: 7
+series: general
+slug: compound_wall_layer_volumes
+source_file: 0090_compound_wall_layer_volumes.htm
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- python
+- revit-api
+- selection
+- walls
+title: Compound Wall Layer Volumes
+word_count: 1365
 ---
 
 ### Compound Wall Layer Volumes

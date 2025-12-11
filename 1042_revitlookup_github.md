@@ -1,11 +1,21 @@
 ---
-post_number: "1042"
-title: "RevitLookup is on GitHub and You are Invited to Collaborate"
-slug: "revitlookup_github"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api']
-source_file: "1042_revitlookup_github.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1042_revitlookup_github.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.180269'
+original_url: https://thebuildingcoder.typepad.com/blog/1042_revitlookup_github.html
+post_number: '1042'
+reading_time_minutes: 4
+series: general
+slug: revitlookup_github
+source_file: 1042_revitlookup_github.htm
+tags:
+- csharp
+- elements
+- revit-api
+title: RevitLookup is on GitHub and You are Invited to Collaborate
+word_count: 739
 ---
 
 ### RevitLookup is on GitHub and You are Invited to Collaborate

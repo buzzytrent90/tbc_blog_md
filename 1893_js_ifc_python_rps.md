@@ -1,11 +1,26 @@
 ---
-post_number: "1893"
-title: "Js Ifc Python Rps"
-slug: "js_ifc_python_rps"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'levels', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1893_js_ifc_python_rps.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1893_js_ifc_python_rps.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.980310'
+original_url: https://thebuildingcoder.typepad.com/blog/1893_js_ifc_python_rps.html
+post_number: '1893'
+reading_time_minutes: 14
+series: general
+slug: js_ifc_python_rps
+source_file: 1893_js_ifc_python_rps.md
+tags:
+- csharp
+- geometry
+- levels
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Js Ifc Python Rps
+word_count: 2864
 ---
 
 ### Addin File, Learning Python and IFC.js

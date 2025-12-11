@@ -1,11 +1,23 @@
 ---
-post_number: "1931"
-title: "Log And Monitor"
-slug: "log_and_monitor"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1931_log_and_monitor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1931_log_and_monitor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.069629'
+original_url: https://thebuildingcoder.typepad.com/blog/1931_log_and_monitor.html
+post_number: '1931'
+reading_time_minutes: 12
+series: general
+slug: log_and_monitor
+source_file: 1931_log_and_monitor.md
+tags:
+- elements
+- python
+- revit-api
+- sheets
+- views
+title: Log And Monitor
+word_count: 2357
 ---
 
 ### Logging and Monitoring Deleted Data

@@ -1,11 +1,23 @@
 ---
-post_number: "0282"
-title: "Model and Detail Curve Colour"
-slug: "change_detail_curve_colour"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'views']
-source_file: "0282_change_detail_curve_colour.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0282_change_detail_curve_colour.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.672825'
+original_url: https://thebuildingcoder.typepad.com/blog/0282_change_detail_curve_colour.html
+post_number: 0282
+reading_time_minutes: 2
+series: geometry
+slug: change_detail_curve_colour
+source_file: 0282_change_detail_curve_colour.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- views
+title: Model and Detail Curve Colour
+word_count: 483
 ---
 
 ### Model and Detail Curve Colour

@@ -1,11 +1,27 @@
 ---
-post_number: "1498"
-title: "Au One Devlab"
-slug: "au_one_devlab"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1498_au_one_devlab.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1498_au_one_devlab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.162932'
+original_url: https://thebuildingcoder.typepad.com/blog/1498_au_one_devlab.html
+post_number: '1498'
+reading_time_minutes: 9
+series: general
+slug: au_one_devlab
+source_file: 1498_au_one_devlab.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Au One Devlab
+word_count: 1868
 ---
 
 ### AU Day One, Keynote and DevLab

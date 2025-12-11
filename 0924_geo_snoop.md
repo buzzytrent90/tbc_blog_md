@@ -1,11 +1,26 @@
 ---
-post_number: "0924"
-title: "GeoSnoop .NET Boundary Curve Loop Visualisation"
-slug: "geo_snoop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'revit-api', 'rooms', 'schedules', 'views', 'windows']
-source_file: "0924_geo_snoop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0924_geo_snoop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.905676'
+original_url: https://thebuildingcoder.typepad.com/blog/0924_geo_snoop.html
+post_number: 0924
+reading_time_minutes: 10
+series: general
+slug: geo_snoop
+source_file: 0924_geo_snoop.htm
+tags:
+- csharp
+- family
+- python
+- revit-api
+- rooms
+- schedules
+- views
+- windows
+title: GeoSnoop .NET Boundary Curve Loop Visualisation
+word_count: 2016
 ---
 
 ### GeoSnoop .NET Boundary Curve Loop Visualisation

@@ -1,11 +1,27 @@
 ---
-post_number: "0079"
-title: "Walls and Doors on Two Levels"
-slug: "two_levels"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'walls']
-source_file: "0079_two_levels.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0079_two_levels.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.328813'
+original_url: https://thebuildingcoder.typepad.com/blog/0079_two_levels.html
+post_number: 0079
+reading_time_minutes: 3
+series: general
+slug: two_levels
+source_file: 0079_two_levels.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- walls
+title: Walls and Doors on Two Levels
+word_count: 565
 ---
 
 ### Walls and Doors on Two Levels

@@ -1,11 +1,21 @@
 ---
-post_number: "0797"
-title: "Meetings, Football, and RevitRubyShell"
-slug: "revitrubyshell"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'views']
-source_file: "0797_revitrubyshell.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0797_revitrubyshell.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: news
+optimization_date: '2025-12-11T11:44:14.612723'
+original_url: https://thebuildingcoder.typepad.com/blog/0797_revitrubyshell.html
+post_number: 0797
+reading_time_minutes: 3
+series: general
+slug: revitrubyshell
+source_file: 0797_revitrubyshell.htm
+tags:
+- python
+- revit-api
+- views
+title: Meetings, Football, and RevitRubyShell
+word_count: 565
 ---
 
 ### Meetings, Football, and RevitRubyShell

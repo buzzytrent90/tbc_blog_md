@@ -1,11 +1,21 @@
 ---
-post_number: "0510"
-title: "Optimisation using Robot Structural Analysis API"
-slug: "robot_api"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'views']
-source_file: "0510_robot_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0510_robot_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.076038'
+original_url: https://thebuildingcoder.typepad.com/blog/0510_robot_api.html
+post_number: '0510'
+reading_time_minutes: 1
+series: general
+slug: robot_api
+source_file: 0510_robot_api.htm
+tags:
+- elements
+- revit-api
+- views
+title: Optimisation using Robot Structural Analysis API
+word_count: 280
 ---
 
 ### Optimisation using Robot Structural Analysis API

@@ -1,11 +1,29 @@
 ---
-post_number: "1011"
-title: "Boolean Operations for 2D Polygons"
-slug: "booleans_on_polygons"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'rooms', 'selection', 'transactions', 'walls']
-source_file: "1011_booleans_on_polygons.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1011_booleans_on_polygons.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.115369'
+original_url: https://thebuildingcoder.typepad.com/blog/1011_booleans_on_polygons.html
+post_number: '1011'
+reading_time_minutes: 10
+series: general
+slug: booleans_on_polygons
+source_file: 1011_booleans_on_polygons.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- walls
+title: Boolean Operations for 2D Polygons
+word_count: 1997
 ---
 
 ### Boolean Operations for 2D Polygons

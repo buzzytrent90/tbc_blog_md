@@ -1,11 +1,24 @@
 ---
-post_number: "0673"
-title: "ElementId Relationships"
-slug: "elementid_relationships"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'revit-api', 'views']
-source_file: "0673_elementid_relationships.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0673_elementid_relationships.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: news
+optimization_date: '2025-12-11T11:44:14.373821'
+original_url: https://thebuildingcoder.typepad.com/blog/0673_elementid_relationships.html
+post_number: '0673'
+reading_time_minutes: 3
+series: elements
+slug: elementid_relationships
+source_file: 0673_elementid_relationships.htm
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- views
+title: ElementId Relationships
+word_count: 664
 ---
 
 ### ElementId Relationships

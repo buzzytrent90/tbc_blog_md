@@ -1,11 +1,28 @@
 ---
-post_number: "1847"
-title: "Split Pipe"
-slug: "split_pipe"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1847_split_pipe.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1847_split_pipe.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.881814'
+original_url: https://thebuildingcoder.typepad.com/blog/1847_split_pipe.html
+post_number: '1847'
+reading_time_minutes: 8
+series: mep
+slug: split_pipe
+source_file: 1847_split_pipe.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- mep
+title: Split Pipe
+word_count: 1621
 ---
 
 ### Split Pipe Tutorial and Related Cases

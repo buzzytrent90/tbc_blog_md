@@ -1,11 +1,29 @@
 ---
-post_number: "1905"
-title: "Line Angle Dir Jig"
-slug: "line_angle_dir_jig"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1905_line_angle_dir_jig.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1905_line_angle_dir_jig.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.012751'
+original_url: https://thebuildingcoder.typepad.com/blog/1905_line_angle_dir_jig.html
+post_number: '1905'
+reading_time_minutes: 8
+series: general
+slug: line_angle_dir_jig
+source_file: 1905_line_angle_dir_jig.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Line Angle Dir Jig
+word_count: 1587
 ---
 
 ### Refreshment, Cloud Model Path, Angle and Direction

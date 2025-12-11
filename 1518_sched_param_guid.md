@@ -1,11 +1,28 @@
 ---
-post_number: "1518"
-title: "Sched Param Guid"
-slug: "sched_param_guid"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1518_sched_param_guid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1518_sched_param_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.203078'
+original_url: https://thebuildingcoder.typepad.com/blog/1518_sched_param_guid.html
+post_number: '1518'
+reading_time_minutes: 6
+series: general
+slug: sched_param_guid
+source_file: 1518_sched_param_guid.md
+tags:
+- elements
+- family
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- walls
+title: Sched Param Guid
+word_count: 1149
 ---
 
 ### Schedule Parameter and Shared Parameter GUID

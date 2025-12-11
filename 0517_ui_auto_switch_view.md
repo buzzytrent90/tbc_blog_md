@@ -1,11 +1,24 @@
 ---
-post_number: "0517"
-title: "Further Ideas for Using UI Automation and Galileo"
-slug: "ui_auto_switch_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'views', 'windows']
-source_file: "0517_ui_auto_switch_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0517_ui_auto_switch_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.089334'
+original_url: https://thebuildingcoder.typepad.com/blog/0517_ui_auto_switch_view.html
+post_number: '0517'
+reading_time_minutes: 4
+series: views
+slug: ui_auto_switch_view
+source_file: 0517_ui_auto_switch_view.htm
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- views
+- windows
+title: Further Ideas for Using UI Automation and Galileo
+word_count: 719
 ---
 
 ### Further Ideas for Using UI Automation and Galileo

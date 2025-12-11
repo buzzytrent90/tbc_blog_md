@@ -1,11 +1,24 @@
 ---
-post_number: "0888"
-title: "BipChecker Update"
-slug: "bip_checker_5"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'parameters', 'revit-api', 'walls']
-source_file: "0888_bip_checker_5.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0888_bip_checker_5.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.801017'
+original_url: https://thebuildingcoder.typepad.com/blog/0888_bip_checker_5.html
+post_number: 0888
+reading_time_minutes: 3
+series: general
+slug: bip_checker_5
+source_file: 0888_bip_checker_5.htm
+tags:
+- csharp
+- doors
+- elements
+- parameters
+- revit-api
+- walls
+title: BipChecker Update
+word_count: 513
 ---
 
 ### BipChecker Update

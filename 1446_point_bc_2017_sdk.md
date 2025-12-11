@@ -1,11 +1,25 @@
 ---
-post_number: "1446"
-title: "The Building Coder"
-slug: "point_bc_2017_sdk"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'references', 'revit-api', 'sheets', 'transactions']
-source_file: "1446_point_bc_2017_sdk.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1446_point_bc_2017_sdk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.041368'
+original_url: https://thebuildingcoder.typepad.com/blog/1446_point_bc_2017_sdk.html
+post_number: '1446'
+reading_time_minutes: 4
+series: geometry
+slug: point_bc_2017_sdk
+source_file: 1446_point_bc_2017_sdk.md
+tags:
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- sheets
+- transactions
+title: The Building Coder
+word_count: 733
 ---
 
 ### Point Boundary Condition and Revit 2017 SDK

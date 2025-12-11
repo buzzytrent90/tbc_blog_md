@@ -1,11 +1,27 @@
 ---
-post_number: "0851"
-title: "Gross Slab Boundary and the Temporary Transaction Trick"
-slug: "gross_slab_boundary"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'references', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0851_gross_slab_boundary.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0851_gross_slab_boundary.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.735059'
+original_url: https://thebuildingcoder.typepad.com/blog/0851_gross_slab_boundary.html
+post_number: 0851
+reading_time_minutes: 4
+series: general
+slug: gross_slab_boundary
+source_file: 0851_gross_slab_boundary.htm
+tags:
+- doors
+- elements
+- geometry
+- references
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Gross Slab Boundary and the Temporary Transaction Trick
+word_count: 828
 ---
 
 ### Gross Slab Boundary and the Temporary Transaction Trick

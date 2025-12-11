@@ -1,11 +1,21 @@
 ---
-post_number: "0858"
-title: "Happy Bhai Dooj!"
-slug: "bhai_dooj"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'views']
-source_file: "0858_bhai_dooj.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0858_bhai_dooj.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.747150'
+original_url: https://thebuildingcoder.typepad.com/blog/0858_bhai_dooj.html
+post_number: 0858
+reading_time_minutes: 2
+series: general
+slug: bhai_dooj
+source_file: 0858_bhai_dooj.htm
+tags:
+- elements
+- revit-api
+- views
+title: Happy Bhai Dooj!
+word_count: 472
 ---
 
 ### Happy Bhai Dooj!

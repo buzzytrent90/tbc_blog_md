@@ -1,11 +1,29 @@
 ---
-post_number: "1037"
-title: "Move Duct Join with Video and GitHub Support"
-slug: "move_duct_join"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'windows']
-source_file: "1037_move_duct_join.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1037_move_duct_join.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.170214'
+original_url: https://thebuildingcoder.typepad.com/blog/1037_move_duct_join.html
+post_number: '1037'
+reading_time_minutes: 9
+series: mep
+slug: move_duct_join
+source_file: 1037_move_duct_join.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- windows
+- mep
+title: Move Duct Join with Video and GitHub Support
+word_count: 1758
 ---
 
 ### Move Duct Join with Video and GitHub Support

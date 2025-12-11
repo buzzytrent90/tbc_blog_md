@@ -1,11 +1,23 @@
 ---
-post_number: "1674"
-title: "Revittestframework"
-slug: "revittestframework"
-author: "Jeremy Tammik"
-tags: ['doors', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1674_revittestframework.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1674_revittestframework.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.502816'
+original_url: https://thebuildingcoder.typepad.com/blog/1674_revittestframework.html
+post_number: '1674'
+reading_time_minutes: 5
+series: general
+slug: revittestframework
+source_file: 1674_revittestframework.md
+tags:
+- doors
+- parameters
+- revit-api
+- sheets
+- views
+title: Revittestframework
+word_count: 1072
 ---
 
 ### Revit Unit Test Framework Improvements

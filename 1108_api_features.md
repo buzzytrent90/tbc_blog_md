@@ -1,11 +1,24 @@
 ---
-post_number: "1108"
-title: "More on Revit API Aspects and Features"
-slug: "api_features"
-author: "Jeremy Tammik"
-tags: ['doors', 'family', 'geometry', 'revit-api', 'walls', 'windows']
-source_file: "1108_api_features.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1108_api_features.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.320035'
+original_url: https://thebuildingcoder.typepad.com/blog/1108_api_features.html
+post_number: '1108'
+reading_time_minutes: 9
+series: general
+slug: api_features
+source_file: 1108_api_features.htm
+tags:
+- doors
+- family
+- geometry
+- revit-api
+- walls
+- windows
+title: More on Revit API Aspects and Features
+word_count: 1759
 ---
 
 ### More on Revit API Aspects and Features

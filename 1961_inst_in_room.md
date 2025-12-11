@@ -1,11 +1,29 @@
 ---
-post_number: "1961"
-title: "Inst In Room"
-slug: "inst_in_room"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1961_inst_in_room.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1961_inst_in_room.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.136392'
+original_url: https://thebuildingcoder.typepad.com/blog/1961_inst_in_room.html
+post_number: '1961'
+reading_time_minutes: 6
+series: general
+slug: inst_in_room
+source_file: 1961_inst_in_room.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+title: Inst In Room
+word_count: 1276
 ---
 
 ### Instances in Room and Need for Fuzz

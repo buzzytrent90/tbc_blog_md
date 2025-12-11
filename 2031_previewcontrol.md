@@ -1,11 +1,30 @@
 ---
-post_number: "2031"
-title: "Previewcontrol"
-slug: "previewcontrol"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "2031_previewcontrol.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2031_previewcontrol.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.317053'
+original_url: https://thebuildingcoder.typepad.com/blog/2031_previewcontrol.html
+post_number: '2031'
+reading_time_minutes: 9
+series: views
+slug: previewcontrol
+source_file: 2031_previewcontrol.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Previewcontrol
+word_count: 1815
 ---
 
 ### Change Pipe Level and PreviewControl Border

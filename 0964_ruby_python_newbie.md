@@ -1,11 +1,22 @@
 ---
-post_number: "0964"
-title: "Python and Ruby Scripting Resources and the Sharp Glyph"
-slug: "ruby_python_newbie"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'revit-api', 'windows']
-source_file: "0964_ruby_python_newbie.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0964_ruby_python_newbie.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.004884'
+original_url: https://thebuildingcoder.typepad.com/blog/0964_ruby_python_newbie.html
+post_number: 0964
+reading_time_minutes: 5
+series: general
+slug: ruby_python_newbie
+source_file: 0964_ruby_python_newbie.htm
+tags:
+- csharp
+- python
+- revit-api
+- windows
+title: Python and Ruby Scripting Resources and the Sharp Glyph
+word_count: 1006
 ---
 
 ### Python and Ruby Scripting Resources and the Sharp Glyph

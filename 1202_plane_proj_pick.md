@@ -1,11 +1,28 @@
 ---
-post_number: "1202"
-title: "Planes, Projections and Picking Points"
-slug: "plane_proj_pick"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'parameters', 'python', 'revit-api', 'selection', 'transactions', 'vbnet', 'views', 'walls']
-source_file: "1202_plane_proj_pick.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1202_plane_proj_pick.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.501460'
+original_url: https://thebuildingcoder.typepad.com/blog/1202_plane_proj_pick.html
+post_number: '1202'
+reading_time_minutes: 11
+series: general
+slug: plane_proj_pick
+source_file: 1202_plane_proj_pick.htm
+tags:
+- csharp
+- geometry
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+- vbnet
+- views
+- walls
+title: Planes, Projections and Picking Points
+word_count: 2200
 ---
 
 ### Planes, Projections and Picking Points

@@ -1,11 +1,28 @@
 ---
-post_number: "1621"
-title: "Return Failure Info"
-slug: "return_failure_info"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1621_return_failure_info.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1621_return_failure_info.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.406450'
+original_url: https://thebuildingcoder.typepad.com/blog/1621_return_failure_info.html
+post_number: '1621'
+reading_time_minutes: 9
+series: general
+slug: return_failure_info
+source_file: 1621_return_failure_info.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Return Failure Info
+word_count: 1750
 ---
 
 ### Gathering and Returning Failure Information

@@ -1,11 +1,27 @@
 ---
-post_number: "0866"
-title: "Extra Transaction or Regeneration Required"
-slug: "extra_transaction"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0866_extra_transaction.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0866_extra_transaction.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.760464'
+original_url: https://thebuildingcoder.typepad.com/blog/0866_extra_transaction.html
+post_number: 0866
+reading_time_minutes: 5
+series: transactions
+slug: extra_transaction
+source_file: 0866_extra_transaction.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+- views
+title: Extra Transaction or Regeneration Required
+word_count: 986
 ---
 
 ### Extra Transaction or Regeneration Required

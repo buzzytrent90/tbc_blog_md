@@ -1,11 +1,26 @@
 ---
-post_number: "0017"
-title: "Filter Performance"
-slug: "filter_performance"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'python', 'revit-api', 'walls', 'windows']
-source_file: "0017_filter_performance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0017_filter_performance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.236814'
+original_url: https://thebuildingcoder.typepad.com/blog/0017_filter_performance.html
+post_number: '0017'
+reading_time_minutes: 3
+series: filtering
+slug: filter_performance
+source_file: 0017_filter_performance.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- python
+- revit-api
+- walls
+- windows
+title: Filter Performance
+word_count: 565
 ---
 
 ### Filter Performance

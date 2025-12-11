@@ -1,11 +1,23 @@
 ---
-post_number: "1497"
-title: "Au Devday"
-slug: "au_devday"
-author: "Jeremy Tammik"
-tags: ['doors', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1497_au_devday.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1497_au_devday.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.161029'
+original_url: https://thebuildingcoder.typepad.com/blog/1497_au_devday.html
+post_number: '1497'
+reading_time_minutes: 6
+series: general
+slug: au_devday
+source_file: 1497_au_devday.md
+tags:
+- doors
+- python
+- revit-api
+- sheets
+- views
+title: Au Devday
+word_count: 1147
 ---
 
 ### DevDay Conference at Autodesk University

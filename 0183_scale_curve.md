@@ -1,11 +1,23 @@
 ---
-post_number: "0183"
-title: "Scale a Curve"
-slug: "scale_curve"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api']
-source_file: "0183_scale_curve.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0183_scale_curve.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.504676'
+original_url: https://thebuildingcoder.typepad.com/blog/0183_scale_curve.html
+post_number: 0183
+reading_time_minutes: 3
+series: geometry
+slug: scale_curve
+source_file: 0183_scale_curve.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- geometry
+title: Scale a Curve
+word_count: 561
 ---
 
 ### Scale a Curve

@@ -1,11 +1,27 @@
 ---
-post_number: "1150"
-title: "Room Editor Element Properties and the Async Trap"
-slug: "roomedit_prop_async"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1150_roomedit_prop_async.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1150_roomedit_prop_async.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.409540'
+original_url: https://thebuildingcoder.typepad.com/blog/1150_roomedit_prop_async.html
+post_number: '1150'
+reading_time_minutes: 5
+series: general
+slug: roomedit_prop_async
+source_file: 1150_roomedit_prop_async.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Room Editor Element Properties and the Async Trap
+word_count: 1007
 ---
 
 ### Room Editor Element Properties and the Async Trap

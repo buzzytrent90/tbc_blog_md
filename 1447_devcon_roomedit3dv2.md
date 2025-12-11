@@ -1,11 +1,21 @@
 ---
-post_number: "1447"
-title: "The Building Coder"
-slug: "devcon_roomedit3dv2"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'sheets']
-source_file: "1447_devcon_roomedit3dv2.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1447_devcon_roomedit3dv2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.042675'
+original_url: https://thebuildingcoder.typepad.com/blog/1447_devcon_roomedit3dv2.html
+post_number: '1447'
+reading_time_minutes: 1
+series: general
+slug: devcon_roomedit3dv2
+source_file: 1447_devcon_roomedit3dv2.md
+tags:
+- revit-api
+- rooms
+- sheets
+title: The Building Coder
+word_count: 201
 ---
 
 ### Freeing Your BIM Data and Roomedit3d Forge OAuth

@@ -1,11 +1,25 @@
 ---
-post_number: "0718"
-title: "Revit Webcam 2012"
-slug: "revitwebcam_2012"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'references', 'revit-api', 'walls']
-source_file: "0718_revitwebcam_2012.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0718_revitwebcam_2012.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.457398'
+original_url: https://thebuildingcoder.typepad.com/blog/0718_revitwebcam_2012.html
+post_number: 0718
+reading_time_minutes: 10
+series: general
+slug: revitwebcam_2012
+source_file: 0718_revitwebcam_2012.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- references
+- revit-api
+- walls
+title: Revit Webcam 2012
+word_count: 1927
 ---
 
 ### Revit Webcam 2012

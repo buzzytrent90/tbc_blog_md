@@ -1,11 +1,25 @@
 ---
-post_number: "1616"
-title: "Devdays Webinars"
-slug: "devdays_webinars"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1616_devdays_webinars.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1616_devdays_webinars.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.397818'
+original_url: https://thebuildingcoder.typepad.com/blog/1616_devdays_webinars.html
+post_number: '1616'
+reading_time_minutes: 7
+series: general
+slug: devdays_webinars
+source_file: 1616_devdays_webinars.md
+tags:
+- elements
+- family
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Devdays Webinars
+word_count: 1442
 ---
 
 ### Transform Utils, DirectShape Builder and DevDays Online Webinars

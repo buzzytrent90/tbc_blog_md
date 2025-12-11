@@ -1,11 +1,26 @@
 ---
-post_number: "1736"
-title: "Faster Filtering"
-slug: "faster_filtering"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1736_faster_filtering.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1736_faster_filtering.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.635733'
+original_url: https://thebuildingcoder.typepad.com/blog/1736_faster_filtering.html
+post_number: '1736'
+reading_time_minutes: 6
+series: filtering
+slug: faster_filtering
+source_file: 1736_faster_filtering.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: Faster Filtering
+word_count: 1237
 ---
 
 ### Slow, Slower Still and Faster Filtering

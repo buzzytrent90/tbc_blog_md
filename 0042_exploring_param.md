@@ -1,11 +1,26 @@
 ---
-post_number: "0042"
-title: "Exploring Element Parameters"
-slug: "exploring_param"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'selection', 'views']
-source_file: "0042_exploring_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0042_exploring_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.275774'
+original_url: https://thebuildingcoder.typepad.com/blog/0042_exploring_param.html
+post_number: '0042'
+reading_time_minutes: 5
+series: general
+slug: exploring_param
+source_file: 0042_exploring_param.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- selection
+- views
+title: Exploring Element Parameters
+word_count: 932
 ---
 
 ### Exploring Element Parameters

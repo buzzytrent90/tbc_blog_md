@@ -1,11 +1,21 @@
 ---
-post_number: "0690"
-title: "Interior Side of a Wall"
-slug: "wall_interior_side"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views', 'walls']
-source_file: "0690_wall_interior_side.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0690_wall_interior_side.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.402469'
+original_url: https://thebuildingcoder.typepad.com/blog/0690_wall_interior_side.html
+post_number: 0690
+reading_time_minutes: 3
+series: general
+slug: wall_interior_side
+source_file: 0690_wall_interior_side.htm
+tags:
+- revit-api
+- views
+- walls
+title: Interior Side of a Wall
+word_count: 599
 ---
 
 ### Interior Side of a Wall

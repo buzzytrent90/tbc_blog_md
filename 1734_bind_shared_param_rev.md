@@ -1,11 +1,24 @@
 ---
-post_number: "1734"
-title: "Bind Shared Param Rev"
-slug: "bind_shared_param_rev"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'python', 'revit-api', 'sheets', 'transactions']
-source_file: "1734_bind_shared_param_rev.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1734_bind_shared_param_rev.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.631190'
+original_url: https://thebuildingcoder.typepad.com/blog/1734_bind_shared_param_rev.html
+post_number: '1734'
+reading_time_minutes: 3
+series: general
+slug: bind_shared_param_rev
+source_file: 1734_bind_shared_param_rev.md
+tags:
+- elements
+- parameters
+- python
+- revit-api
+- sheets
+- transactions
+title: Bind Shared Param Rev
+word_count: 620
 ---
 
 ### Binding a Shared Parameter to Revision

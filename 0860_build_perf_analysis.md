@@ -1,11 +1,22 @@
 ---
-post_number: "0860"
-title: "Building Performance Analysis and Face Tessellation"
-slug: "build_perf_analysis"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'revit-api']
-source_file: "0860_build_perf_analysis.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0860_build_perf_analysis.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.750254'
+original_url: https://thebuildingcoder.typepad.com/blog/0860_build_perf_analysis.html
+post_number: 0860
+reading_time_minutes: 3
+series: general
+slug: build_perf_analysis
+source_file: 0860_build_perf_analysis.htm
+tags:
+- elements
+- geometry
+- levels
+- revit-api
+title: Building Performance Analysis and Face Tessellation
+word_count: 623
 ---
 
 ### Building Performance Analysis and Face Tessellation

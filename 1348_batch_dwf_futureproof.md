@@ -1,11 +1,28 @@
 ---
-post_number: "1348"
-title: "Batch Processing, DWFx Links, Future-Proofing"
-slug: "batch_dwf_futureproof"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'revit-api', 'views', 'walls']
-source_file: "1348_batch_dwf_futureproof.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1348_batch_dwf_futureproof.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.819575'
+original_url: https://thebuildingcoder.typepad.com/blog/1348_batch_dwf_futureproof.html
+post_number: '1348'
+reading_time_minutes: 6
+series: general
+slug: batch_dwf_futureproof
+source_file: 1348_batch_dwf_futureproof.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- revit-api
+- views
+- walls
+title: Batch Processing, DWFx Links, Future-Proofing
+word_count: 1247
 ---
 
 ### Batch Processing, DWFx Links, Future-Proofing

@@ -1,11 +1,20 @@
 ---
-post_number: "1567"
-title: "Dll Conflict"
-slug: "dll_conflict"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1567_dll_conflict.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1567_dll_conflict.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.302959'
+original_url: https://thebuildingcoder.typepad.com/blog/1567_dll_conflict.html
+post_number: '1567'
+reading_time_minutes: 2
+series: general
+slug: dll_conflict
+source_file: 1567_dll_conflict.md
+tags:
+- revit-api
+- sheets
+title: Dll Conflict
+word_count: 334
 ---
 
 ### Handling Third Party Library DLL Conflicts

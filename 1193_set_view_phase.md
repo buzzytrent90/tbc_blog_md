@@ -1,11 +1,25 @@
 ---
-post_number: "1193"
-title: "Setting the Phase of a View"
-slug: "set_view_phase"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "1193_set_view_phase.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1193_set_view_phase.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.486593'
+original_url: https://thebuildingcoder.typepad.com/blog/1193_set_view_phase.html
+post_number: '1193'
+reading_time_minutes: 2
+series: views
+slug: set_view_phase
+source_file: 1193_set_view_phase.htm
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- revit-api
+- rooms
+- views
+title: Setting the Phase of a View
+word_count: 324
 ---
 
 ### Setting the Phase of a View

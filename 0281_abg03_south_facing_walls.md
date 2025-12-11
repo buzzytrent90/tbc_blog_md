@@ -1,11 +1,27 @@
 ---
-post_number: "0281"
-title: "South Facing Walls"
-slug: "abg03_south_facing_walls"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'python', 'revit-api', 'selection', 'walls']
-source_file: "0281_abg03_south_facing_walls.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0281_abg03_south_facing_walls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.671206'
+original_url: https://thebuildingcoder.typepad.com/blog/0281_abg03_south_facing_walls.html
+post_number: 0281
+reading_time_minutes: 4
+series: general
+slug: abg03_south_facing_walls
+source_file: 0281_abg03_south_facing_walls.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- python
+- revit-api
+- selection
+- walls
+title: South Facing Walls
+word_count: 765
 ---
 
 ### South Facing Walls

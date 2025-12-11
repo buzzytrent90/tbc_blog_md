@@ -1,11 +1,31 @@
 ---
-post_number: "1217"
-title: "Creating a Sloped Wall"
-slug: "sloped_wall"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1217_sloped_wall.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1217_sloped_wall.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.531434'
+original_url: https://thebuildingcoder.typepad.com/blog/1217_sloped_wall.html
+post_number: '1217'
+reading_time_minutes: 14
+series: general
+slug: sloped_wall
+source_file: 1217_sloped_wall.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Creating a Sloped Wall
+word_count: 2813
 ---
 
 ### Creating a Sloped Wall

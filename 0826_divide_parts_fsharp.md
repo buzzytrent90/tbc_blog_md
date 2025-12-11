@@ -1,11 +1,27 @@
 ---
-post_number: "0826"
-title: "DivideParts in F#"
-slug: "divide_parts_fsharp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "0826_divide_parts_fsharp.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0826_divide_parts_fsharp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.680026'
+original_url: https://thebuildingcoder.typepad.com/blog/0826_divide_parts_fsharp.html
+post_number: 0826
+reading_time_minutes: 6
+series: general
+slug: divide_parts_fsharp
+source_file: 0826_divide_parts_fsharp.htm
+tags:
+- csharp
+- elements
+- filtering
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: DivideParts in F#
+word_count: 1253
 ---
 
 ﻿

@@ -1,11 +1,26 @@
 ---
-post_number: "0724"
-title: "Hosting a Light Fitting on a Reference Plane"
-slug: "host_reference_plane"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'references', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0724_host_reference_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0724_host_reference_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.467036'
+original_url: https://thebuildingcoder.typepad.com/blog/0724_host_reference_plane.html
+post_number: '0724'
+reading_time_minutes: 5
+series: general
+slug: host_reference_plane
+source_file: 0724_host_reference_plane.htm
+tags:
+- csharp
+- elements
+- family
+- references
+- revit-api
+- selection
+- transactions
+- walls
+title: Hosting a Light Fitting on a Reference Plane
+word_count: 929
 ---
 
 ### Hosting a Light Fitting on a Reference Plane

@@ -1,11 +1,25 @@
 ---
-post_number: "1031"
-title: "Viewport Positioning and Conceptual Design Automation"
-slug: "viewport_position"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1031_viewport_position.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1031_viewport_position.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.159125'
+original_url: https://thebuildingcoder.typepad.com/blog/1031_viewport_position.html
+post_number: '1031'
+reading_time_minutes: 7
+series: views
+slug: viewport_position
+source_file: 1031_viewport_position.htm
+tags:
+- csharp
+- elements
+- family
+- references
+- revit-api
+- sheets
+- views
+title: Viewport Positioning and Conceptual Design Automation
+word_count: 1430
 ---
 
 ### Viewport Positioning and Conceptual Design Automation

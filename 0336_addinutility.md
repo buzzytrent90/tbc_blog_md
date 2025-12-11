@@ -1,11 +1,24 @@
 ---
-post_number: "0336"
-title: "RevitAddInUtility"
-slug: "addinutility"
-author: "Jeremy Tammik"
-tags: ['family', 'python', 'revit-api', 'selection', 'views', 'walls']
-source_file: "0336_addinutility.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0336_addinutility.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.767785'
+original_url: https://thebuildingcoder.typepad.com/blog/0336_addinutility.html
+post_number: '0336'
+reading_time_minutes: 6
+series: general
+slug: addinutility
+source_file: 0336_addinutility.htm
+tags:
+- family
+- python
+- revit-api
+- selection
+- views
+- walls
+title: RevitAddInUtility
+word_count: 1206
 ---
 
 ### RevitAddInUtility

@@ -1,11 +1,23 @@
 ---
-post_number: "1827"
-title: "Headless"
-slug: "headless"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'revit-api', 'sheets']
-source_file: "1827_headless.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1827_headless.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.827970'
+original_url: https://thebuildingcoder.typepad.com/blog/1827_headless.html
+post_number: '1827'
+reading_time_minutes: 1
+series: general
+slug: headless
+source_file: 1827_headless.md
+tags:
+- elements
+- family
+- levels
+- revit-api
+- sheets
+title: Headless
+word_count: 84
 ---
 
 ### Split Pipe

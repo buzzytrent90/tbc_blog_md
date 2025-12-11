@@ -1,11 +1,28 @@
 ---
-post_number: "0371"
-title: "Determine Sheet Size"
-slug: "sheet_size"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "0371_sheet_size.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0371_sheet_size.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.834351'
+original_url: https://thebuildingcoder.typepad.com/blog/0371_sheet_size.html
+post_number: '0371'
+reading_time_minutes: 7
+series: views
+slug: sheet_size
+source_file: 0371_sheet_size.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Determine Sheet Size
+word_count: 1398
 ---
 
 ### Determine Sheet Size

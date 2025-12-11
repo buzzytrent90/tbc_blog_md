@@ -1,11 +1,22 @@
 ---
-post_number: "0204"
-title: "Fixing RvtMgdDbg for MEP Connectors"
-slug: "rvtmgddbg_mep_connectors"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "0204_rvtmgddbg_mep_connectors.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0204_rvtmgddbg_mep_connectors.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.545749'
+original_url: https://thebuildingcoder.typepad.com/blog/0204_rvtmgddbg_mep_connectors.html
+post_number: '0204'
+reading_time_minutes: 9
+series: mep
+slug: rvtmgddbg_mep_connectors
+source_file: 0204_rvtmgddbg_mep_connectors.htm
+tags:
+- csharp
+- revit-api
+- windows
+- mep
+title: Fixing RvtMgdDbg for MEP Connectors
+word_count: 1794
 ---
 
 ### Fixing RvtMgdDbg for MEP Connectors

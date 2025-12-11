@@ -1,11 +1,22 @@
 ---
-post_number: "1113"
-title: "Determining the Quiescent State"
-slug: "quiescent"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'transactions', 'walls']
-source_file: "1113_quiescent.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1113_quiescent.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.328909'
+original_url: https://thebuildingcoder.typepad.com/blog/1113_quiescent.html
+post_number: '1113'
+reading_time_minutes: 11
+series: general
+slug: quiescent
+source_file: 1113_quiescent.htm
+tags:
+- family
+- revit-api
+- transactions
+- walls
+title: Determining the Quiescent State
+word_count: 2244
 ---
 
 Closed

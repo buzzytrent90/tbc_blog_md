@@ -1,11 +1,20 @@
 ---
-post_number: "1165"
-title: "Revit API Wishlist Survey"
-slug: "api_wishlist_survey"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1165_api_wishlist_survey.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1165_api_wishlist_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: news
+optimization_date: '2025-12-11T11:44:15.434810'
+original_url: https://thebuildingcoder.typepad.com/blog/1165_api_wishlist_survey.html
+post_number: '1165'
+reading_time_minutes: 1
+series: general
+slug: api_wishlist_survey
+source_file: 1165_api_wishlist_survey.htm
+tags:
+- revit-api
+- views
+title: Revit API Wishlist Survey
+word_count: 279
 ---
 
 ﻿

@@ -1,11 +1,19 @@
 ---
-post_number: "1265"
-title: "The Future –  أنا تشارلي"
-slug: "avenir_future"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1265_avenir_future.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1265_avenir_future.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.635711'
+original_url: https://thebuildingcoder.typepad.com/blog/1265_avenir_future.html
+post_number: '1265'
+reading_time_minutes: 1
+series: general
+slug: avenir_future
+source_file: 1265_avenir_future.htm
+tags:
+- revit-api
+title: "The Future \u2013\_\_\u0623\u0646\u0627 \u062A\u0634\u0627\u0631\u0644\u064A"
+word_count: 216
 ---
 
 ### The Future –  أنا تشارلي

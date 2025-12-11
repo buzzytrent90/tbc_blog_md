@@ -1,11 +1,24 @@
 ---
-post_number: "0744"
-title: "Migrating VSTA Macros to SharpDevelop"
-slug: "migrate_vsta_to_csdev"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'schedules', 'vbnet']
-source_file: "0744_migrate_vsta_to_csdev.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0744_migrate_vsta_to_csdev.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.505065'
+original_url: https://thebuildingcoder.typepad.com/blog/0744_migrate_vsta_to_csdev.html
+post_number: '0744'
+reading_time_minutes: 2
+series: general
+slug: migrate_vsta_to_csdev
+source_file: 0744_migrate_vsta_to_csdev.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- schedules
+- vbnet
+title: Migrating VSTA Macros to SharpDevelop
+word_count: 442
 ---
 
 ### Migrating VSTA Macros to SharpDevelop

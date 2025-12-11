@@ -1,11 +1,23 @@
 ---
-post_number: "0305"
-title: "Wall Solid versus Face Materials"
-slug: "wall_materials"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'walls']
-source_file: "0305_wall_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0305_wall_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.715300'
+original_url: https://thebuildingcoder.typepad.com/blog/0305_wall_materials.html
+post_number: '0305'
+reading_time_minutes: 2
+series: materials
+slug: wall_materials
+source_file: 0305_wall_materials.htm
+tags:
+- elements
+- family
+- revit-api
+- walls
+- materials
+title: Wall Solid versus Face Materials
+word_count: 403
 ---
 
 ### Wall Solid versus Face Materials

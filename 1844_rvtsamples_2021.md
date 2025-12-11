@@ -1,11 +1,21 @@
 ---
-post_number: "1844"
-title: "Rvtsamples 2021"
-slug: "rvtsamples_2021"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets']
-source_file: "1844_rvtsamples_2021.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1844_rvtsamples_2021.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.875939'
+original_url: https://thebuildingcoder.typepad.com/blog/1844_rvtsamples_2021.html
+post_number: '1844'
+reading_time_minutes: 4
+series: general
+slug: rvtsamples_2021
+source_file: 1844_rvtsamples_2021.md
+tags:
+- references
+- revit-api
+- sheets
+title: Rvtsamples 2021
+word_count: 802
 ---
 
 ### Setting up RvtSamples for Revit 2021

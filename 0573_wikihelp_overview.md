@@ -1,11 +1,20 @@
 ---
-post_number: "0573"
-title: "Revit 2012 WikiHelp Overview"
-slug: "wikihelp_overview"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0573_wikihelp_overview.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0573_wikihelp_overview.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:14.197215'
+original_url: https://thebuildingcoder.typepad.com/blog/0573_wikihelp_overview.html
+post_number: '0573'
+reading_time_minutes: 1
+series: views
+slug: wikihelp_overview
+source_file: 0573_wikihelp_overview.htm
+tags:
+- revit-api
+- views
+title: Revit 2012 WikiHelp Overview
+word_count: 156
 ---
 
 ### Revit 2012 WikiHelp Overview

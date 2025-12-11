@@ -1,11 +1,23 @@
 ---
-post_number: "0240"
-title: "Adding a Column to RDBLink"
-slug: "rdblink"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'parameters', 'revit-api']
-source_file: "0240_rdblink.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0240_rdblink.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.606107'
+original_url: https://thebuildingcoder.typepad.com/blog/0240_rdblink.html
+post_number: '0240'
+reading_time_minutes: 3
+series: general
+slug: rdblink
+source_file: 0240_rdblink.htm
+tags:
+- doors
+- elements
+- family
+- parameters
+- revit-api
+title: Adding a Column to RDBLink
+word_count: 623
 ---
 
 ### Adding a Column to RDBLink

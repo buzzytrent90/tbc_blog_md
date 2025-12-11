@@ -1,11 +1,25 @@
 ---
-post_number: "1618"
-title: "Au Past Future"
-slug: "au_past_future"
-author: "Jeremy Tammik"
-tags: ['doors', 'family', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1618_au_past_future.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1618_au_past_future.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.400910'
+original_url: https://thebuildingcoder.typepad.com/blog/1618_au_past_future.html
+post_number: '1618'
+reading_time_minutes: 2
+series: general
+slug: au_past_future
+source_file: 1618_au_past_future.md
+tags:
+- doors
+- family
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: Au Past Future
+word_count: 452
 ---
 
 ### Autodesk University Past and Future

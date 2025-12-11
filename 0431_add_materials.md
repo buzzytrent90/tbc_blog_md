@@ -1,11 +1,25 @@
 ---
-post_number: "0431"
-title: "Add New Materials from List"
-slug: "add_materials"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "0431_add_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0431_add_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.935373'
+original_url: https://thebuildingcoder.typepad.com/blog/0431_add_materials.html
+post_number: '0431'
+reading_time_minutes: 6
+series: materials
+slug: add_materials
+source_file: 0431_add_materials.htm
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+- materials
+title: Add New Materials from List
+word_count: 1102
 ---
 
 ### Add New Materials from List

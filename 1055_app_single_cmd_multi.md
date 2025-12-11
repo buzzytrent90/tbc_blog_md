@@ -1,11 +1,25 @@
 ---
-post_number: "1055"
-title: "Singleton Application versus Multiple Command Instances"
-slug: "app_single_cmd_multi"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'rooms', 'transactions', 'windows']
-source_file: "1055_app_single_cmd_multi.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1055_app_single_cmd_multi.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.208368'
+original_url: https://thebuildingcoder.typepad.com/blog/1055_app_single_cmd_multi.html
+post_number: '1055'
+reading_time_minutes: 6
+series: general
+slug: app_single_cmd_multi
+source_file: 1055_app_single_cmd_multi.htm
+tags:
+- elements
+- python
+- references
+- revit-api
+- rooms
+- transactions
+- windows
+title: Singleton Application versus Multiple Command Instances
+word_count: 1152
 ---
 
 ### Singleton Application versus Multiple Command Instances

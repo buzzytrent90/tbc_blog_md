@@ -1,11 +1,26 @@
 ---
-post_number: "1811"
-title: "Family Compare Atom"
-slug: "family_compare_atom"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'vbnet']
-source_file: "1811_family_compare_atom.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1811_family_compare_atom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.792872'
+original_url: https://thebuildingcoder.typepad.com/blog/1811_family_compare_atom.html
+post_number: '1811'
+reading_time_minutes: 4
+series: family
+slug: family_compare_atom
+source_file: 1811_family_compare_atom.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- vbnet
+title: Family Compare Atom
+word_count: 827
 ---
 
 ### Swissbau Basel and Comparing Family Part Atoms

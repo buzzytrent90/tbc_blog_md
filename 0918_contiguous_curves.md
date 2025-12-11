@@ -1,11 +1,27 @@
 ---
-post_number: "0918"
-title: "Sort and Orient Curves to Form a Contiguous Loop"
-slug: "contiguous_curves"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'rooms', 'schedules', 'views', 'windows']
-source_file: "0918_contiguous_curves.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0918_contiguous_curves.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.889049'
+original_url: https://thebuildingcoder.typepad.com/blog/0918_contiguous_curves.html
+post_number: 0918
+reading_time_minutes: 6
+series: geometry
+slug: contiguous_curves
+source_file: 0918_contiguous_curves.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- rooms
+- schedules
+- views
+- windows
+title: Sort and Orient Curves to Form a Contiguous Loop
+word_count: 1167
 ---
 
 ### Sort and Orient Curves to Form a Contiguous Loop

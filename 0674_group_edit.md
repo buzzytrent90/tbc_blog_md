@@ -1,11 +1,24 @@
 ---
-post_number: "0674"
-title: "Editing a Group Take Two"
-slug: "group_edit"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'python', 'revit-api', 'selection', 'transactions']
-source_file: "0674_group_edit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0674_group_edit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.375847'
+original_url: https://thebuildingcoder.typepad.com/blog/0674_group_edit.html
+post_number: '0674'
+reading_time_minutes: 2
+series: general
+slug: group_edit
+source_file: 0674_group_edit.htm
+tags:
+- elements
+- filtering
+- python
+- revit-api
+- selection
+- transactions
+title: Editing a Group Take Two
+word_count: 475
 ---
 
 ### Editing a Group Take Two

@@ -1,11 +1,32 @@
 ---
-post_number: "0383"
-title: "Parameter Filter"
-slug: "param_filter"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'transactions', 'views', 'walls', 'windows']
-source_file: "0383_param_filter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0383_param_filter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.855961'
+original_url: https://thebuildingcoder.typepad.com/blog/0383_param_filter.html
+post_number: 0383
+reading_time_minutes: 8
+series: filtering
+slug: param_filter
+source_file: 0383_param_filter.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- transactions
+- views
+- walls
+- windows
+title: Parameter Filter
+word_count: 1558
 ---
 
 ### Parameter Filter

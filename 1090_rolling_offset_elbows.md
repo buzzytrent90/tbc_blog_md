@@ -1,11 +1,27 @@
 ---
-post_number: "1090"
-title: "Explicitly Placing Rolling Offset Elbow Fittings"
-slug: "rolling_offset_elbows"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'views']
-source_file: "1090_rolling_offset_elbows.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1090_rolling_offset_elbows.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.284242'
+original_url: https://thebuildingcoder.typepad.com/blog/1090_rolling_offset_elbows.html
+post_number: '1090'
+reading_time_minutes: 6
+series: general
+slug: rolling_offset_elbows
+source_file: 1090_rolling_offset_elbows.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- views
+title: Explicitly Placing Rolling Offset Elbow Fittings
+word_count: 1181
 ---
 
 ### Explicitly Placing Rolling Offset Elbow Fittings

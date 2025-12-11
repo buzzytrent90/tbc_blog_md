@@ -1,11 +1,29 @@
 ---
-post_number: "1653"
-title: "Dwg Layer Visible"
-slug: "dwg_layer_visible"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1653_dwg_layer_visible.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1653_dwg_layer_visible.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.467755'
+original_url: https://thebuildingcoder.typepad.com/blog/1653_dwg_layer_visible.html
+post_number: '1653'
+reading_time_minutes: 6
+series: general
+slug: dwg_layer_visible
+source_file: 1653_dwg_layer_visible.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+title: Dwg Layer Visible
+word_count: 1174
 ---
 
 ### Foreground Image Import and Visible DWG Geometry

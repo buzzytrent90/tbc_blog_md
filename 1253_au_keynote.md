@@ -1,11 +1,19 @@
 ---
-post_number: "1253"
-title: "Autodesk University Keynotes"
-slug: "au_keynote"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1253_au_keynote.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1253_au_keynote.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.612568'
+original_url: https://thebuildingcoder.typepad.com/blog/1253_au_keynote.html
+post_number: '1253'
+reading_time_minutes: 3
+series: general
+slug: au_keynote
+source_file: 1253_au_keynote.htm
+tags:
+- revit-api
+title: Autodesk University Keynotes
+word_count: 630
 ---
 
 ### Autodesk University Keynotes

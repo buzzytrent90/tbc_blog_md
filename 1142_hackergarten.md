@@ -1,11 +1,19 @@
 ---
-post_number: "1142"
-title: "Hackergarten Meetup"
-slug: "hackergarten"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1142_hackergarten.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1142_hackergarten.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.392472'
+original_url: https://thebuildingcoder.typepad.com/blog/1142_hackergarten.html
+post_number: '1142'
+reading_time_minutes: 1
+series: general
+slug: hackergarten
+source_file: 1142_hackergarten.htm
+tags:
+- revit-api
+title: Hackergarten Meetup
+word_count: 293
 ---
 
 ### Hackergarten Meetup

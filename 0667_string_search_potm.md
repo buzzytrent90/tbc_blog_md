@@ -1,11 +1,29 @@
 ---
-post_number: "0667"
-title: "String Search ADN Plugin of the Month"
-slug: "string_search_potm"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "0667_string_search_potm.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0667_string_search_potm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: news
+optimization_date: '2025-12-11T11:44:14.360960'
+original_url: https://thebuildingcoder.typepad.com/blog/0667_string_search_potm.html
+post_number: '0667'
+reading_time_minutes: 5
+series: filtering
+slug: string_search_potm
+source_file: 0667_string_search_potm.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- selection
+- sheets
+- views
+- walls
+- windows
+- filtering
+title: String Search ADN Plugin of the Month
+word_count: 954
 ---
 
 ### String Search ADN Plugin of the Month

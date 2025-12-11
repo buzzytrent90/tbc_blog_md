@@ -1,11 +1,26 @@
 ---
-post_number: "0749"
-title: "Add-In Wizard for Revit 2013"
-slug: "addin_wizard_2013"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0749_addin_wizard_2013.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0749_addin_wizard_2013.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.515275'
+original_url: https://thebuildingcoder.typepad.com/blog/0749_addin_wizard_2013.html
+post_number: 0749
+reading_time_minutes: 2
+series: general
+slug: addin_wizard_2013
+source_file: 0749_addin_wizard_2013.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- revit-api
+- selection
+- transactions
+- walls
+title: Add-In Wizard for Revit 2013
+word_count: 326
 ---
 
 ### Add-In Wizard for Revit 2013

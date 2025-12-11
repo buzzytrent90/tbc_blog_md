@@ -1,11 +1,24 @@
 ---
-post_number: "0198"
-title: "Roof Eave Cut in Revit and ACA"
-slug: "roof_eave_cut"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'selection', 'walls']
-source_file: "0198_roof_eave_cut.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0198_roof_eave_cut.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.531358'
+original_url: https://thebuildingcoder.typepad.com/blog/0198_roof_eave_cut.html
+post_number: 0198
+reading_time_minutes: 4
+series: general
+slug: roof_eave_cut
+source_file: 0198_roof_eave_cut.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- selection
+- walls
+title: Roof Eave Cut in Revit and ACA
+word_count: 816
 ---
 
 ### Roof Eave Cut in Revit and ACA

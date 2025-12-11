@@ -1,11 +1,20 @@
 ---
-post_number: "0487"
-title: "Pattern for Semi-Asynchronous Idling API Access"
-slug: "async_idling_pattern"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api']
-source_file: "0487_async_idling_pattern.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0487_async_idling_pattern.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.034535'
+original_url: https://thebuildingcoder.typepad.com/blog/0487_async_idling_pattern.html
+post_number: 0487
+reading_time_minutes: 1
+series: general
+slug: async_idling_pattern
+source_file: 0487_async_idling_pattern.htm
+tags:
+- elements
+- revit-api
+title: Pattern for Semi-Asynchronous Idling API Access
+word_count: 293
 ---
 
 ### Pattern for Semi-Asynchronous Idling API Access

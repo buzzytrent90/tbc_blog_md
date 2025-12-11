@@ -1,11 +1,22 @@
 ---
-post_number: "1660"
-title: "Sdk My First Plugin"
-slug: "sdk_my_first_plugin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets', 'views']
-source_file: "1660_sdk_my_first_plugin.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1660_sdk_my_first_plugin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.481211'
+original_url: https://thebuildingcoder.typepad.com/blog/1660_sdk_my_first_plugin.html
+post_number: '1660'
+reading_time_minutes: 1
+series: general
+slug: sdk_my_first_plugin
+source_file: 1660_sdk_my_first_plugin.md
+tags:
+- csharp
+- revit-api
+- sheets
+- views
+title: Sdk My First Plugin
+word_count: 263
 ---
 
 ### Revit 2019 SDK and My First Plugin Update

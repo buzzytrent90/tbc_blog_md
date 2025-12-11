@@ -1,11 +1,26 @@
 ---
-post_number: "0887"
-title: "Basic File Info and RVT File Version"
-slug: "rvt_file_version"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'references', 'revit-api', 'schedules', 'views', 'windows']
-source_file: "0887_rvt_file_version.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0887_rvt_file_version.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.798409'
+original_url: https://thebuildingcoder.typepad.com/blog/0887_rvt_file_version.html
+post_number: 0887
+reading_time_minutes: 11
+series: general
+slug: rvt_file_version
+source_file: 0887_rvt_file_version.htm
+tags:
+- csharp
+- family
+- python
+- references
+- revit-api
+- schedules
+- views
+- windows
+title: Basic File Info and RVT File Version
+word_count: 2153
 ---
 
 ### Basic File Info and RVT File Version

@@ -1,11 +1,27 @@
 ---
-post_number: "0512"
-title: "Language Independent Subcategory Creation"
-slug: "lang_indep_subcat"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0512_lang_indep_subcat.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0512_lang_indep_subcat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.079348'
+original_url: https://thebuildingcoder.typepad.com/blog/0512_lang_indep_subcat.html
+post_number: '0512'
+reading_time_minutes: 10
+series: general
+slug: lang_indep_subcat
+source_file: 0512_lang_indep_subcat.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- selection
+- transactions
+- walls
+title: Language Independent Subcategory Creation
+word_count: 1983
 ---
 
 ### Language Independent Subcategory Creation

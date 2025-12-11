@@ -1,11 +1,24 @@
 ---
-post_number: "0467"
-title: "Refresh Referencing Sheet Parameter Display"
-slug: "refresh_referencing_sheet"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "0467_refresh_referencing_sheet.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0467_refresh_referencing_sheet.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.997771'
+original_url: https://thebuildingcoder.typepad.com/blog/0467_refresh_referencing_sheet.html
+post_number: '0467'
+reading_time_minutes: 3
+series: views
+slug: refresh_referencing_sheet
+source_file: 0467_refresh_referencing_sheet.htm
+tags:
+- csharp
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Refresh Referencing Sheet Parameter Display
+word_count: 566
 ---
 
 ### Refresh Referencing Sheet Parameter Display

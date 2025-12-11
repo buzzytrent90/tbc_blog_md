@@ -1,11 +1,20 @@
 ---
-post_number: "0623"
-title: "Revit API Training Preparation"
-slug: "training_prep"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0623_training_prep.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0623_training_prep.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.285471'
+original_url: https://thebuildingcoder.typepad.com/blog/0623_training_prep.html
+post_number: '0623'
+reading_time_minutes: 4
+series: general
+slug: training_prep
+source_file: 0623_training_prep.htm
+tags:
+- revit-api
+- views
+title: Revit API Training Preparation
+word_count: 706
 ---
 
 ### Revit API Training Preparation

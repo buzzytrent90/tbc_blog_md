@@ -1,11 +1,28 @@
 ---
-post_number: "0757"
-title: "Developer Center and SDK Update"
-slug: "devcenter_sdk_update"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'schedules', 'sheets', 'views', 'walls']
-source_file: "0757_devcenter_sdk_update.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0757_devcenter_sdk_update.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.530931'
+original_url: https://thebuildingcoder.typepad.com/blog/0757_devcenter_sdk_update.html
+post_number: '0757'
+reading_time_minutes: 7
+series: general
+slug: devcenter_sdk_update
+source_file: 0757_devcenter_sdk_update.htm
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- sheets
+- views
+- walls
+title: Developer Center and SDK Update
+word_count: 1479
 ---
 
 ### Developer Center and SDK Update

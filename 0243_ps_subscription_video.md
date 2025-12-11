@@ -1,11 +1,20 @@
 ---
-post_number: "0243"
-title: "Product Support Subscription Videos"
-slug: "ps_subscription_video"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0243_ps_subscription_video.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0243_ps_subscription_video.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.610218'
+original_url: https://thebuildingcoder.typepad.com/blog/0243_ps_subscription_video.html
+post_number: '0243'
+reading_time_minutes: 1
+series: general
+slug: ps_subscription_video
+source_file: 0243_ps_subscription_video.htm
+tags:
+- revit-api
+- views
+title: Product Support Subscription Videos
+word_count: 116
 ---
 
 ### Product Support Subscription Videos

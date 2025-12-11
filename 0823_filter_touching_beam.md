@@ -1,11 +1,27 @@
 ---
-post_number: "0823"
-title: "Filter for Touching Beams Using Solid Intersection"
-slug: "filter_touching_beam"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'references', 'revit-api', 'rooms', 'selection', 'walls']
-source_file: "0823_filter_touching_beam.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0823_filter_touching_beam.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.671417'
+original_url: https://thebuildingcoder.typepad.com/blog/0823_filter_touching_beam.html
+post_number: 0823
+reading_time_minutes: 6
+series: filtering
+slug: filter_touching_beam
+source_file: 0823_filter_touching_beam.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- rooms
+- selection
+- walls
+title: Filter for Touching Beams Using Solid Intersection
+word_count: 1265
 ---
 
 ### Filter for Touching Beams Using Solid Intersection

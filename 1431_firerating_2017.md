@@ -1,11 +1,28 @@
 ---
-post_number: "1431"
-title: "Firerating 2017"
-slug: "firerating_2017"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'windows']
-source_file: "1431_firerating_2017.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1431_firerating_2017.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.010192'
+original_url: https://thebuildingcoder.typepad.com/blog/1431_firerating_2017.html
+post_number: '1431'
+reading_time_minutes: 18
+series: general
+slug: firerating_2017
+source_file: 1431_firerating_2017.md
+tags:
+- doors
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- windows
+title: Firerating 2017
+word_count: 3590
 ---
 
 ### Real-Time BIM Update with FireRatingCloud 2017

@@ -1,11 +1,23 @@
 ---
-post_number: "1458"
-title: "The Building Coder"
-slug: "unitutils_weight"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'sheets', 'windows']
-source_file: "1458_unitutils_weight.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1458_unitutils_weight.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.069253'
+original_url: https://thebuildingcoder.typepad.com/blog/1458_unitutils_weight.html
+post_number: '1458'
+reading_time_minutes: 3
+series: general
+slug: unitutils_weight
+source_file: 1458_unitutils_weight.md
+tags:
+- elements
+- parameters
+- revit-api
+- sheets
+- windows
+title: The Building Coder
+word_count: 682
 ---
 
 ### UnitUtils Converting Units for Unit Weight

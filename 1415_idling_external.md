@@ -1,11 +1,27 @@
 ---
-post_number: "1415"
-title: "Idling External"
-slug: "idling_external"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'views', 'windows']
-source_file: "1415_idling_external.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1415_idling_external.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.970259'
+original_url: https://thebuildingcoder.typepad.com/blog/1415_idling_external.html
+post_number: '1415'
+reading_time_minutes: 6
+series: general
+slug: idling_external
+source_file: 1415_idling_external.md
+tags:
+- elements
+- geometry
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- views
+- windows
+title: Idling External
+word_count: 1287
 ---
 
 ### Vipassana and Idling versus External Events

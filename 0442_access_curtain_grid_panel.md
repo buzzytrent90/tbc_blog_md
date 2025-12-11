@@ -1,11 +1,27 @@
 ---
-post_number: "0442"
-title: "Access to Curtain Grid Panels"
-slug: "access_curtain_grid_panel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'references', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0442_access_curtain_grid_panel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0442_access_curtain_grid_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.952207'
+original_url: https://thebuildingcoder.typepad.com/blog/0442_access_curtain_grid_panel.html
+post_number: '0442'
+reading_time_minutes: 5
+series: general
+slug: access_curtain_grid_panel
+source_file: 0442_access_curtain_grid_panel.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- references
+- revit-api
+- selection
+- transactions
+- walls
+title: Access to Curtain Grid Panels
+word_count: 901
 ---
 
 ### Access to Curtain Grid Panels

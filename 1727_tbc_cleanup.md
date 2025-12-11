@@ -1,11 +1,26 @@
 ---
-post_number: "1727"
-title: "Tbc Cleanup"
-slug: "tbc_cleanup"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1727_tbc_cleanup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1727_tbc_cleanup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: news
+optimization_date: '2025-12-11T11:44:16.616819'
+original_url: https://thebuildingcoder.typepad.com/blog/1727_tbc_cleanup.html
+post_number: '1727'
+reading_time_minutes: 5
+series: general
+slug: tbc_cleanup
+source_file: 1727_tbc_cleanup.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+title: Tbc Cleanup
+word_count: 1028
 ---
 
 ### AI, Trends and Yearly API Usage Cleanup

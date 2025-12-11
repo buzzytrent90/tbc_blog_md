@@ -1,11 +1,23 @@
 ---
-post_number: "1131"
-title: "Revit 2015 API News – DevDays Online Recording"
-slug: "revit_2015_api_news"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions', 'views']
-source_file: "1131_revit_2015_api_news.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1131_revit_2015_api_news.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.361541'
+original_url: https://thebuildingcoder.typepad.com/blog/1131_revit_2015_api_news.html
+post_number: '1131'
+reading_time_minutes: 5
+series: general
+slug: revit_2015_api_news
+source_file: 1131_revit_2015_api_news.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+- views
+title: "Revit 2015 API News \u2013 DevDays Online Recording"
+word_count: 1045
 ---
 
 ### Revit 2015 API News – DevDays Online Recording

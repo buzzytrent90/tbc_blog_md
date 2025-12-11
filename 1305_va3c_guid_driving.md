@@ -1,11 +1,22 @@
 ---
-post_number: "1305"
-title: "Duplicate Add-In GUID and Driving Revit from Outside"
-slug: "va3c_guid_driving"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api', 'views']
-source_file: "1305_va3c_guid_driving.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1305_va3c_guid_driving.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.728762'
+original_url: https://thebuildingcoder.typepad.com/blog/1305_va3c_guid_driving.html
+post_number: '1305'
+reading_time_minutes: 7
+series: general
+slug: va3c_guid_driving
+source_file: 1305_va3c_guid_driving.htm
+tags:
+- family
+- parameters
+- revit-api
+- views
+title: Duplicate Add-In GUID and Driving Revit from Outside
+word_count: 1302
 ---
 
 ### Duplicate Add-In GUID and Driving Revit from Outside

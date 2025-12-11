@@ -1,11 +1,28 @@
 ---
-post_number: "1962"
-title: "Dynamo Planet Risk"
-slug: "dynamo_planet_risk"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'levels', 'python', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1962_dynamo_planet_risk.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1962_dynamo_planet_risk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.138961'
+original_url: https://thebuildingcoder.typepad.com/blog/1962_dynamo_planet_risk.html
+post_number: '1962'
+reading_time_minutes: 12
+series: general
+slug: dynamo_planet_risk
+source_file: 1962_dynamo_planet_risk.md
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- levels
+- python
+- revit-api
+- rooms
+- sheets
+- views
+title: Dynamo Planet Risk
+word_count: 2327
 ---
 
 ### Home Planet and to Dy or Not to Dy

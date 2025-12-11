@@ -1,11 +1,27 @@
 ---
-post_number: "1066"
-title: "Erasing Extensible Storage with Linked Files"
-slug: "erase_estore_link"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1066_erase_estore_link.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1066_erase_estore_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.230986'
+original_url: https://thebuildingcoder.typepad.com/blog/1066_erase_estore_link.html
+post_number: '1066'
+reading_time_minutes: 5
+series: general
+slug: erase_estore_link
+source_file: 1066_erase_estore_link.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Erasing Extensible Storage with Linked Files
+word_count: 1018
 ---
 
 ### Erasing Extensible Storage with Linked Files

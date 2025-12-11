@@ -1,11 +1,24 @@
 ---
-post_number: "1039"
-title: "Using the Built-In Revit AcGe Functionality"
-slug: "acge_built_in"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'levels', 'references', 'revit-api', 'views']
-source_file: "1039_acge_built_in.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1039_acge_built_in.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.174888'
+original_url: https://thebuildingcoder.typepad.com/blog/1039_acge_built_in.html
+post_number: '1039'
+reading_time_minutes: 4
+series: general
+slug: acge_built_in
+source_file: 1039_acge_built_in.htm
+tags:
+- csharp
+- geometry
+- levels
+- references
+- revit-api
+- views
+title: Using the Built-In Revit AcGe Functionality
+word_count: 822
 ---
 
 ### Using the Built-In Revit AcGe Functionality

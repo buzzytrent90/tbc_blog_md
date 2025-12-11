@@ -1,11 +1,23 @@
 ---
-post_number: "0883"
-title: "Determine Revit Demo Mode and Serial Number"
-slug: "sn_demo_mode"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'windows']
-source_file: "0883_sn_demo_mode.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0883_sn_demo_mode.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.791735'
+original_url: https://thebuildingcoder.typepad.com/blog/0883_sn_demo_mode.html
+post_number: 0883
+reading_time_minutes: 2
+series: general
+slug: sn_demo_mode
+source_file: 0883_sn_demo_mode.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- windows
+title: Determine Revit Demo Mode and Serial Number
+word_count: 348
 ---
 
 ### Determine Revit Demo Mode and Serial Number

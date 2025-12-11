@@ -1,11 +1,27 @@
 ---
-post_number: "1773"
-title: "Face Intersect Face"
-slug: "face_intersect_face"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1773_face_intersect_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1773_face_intersect_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.715965'
+original_url: https://thebuildingcoder.typepad.com/blog/1773_face_intersect_face.html
+post_number: '1773'
+reading_time_minutes: 7
+series: general
+slug: face_intersect_face
+source_file: 1773_face_intersect_face.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Face Intersect Face
+word_count: 1448
 ---
 
 ### Face Intersect Face is Unbounded

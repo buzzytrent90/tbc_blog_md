@@ -1,11 +1,27 @@
 ---
-post_number: "0828"
-title: "Exporting Parameter Data to Excel"
-slug: "export_param_excel"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'selection', 'sheets', 'transactions']
-source_file: "0828_export_param_excel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0828_export_param_excel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.684779'
+original_url: https://thebuildingcoder.typepad.com/blog/0828_export_param_excel.html
+post_number: 0828
+reading_time_minutes: 10
+series: general
+slug: export_param_excel
+source_file: 0828_export_param_excel.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- selection
+- sheets
+- transactions
+title: Exporting Parameter Data to Excel
+word_count: 1956
 ---
 
 ### Exporting Parameter Data to Excel

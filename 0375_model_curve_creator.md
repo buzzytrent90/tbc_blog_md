@@ -1,11 +1,26 @@
 ---
-post_number: "0375"
-title: "Model Curve Creator"
-slug: "model_curve_creator"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'python', 'revit-api', 'transactions', 'walls']
-source_file: "0375_model_curve_creator.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0375_model_curve_creator.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.841194'
+original_url: https://thebuildingcoder.typepad.com/blog/0375_model_curve_creator.html
+post_number: '0375'
+reading_time_minutes: 4
+series: geometry
+slug: model_curve_creator
+source_file: 0375_model_curve_creator.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- python
+- revit-api
+- transactions
+- walls
+title: Model Curve Creator
+word_count: 709
 ---
 
 ### Model Curve Creator

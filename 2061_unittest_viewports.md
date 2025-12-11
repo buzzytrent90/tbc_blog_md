@@ -1,11 +1,29 @@
 ---
-post_number: "2061"
-title: "Unittest Viewports"
-slug: "unittest_viewports"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "2061_unittest_viewports.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2061_unittest_viewports.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.392559'
+original_url: https://thebuildingcoder.typepad.com/blog/2061_unittest_viewports.html
+post_number: '2061'
+reading_time_minutes: 16
+series: views
+slug: unittest_viewports
+source_file: 2061_unittest_viewports.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Unittest Viewports
+word_count: 3128
 ---
 
 ### Back Again to Unit Test, Icons, Viewports and More

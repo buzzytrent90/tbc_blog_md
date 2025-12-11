@@ -1,11 +1,23 @@
 ---
-post_number: "0343"
-title: "XYZ Immutable"
-slug: "xyz_immutable"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'views']
-source_file: "0343_xyz_immutable.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0343_xyz_immutable.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.778019'
+original_url: https://thebuildingcoder.typepad.com/blog/0343_xyz_immutable.html
+post_number: '0343'
+reading_time_minutes: 2
+series: geometry
+slug: xyz_immutable
+source_file: 0343_xyz_immutable.htm
+tags:
+- csharp
+- elements
+- revit-api
+- views
+- geometry
+title: XYZ Immutable
+word_count: 384
 ---
 
 ### XYZ Immutable

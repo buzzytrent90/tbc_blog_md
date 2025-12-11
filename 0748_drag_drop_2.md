@@ -1,11 +1,24 @@
 ---
-post_number: "0748"
-title: "Drag and Drop API"
-slug: "drag_drop_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'views', 'windows']
-source_file: "0748_drag_drop_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0748_drag_drop_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.513019'
+original_url: https://thebuildingcoder.typepad.com/blog/0748_drag_drop_2.html
+post_number: 0748
+reading_time_minutes: 7
+series: general
+slug: drag_drop_2
+source_file: 0748_drag_drop_2.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- views
+- windows
+title: Drag and Drop API
+word_count: 1429
 ---
 
 ### Drag and Drop API

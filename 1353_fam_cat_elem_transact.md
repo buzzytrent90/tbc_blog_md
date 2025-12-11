@@ -1,11 +1,28 @@
 ---
-post_number: "1353"
-title: "Fam Cat Elem Transact"
-slug: "fam_cat_elem_transact"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1353_fam_cat_elem_transact.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1353_fam_cat_elem_transact.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.828998'
+original_url: https://thebuildingcoder.typepad.com/blog/1353_fam_cat_elem_transact.html
+post_number: '1353'
+reading_time_minutes: 12
+series: general
+slug: fam_cat_elem_transact
+source_file: 1353_fam_cat_elem_transact.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Fam Cat Elem Transact
+word_count: 2381
 ---
 
 ### Family Category, Element Ids, Transaction and Updates

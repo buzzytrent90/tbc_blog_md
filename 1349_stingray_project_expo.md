@@ -1,11 +1,19 @@
 ---
-post_number: "1349"
-title: "Stingray and Project Expo for Architects"
-slug: "stingray_project_expo"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1349_stingray_project_expo.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1349_stingray_project_expo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.821057'
+original_url: https://thebuildingcoder.typepad.com/blog/1349_stingray_project_expo.html
+post_number: '1349'
+reading_time_minutes: 1
+series: general
+slug: stingray_project_expo
+source_file: 1349_stingray_project_expo.htm
+tags:
+- revit-api
+title: Stingray and Project Expo for Architects
+word_count: 255
 ---
 
 ### Stingray and Project Expo for Architects

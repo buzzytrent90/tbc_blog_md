@@ -1,11 +1,34 @@
 ---
-post_number: "0988"
-title: "Sydney Revit API Training and Vacation"
-slug: "news_sydney_train"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'selection', 'transactions', 'vbnet', 'views']
-source_file: "0988_news_sydney_train.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0988_news_sydney_train.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.062268'
+original_url: https://thebuildingcoder.typepad.com/blog/0988_news_sydney_train.html
+post_number: 0988
+reading_time_minutes: 21
+series: general
+slug: news_sydney_train
+source_file: 0988_news_sydney_train.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- transactions
+- vbnet
+- views
+title: Sydney Revit API Training and Vacation
+word_count: 4165
 ---
 
 ### Sydney Revit API Training and Vacation

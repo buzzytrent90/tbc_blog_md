@@ -1,11 +1,26 @@
 ---
-post_number: "0575"
-title: "Updated SDK and Colour Coding Source Code"
-slug: "updated_sdk"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "0575_updated_sdk.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0575_updated_sdk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: news
+optimization_date: '2025-12-11T11:44:14.200133'
+original_url: https://thebuildingcoder.typepad.com/blog/0575_updated_sdk.html
+post_number: '0575'
+reading_time_minutes: 4
+series: general
+slug: updated_sdk
+source_file: 0575_updated_sdk.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Updated SDK and Colour Coding Source Code
+word_count: 825
 ---
 
 ### Updated SDK and Colour Coding Source Code

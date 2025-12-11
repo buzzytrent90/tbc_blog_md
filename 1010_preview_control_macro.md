@@ -1,11 +1,23 @@
 ---
-post_number: "1010"
-title: "Issue Using a Preview Control in a Macro"
-slug: "preview_control_macro"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1010_preview_control_macro.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1010_preview_control_macro.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.113375'
+original_url: https://thebuildingcoder.typepad.com/blog/1010_preview_control_macro.html
+post_number: '1010'
+reading_time_minutes: 6
+series: views
+slug: preview_control_macro
+source_file: 1010_preview_control_macro.htm
+tags:
+- csharp
+- revit-api
+- transactions
+- views
+- windows
+title: Issue Using a Preview Control in a Macro
+word_count: 1128
 ---
 
 ### Issue Using a Preview Control in a Macro

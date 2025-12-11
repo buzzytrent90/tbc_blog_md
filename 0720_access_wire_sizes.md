@@ -1,11 +1,25 @@
 ---
-post_number: "0720"
-title: "Access Wire Sizes"
-slug: "access_wire_sizes"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'references', 'revit-api', 'windows']
-source_file: "0720_access_wire_sizes.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0720_access_wire_sizes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.460824'
+original_url: https://thebuildingcoder.typepad.com/blog/0720_access_wire_sizes.html
+post_number: '0720'
+reading_time_minutes: 3
+series: general
+slug: access_wire_sizes
+source_file: 0720_access_wire_sizes.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- references
+- revit-api
+- windows
+title: Access Wire Sizes
+word_count: 608
 ---
 
 ### Access Wire Sizes

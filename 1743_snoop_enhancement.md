@@ -1,11 +1,29 @@
 ---
-post_number: "1743"
-title: "Snoop Enhancement"
-slug: "snoop_enhancement"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'python', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1743_snoop_enhancement.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1743_snoop_enhancement.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.653882'
+original_url: https://thebuildingcoder.typepad.com/blog/1743_snoop_enhancement.html
+post_number: '1743'
+reading_time_minutes: 3
+series: general
+slug: snoop_enhancement
+source_file: 1743_snoop_enhancement.md
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- python
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Snoop Enhancement
+word_count: 641
 ---
 
 ### Forge DA4R IFC Support and Snoop Enhancements

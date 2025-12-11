@@ -1,11 +1,26 @@
 ---
-post_number: "0755"
-title: "Munich API Training"
-slug: "munich_api_train"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "0755_munich_api_train.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0755_munich_api_train.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.527040'
+original_url: https://thebuildingcoder.typepad.com/blog/0755_munich_api_train.html
+post_number: '0755'
+reading_time_minutes: 2
+series: general
+slug: munich_api_train
+source_file: 0755_munich_api_train.htm
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+- walls
+title: Munich API Training
+word_count: 412
 ---
 
 ### Munich API Training

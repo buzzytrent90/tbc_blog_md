@@ -1,11 +1,28 @@
 ---
-post_number: "1377"
-title: "Wpf Thread Pickpoint"
-slug: "wpf_thread_pickpoint"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1377_wpf_thread_pickpoint.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1377_wpf_thread_pickpoint.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.888737'
+original_url: https://thebuildingcoder.typepad.com/blog/1377_wpf_thread_pickpoint.html
+post_number: '1377'
+reading_time_minutes: 10
+series: geometry
+slug: wpf_thread_pickpoint
+source_file: 1377_wpf_thread_pickpoint.md
+tags:
+- csharp
+- geometry
+- python
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Wpf Thread Pickpoint
+word_count: 1987
 ---
 
 ### PickPoint with WPF and No Threads Attached

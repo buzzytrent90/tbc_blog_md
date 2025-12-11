@@ -1,11 +1,30 @@
 ---
-post_number: "0644"
-title: "Bevelled Steel Beams"
-slug: "steel_beam_bevel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'python', 'references', 'revit-api', 'schedules', 'transactions', 'views']
-source_file: "0644_steel_beam_bevel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0644_steel_beam_bevel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.320602'
+original_url: https://thebuildingcoder.typepad.com/blog/0644_steel_beam_bevel.html
+post_number: '0644'
+reading_time_minutes: 5
+series: structural
+slug: steel_beam_bevel
+source_file: 0644_steel_beam_bevel.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- python
+- references
+- revit-api
+- schedules
+- transactions
+- views
+- structural
+title: Bevelled Steel Beams
+word_count: 1065
 ---
 
 ### Bevelled Steel Beams

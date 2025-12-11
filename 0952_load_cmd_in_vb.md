@@ -1,11 +1,22 @@
 ---
-post_number: "0952"
-title: "Load Your Own External Command on the Fly"
-slug: "load_cmd_in_vb"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'revit-api']
-source_file: "0952_load_cmd_in_vb.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0952_load_cmd_in_vb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.978311'
+original_url: https://thebuildingcoder.typepad.com/blog/0952_load_cmd_in_vb.html
+post_number: 0952
+reading_time_minutes: 2
+series: structural
+slug: load_cmd_in_vb
+source_file: 0952_load_cmd_in_vb.htm
+tags:
+- elements
+- python
+- revit-api
+- structural
+title: Load Your Own External Command on the Fly
+word_count: 479
 ---
 
 ﻿

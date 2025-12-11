@@ -1,11 +1,26 @@
 ---
-post_number: "0507"
-title: "Ribbon Spying and UI Automation"
-slug: "ribbon_spy_automate"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'references', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0507_ribbon_spy_automate.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0507_ribbon_spy_automate.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.070512'
+original_url: https://thebuildingcoder.typepad.com/blog/0507_ribbon_spy_automate.html
+post_number: '0507'
+reading_time_minutes: 10
+series: general
+slug: ribbon_spy_automate
+source_file: 0507_ribbon_spy_automate.htm
+tags:
+- csharp
+- elements
+- levels
+- references
+- revit-api
+- views
+- walls
+- windows
+title: Ribbon Spying and UI Automation
+word_count: 1982
 ---
 
 ### Ribbon Spying and UI Automation

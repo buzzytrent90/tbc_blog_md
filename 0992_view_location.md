@@ -1,11 +1,24 @@
 ---
-post_number: "0992"
-title: "Setting the Exact Same Location for two Views on a Sheet"
-slug: "view_location"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'sheets', 'views']
-source_file: "0992_view_location.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0992_view_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.073585'
+original_url: https://thebuildingcoder.typepad.com/blog/0992_view_location.html
+post_number: 0992
+reading_time_minutes: 3
+series: views
+slug: view_location
+source_file: 0992_view_location.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- sheets
+- views
+title: Setting the Exact Same Location for two Views on a Sheet
+word_count: 529
 ---
 
 ### Setting the Exact Same Location for two Views on a Sheet

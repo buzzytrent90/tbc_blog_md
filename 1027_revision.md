@@ -1,11 +1,22 @@
 ---
-post_number: "1027"
-title: "Max' Revision Wrapper Class"
-slug: "revision"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api']
-source_file: "1027_revision.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1027_revision.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.152562'
+original_url: https://thebuildingcoder.typepad.com/blog/1027_revision.html
+post_number: '1027'
+reading_time_minutes: 3
+series: general
+slug: revision
+source_file: 1027_revision.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+title: Max' Revision Wrapper Class
+word_count: 637
 ---
 
 ### Max' Revision Wrapper Class

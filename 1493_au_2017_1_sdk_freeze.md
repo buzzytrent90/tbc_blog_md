@@ -1,11 +1,28 @@
 ---
-post_number: "1493"
-title: "The Building Coder"
-slug: "au_2017_1_sdk_freeze"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1493_au_2017_1_sdk_freeze.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1493_au_2017_1_sdk_freeze.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: news
+optimization_date: '2025-12-11T11:44:16.152265'
+original_url: https://thebuildingcoder.typepad.com/blog/1493_au_2017_1_sdk_freeze.html
+post_number: '1493'
+reading_time_minutes: 6
+series: general
+slug: au_2017_1_sdk_freeze
+source_file: 1493_au_2017_1_sdk_freeze.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+title: The Building Coder
+word_count: 1240
 ---
 
 ### AU, Revit 2017.1 SDK and REX FreezeDrawing

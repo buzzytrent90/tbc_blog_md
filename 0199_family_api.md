@@ -1,11 +1,32 @@
 ---
-post_number: "0199"
-title: "The Revit Family API"
-slug: "family_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'schedules', 'views', 'walls', 'windows']
-source_file: "0199_family_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0199_family_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.534236'
+original_url: https://thebuildingcoder.typepad.com/blog/0199_family_api.html
+post_number: 0199
+reading_time_minutes: 15
+series: family
+slug: family_api
+source_file: 0199_family_api.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- views
+- walls
+- windows
+title: The Revit Family API
+word_count: 3083
 ---
 
 ### The Revit Family API

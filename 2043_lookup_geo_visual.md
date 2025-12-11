@@ -1,11 +1,26 @@
 ---
-post_number: "2043"
-title: "Lookup Geo Visual"
-slug: "lookup_geo_visual"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "2043_lookup_geo_visual.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2043_lookup_geo_visual.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: documentation
+optimization_date: '2025-12-11T11:44:17.347513'
+original_url: https://thebuildingcoder.typepad.com/blog/2043_lookup_geo_visual.html
+post_number: '2043'
+reading_time_minutes: 5
+series: general
+slug: lookup_geo_visual
+source_file: 2043_lookup_geo_visual.md
+tags:
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Lookup Geo Visual
+word_count: 927
 ---
 
 ### RevitLookup Geometry Visualisation

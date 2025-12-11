@@ -1,11 +1,28 @@
 ---
-post_number: "0619"
-title: "Retrieve Railing Elements"
-slug: "retrieve_railings"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'python', 'revit-api', 'rooms', 'selection', 'transactions']
-source_file: "0619_retrieve_railings.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0619_retrieve_railings.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.277343'
+original_url: https://thebuildingcoder.typepad.com/blog/0619_retrieve_railings.html
+post_number: 0619
+reading_time_minutes: 3
+series: general
+slug: retrieve_railings
+source_file: 0619_retrieve_railings.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- python
+- revit-api
+- rooms
+- selection
+- transactions
+title: Retrieve Railing Elements
+word_count: 693
 ---
 
 ### Retrieve Railing Elements

@@ -1,11 +1,20 @@
 ---
-post_number: "0181"
-title: "Practical Notes on Impractical Things"
-slug: "potpourri"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0181_potpourri.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0181_potpourri.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.501505'
+original_url: https://thebuildingcoder.typepad.com/blog/0181_potpourri.html
+post_number: 0181
+reading_time_minutes: 2
+series: general
+slug: potpourri
+source_file: 0181_potpourri.htm
+tags:
+- family
+- revit-api
+title: Practical Notes on Impractical Things
+word_count: 305
 ---
 
 ### Practical Notes on Impractical Things

@@ -1,11 +1,23 @@
 ---
-post_number: "0982"
-title: "Revit Add-in Unit Testing"
-slug: "rvtunit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0982_rvtunit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0982_rvtunit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.046537'
+original_url: https://thebuildingcoder.typepad.com/blog/0982_rvtunit.html
+post_number: 0982
+reading_time_minutes: 4
+series: general
+slug: rvtunit
+source_file: 0982_rvtunit.htm
+tags:
+- csharp
+- parameters
+- references
+- revit-api
+- views
+title: Revit Add-in Unit Testing
+word_count: 854
 ---
 
 ### Revit Add-in Unit Testing

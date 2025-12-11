@@ -1,11 +1,20 @@
 ---
-post_number: "0547"
-title: "Room Renumbering Plugin of the Month"
-slug: "room_renumbering_potm"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms']
-source_file: "0547_room_renumbering_potm.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0547_room_renumbering_potm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.148013'
+original_url: https://thebuildingcoder.typepad.com/blog/0547_room_renumbering_potm.html
+post_number: '0547'
+reading_time_minutes: 1
+series: general
+slug: room_renumbering_potm
+source_file: 0547_room_renumbering_potm.htm
+tags:
+- revit-api
+- rooms
+title: Room Renumbering Plugin of the Month
+word_count: 106
 ---
 
 ### Room Renumbering Plugin of the Month

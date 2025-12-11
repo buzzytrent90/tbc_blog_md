@@ -1,11 +1,28 @@
 ---
-post_number: "0934"
-title: "Accesssing and Filtering by Ramp Material"
-slug: "ramp_material"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'selection', 'views']
-source_file: "0934_ramp_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0934_ramp_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.927477'
+original_url: https://thebuildingcoder.typepad.com/blog/0934_ramp_material.html
+post_number: 0934
+reading_time_minutes: 2
+series: materials
+slug: ramp_material
+source_file: 0934_ramp_material.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- selection
+- views
+- materials
+title: Accesssing and Filtering by Ramp Material
+word_count: 367
 ---
 
 ### Accesssing and Filtering by Ramp Material

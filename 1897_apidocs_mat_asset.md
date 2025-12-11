@@ -1,11 +1,26 @@
 ---
-post_number: "1897"
-title: "Apidocs Mat Asset"
-slug: "apidocs_mat_asset"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'parameters', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1897_apidocs_mat_asset.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1897_apidocs_mat_asset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.992559'
+original_url: https://thebuildingcoder.typepad.com/blog/1897_apidocs_mat_asset.html
+post_number: '1897'
+reading_time_minutes: 5
+series: materials
+slug: apidocs_mat_asset
+source_file: 1897_apidocs_mat_asset.md
+tags:
+- doors
+- elements
+- parameters
+- revit-api
+- sheets
+- views
+- windows
+- materials
+title: Apidocs Mat Asset
+word_count: 1046
 ---
 
 ### Forge, RevitApiDocs, Materials and Stacked Items

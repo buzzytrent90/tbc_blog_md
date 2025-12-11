@@ -1,11 +1,24 @@
 ---
-post_number: "0019"
-title: "More Filter Performance"
-slug: "more_filter_performance"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'parameters', 'revit-api', 'windows']
-source_file: "0019_more_filter_performance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0019_more_filter_performance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.239591'
+original_url: https://thebuildingcoder.typepad.com/blog/0019_more_filter_performance.html
+post_number: 0019
+reading_time_minutes: 3
+series: filtering
+slug: more_filter_performance
+source_file: 0019_more_filter_performance.htm
+tags:
+- doors
+- elements
+- filtering
+- parameters
+- revit-api
+- windows
+title: More Filter Performance
+word_count: 529
 ---
 
 ### More Filter Performance

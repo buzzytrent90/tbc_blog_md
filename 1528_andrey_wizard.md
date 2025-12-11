@@ -1,11 +1,25 @@
 ---
-post_number: "1528"
-title: "Andrey Wizard"
-slug: "andrey_wizard"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'references', 'revit-api', 'sheets', 'vbnet', 'windows']
-source_file: "1528_andrey_wizard.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1528_andrey_wizard.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.225951'
+original_url: https://thebuildingcoder.typepad.com/blog/1528_andrey_wizard.html
+post_number: '1528'
+reading_time_minutes: 8
+series: general
+slug: andrey_wizard
+source_file: 1528_andrey_wizard.md
+tags:
+- csharp
+- levels
+- references
+- revit-api
+- sheets
+- vbnet
+- windows
+title: Andrey Wizard
+word_count: 1665
 ---
 
 ### New Visual Studio Templates for Revit Add-Ins

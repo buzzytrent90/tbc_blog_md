@@ -1,11 +1,26 @@
 ---
-post_number: "1064"
-title: "Determining Whether Parameter is Type or Instance Bound"
-slug: "param_type_or_inst"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'references', 'revit-api', 'transactions', 'walls']
-source_file: "1064_param_type_or_inst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1064_param_type_or_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.227405'
+original_url: https://thebuildingcoder.typepad.com/blog/1064_param_type_or_inst.html
+post_number: '1064'
+reading_time_minutes: 4
+series: elements
+slug: param_type_or_inst
+source_file: 1064_param_type_or_inst.htm
+tags:
+- elements
+- family
+- parameters
+- python
+- references
+- revit-api
+- transactions
+- walls
+title: Determining Whether Parameter is Type or Instance Bound
+word_count: 871
 ---
 
 ### Determining Whether Parameter is Type or Instance Bound

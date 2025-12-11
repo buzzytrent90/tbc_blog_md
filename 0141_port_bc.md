@@ -1,11 +1,31 @@
 ---
-post_number: "0141"
-title: "Porting the Building Coder Samples"
-slug: "port_bc"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "0141_port_bc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0141_port_bc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.432163'
+original_url: https://thebuildingcoder.typepad.com/blog/0141_port_bc.html
+post_number: '0141'
+reading_time_minutes: 8
+series: general
+slug: port_bc
+source_file: 0141_port_bc.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: Porting the Building Coder Samples
+word_count: 1654
 ---
 
 ### Porting the Building Coder Samples

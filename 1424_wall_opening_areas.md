@@ -1,11 +1,27 @@
 ---
-post_number: "1424"
-title: "Wall Opening Areas"
-slug: "wall_opening_areas"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'references', 'revit-api', 'rooms', 'sheets', 'walls']
-source_file: "1424_wall_opening_areas.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1424_wall_opening_areas.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.987781'
+original_url: https://thebuildingcoder.typepad.com/blog/1424_wall_opening_areas.html
+post_number: '1424'
+reading_time_minutes: 4
+series: general
+slug: wall_opening_areas
+source_file: 1424_wall_opening_areas.md
+tags:
+- doors
+- elements
+- family
+- geometry
+- references
+- revit-api
+- rooms
+- sheets
+- walls
+title: Wall Opening Areas
+word_count: 790
 ---
 
 ### More on Wall Opening Areas per Room

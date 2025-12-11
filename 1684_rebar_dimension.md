@@ -1,11 +1,30 @@
 ---
-post_number: "1684"
-title: "Rebar Dimension"
-slug: "rebar_dimension"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1684_rebar_dimension.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1684_rebar_dimension.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.518205'
+original_url: https://thebuildingcoder.typepad.com/blog/1684_rebar_dimension.html
+post_number: '1684'
+reading_time_minutes: 12
+series: general
+slug: rebar_dimension
+source_file: 1684_rebar_dimension.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Rebar Dimension
+word_count: 2428
 ---
 
 ### Rebar, Wall Centreline, Core and Grid Dimensioning

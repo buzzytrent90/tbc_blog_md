@@ -1,11 +1,27 @@
 ---
-post_number: "0146"
-title: "Host Reference"
-slug: "host_reference"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'references', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0146_host_reference.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0146_host_reference.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.441131'
+original_url: https://thebuildingcoder.typepad.com/blog/0146_host_reference.html
+post_number: '0146'
+reading_time_minutes: 4
+series: general
+slug: host_reference
+source_file: 0146_host_reference.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- references
+- revit-api
+- transactions
+- walls
+- windows
+title: Host Reference
+word_count: 784
 ---
 
 ### Host Reference

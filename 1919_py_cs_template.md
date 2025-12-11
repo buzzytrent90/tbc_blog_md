@@ -1,11 +1,26 @@
 ---
-post_number: "1919"
-title: "Py Cs Template"
-slug: "py_cs_template"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1919_py_cs_template.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1919_py_cs_template.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.042514'
+original_url: https://thebuildingcoder.typepad.com/blog/1919_py_cs_template.html
+post_number: '1919'
+reading_time_minutes: 7
+series: general
+slug: py_cs_template
+source_file: 1919_py_cs_template.md
+tags:
+- csharp
+- elements
+- python
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Py Cs Template
+word_count: 1471
 ---
 
 ### Snooping Parts, C# Templates and Python Topics

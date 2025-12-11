@@ -1,11 +1,24 @@
 ---
-post_number: "0680"
-title: "Intermediate API Update Releases"
-slug: "update_release_issues"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'rooms']
-source_file: "0680_update_release_issues.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0680_update_release_issues.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.385698'
+original_url: https://thebuildingcoder.typepad.com/blog/0680_update_release_issues.html
+post_number: 0680
+reading_time_minutes: 2
+series: general
+slug: update_release_issues
+source_file: 0680_update_release_issues.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- rooms
+title: Intermediate API Update Releases
+word_count: 323
 ---
 
 ### Intermediate API Update Releases

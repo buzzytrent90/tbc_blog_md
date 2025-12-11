@@ -1,11 +1,20 @@
 ---
-post_number: "0058"
-title: "New Revit Applications"
-slug: "new_revit_applications"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0058_new_revit_applications.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0058_new_revit_applications.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.298745'
+original_url: https://thebuildingcoder.typepad.com/blog/0058_new_revit_applications.html
+post_number: 0058
+reading_time_minutes: 1
+series: general
+slug: new_revit_applications
+source_file: 0058_new_revit_applications.htm
+tags:
+- revit-api
+- views
+title: New Revit Applications
+word_count: 64
 ---
 
 ### New Revit Applications

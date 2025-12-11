@@ -1,11 +1,23 @@
 ---
-post_number: "1187"
-title: "Launching a Stand-alone Executable"
-slug: "launch_exe"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions', 'windows']
-source_file: "1187_launch_exe.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1187_launch_exe.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.476182'
+original_url: https://thebuildingcoder.typepad.com/blog/1187_launch_exe.html
+post_number: '1187'
+reading_time_minutes: 4
+series: general
+slug: launch_exe
+source_file: 1187_launch_exe.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+- windows
+title: Launching a Stand-alone Executable
+word_count: 856
 ---
 
 ### Launching a Stand-alone Executable

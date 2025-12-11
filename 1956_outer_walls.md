@@ -1,11 +1,28 @@
 ---
-post_number: "1956"
-title: "Outer Walls"
-slug: "outer_walls"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'levels', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1956_outer_walls.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1956_outer_walls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.127136'
+original_url: https://thebuildingcoder.typepad.com/blog/1956_outer_walls.html
+post_number: '1956'
+reading_time_minutes: 6
+series: general
+slug: outer_walls
+source_file: 1956_outer_walls.md
+tags:
+- doors
+- elements
+- filtering
+- levels
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Outer Walls
+word_count: 1162
 ---
 
 ### Outer Walls, Lookup Update and Filtering

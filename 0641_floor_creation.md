@@ -1,11 +1,30 @@
 ---
-post_number: "0641"
-title: "Floor Creation"
-slug: "floor_creation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0641_floor_creation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0641_floor_creation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.314748'
+original_url: https://thebuildingcoder.typepad.com/blog/0641_floor_creation.html
+post_number: '0641'
+reading_time_minutes: 5
+series: general
+slug: floor_creation
+source_file: 0641_floor_creation.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+- walls
+title: Floor Creation
+word_count: 1083
 ---
 
 ### Floor Creation

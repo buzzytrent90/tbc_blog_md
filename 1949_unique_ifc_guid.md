@@ -1,11 +1,25 @@
 ---
-post_number: "1949"
-title: "Unique Ifc Guid"
-slug: "unique_ifc_guid"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1949_unique_ifc_guid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1949_unique_ifc_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.111156'
+original_url: https://thebuildingcoder.typepad.com/blog/1949_unique_ifc_guid.html
+post_number: '1949'
+reading_time_minutes: 5
+series: general
+slug: unique_ifc_guid
+source_file: 1949_unique_ifc_guid.md
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+title: Unique Ifc Guid
+word_count: 927
 ---
 
 ### Unique Id and IFC GUID Parameter

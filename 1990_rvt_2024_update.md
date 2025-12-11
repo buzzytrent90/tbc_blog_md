@@ -1,11 +1,26 @@
 ---
-post_number: "1990"
-title: "Rvt 2024 Update"
-slug: "rvt_2024_update"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views', 'windows']
-source_file: "1990_rvt_2024_update.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1990_rvt_2024_update.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.213672'
+original_url: https://thebuildingcoder.typepad.com/blog/1990_rvt_2024_update.html
+post_number: '1990'
+reading_time_minutes: 5
+series: general
+slug: rvt_2024_update
+source_file: 1990_rvt_2024_update.md
+tags:
+- elements
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+- windows
+title: Rvt 2024 Update
+word_count: 918
 ---
 
 ### News Reel, Roadmap and RevitLookup Updates

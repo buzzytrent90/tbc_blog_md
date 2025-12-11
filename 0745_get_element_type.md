@@ -1,11 +1,23 @@
 ---
-post_number: "0745"
-title: "GetElement method and Get Element Type"
-slug: "get_element_type"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'views']
-source_file: "0745_get_element_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0745_get_element_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.506969'
+original_url: https://thebuildingcoder.typepad.com/blog/0745_get_element_type.html
+post_number: '0745'
+reading_time_minutes: 3
+series: elements
+slug: get_element_type
+source_file: 0745_get_element_type.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- views
+title: GetElement method and Get Element Type
+word_count: 567
 ---
 
 ### GetElement method and Get Element Type

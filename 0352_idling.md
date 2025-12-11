@@ -1,11 +1,25 @@
 ---
-post_number: "0352"
-title: "Idling Event"
-slug: "idling"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0352_idling.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0352_idling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.793439'
+original_url: https://thebuildingcoder.typepad.com/blog/0352_idling.html
+post_number: '0352'
+reading_time_minutes: 6
+series: general
+slug: idling
+source_file: 0352_idling.htm
+tags:
+- csharp
+- doors
+- elements
+- revit-api
+- transactions
+- walls
+- windows
+title: Idling Event
+word_count: 1108
 ---
 
 ### Idling Event

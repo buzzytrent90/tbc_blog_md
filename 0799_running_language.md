@@ -1,11 +1,24 @@
 ---
-post_number: "0799"
-title: "Running Language Code and More Exporters"
-slug: "running_language"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'python', 'revit-api', 'views']
-source_file: "0799_running_language.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0799_running_language.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.616454'
+original_url: https://thebuildingcoder.typepad.com/blog/0799_running_language.html
+post_number: 0799
+reading_time_minutes: 4
+series: general
+slug: running_language
+source_file: 0799_running_language.htm
+tags:
+- csharp
+- elements
+- geometry
+- python
+- revit-api
+- views
+title: Running Language Code and More Exporters
+word_count: 767
 ---
 
 ### Running Language Code and More Exporters

@@ -1,11 +1,25 @@
 ---
-post_number: "0813"
-title: "Titbits of the Week"
-slug: "titbits"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'revit-api', 'views']
-source_file: "0813_titbits.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0813_titbits.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.647102'
+original_url: https://thebuildingcoder.typepad.com/blog/0813_titbits.html
+post_number: 0813
+reading_time_minutes: 3
+series: general
+slug: titbits
+source_file: 0813_titbits.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- views
+title: Titbits of the Week
+word_count: 635
 ---
 
 ### Titbits of the Week

@@ -1,11 +1,24 @@
 ---
-post_number: "1352"
-title: "Realdwg Meetup Prague"
-slug: "realdwg_meetup_prague"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1352_realdwg_meetup_prague.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1352_realdwg_meetup_prague.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.826404'
+original_url: https://thebuildingcoder.typepad.com/blog/1352_realdwg_meetup_prague.html
+post_number: '1352'
+reading_time_minutes: 3
+series: general
+slug: realdwg_meetup_prague
+source_file: 1352_realdwg_meetup_prague.md
+tags:
+- csharp
+- geometry
+- python
+- revit-api
+- sheets
+- views
+title: Realdwg Meetup Prague
+word_count: 514
 ---
 
 ### RealDWG, AutoCAD I/O, View & Data API Meetup in Prague

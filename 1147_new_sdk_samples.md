@@ -1,11 +1,22 @@
 ---
-post_number: "1147"
-title: "New Revit 2015 SDK Samples"
-slug: "new_sdk_samples"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api']
-source_file: "1147_new_sdk_samples.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1147_new_sdk_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.402396'
+original_url: https://thebuildingcoder.typepad.com/blog/1147_new_sdk_samples.html
+post_number: '1147'
+reading_time_minutes: 2
+series: general
+slug: new_sdk_samples
+source_file: 1147_new_sdk_samples.htm
+tags:
+- elements
+- family
+- parameters
+- revit-api
+title: New Revit 2015 SDK Samples
+word_count: 424
 ---
 
 ### New Revit 2015 SDK Samples

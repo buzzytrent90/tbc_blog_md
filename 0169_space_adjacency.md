@@ -1,11 +1,26 @@
 ---
-post_number: "0169"
-title: "Space Adjacency"
-slug: "space_adjacency"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'python', 'revit-api', 'rooms', 'selection', 'walls']
-source_file: "0169_space_adjacency.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0169_space_adjacency.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.478159'
+original_url: https://thebuildingcoder.typepad.com/blog/0169_space_adjacency.html
+post_number: 0169
+reading_time_minutes: 8
+series: general
+slug: space_adjacency
+source_file: 0169_space_adjacency.htm
+tags:
+- csharp
+- doors
+- elements
+- python
+- revit-api
+- rooms
+- selection
+- walls
+title: Space Adjacency
+word_count: 1570
 ---
 
 ### Space Adjacency

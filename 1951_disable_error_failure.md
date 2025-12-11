@@ -1,11 +1,30 @@
 ---
-post_number: "1951"
-title: "Disable Error Failure"
-slug: "disable_error_failure"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1951_disable_error_failure.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1951_disable_error_failure.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.116129'
+original_url: https://thebuildingcoder.typepad.com/blog/1951_disable_error_failure.html
+post_number: '1951'
+reading_time_minutes: 11
+series: general
+slug: disable_error_failure
+source_file: 1951_disable_error_failure.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Disable Error Failure
+word_count: 2221
 ---
 
 ### Revit 2023 API Docs and Disabling an Error Failure

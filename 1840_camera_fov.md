@@ -1,11 +1,22 @@
 ---
-post_number: "1840"
-title: "Camera Fov"
-slug: "camera_fov"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "1840_camera_fov.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1840_camera_fov.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.865596'
+original_url: https://thebuildingcoder.typepad.com/blog/1840_camera_fov.html
+post_number: '1840'
+reading_time_minutes: 3
+series: general
+slug: camera_fov
+source_file: 1840_camera_fov.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Camera Fov
+word_count: 643
 ---
 
 ### Revit Camera FOV, Forge Partner Talks and Jobs

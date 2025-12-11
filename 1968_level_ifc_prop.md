@@ -1,11 +1,32 @@
 ---
-post_number: "1968"
-title: "Level Ifc Prop"
-slug: "level_ifc_prop"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'walls', 'windows']
-source_file: "1968_level_ifc_prop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1968_level_ifc_prop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.153754'
+original_url: https://thebuildingcoder.typepad.com/blog/1968_level_ifc_prop.html
+post_number: '1968'
+reading_time_minutes: 5
+series: general
+slug: level_ifc_prop
+source_file: 1968_level_ifc_prop.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- walls
+- windows
+title: Level Ifc Prop
+word_count: 991
 ---
 
 ### Element Level and IFC Properties

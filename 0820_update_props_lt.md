@@ -1,11 +1,23 @@
 ---
-post_number: "0820"
-title: "Updating Properties and Announcing Revit LT"
-slug: "update_props_lt"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'schedules', 'windows']
-source_file: "0820_update_props_lt.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0820_update_props_lt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.661908'
+original_url: https://thebuildingcoder.typepad.com/blog/0820_update_props_lt.html
+post_number: 0820
+reading_time_minutes: 3
+series: general
+slug: update_props_lt
+source_file: 0820_update_props_lt.htm
+tags:
+- elements
+- family
+- revit-api
+- schedules
+- windows
+title: Updating Properties and Announcing Revit LT
+word_count: 641
 ---
 
 ﻿

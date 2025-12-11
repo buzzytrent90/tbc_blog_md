@@ -1,11 +1,21 @@
 ---
-post_number: "1776"
-title: "Api Survey Devcon"
-slug: "api_survey_devcon"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "1776_api_survey_devcon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1776_api_survey_devcon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.722936'
+original_url: https://thebuildingcoder.typepad.com/blog/1776_api_survey_devcon.html
+post_number: '1776'
+reading_time_minutes: 3
+series: general
+slug: api_survey_devcon
+source_file: 1776_api_survey_devcon.md
+tags:
+- revit-api
+- sheets
+- views
+title: Api Survey Devcon
+word_count: 589
 ---
 
 ### API Survey and Forge DevCon

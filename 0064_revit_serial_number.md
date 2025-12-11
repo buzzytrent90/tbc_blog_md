@@ -1,11 +1,19 @@
 ---
-post_number: "0064"
-title: "Revit Serial Number"
-slug: "revit_serial_number"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0064_revit_serial_number.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0064_revit_serial_number.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.304471'
+original_url: https://thebuildingcoder.typepad.com/blog/0064_revit_serial_number.html
+post_number: '0064'
+reading_time_minutes: 1
+series: general
+slug: revit_serial_number
+source_file: 0064_revit_serial_number.htm
+tags:
+- revit-api
+title: Revit Serial Number
+word_count: 79
 ---
 
 ### Revit Serial Number

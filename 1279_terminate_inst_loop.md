@@ -1,11 +1,30 @@
 ---
-post_number: "1279"
-title: "Sending Escape to Terminate a Family Instance Placement Loop"
-slug: "terminate_inst_loop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'windows']
-source_file: "1279_terminate_inst_loop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1279_terminate_inst_loop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.663738'
+original_url: https://thebuildingcoder.typepad.com/blog/1279_terminate_inst_loop.html
+post_number: '1279'
+reading_time_minutes: 7
+series: general
+slug: terminate_inst_loop
+source_file: 1279_terminate_inst_loop.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- windows
+title: Sending Escape to Terminate a Family Instance Placement Loop
+word_count: 1431
 ---
 
 ### Sending Escape to Terminate a Family Instance Placement Loop

@@ -1,11 +1,21 @@
 ---
-post_number: "1686"
-title: "Roadmap Ci Geomlib"
-slug: "roadmap_ci_geomlib"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api', 'sheets']
-source_file: "1686_roadmap_ci_geomlib.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1686_roadmap_ci_geomlib.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.521651'
+original_url: https://thebuildingcoder.typepad.com/blog/1686_roadmap_ci_geomlib.html
+post_number: '1686'
+reading_time_minutes: 2
+series: general
+slug: roadmap_ci_geomlib
+source_file: 1686_roadmap_ci_geomlib.md
+tags:
+- geometry
+- revit-api
+- sheets
+title: Roadmap Ci Geomlib
+word_count: 476
 ---
 
 ### Roadmap, CI for RTF, Geometry Library

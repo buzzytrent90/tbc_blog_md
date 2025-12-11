@@ -1,11 +1,30 @@
 ---
-post_number: "0620"
-title: "Top Faces of Sloped Wall"
-slug: "top_faces_of_wall"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "0620_top_faces_of_wall.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0620_top_faces_of_wall.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.280133'
+original_url: https://thebuildingcoder.typepad.com/blog/0620_top_faces_of_wall.html
+post_number: '0620'
+reading_time_minutes: 20
+series: general
+slug: top_faces_of_wall
+source_file: 0620_top_faces_of_wall.htm
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Top Faces of Sloped Wall
+word_count: 3940
 ---
 
 ### Top Faces of Sloped Wall

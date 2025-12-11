@@ -1,11 +1,19 @@
 ---
-post_number: "0277"
-title: "gbXML Webcast"
-slug: "gbxml_webcast"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0277_gbxml_webcast.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0277_gbxml_webcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.665877'
+original_url: https://thebuildingcoder.typepad.com/blog/0277_gbxml_webcast.html
+post_number: '0277'
+reading_time_minutes: 1
+series: general
+slug: gbxml_webcast
+source_file: 0277_gbxml_webcast.htm
+tags:
+- revit-api
+title: gbXML Webcast
+word_count: 186
 ---
 
 ### gbXML Webcast

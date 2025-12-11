@@ -1,11 +1,28 @@
 ---
-post_number: "0484"
-title: "Failure API Take Two"
-slug: "failure_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "0484_failure_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0484_failure_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.028194'
+original_url: https://thebuildingcoder.typepad.com/blog/0484_failure_api.html
+post_number: 0484
+reading_time_minutes: 10
+series: general
+slug: failure_api
+source_file: 0484_failure_api.htm
+tags:
+- csharp
+- doors
+- elements
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Failure API Take Two
+word_count: 2080
 ---
 
 ### Failure API Take Two

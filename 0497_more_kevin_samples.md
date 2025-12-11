@@ -1,11 +1,30 @@
 ---
-post_number: "0497"
-title: "More Kevin Filtering Benchmarks"
-slug: "more_kevin_samples"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'schedules', 'transactions', 'views', 'walls']
-source_file: "0497_more_kevin_samples.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0497_more_kevin_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.056529'
+original_url: https://thebuildingcoder.typepad.com/blog/0497_more_kevin_samples.html
+post_number: 0497
+reading_time_minutes: 10
+series: general
+slug: more_kevin_samples
+source_file: 0497_more_kevin_samples.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- transactions
+- views
+- walls
+title: More Kevin Filtering Benchmarks
+word_count: 1923
 ---
 
 ### More Kevin Filtering Benchmarks

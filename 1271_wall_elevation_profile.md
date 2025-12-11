@@ -1,11 +1,29 @@
 ---
-post_number: "1271"
-title: "Getting the Wall Elevation Profile"
-slug: "wall_elevation_profile"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1271_wall_elevation_profile.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1271_wall_elevation_profile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.645212'
+original_url: https://thebuildingcoder.typepad.com/blog/1271_wall_elevation_profile.html
+post_number: '1271'
+reading_time_minutes: 3
+series: general
+slug: wall_elevation_profile
+source_file: 1271_wall_elevation_profile.htm
+tags:
+- doors
+- elements
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Getting the Wall Elevation Profile
+word_count: 595
 ---
 
 ### Getting the Wall Elevation Profile

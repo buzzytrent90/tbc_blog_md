@@ -1,11 +1,30 @@
 ---
-post_number: "1907"
-title: "Reflect Transform"
-slug: "reflect_transform"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1907_reflect_transform.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1907_reflect_transform.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.017424'
+original_url: https://thebuildingcoder.typepad.com/blog/1907_reflect_transform.html
+post_number: '1907'
+reading_time_minutes: 7
+series: geometry
+slug: reflect_transform
+source_file: 1907_reflect_transform.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Reflect Transform
+word_count: 1476
 ---
 
 ### Flip, Mirror, Transform and Transient Graphics

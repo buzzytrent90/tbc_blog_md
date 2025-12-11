@@ -1,11 +1,24 @@
 ---
-post_number: "1627"
-title: "Keynote Rex"
-slug: "keynote_rex"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1627_keynote_rex.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1627_keynote_rex.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.417420'
+original_url: https://thebuildingcoder.typepad.com/blog/1627_keynote_rex.html
+post_number: '1627'
+reading_time_minutes: 9
+series: general
+slug: keynote_rex
+source_file: 1627_keynote_rex.md
+tags:
+- family
+- parameters
+- revit-api
+- selection
+- sheets
+- views
+title: Keynote Rex
+word_count: 1738
 ---
 
 ### DevDays, Keynote Manager and REX Extensions

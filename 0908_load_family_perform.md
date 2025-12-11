@@ -1,11 +1,27 @@
 ---
-post_number: "0908"
-title: "LoadFamily and Collector Iteration Performance"
-slug: "load_family_perform"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "0908_load_family_perform.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0908_load_family_perform.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.864502'
+original_url: https://thebuildingcoder.typepad.com/blog/0908_load_family_perform.html
+post_number: 0908
+reading_time_minutes: 8
+series: structural
+slug: load_family_perform
+source_file: 0908_load_family_perform.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- sheets
+- views
+- walls
+- structural
+title: LoadFamily and Collector Iteration Performance
+word_count: 1534
 ---
 
 ### LoadFamily and Collector Iteration Performance

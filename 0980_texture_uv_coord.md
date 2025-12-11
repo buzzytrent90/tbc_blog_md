@@ -1,11 +1,24 @@
 ---
-post_number: "0980"
-title: "Texture Bitmap and UV Coordinates"
-slug: "texture_uv_coord"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'revit-api', 'views']
-source_file: "0980_texture_uv_coord.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0980_texture_uv_coord.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.040257'
+original_url: https://thebuildingcoder.typepad.com/blog/0980_texture_uv_coord.html
+post_number: 0980
+reading_time_minutes: 7
+series: geometry
+slug: texture_uv_coord
+source_file: 0980_texture_uv_coord.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- views
+title: Texture Bitmap and UV Coordinates
+word_count: 1397
 ---
 
 ﻿

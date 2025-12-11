@@ -1,11 +1,27 @@
 ---
-post_number: "1914"
-title: "Create Floor"
-slug: "create_floor"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1914_create_floor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1914_create_floor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.032339'
+original_url: https://thebuildingcoder.typepad.com/blog/1914_create_floor.html
+post_number: '1914'
+reading_time_minutes: 7
+series: general
+slug: create_floor
+source_file: 1914_create_floor.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- sheets
+- views
+- windows
+title: Create Floor
+word_count: 1449
 ---
 
 ### Triangle Count, New Floor and Slab Creation

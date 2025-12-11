@@ -1,11 +1,22 @@
 ---
-post_number: "1591"
-title: "Modeless Focus"
-slug: "modeless_focus"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views', 'windows']
-source_file: "1591_modeless_focus.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1591_modeless_focus.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.351976'
+original_url: https://thebuildingcoder.typepad.com/blog/1591_modeless_focus.html
+post_number: '1591'
+reading_time_minutes: 10
+series: general
+slug: modeless_focus
+source_file: 1591_modeless_focus.md
+tags:
+- revit-api
+- sheets
+- views
+- windows
+title: Modeless Focus
+word_count: 2057
 ---
 
 ### Modeless Form Keep Revit Focus and On Top

@@ -1,11 +1,26 @@
 ---
-post_number: "0493"
-title: "XML Family Usage Report"
-slug: "xml_family_usage"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'python', 'revit-api', 'views']
-source_file: "0493_xml_family_usage.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0493_xml_family_usage.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.049436'
+original_url: https://thebuildingcoder.typepad.com/blog/0493_xml_family_usage.html
+post_number: 0493
+reading_time_minutes: 5
+series: family
+slug: xml_family_usage
+source_file: 0493_xml_family_usage.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- python
+- revit-api
+- views
+title: XML Family Usage Report
+word_count: 937
 ---
 
 ### XML Family Usage Report

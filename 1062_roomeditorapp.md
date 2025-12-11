@@ -1,11 +1,26 @@
 ---
-post_number: "1062"
-title: "RoomEditorApp Idling and Benchmarking Timer"
-slug: "roomeditorapp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "1062_roomeditorapp.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1062_roomeditorapp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 12.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.222206'
+original_url: https://thebuildingcoder.typepad.com/blog/1062_roomeditorapp.html
+post_number: '1062'
+reading_time_minutes: 15
+series: general
+slug: roomeditorapp
+source_file: 1062_roomeditorapp.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- rooms
+- schedules
+- views
+title: RoomEditorApp Idling and Benchmarking Timer
+word_count: 2953
 ---
 
 ### RoomEditorApp Idling and Benchmarking Timer

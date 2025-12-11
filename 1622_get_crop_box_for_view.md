@@ -1,11 +1,27 @@
 ---
-post_number: "1622"
-title: "Get Crop Box For View"
-slug: "get_crop_box_for_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'vbnet', 'views']
-source_file: "1622_get_crop_box_for_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1622_get_crop_box_for_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.408118'
+original_url: https://thebuildingcoder.typepad.com/blog/1622_get_crop_box_for_view.html
+post_number: '1622'
+reading_time_minutes: 3
+series: views
+slug: get_crop_box_for_view
+source_file: 1622_get_crop_box_for_view.md
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- vbnet
+- views
+title: Get Crop Box For View
+word_count: 546
 ---
 
 ### Efficiently Retrieve Crop Box for Given View

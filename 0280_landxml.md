@@ -1,11 +1,23 @@
 ---
-post_number: "0280"
-title: "Import LandXML Surface"
-slug: "landxml"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'python', 'revit-api', 'views']
-source_file: "0280_landxml.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0280_landxml.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.669843'
+original_url: https://thebuildingcoder.typepad.com/blog/0280_landxml.html
+post_number: 0280
+reading_time_minutes: 2
+series: general
+slug: landxml
+source_file: 0280_landxml.htm
+tags:
+- elements
+- filtering
+- python
+- revit-api
+- views
+title: Import LandXML Surface
+word_count: 407
 ---
 
 ### Import LandXML Surface

@@ -1,11 +1,27 @@
 ---
-post_number: "1107"
-title: "A Couple of Revit API Aspects and Features"
-slug: "api_features"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'revit-api', 'vbnet', 'views', 'windows']
-source_file: "1107_api_features.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1107_api_features.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 12.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.317430'
+original_url: https://thebuildingcoder.typepad.com/blog/1107_api_features.html
+post_number: '1107'
+reading_time_minutes: 16
+series: general
+slug: api_features
+source_file: 1107_api_features.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- vbnet
+- views
+- windows
+title: A Couple of Revit API Aspects and Features
+word_count: 3159
 ---
 
 ### A Couple of Revit API Aspects and Features

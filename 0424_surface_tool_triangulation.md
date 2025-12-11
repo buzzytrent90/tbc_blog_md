@@ -1,11 +1,21 @@
 ---
-post_number: "0424"
-title: "Surface Triangulation Tool"
-slug: "surface_tool_triangulation"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'walls']
-source_file: "0424_surface_tool_triangulation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0424_surface_tool_triangulation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.925309'
+original_url: https://thebuildingcoder.typepad.com/blog/0424_surface_tool_triangulation.html
+post_number: '0424'
+reading_time_minutes: 1
+series: family
+slug: surface_tool_triangulation
+source_file: 0424_surface_tool_triangulation.htm
+tags:
+- revit-api
+- walls
+- family
+title: Surface Triangulation Tool
+word_count: 287
 ---
 
 ### Surface Triangulation Tool

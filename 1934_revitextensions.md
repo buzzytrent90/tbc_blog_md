@@ -1,11 +1,23 @@
 ---
-post_number: "1934"
-title: "Revitextensions"
-slug: "revitextensions"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'parameters', 'revit-api', 'sheets']
-source_file: "1934_revitextensions.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1934_revitextensions.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: news
+optimization_date: '2025-12-11T11:44:17.076783'
+original_url: https://thebuildingcoder.typepad.com/blog/1934_revitextensions.html
+post_number: '1934'
+reading_time_minutes: 3
+series: general
+slug: revitextensions
+source_file: 1934_revitextensions.md
+tags:
+- doors
+- elements
+- parameters
+- revit-api
+- sheets
+title: Revitextensions
+word_count: 520
 ---
 
 ### Happy New Year with RevitExtensions

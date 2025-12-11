@@ -1,11 +1,24 @@
 ---
-post_number: "1976"
-title: "Chatgpt Arm Tsp"
-slug: "chatgpt_arm_tsp"
-author: "Jeremy Tammik"
-tags: ['levels', 'parameters', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1976_chatgpt_arm_tsp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1976_chatgpt_arm_tsp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.170863'
+original_url: https://thebuildingcoder.typepad.com/blog/1976_chatgpt_arm_tsp.html
+post_number: '1976'
+reading_time_minutes: 9
+series: general
+slug: chatgpt_arm_tsp
+source_file: 1976_chatgpt_arm_tsp.md
+tags:
+- levels
+- parameters
+- revit-api
+- sheets
+- views
+- windows
+title: Chatgpt Arm Tsp
+word_count: 1813
 ---
 
 ### Exploring ARM, ChatGPT, Nairobi and the TSP

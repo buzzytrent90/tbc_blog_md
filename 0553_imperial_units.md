@@ -1,11 +1,19 @@
 ---
-post_number: "0553"
-title: "Internal Imperial Units"
-slug: "imperial_units"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0553_imperial_units.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0553_imperial_units.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.159641'
+original_url: https://thebuildingcoder.typepad.com/blog/0553_imperial_units.html
+post_number: '0553'
+reading_time_minutes: 1
+series: general
+slug: imperial_units
+source_file: 0553_imperial_units.htm
+tags:
+- revit-api
+title: Internal Imperial Units
+word_count: 243
 ---
 
 ### Internal Imperial Units

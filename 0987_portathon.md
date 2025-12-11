@@ -1,11 +1,20 @@
 ---
-post_number: "0987"
-title: "Earn $100 Submitting an Autodesk Exchange App"
-slug: "portathon"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'transactions']
-source_file: "0987_portathon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0987_portathon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.058518'
+original_url: https://thebuildingcoder.typepad.com/blog/0987_portathon.html
+post_number: 0987
+reading_time_minutes: 7
+series: general
+slug: portathon
+source_file: 0987_portathon.htm
+tags:
+- revit-api
+- transactions
+title: Earn $100 Submitting an Autodesk Exchange App
+word_count: 1332
 ---
 
 ### Earn $100 Submitting an Autodesk Exchange App

@@ -1,11 +1,22 @@
 ---
-post_number: "0005"
-title: "Managing SDK Samples"
-slug: "managing_sdk_samples"
-author: "Jeremy Tammik"
-tags: ['geometry', 'levels', 'revit-api', 'views']
-source_file: "0005_managing_sdk_samples.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0005_managing_sdk_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.215121'
+original_url: https://thebuildingcoder.typepad.com/blog/0005_managing_sdk_samples.html
+post_number: '0005'
+reading_time_minutes: 3
+series: general
+slug: managing_sdk_samples
+source_file: 0005_managing_sdk_samples.htm
+tags:
+- geometry
+- levels
+- revit-api
+- views
+title: Managing SDK Samples
+word_count: 524
 ---
 
 ### Managing SDK Samples

@@ -1,11 +1,27 @@
 ---
-post_number: "1690"
-title: "Convert Addin Da4r"
-slug: "convert_addin_da4r"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1690_convert_addin_da4r.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1690_convert_addin_da4r.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.528455'
+original_url: https://thebuildingcoder.typepad.com/blog/1690_convert_addin_da4r.html
+post_number: '1690'
+reading_time_minutes: 4
+series: general
+slug: convert_addin_da4r
+source_file: 1690_convert_addin_da4r.md
+tags:
+- csharp
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Convert Addin Da4r
+word_count: 799
 ---
 
 ### Auto-Run an Add-In for Design Automation

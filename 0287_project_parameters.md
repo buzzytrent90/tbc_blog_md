@@ -1,11 +1,23 @@
 ---
-post_number: "0287"
-title: "Retrieving Project Parameters"
-slug: "project_parameters"
-author: "Jeremy Tammik"
-tags: ['geometry', 'parameters', 'revit-api', 'vbnet', 'views']
-source_file: "0287_project_parameters.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0287_project_parameters.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.684061'
+original_url: https://thebuildingcoder.typepad.com/blog/0287_project_parameters.html
+post_number: 0287
+reading_time_minutes: 1
+series: parameters
+slug: project_parameters
+source_file: 0287_project_parameters.htm
+tags:
+- geometry
+- parameters
+- revit-api
+- vbnet
+- views
+title: Retrieving Project Parameters
+word_count: 253
 ---
 
 ### Retrieving Project Parameters

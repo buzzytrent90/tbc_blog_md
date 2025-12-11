@@ -1,11 +1,26 @@
 ---
-post_number: "1958"
-title: "Detail Component"
-slug: "detail_component"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1958_detail_component.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1958_detail_component.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.130378'
+original_url: https://thebuildingcoder.typepad.com/blog/1958_detail_component.html
+post_number: '1958'
+reading_time_minutes: 4
+series: general
+slug: detail_component
+source_file: 1958_detail_component.md
+tags:
+- elements
+- family
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Detail Component
+word_count: 835
 ---
 
 ### Tag Extents and Lazy Detail Components

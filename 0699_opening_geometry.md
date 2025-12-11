@@ -1,11 +1,24 @@
 ---
-post_number: "0699"
-title: "Opening Geometry, Using LINQ, and Dances with Elephants"
-slug: "opening_geometry"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'walls']
-source_file: "0699_opening_geometry.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0699_opening_geometry.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.421356'
+original_url: https://thebuildingcoder.typepad.com/blog/0699_opening_geometry.html
+post_number: 0699
+reading_time_minutes: 6
+series: geometry
+slug: opening_geometry
+source_file: 0699_opening_geometry.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- walls
+title: Opening Geometry, Using LINQ, and Dances with Elephants
+word_count: 1101
 ---
 
 ### Opening Geometry, Using LINQ, and Dances with Elephants

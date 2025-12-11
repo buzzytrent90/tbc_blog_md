@@ -1,11 +1,28 @@
 ---
-post_number: "1017"
-title: "Determining Location Attributes and Retrieving Key Elements"
-slug: "location_att_key_sched"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "1017_location_att_key_sched.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1017_location_att_key_sched.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.129798'
+original_url: https://thebuildingcoder.typepad.com/blog/1017_location_att_key_sched.html
+post_number: '1017'
+reading_time_minutes: 4
+series: general
+slug: location_att_key_sched
+source_file: 1017_location_att_key_sched.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- schedules
+- views
+title: Determining Location Attributes and Retrieving Key Elements
+word_count: 746
 ---
 
 ### Determining Location Attributes and Retrieving Key Elements

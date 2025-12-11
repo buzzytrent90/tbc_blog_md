@@ -1,11 +1,23 @@
 ---
-post_number: "0222"
-title: "Getting Started with the Revit 2010 API"
-slug: "getting_started_2010"
-author: "Jeremy Tammik"
-tags: ['doors', 'family', 'revit-api', 'views']
-source_file: "0222_getting_started_2010.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0222_getting_started_2010.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.576799'
+original_url: https://thebuildingcoder.typepad.com/blog/0222_getting_started_2010.html
+post_number: '0222'
+reading_time_minutes: 2
+series: getting_started
+slug: getting_started_2010
+source_file: 0222_getting_started_2010.htm
+tags:
+- doors
+- family
+- revit-api
+- views
+- getting_started
+title: Getting Started with the Revit 2010 API
+word_count: 428
 ---
 
 ### Getting Started with the Revit 2010 API

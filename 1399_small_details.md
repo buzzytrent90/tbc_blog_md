@@ -1,11 +1,28 @@
 ---
-post_number: "1399"
-title: "Small Details"
-slug: "small_details"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'python', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1399_small_details.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1399_small_details.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.939374'
+original_url: https://thebuildingcoder.typepad.com/blog/1399_small_details.html
+post_number: '1399'
+reading_time_minutes: 2
+series: general
+slug: small_details
+source_file: 1399_small_details.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- python
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Small Details
+word_count: 398
 ---
 
 ### Modelling Small Details

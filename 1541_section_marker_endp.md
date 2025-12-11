@@ -1,11 +1,27 @@
 ---
-post_number: "1541"
-title: "Section Marker Endp"
-slug: "section_marker_endp"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1541_section_marker_endp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1541_section_marker_endp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.251071'
+original_url: https://thebuildingcoder.typepad.com/blog/1541_section_marker_endp.html
+post_number: '1541'
+reading_time_minutes: 4
+series: general
+slug: section_marker_endp
+source_file: 1541_section_marker_endp.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Section Marker Endp
+word_count: 894
 ---
 
 ### TTT to Obtain Section Marker Endpoint

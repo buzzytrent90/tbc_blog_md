@@ -1,11 +1,25 @@
 ---
-post_number: "0561"
-title: "Change Element Colour"
-slug: "change_element_colour"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0561_change_element_colour.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0561_change_element_colour.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.178463'
+original_url: https://thebuildingcoder.typepad.com/blog/0561_change_element_colour.html
+post_number: '0561'
+reading_time_minutes: 1
+series: transactions
+slug: change_element_colour
+source_file: 0561_change_element_colour.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Change Element Colour
+word_count: 217
 ---
 
 ### Change Element Colour

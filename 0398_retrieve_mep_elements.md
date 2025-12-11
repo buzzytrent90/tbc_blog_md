@@ -1,11 +1,25 @@
 ---
-post_number: "0398"
-title: "Retrieve MEP Elements and Connectors"
-slug: "retrieve_mep_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api']
-source_file: "0398_retrieve_mep_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0398_retrieve_mep_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.882610'
+original_url: https://thebuildingcoder.typepad.com/blog/0398_retrieve_mep_elements.html
+post_number: 0398
+reading_time_minutes: 4
+series: elements
+slug: retrieve_mep_elements
+source_file: 0398_retrieve_mep_elements.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+title: Retrieve MEP Elements and Connectors
+word_count: 853
 ---
 
 ### Retrieve MEP Elements and Connectors

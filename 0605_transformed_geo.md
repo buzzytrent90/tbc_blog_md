@@ -1,11 +1,24 @@
 ---
-post_number: "0605"
-title: "Get Transformed Family Instance Geometry"
-slug: "transformed_geo"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'views']
-source_file: "0605_transformed_geo.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0605_transformed_geo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.248366'
+original_url: https://thebuildingcoder.typepad.com/blog/0605_transformed_geo.html
+post_number: '0605'
+reading_time_minutes: 4
+series: geometry
+slug: transformed_geo
+source_file: 0605_transformed_geo.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- views
+title: Get Transformed Family Instance Geometry
+word_count: 765
 ---
 
 ### Get Transformed Family Instance Geometry

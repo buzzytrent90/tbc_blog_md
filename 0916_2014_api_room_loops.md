@@ -1,11 +1,31 @@
 ---
-post_number: "0916"
-title: "Revit 2014 API and Plan View Room Boundary Loops"
-slug: "2014_api_room_loops"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'selection', 'views', 'windows']
-source_file: "0916_2014_api_room_loops.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0916_2014_api_room_loops.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.884085'
+original_url: https://thebuildingcoder.typepad.com/blog/0916_2014_api_room_loops.html
+post_number: 0916
+reading_time_minutes: 9
+series: general
+slug: 2014_api_room_loops
+source_file: 0916_2014_api_room_loops.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- views
+- windows
+title: Revit 2014 API and Plan View Room Boundary Loops
+word_count: 1762
 ---
 
 ### Revit 2014 API and Plan View Room Boundary Loops

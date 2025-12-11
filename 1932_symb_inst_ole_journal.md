@@ -1,11 +1,32 @@
 ---
-post_number: "1932"
-title: "Symb Inst Ole Journal"
-slug: "symb_inst_ole_journal"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1932_symb_inst_ole_journal.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1932_symb_inst_ole_journal.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.072550'
+original_url: https://thebuildingcoder.typepad.com/blog/1932_symb_inst_ole_journal.html
+post_number: '1932'
+reading_time_minutes: 17
+series: general
+slug: symb_inst_ole_journal
+source_file: 1932_symb_inst_ole_journal.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Symb Inst Ole Journal
+word_count: 3342
 ---
 
 ### Symbol, Instance, Material, Data, Journal, Break

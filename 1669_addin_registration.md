@@ -1,11 +1,21 @@
 ---
-post_number: "1669"
-title: "Addin Registration"
-slug: "addin_registration"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "1669_addin_registration.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1669_addin_registration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.497790'
+original_url: https://thebuildingcoder.typepad.com/blog/1669_addin_registration.html
+post_number: '1669'
+reading_time_minutes: 3
+series: general
+slug: addin_registration
+source_file: 1669_addin_registration.md
+tags:
+- revit-api
+- sheets
+- views
+title: Addin Registration
+word_count: 571
 ---
 
 ### Add-In Registration – VendorId and Signature

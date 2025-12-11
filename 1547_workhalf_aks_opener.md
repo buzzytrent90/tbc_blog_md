@@ -1,11 +1,27 @@
 ---
-post_number: "1547"
-title: "Workhalf Aks Opener"
-slug: "workhalf_aks_opener"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1547_workhalf_aks_opener.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1547_workhalf_aks_opener.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.266684'
+original_url: https://thebuildingcoder.typepad.com/blog/1547_workhalf_aks_opener.html
+post_number: '1547'
+reading_time_minutes: 8
+series: general
+slug: workhalf_aks_opener
+source_file: 1547_workhalf_aks_opener.md
+tags:
+- csharp
+- elements
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- views
+- walls
+title: Workhalf Aks Opener
+word_count: 1582
 ---
 
 ### Work Half, AKS Opener, RvtFader and ForgeFader

@@ -1,11 +1,23 @@
 ---
-post_number: "1317"
-title: "Live Development and a Share Bar"
-slug: "live_development"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'python', 'revit-api', 'vbnet']
-source_file: "1317_live_development.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1317_live_development.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.756548'
+original_url: https://thebuildingcoder.typepad.com/blog/1317_live_development.html
+post_number: '1317'
+reading_time_minutes: 6
+series: general
+slug: live_development
+source_file: 1317_live_development.htm
+tags:
+- csharp
+- doors
+- python
+- revit-api
+- vbnet
+title: Live Development and a Share Bar
+word_count: 1267
 ---
 
 ### Live Development and a Share Bar

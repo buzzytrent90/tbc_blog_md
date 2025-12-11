@@ -1,11 +1,24 @@
 ---
-post_number: "1462"
-title: "The Building Coder"
-slug: "trust_sign_2017_update"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1462_trust_sign_2017_update.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1462_trust_sign_2017_update.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.078176'
+original_url: https://thebuildingcoder.typepad.com/blog/1462_trust_sign_2017_update.html
+post_number: '1462'
+reading_time_minutes: 5
+series: general
+slug: trust_sign_2017_update
+source_file: 1462_trust_sign_2017_update.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: The Building Coder
+word_count: 969
 ---
 
 ### Trusted Signature and Revit 2017 API Resources

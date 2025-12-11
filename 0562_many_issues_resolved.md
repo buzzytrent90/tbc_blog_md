@@ -1,11 +1,26 @@
 ---
-post_number: "0562"
-title: "Many Issues Resolved"
-slug: "many_issues_resolved"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'views', 'walls']
-source_file: "0562_many_issues_resolved.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0562_many_issues_resolved.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.180499'
+original_url: https://thebuildingcoder.typepad.com/blog/0562_many_issues_resolved.html
+post_number: '0562'
+reading_time_minutes: 8
+series: general
+slug: many_issues_resolved
+source_file: 0562_many_issues_resolved.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- views
+- walls
+title: Many Issues Resolved
+word_count: 1690
 ---
 
 ### Many Issues Resolved

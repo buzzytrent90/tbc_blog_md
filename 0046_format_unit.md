@@ -1,11 +1,21 @@
 ---
-post_number: "0046"
-title: "Formatting Unit Strings"
-slug: "format_unit"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api']
-source_file: "0046_format_unit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0046_format_unit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.281939'
+original_url: https://thebuildingcoder.typepad.com/blog/0046_format_unit.html
+post_number: '0046'
+reading_time_minutes: 2
+series: general
+slug: format_unit
+source_file: 0046_format_unit.htm
+tags:
+- elements
+- parameters
+- revit-api
+title: Formatting Unit Strings
+word_count: 404
 ---
 
 ### Formatting Unit Strings

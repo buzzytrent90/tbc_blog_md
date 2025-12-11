@@ -1,11 +1,26 @@
 ---
-post_number: "0013"
-title: "Geometry Viewers"
-slug: "geometry_viewers"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'rooms', 'views', 'windows']
-source_file: "0013_geometry_viewers.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0013_geometry_viewers.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: news
+optimization_date: '2025-12-11T11:44:13.229775'
+original_url: https://thebuildingcoder.typepad.com/blog/0013_geometry_viewers.html
+post_number: '0013'
+reading_time_minutes: 3
+series: geometry
+slug: geometry_viewers
+source_file: 0013_geometry_viewers.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- rooms
+- views
+- windows
+title: Geometry Viewers
+word_count: 540
 ---
 
 ### Geometry Viewers

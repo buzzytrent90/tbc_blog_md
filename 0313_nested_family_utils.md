@@ -1,11 +1,28 @@
 ---
-post_number: "0313"
-title: "Nested Family Utility Methods"
-slug: "nested_family_utils"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0313_nested_family_utils.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0313_nested_family_utils.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.729067'
+original_url: https://thebuildingcoder.typepad.com/blog/0313_nested_family_utils.html
+post_number: '0313'
+reading_time_minutes: 8
+series: family
+slug: nested_family_utils
+source_file: 0313_nested_family_utils.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- views
+title: Nested Family Utility Methods
+word_count: 1649
 ---
 
 ### Nested Family Utility Methods

@@ -1,11 +1,22 @@
 ---
-post_number: "1435"
-title: "Sign Acad Bim Uk"
-slug: "sign_acad_bim_uk"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'sheets', 'views']
-source_file: "1435_sign_acad_bim_uk.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1435_sign_acad_bim_uk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.021160'
+original_url: https://thebuildingcoder.typepad.com/blog/1435_sign_acad_bim_uk.html
+post_number: '1435'
+reading_time_minutes: 3
+series: general
+slug: sign_acad_bim_uk
+source_file: 1435_sign_acad_bim_uk.md
+tags:
+- levels
+- revit-api
+- sheets
+- views
+title: Sign Acad Bim Uk
+word_count: 670
 ---
 
 ### DLL Signature, BIM 2 in UK and AutoCAD.NET

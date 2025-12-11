@@ -1,11 +1,27 @@
 ---
-post_number: "1407"
-title: "Read Rvt Without Revit"
-slug: "read_rvt_without_revit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'python', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1407_read_rvt_without_revit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1407_read_rvt_without_revit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.954439'
+original_url: https://thebuildingcoder.typepad.com/blog/1407_read_rvt_without_revit.html
+post_number: '1407'
+reading_time_minutes: 4
+series: general
+slug: read_rvt_without_revit
+source_file: 1407_read_rvt_without_revit.md
+tags:
+- csharp
+- family
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Read Rvt Without Revit
+word_count: 863
 ---
 
 ### Reading an RVT File without Revit

@@ -1,11 +1,29 @@
 ---
-post_number: "0991"
-title: "Animation and the DisplacementElement Class"
-slug: "animation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'python', 'references', 'revit-api', 'rooms', 'selection', 'transactions', 'views', 'walls']
-source_file: "0991_animation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0991_animation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.071319'
+original_url: https://thebuildingcoder.typepad.com/blog/0991_animation.html
+post_number: 0991
+reading_time_minutes: 4
+series: general
+slug: animation
+source_file: 0991_animation.htm
+tags:
+- elements
+- family
+- levels
+- python
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+- walls
+title: Animation and the DisplacementElement Class
+word_count: 825
 ---
 
 ### Animation and the DisplacementElement Class

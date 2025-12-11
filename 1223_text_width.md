@@ -1,11 +1,31 @@
 ---
-post_number: "1223"
-title: "New Text Note and Text Width Calculation"
-slug: "text_width"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1223_text_width.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1223_text_width.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.544708'
+original_url: https://thebuildingcoder.typepad.com/blog/1223_text_width.html
+post_number: '1223'
+reading_time_minutes: 18
+series: general
+slug: text_width
+source_file: 1223_text_width.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: New Text Note and Text Width Calculation
+word_count: 3614
 ---
 
 ### New Text Note and Text Width Calculation

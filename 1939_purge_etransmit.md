@@ -1,11 +1,26 @@
 ---
-post_number: "1939"
-title: "Purge Etransmit"
-slug: "purge_etransmit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'rooms', 'sheets', 'vbnet', 'views']
-source_file: "1939_purge_etransmit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1939_purge_etransmit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.088394'
+original_url: https://thebuildingcoder.typepad.com/blog/1939_purge_etransmit.html
+post_number: '1939'
+reading_time_minutes: 5
+series: general
+slug: purge_etransmit
+source_file: 1939_purge_etransmit.md
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- rooms
+- sheets
+- vbnet
+- views
+title: Purge Etransmit
+word_count: 1089
 ---
 
 ### Purge Unused and eTransmit for DA4R

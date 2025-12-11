@@ -1,11 +1,27 @@
 ---
-post_number: "0671"
-title: "Planar Face Transform"
-slug: "planar_face_transform"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "0671_planar_face_transform.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0671_planar_face_transform.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.368884'
+original_url: https://thebuildingcoder.typepad.com/blog/0671_planar_face_transform.html
+post_number: '0671'
+reading_time_minutes: 4
+series: geometry
+slug: planar_face_transform
+source_file: 0671_planar_face_transform.htm
+tags:
+- elements
+- family
+- geometry
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Planar Face Transform
+word_count: 871
 ---
 
 ### Planar Face Transform

@@ -1,11 +1,29 @@
 ---
-post_number: "1821"
-title: "Dupl Legend Comp"
-slug: "dupl_legend_comp"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1821_dupl_legend_comp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1821_dupl_legend_comp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.814074'
+original_url: https://thebuildingcoder.typepad.com/blog/1821_dupl_legend_comp.html
+post_number: '1821'
+reading_time_minutes: 7
+series: general
+slug: dupl_legend_comp
+source_file: 1821_dupl_legend_comp.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Dupl Legend Comp
+word_count: 1468
 ---
 
 ### Lat Long to Metres and Duplicate Legend Component

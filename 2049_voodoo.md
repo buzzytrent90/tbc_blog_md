@@ -1,11 +1,29 @@
 ---
-post_number: "2049"
-title: "Voodoo"
-slug: "voodoo"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "2049_voodoo.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2049_voodoo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.361219'
+original_url: https://thebuildingcoder.typepad.com/blog/2049_voodoo.html
+post_number: '2049'
+reading_time_minutes: 11
+series: elements
+slug: voodoo
+source_file: 2049_voodoo.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+title: Voodoo
+word_count: 2183
 ---
 
 ### Link Filter, Ceiling and Link Hatch Dim Voodoo

@@ -1,11 +1,26 @@
 ---
-post_number: "1443"
-title: "Mac Athens"
-slug: "mac_athens"
-author: "Jeremy Tammik"
-tags: ['levels', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1443_mac_athens.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1443_mac_athens.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.036893'
+original_url: https://thebuildingcoder.typepad.com/blog/1443_mac_athens.html
+post_number: '1443'
+reading_time_minutes: 7
+series: general
+slug: mac_athens
+source_file: 1443_mac_athens.md
+tags:
+- levels
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Mac Athens
+word_count: 1386
 ---
 
 ### My Mac Died and I am Alive in Greece

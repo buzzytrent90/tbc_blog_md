@@ -1,11 +1,24 @@
 ---
-post_number: "0300"
-title: "Nested Family Instance"
-slug: "nested_family_instance"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api']
-source_file: "0300_nested_family_instance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0300_nested_family_instance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.706771'
+original_url: https://thebuildingcoder.typepad.com/blog/0300_nested_family_instance.html
+post_number: '0300'
+reading_time_minutes: 3
+series: elements
+slug: nested_family_instance
+source_file: 0300_nested_family_instance.htm
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+title: Nested Family Instance
+word_count: 502
 ---
 
 ### Nested Family Instance

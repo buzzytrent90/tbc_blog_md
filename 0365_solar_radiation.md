@@ -1,11 +1,20 @@
 ---
-post_number: "0365"
-title: "Solar Radiation Technology Preview"
-slug: "solar_radiation"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0365_solar_radiation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0365_solar_radiation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: news
+optimization_date: '2025-12-11T11:44:13.822219'
+original_url: https://thebuildingcoder.typepad.com/blog/0365_solar_radiation.html
+post_number: '0365'
+reading_time_minutes: 1
+series: general
+slug: solar_radiation
+source_file: 0365_solar_radiation.htm
+tags:
+- revit-api
+- views
+title: Solar Radiation Technology Preview
+word_count: 178
 ---
 
 ### Solar Radiation Technology Preview

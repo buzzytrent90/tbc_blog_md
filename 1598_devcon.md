@@ -1,11 +1,22 @@
 ---
-post_number: "1598"
-title: "Devcon"
-slug: "devcon"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views', 'windows']
-source_file: "1598_devcon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1598_devcon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.366341'
+original_url: https://thebuildingcoder.typepad.com/blog/1598_devcon.html
+post_number: '1598'
+reading_time_minutes: 5
+series: general
+slug: devcon
+source_file: 1598_devcon.md
+tags:
+- revit-api
+- sheets
+- views
+- windows
+title: Devcon
+word_count: 904
 ---
 
 ### Forge DevCon in Las Vegas

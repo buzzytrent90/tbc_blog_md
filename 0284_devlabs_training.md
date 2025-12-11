@@ -1,11 +1,21 @@
 ---
-post_number: "0284"
-title: "DevLabs and Training"
-slug: "devlabs_training"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'schedules']
-source_file: "0284_devlabs_training.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0284_devlabs_training.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: news
+optimization_date: '2025-12-11T11:44:13.676885'
+original_url: https://thebuildingcoder.typepad.com/blog/0284_devlabs_training.html
+post_number: 0284
+reading_time_minutes: 1
+series: general
+slug: devlabs_training
+source_file: 0284_devlabs_training.htm
+tags:
+- revit-api
+- rooms
+- schedules
+title: DevLabs and Training
+word_count: 122
 ---
 
 ### DevLabs and Training

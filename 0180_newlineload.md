@@ -1,11 +1,26 @@
 ---
-post_number: "0180"
-title: "NewLineLoad"
-slug: "newlineload"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api']
-source_file: "0180_newlineload.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0180_newlineload.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.499617'
+original_url: https://thebuildingcoder.typepad.com/blog/0180_newlineload.html
+post_number: 0180
+reading_time_minutes: 5
+series: structural
+slug: newlineload
+source_file: 0180_newlineload.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- structural
+title: NewLineLoad
+word_count: 954
 ---
 
 ### NewLineLoad

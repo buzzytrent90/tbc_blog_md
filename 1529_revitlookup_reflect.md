@@ -1,11 +1,26 @@
 ---
-post_number: "1529"
-title: "Revitlookup Reflect"
-slug: "revitlookup_reflect"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1529_revitlookup_reflect.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1529_revitlookup_reflect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.228200'
+original_url: https://thebuildingcoder.typepad.com/blog/1529_revitlookup_reflect.html
+post_number: '1529'
+reading_time_minutes: 6
+series: general
+slug: revitlookup_reflect
+source_file: 1529_revitlookup_reflect.md
+tags:
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Revitlookup Reflect
+word_count: 1157
 ---
 
 ### RevitLookup with Reflection Cleanup

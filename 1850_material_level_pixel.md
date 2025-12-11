@@ -1,11 +1,33 @@
 ---
-post_number: "1850"
-title: "Material Level Pixel"
-slug: "material_level_pixel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1850_material_level_pixel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1850_material_level_pixel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.888606'
+original_url: https://thebuildingcoder.typepad.com/blog/1850_material_level_pixel.html
+post_number: '1850'
+reading_time_minutes: 11
+series: materials
+slug: material_level_pixel
+source_file: 1850_material_level_pixel.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- transactions
+- views
+- windows
+- materials
+title: Material Level Pixel
+word_count: 2241
 ---
 
 ### Creating Material Texture and Retaining Pixels

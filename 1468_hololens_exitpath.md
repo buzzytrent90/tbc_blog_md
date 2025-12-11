@@ -1,11 +1,26 @@
 ---
-post_number: "1468"
-title: "The Building Coder"
-slug: "hololens_exitpath"
-author: "Jeremy Tammik"
-tags: ['doors', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1468_hololens_exitpath.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1468_hololens_exitpath.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.092817'
+original_url: https://thebuildingcoder.typepad.com/blog/1468_hololens_exitpath.html
+post_number: '1468'
+reading_time_minutes: 6
+series: general
+slug: hololens_exitpath
+source_file: 1468_hololens_exitpath.md
+tags:
+- doors
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: The Building Coder
+word_count: 1290
 ---
 
 ### HoloLens Escape Path Waypoint JSON Exporter

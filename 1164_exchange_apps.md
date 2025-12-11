@@ -1,11 +1,21 @@
 ---
-post_number: "1164"
-title: "Exchange Apps Webinar Recording and Resources"
-slug: "exchange_apps"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1164_exchange_apps.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1164_exchange_apps.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.433003'
+original_url: https://thebuildingcoder.typepad.com/blog/1164_exchange_apps.html
+post_number: '1164'
+reading_time_minutes: 3
+series: transactions
+slug: exchange_apps
+source_file: 1164_exchange_apps.htm
+tags:
+- revit-api
+- views
+- transactions
+title: Exchange Apps Webinar Recording and Resources
+word_count: 699
 ---
 
 ### Exchange Apps Webinar Recording and Resources

@@ -1,11 +1,24 @@
 ---
-post_number: "1953"
-title: "Rst Rex"
-slug: "rst_rex"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1953_rst_rex.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1953_rst_rex.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.120392'
+original_url: https://thebuildingcoder.typepad.com/blog/1953_rst_rex.html
+post_number: '1953'
+reading_time_minutes: 6
+series: general
+slug: rst_rex
+source_file: 1953_rst_rex.md
+tags:
+- elements
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Rst Rex
+word_count: 1238
 ---
 
 ### Structural Questions and the Future of REX

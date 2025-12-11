@@ -1,11 +1,23 @@
 ---
-post_number: "0785"
-title: "UIView and Windows Device Coordinates"
-slug: "windows_device_coords"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'views', 'windows']
-source_file: "0785_windows_device_coords.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0785_windows_device_coords.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.587633'
+original_url: https://thebuildingcoder.typepad.com/blog/0785_windows_device_coords.html
+post_number: 0785
+reading_time_minutes: 3
+series: general
+slug: windows_device_coords
+source_file: 0785_windows_device_coords.htm
+tags:
+- csharp
+- elements
+- revit-api
+- views
+- windows
+title: UIView and Windows Device Coordinates
+word_count: 682
 ---
 
 ### UIView and Windows Device Coordinates

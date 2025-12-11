@@ -1,11 +1,24 @@
 ---
-post_number: "0948"
-title: "DWG Issues and Various Other Updates"
-slug: "dwg_issues"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "0948_dwg_issues.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0948_dwg_issues.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.971003'
+original_url: https://thebuildingcoder.typepad.com/blog/0948_dwg_issues.html
+post_number: 0948
+reading_time_minutes: 6
+series: general
+slug: dwg_issues
+source_file: 0948_dwg_issues.htm
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- rooms
+- views
+title: DWG Issues and Various Other Updates
+word_count: 1123
 ---
 
 ### DWG Issues and Various Other Updates

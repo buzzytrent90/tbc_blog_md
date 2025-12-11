@@ -1,11 +1,24 @@
 ---
-post_number: "0152"
-title: "Creating a Curved Beam"
-slug: "curved_beam"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'levels', 'revit-api', 'views']
-source_file: "0152_curved_beam.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0152_curved_beam.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.450890'
+original_url: https://thebuildingcoder.typepad.com/blog/0152_curved_beam.html
+post_number: '0152'
+reading_time_minutes: 2
+series: geometry
+slug: curved_beam
+source_file: 0152_curved_beam.htm
+tags:
+- csharp
+- family
+- levels
+- revit-api
+- views
+- geometry
+title: Creating a Curved Beam
+word_count: 476
 ---
 
 ### Creating a Curved Beam

@@ -1,11 +1,31 @@
 ---
-post_number: "1366"
-title: "Filter Rac 2016"
-slug: "filter_rac_2016"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'geometry', 'parameters', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1366_filter_rac_2016.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1366_filter_rac_2016.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.861102'
+original_url: https://thebuildingcoder.typepad.com/blog/1366_filter_rac_2016.html
+post_number: '1366'
+reading_time_minutes: 3
+series: filtering
+slug: filter_rac_2016
+source_file: 1366_filter_rac_2016.md
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- geometry
+- parameters
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Filter Rac 2016
+word_count: 505
 ---
 
 ### Filtering Samples and RAC 2016 Features

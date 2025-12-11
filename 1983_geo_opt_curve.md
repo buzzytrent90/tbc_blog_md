@@ -1,11 +1,30 @@
 ---
-post_number: "1983"
-title: "Geo Opt Curve"
-slug: "geo_opt_curve"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'walls', 'windows']
-source_file: "1983_geo_opt_curve.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1983_geo_opt_curve.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.188652'
+original_url: https://thebuildingcoder.typepad.com/blog/1983_geo_opt_curve.html
+post_number: '1983'
+reading_time_minutes: 9
+series: geometry
+slug: geo_opt_curve
+source_file: 1983_geo_opt_curve.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- walls
+- windows
+title: Geo Opt Curve
+word_count: 1729
 ---
 
 ### Geometry Options and Clean Simple Curves

@@ -1,11 +1,27 @@
 ---
-post_number: "1600"
-title: "Purge Empty View"
-slug: "purge_empty_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1600_purge_empty_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1600_purge_empty_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.369674'
+original_url: https://thebuildingcoder.typepad.com/blog/1600_purge_empty_view.html
+post_number: '1600'
+reading_time_minutes: 5
+series: views
+slug: purge_empty_view
+source_file: 1600_purge_empty_view.md
+tags:
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Purge Empty View
+word_count: 1099
 ---
 
 ### Purge and Detecting an Empty View

@@ -1,11 +1,25 @@
 ---
-post_number: "0584"
-title: "API Wishlist Survey"
-slug: "api_wishlist_survey"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "0584_api_wishlist_survey.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0584_api_wishlist_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.214429'
+original_url: https://thebuildingcoder.typepad.com/blog/0584_api_wishlist_survey.html
+post_number: 0584
+reading_time_minutes: 1
+series: general
+slug: api_wishlist_survey
+source_file: 0584_api_wishlist_survey.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- rooms
+- views
+title: API Wishlist Survey
+word_count: 281
 ---
 
 ### API Wishlist Survey

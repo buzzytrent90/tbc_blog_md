@@ -1,11 +1,24 @@
 ---
-post_number: "1741"
-title: "Rvtsamp Zero Close"
-slug: "rvtsamp_zero_close"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1741_rvtsamp_zero_close.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1741_rvtsamp_zero_close.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.649328'
+original_url: https://thebuildingcoder.typepad.com/blog/1741_rvtsamp_zero_close.html
+post_number: '1741'
+reading_time_minutes: 6
+series: general
+slug: rvtsamp_zero_close
+source_file: 1741_rvtsamp_zero_close.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Rvtsamp Zero Close
+word_count: 1283
 ---
 
 ### Close Doc and Zero Doc RvtSamples

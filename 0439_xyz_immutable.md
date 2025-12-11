@@ -1,11 +1,25 @@
 ---
-post_number: "0439"
-title: "Immutable PointLoad Force"
-slug: "xyz_immutable"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "0439_xyz_immutable.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0439_xyz_immutable.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.948098'
+original_url: https://thebuildingcoder.typepad.com/blog/0439_xyz_immutable.html
+post_number: 0439
+reading_time_minutes: 2
+series: geometry
+slug: xyz_immutable
+source_file: 0439_xyz_immutable.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- views
+- walls
+- geometry
+title: Immutable PointLoad Force
+word_count: 492
 ---
 
 ### Immutable PointLoad Force

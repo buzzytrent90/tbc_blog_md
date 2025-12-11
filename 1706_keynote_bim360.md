@@ -1,11 +1,23 @@
 ---
-post_number: "1706"
-title: "Keynote Bim360"
-slug: "keynote_bim360"
-author: "Jeremy Tammik"
-tags: ['python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1706_keynote_bim360.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1706_keynote_bim360.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.567966'
+original_url: https://thebuildingcoder.typepad.com/blog/1706_keynote_bim360.html
+post_number: '1706'
+reading_time_minutes: 4
+series: general
+slug: keynote_bim360
+source_file: 1706_keynote_bim360.md
+tags:
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Keynote Bim360
+word_count: 701
 ---
 
 ### Forge DevCon Keynote and BIM360 Model Access

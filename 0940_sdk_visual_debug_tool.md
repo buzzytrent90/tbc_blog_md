@@ -1,11 +1,24 @@
 ---
-post_number: "0940"
-title: "Revit 2014 SDK and Visual Debugging Tools"
-slug: "sdk_visual_debug_tool"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0940_sdk_visual_debug_tool.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0940_sdk_visual_debug_tool.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:14.952760'
+original_url: https://thebuildingcoder.typepad.com/blog/0940_sdk_visual_debug_tool.html
+post_number: 0940
+reading_time_minutes: 2
+series: general
+slug: sdk_visual_debug_tool
+source_file: 0940_sdk_visual_debug_tool.htm
+tags:
+- elements
+- geometry
+- revit-api
+- rooms
+- views
+- walls
+title: Revit 2014 SDK and Visual Debugging Tools
+word_count: 431
 ---
 
 ### Revit 2014 SDK and Visual Debugging Tools

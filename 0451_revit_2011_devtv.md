@@ -1,11 +1,26 @@
 ---
-post_number: "0451"
-title: "Revit 2011 DevTV"
-slug: "revit_2011_devtv"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'rooms', 'selection', 'views']
-source_file: "0451_revit_2011_devtv.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0451_revit_2011_devtv.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.968030'
+original_url: https://thebuildingcoder.typepad.com/blog/0451_revit_2011_devtv.html
+post_number: '0451'
+reading_time_minutes: 3
+series: general
+slug: revit_2011_devtv
+source_file: 0451_revit_2011_devtv.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- rooms
+- selection
+- views
+title: Revit 2011 DevTV
+word_count: 677
 ---
 
 ### Revit 2011 DevTV

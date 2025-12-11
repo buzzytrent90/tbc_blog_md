@@ -1,11 +1,23 @@
 ---
-post_number: "0966"
-title: "ADN Training Material for Revit Structure 2014"
-slug: "adn_migr_2014_rst"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'references', 'revit-api']
-source_file: "0966_adn_migr_2014_rst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0966_adn_migr_2014_rst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.009394'
+original_url: https://thebuildingcoder.typepad.com/blog/0966_adn_migr_2014_rst.html
+post_number: 0966
+reading_time_minutes: 4
+series: general
+slug: adn_migr_2014_rst
+source_file: 0966_adn_migr_2014_rst.htm
+tags:
+- csharp
+- elements
+- parameters
+- references
+- revit-api
+title: ADN Training Material for Revit Structure 2014
+word_count: 727
 ---
 
 ### ADN Training Material for Revit Structure 2014

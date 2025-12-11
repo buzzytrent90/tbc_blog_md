@@ -1,11 +1,21 @@
 ---
-post_number: "1199"
-title: "Upcoming DevDay, Meetup and Hackathon Event Calendar"
-slug: "devdays_hack_calendar"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'views']
-source_file: "1199_devdays_hack_calendar.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1199_devdays_hack_calendar.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.495140'
+original_url: https://thebuildingcoder.typepad.com/blog/1199_devdays_hack_calendar.html
+post_number: '1199'
+reading_time_minutes: 4
+series: general
+slug: devdays_hack_calendar
+source_file: 1199_devdays_hack_calendar.htm
+tags:
+- revit-api
+- rooms
+- views
+title: Upcoming DevDay, Meetup and Hackathon Event Calendar
+word_count: 865
 ---
 
 ### Upcoming DevDay, Meetup and Hackathon Event Calendar

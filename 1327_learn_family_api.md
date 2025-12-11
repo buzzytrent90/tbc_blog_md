@@ -1,11 +1,28 @@
 ---
-post_number: "1327"
-title: "Getting Started Creating Families and RFA Files"
-slug: "learn_family_api"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'views', 'walls', 'windows']
-source_file: "1327_learn_family_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1327_learn_family_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.780529'
+original_url: https://thebuildingcoder.typepad.com/blog/1327_learn_family_api.html
+post_number: '1327'
+reading_time_minutes: 6
+series: family
+slug: learn_family_api
+source_file: 1327_learn_family_api.htm
+tags:
+- doors
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- views
+- walls
+- windows
+title: Getting Started Creating Families and RFA Files
+word_count: 1120
 ---
 
 ### Getting Started Creating Families and RFA Files

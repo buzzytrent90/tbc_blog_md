@@ -1,11 +1,26 @@
 ---
-post_number: "0622"
-title: "Revit API Training Material"
-slug: "revit_api_training_mat"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'selection', 'views']
-source_file: "0622_revit_api_training_mat.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0622_revit_api_training_mat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.283963'
+original_url: https://thebuildingcoder.typepad.com/blog/0622_revit_api_training_mat.html
+post_number: '0622'
+reading_time_minutes: 2
+series: general
+slug: revit_api_training_mat
+source_file: 0622_revit_api_training_mat.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- selection
+- views
+title: Revit API Training Material
+word_count: 307
 ---
 
 ### Revit API Training Material

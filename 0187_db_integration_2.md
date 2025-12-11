@@ -1,11 +1,24 @@
 ---
-post_number: "0187"
-title: "Revit Integration with a Database or ERP System"
-slug: "db_integration_2"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'levels', 'parameters', 'revit-api', 'views']
-source_file: "0187_db_integration_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0187_db_integration_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.511839'
+original_url: https://thebuildingcoder.typepad.com/blog/0187_db_integration_2.html
+post_number: 0187
+reading_time_minutes: 1
+series: general
+slug: db_integration_2
+source_file: 0187_db_integration_2.htm
+tags:
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+title: Revit Integration with a Database or ERP System
+word_count: 160
 ---
 
 ### Revit Integration with a Database or ERP System

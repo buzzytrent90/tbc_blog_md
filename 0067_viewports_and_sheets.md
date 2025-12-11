@@ -1,11 +1,27 @@
 ---
-post_number: "0067"
-title: "Viewports and Sheets"
-slug: "viewports_and_sheets"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'levels', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "0067_viewports_and_sheets.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0067_viewports_and_sheets.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.308075'
+original_url: https://thebuildingcoder.typepad.com/blog/0067_viewports_and_sheets.html
+post_number: '0067'
+reading_time_minutes: 2
+series: views
+slug: viewports_and_sheets
+source_file: 0067_viewports_and_sheets.htm
+tags:
+- csharp
+- doors
+- elements
+- levels
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Viewports and Sheets
+word_count: 368
 ---
 
 ### Viewports and Sheets

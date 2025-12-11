@@ -1,11 +1,30 @@
 ---
-post_number: "1361"
-title: "Rfa Api Iterate"
-slug: "rfa_api_iterate"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1361_rfa_api_iterate.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1361_rfa_api_iterate.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.850724'
+original_url: https://thebuildingcoder.typepad.com/blog/1361_rfa_api_iterate.html
+post_number: '1361'
+reading_time_minutes: 9
+series: family
+slug: rfa_api_iterate
+source_file: 1361_rfa_api_iterate.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Rfa Api Iterate
+word_count: 1705
 ---
 
 ### Change Type, Iterate Elements, Create Family

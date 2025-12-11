@@ -1,11 +1,21 @@
 ---
-post_number: "0994"
-title: "Setting the Compound Structure Core and Shell Layers"
-slug: "set_core_layer"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'walls']
-source_file: "0994_set_core_layer.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0994_set_core_layer.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.077034'
+original_url: https://thebuildingcoder.typepad.com/blog/0994_set_core_layer.html
+post_number: 0994
+reading_time_minutes: 2
+series: general
+slug: set_core_layer
+source_file: 0994_set_core_layer.htm
+tags:
+- csharp
+- revit-api
+- walls
+title: Setting the Compound Structure Core and Shell Layers
+word_count: 463
 ---
 
 ### Setting the Compound Structure Core and Shell Layers

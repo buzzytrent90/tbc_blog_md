@@ -1,11 +1,28 @@
 ---
-post_number: "1336"
-title: "Accelerator, AppStore, Disqus and AEC DevBlog Articles"
-slug: "accel_disqus_devblog"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'schedules', 'views', 'walls']
-source_file: "1336_accel_disqus_devblog.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1336_accel_disqus_devblog.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.796843'
+original_url: https://thebuildingcoder.typepad.com/blog/1336_accel_disqus_devblog.html
+post_number: '1336'
+reading_time_minutes: 6
+series: general
+slug: accel_disqus_devblog
+source_file: 1336_accel_disqus_devblog.htm
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- views
+- walls
+title: Accelerator, AppStore, Disqus and AEC DevBlog Articles
+word_count: 1282
 ---
 
 ### Accelerator, AppStore, Disqus and AEC DevBlog Articles

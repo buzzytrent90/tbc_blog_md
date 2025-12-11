@@ -1,11 +1,21 @@
 ---
-post_number: "1120"
-title: "Cannot Get BindingMap of a Family Document"
-slug: "no_family_binding_map"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api']
-source_file: "1120_no_family_binding_map.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1120_no_family_binding_map.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.341859'
+original_url: https://thebuildingcoder.typepad.com/blog/1120_no_family_binding_map.html
+post_number: '1120'
+reading_time_minutes: 2
+series: parameters
+slug: no_family_binding_map
+source_file: 1120_no_family_binding_map.htm
+tags:
+- family
+- parameters
+- revit-api
+title: Cannot Get BindingMap of a Family Document
+word_count: 391
 ---
 
 ### Cannot Get BindingMap of a Family Document

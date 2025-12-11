@@ -1,11 +1,25 @@
 ---
-post_number: "0104"
-title: "UniqueId versus DWF and IFC GUID"
-slug: "uniqueid_dwf_ifc_guid"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'python', 'revit-api', 'walls', 'windows']
-source_file: "0104_uniqueid_dwf_ifc_guid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0104_uniqueid_dwf_ifc_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.368845'
+original_url: https://thebuildingcoder.typepad.com/blog/0104_uniqueid_dwf_ifc_guid.html
+post_number: '0104'
+reading_time_minutes: 8
+series: general
+slug: uniqueid_dwf_ifc_guid
+source_file: 0104_uniqueid_dwf_ifc_guid.htm
+tags:
+- csharp
+- doors
+- elements
+- python
+- revit-api
+- walls
+- windows
+title: UniqueId versus DWF and IFC GUID
+word_count: 1586
 ---
 
 ### UniqueId versus DWF and IFC GUID

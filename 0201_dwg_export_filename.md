@@ -1,11 +1,24 @@
 ---
-post_number: "0201"
-title: "DWG Export Filename"
-slug: "dwg_export_filename"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'selection', 'vbnet', 'views']
-source_file: "0201_dwg_export_filename.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0201_dwg_export_filename.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.539209'
+original_url: https://thebuildingcoder.typepad.com/blog/0201_dwg_export_filename.html
+post_number: '0201'
+reading_time_minutes: 3
+series: general
+slug: dwg_export_filename
+source_file: 0201_dwg_export_filename.htm
+tags:
+- csharp
+- elements
+- revit-api
+- selection
+- vbnet
+- views
+title: DWG Export Filename
+word_count: 638
 ---
 
 ### DWG Export Filename

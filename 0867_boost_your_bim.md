@@ -1,11 +1,25 @@
 ---
-post_number: "0867"
-title: "Boost Your BIM and Dance with an Elephant"
-slug: "boost_your_bim"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'revit-api', 'transactions']
-source_file: "0867_boost_your_bim.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0867_boost_your_bim.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.761964'
+original_url: https://thebuildingcoder.typepad.com/blog/0867_boost_your_bim.html
+post_number: 0867
+reading_time_minutes: 1
+series: general
+slug: boost_your_bim
+source_file: 0867_boost_your_bim.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- transactions
+title: Boost Your BIM and Dance with an Elephant
+word_count: 234
 ---
 
 ### Boost Your BIM and Dance with an Elephant

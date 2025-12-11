@@ -1,11 +1,23 @@
 ---
-post_number: "0354"
-title: "Add-In Manifest and Guidize"
-slug: "guidizer"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'views', 'windows']
-source_file: "0354_guidizer.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0354_guidizer.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.796919'
+original_url: https://thebuildingcoder.typepad.com/blog/0354_guidizer.html
+post_number: '0354'
+reading_time_minutes: 11
+series: general
+slug: guidizer
+source_file: 0354_guidizer.htm
+tags:
+- elements
+- family
+- revit-api
+- views
+- windows
+title: Add-In Manifest and Guidize
+word_count: 2138
 ---
 
 ### Add-In Manifest and Guidize

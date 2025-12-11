@@ -1,11 +1,26 @@
 ---
-post_number: "1403"
-title: "Stallman Fsf"
-slug: "stallman_fsf"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'filtering', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1403_stallman_fsf.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1403_stallman_fsf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.947575'
+original_url: https://thebuildingcoder.typepad.com/blog/1403_stallman_fsf.html
+post_number: '1403'
+reading_time_minutes: 11
+series: general
+slug: stallman_fsf
+source_file: 1403_stallman_fsf.md
+tags:
+- csharp
+- doors
+- filtering
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Stallman Fsf
+word_count: 2140
 ---
 
 ### Richard Stallman for a Free Digital Society

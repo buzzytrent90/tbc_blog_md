@@ -1,11 +1,30 @@
 ---
-post_number: "0806"
-title: "Structural Concrete Setout Point Add-in"
-slug: "setout_points"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'schedules', 'sheets', 'transactions']
-source_file: "0806_setout_points.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0806_setout_points.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.631413'
+original_url: https://thebuildingcoder.typepad.com/blog/0806_setout_points.html
+post_number: 0806
+reading_time_minutes: 15
+series: geometry
+slug: setout_points
+source_file: 0806_setout_points.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+title: Structural Concrete Setout Point Add-in
+word_count: 2930
 ---
 
 ### Structural Concrete Setout Point Add-in

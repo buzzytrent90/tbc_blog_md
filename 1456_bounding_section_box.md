@@ -1,11 +1,29 @@
 ---
-post_number: "1456"
-title: "The Building Coder"
-slug: "bounding_section_box"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1456_bounding_section_box.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1456_bounding_section_box.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.063724'
+original_url: https://thebuildingcoder.typepad.com/blog/1456_bounding_section_box.html
+post_number: '1456'
+reading_time_minutes: 16
+series: geometry
+slug: bounding_section_box
+source_file: 1456_bounding_section_box.md
+tags:
+- elements
+- filtering
+- geometry
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- windows
+title: The Building Coder
+word_count: 3153
 ---
 
 ### Vacation End, Forge News and Bounding Boxes

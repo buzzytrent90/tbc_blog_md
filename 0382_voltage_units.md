@@ -1,11 +1,23 @@
 ---
-post_number: "0382"
-title: "Voltage Units"
-slug: "voltage_units"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api']
-source_file: "0382_voltage_units.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0382_voltage_units.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.854069'
+original_url: https://thebuildingcoder.typepad.com/blog/0382_voltage_units.html
+post_number: 0382
+reading_time_minutes: 3
+series: general
+slug: voltage_units
+source_file: 0382_voltage_units.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+title: Voltage Units
+word_count: 578
 ---
 
 ### Voltage Units

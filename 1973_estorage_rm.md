@@ -1,11 +1,30 @@
 ---
-post_number: "1973"
-title: "Estorage Rm"
-slug: "estorage_rm"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1973_estorage_rm.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1973_estorage_rm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.166264'
+original_url: https://thebuildingcoder.typepad.com/blog/1973_estorage_rm.html
+post_number: '1973'
+reading_time_minutes: 15
+series: general
+slug: estorage_rm
+source_file: 1973_estorage_rm.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Estorage Rm
+word_count: 3062
 ---
 
 ### Extensible Storage Schema Deletion

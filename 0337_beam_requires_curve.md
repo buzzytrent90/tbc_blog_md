@@ -1,11 +1,24 @@
 ---
-post_number: "0337"
-title: "Beam Requires Curve"
-slug: "beam_requires_curve"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'levels', 'parameters', 'revit-api']
-source_file: "0337_beam_requires_curve.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0337_beam_requires_curve.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.769299'
+original_url: https://thebuildingcoder.typepad.com/blog/0337_beam_requires_curve.html
+post_number: '0337'
+reading_time_minutes: 2
+series: geometry
+slug: beam_requires_curve
+source_file: 0337_beam_requires_curve.htm
+tags:
+- csharp
+- family
+- levels
+- parameters
+- revit-api
+- geometry
+title: Beam Requires Curve
+word_count: 352
 ---
 
 ### Beam Requires Curve

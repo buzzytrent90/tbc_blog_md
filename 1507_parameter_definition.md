@@ -1,11 +1,25 @@
 ---
-post_number: "1507"
-title: "Parameter Definition"
-slug: "parameter_definition"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1507_parameter_definition.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1507_parameter_definition.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.182294'
+original_url: https://thebuildingcoder.typepad.com/blog/1507_parameter_definition.html
+post_number: '1507'
+reading_time_minutes: 3
+series: parameters
+slug: parameter_definition
+source_file: 1507_parameter_definition.md
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+title: Parameter Definition
+word_count: 615
 ---
 
 ### Parameter Definition Overview

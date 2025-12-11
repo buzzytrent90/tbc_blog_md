@@ -1,11 +1,27 @@
 ---
-post_number: "1445"
-title: "The Building Coder"
-slug: "viewer_rvt_room"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1445_viewer_rvt_room.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1445_viewer_rvt_room.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.039850'
+original_url: https://thebuildingcoder.typepad.com/blog/1445_viewer_rvt_room.html
+post_number: '1445'
+reading_time_minutes: 5
+series: views
+slug: viewer_rvt_room
+source_file: 1445_viewer_rvt_room.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+title: The Building Coder
+word_count: 1026
 ---
 
 ### Highlighting Revit Rooms in the Forge Viewer

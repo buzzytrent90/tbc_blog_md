@@ -1,11 +1,29 @@
 ---
-post_number: "1301"
-title: "Re-Researching Lighting Family Instance Placement"
-slug: "newfamilyinstance_face"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1301_newfamilyinstance_face.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1301_newfamilyinstance_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.717027'
+original_url: https://thebuildingcoder.typepad.com/blog/1301_newfamilyinstance_face.html
+post_number: '1301'
+reading_time_minutes: 15
+series: elements
+slug: newfamilyinstance_face
+source_file: 1301_newfamilyinstance_face.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Re-Researching Lighting Family Instance Placement
+word_count: 2971
 ---
 
 ### Re-Researching Lighting Family Instance Placement

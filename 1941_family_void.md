@@ -1,11 +1,25 @@
 ---
-post_number: "1941"
-title: "Family Void"
-slug: "family_void"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1941_family_void.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1941_family_void.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.092217'
+original_url: https://thebuildingcoder.typepad.com/blog/1941_family_void.html
+post_number: '1941'
+reading_time_minutes: 6
+series: family
+slug: family_void
+source_file: 1941_family_void.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Family Void
+word_count: 1285
 ---
 
 ### Drilling Holes in Beams and Other Projects

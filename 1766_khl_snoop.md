@@ -1,11 +1,26 @@
 ---
-post_number: "1766"
-title: "Khl Snoop"
-slug: "khl_snoop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'references', 'revit-api', 'sheets', 'windows']
-source_file: "1766_khl_snoop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1766_khl_snoop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.702135'
+original_url: https://thebuildingcoder.typepad.com/blog/1766_khl_snoop.html
+post_number: '1766'
+reading_time_minutes: 6
+series: general
+slug: khl_snoop
+source_file: 1766_khl_snoop.md
+tags:
+- csharp
+- elements
+- filtering
+- python
+- references
+- revit-api
+- sheets
+- windows
+title: Khl Snoop
+word_count: 1153
 ---
 
 ### New PC, KLH Snoop, Annotations and Vertex Handling

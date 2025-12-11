@@ -1,11 +1,25 @@
 ---
-post_number: "1210"
-title: "ADN Labs Xtra on GitHub and RvtVa3c in Three.js"
-slug: "adn_lab_xtra_submodule"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'python', 'revit-api', 'transactions', 'views']
-source_file: "1210_adn_lab_xtra_submodule.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1210_adn_lab_xtra_submodule.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.515836'
+original_url: https://thebuildingcoder.typepad.com/blog/1210_adn_lab_xtra_submodule.html
+post_number: '1210'
+reading_time_minutes: 9
+series: general
+slug: adn_lab_xtra_submodule
+source_file: 1210_adn_lab_xtra_submodule.htm
+tags:
+- elements
+- levels
+- parameters
+- python
+- revit-api
+- transactions
+- views
+title: ADN Labs Xtra on GitHub and RvtVa3c in Three.js
+word_count: 1796
 ---
 
 ### ADN Labs Xtra on GitHub and RvtVa3c in Three.js

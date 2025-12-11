@@ -1,11 +1,31 @@
 ---
-post_number: "0784"
-title: "Create Section View Parallel to Wall"
-slug: "create_section_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'rooms', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "0784_create_section_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0784_create_section_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.585732'
+original_url: https://thebuildingcoder.typepad.com/blog/0784_create_section_view.html
+post_number: 0784
+reading_time_minutes: 7
+series: views
+slug: create_section_view
+source_file: 0784_create_section_view.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Create Section View Parallel to Wall
+word_count: 1377
 ---
 
 ### Create Section View Parallel to Wall

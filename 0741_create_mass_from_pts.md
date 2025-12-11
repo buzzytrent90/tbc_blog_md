@@ -1,11 +1,22 @@
 ---
-post_number: "0741"
-title: "Create a Mass from 3D Points"
-slug: "create_mass_from_pts"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'python', 'revit-api']
-source_file: "0741_create_mass_from_pts.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0741_create_mass_from_pts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.498868'
+original_url: https://thebuildingcoder.typepad.com/blog/0741_create_mass_from_pts.html
+post_number: '0741'
+reading_time_minutes: 3
+series: general
+slug: create_mass_from_pts
+source_file: 0741_create_mass_from_pts.htm
+tags:
+- elements
+- family
+- python
+- revit-api
+title: Create a Mass from 3D Points
+word_count: 603
 ---
 
 ### Create a Mass from 3D Points

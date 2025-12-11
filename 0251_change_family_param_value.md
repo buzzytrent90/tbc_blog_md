@@ -1,11 +1,23 @@
 ---
-post_number: "0251"
-title: "Change Family Parameter Value"
-slug: "change_family_param_value"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'parameters', 'revit-api']
-source_file: "0251_change_family_param_value.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0251_change_family_param_value.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.624059'
+original_url: https://thebuildingcoder.typepad.com/blog/0251_change_family_param_value.html
+post_number: '0251'
+reading_time_minutes: 2
+series: parameters
+slug: change_family_param_value
+source_file: 0251_change_family_param_value.htm
+tags:
+- csharp
+- family
+- geometry
+- parameters
+- revit-api
+title: Change Family Parameter Value
+word_count: 360
 ---
 
 ### Change Family Parameter Value

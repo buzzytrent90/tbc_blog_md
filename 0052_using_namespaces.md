@@ -1,11 +1,26 @@
 ---
-post_number: "0052"
-title: "Using Namespaces"
-slug: "using_namespaces"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'references', 'revit-api', 'walls', 'windows']
-source_file: "0052_using_namespaces.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0052_using_namespaces.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.290447'
+original_url: https://thebuildingcoder.typepad.com/blog/0052_using_namespaces.html
+post_number: '0052'
+reading_time_minutes: 4
+series: general
+slug: using_namespaces
+source_file: 0052_using_namespaces.htm
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- references
+- revit-api
+- walls
+- windows
+title: Using Namespaces
+word_count: 740
 ---
 
 ### Using Namespaces

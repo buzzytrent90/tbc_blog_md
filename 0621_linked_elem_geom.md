@@ -1,11 +1,25 @@
 ---
-post_number: "0621"
-title: "Linked Element Geometry Access"
-slug: "linked_elem_geom"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'walls']
-source_file: "0621_linked_elem_geom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0621_linked_elem_geom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.282481'
+original_url: https://thebuildingcoder.typepad.com/blog/0621_linked_elem_geom.html
+post_number: '0621'
+reading_time_minutes: 3
+series: general
+slug: linked_elem_geom
+source_file: 0621_linked_elem_geom.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- walls
+title: Linked Element Geometry Access
+word_count: 563
 ---
 
 ### Linked Element Geometry Access

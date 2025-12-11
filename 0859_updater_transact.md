@@ -1,11 +1,24 @@
 ---
-post_number: "0859"
-title: "Updater Queues Multi-Transaction Operation for Idling"
-slug: "updater_transact"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'transactions', 'walls']
-source_file: "0859_updater_transact.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0859_updater_transact.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: news
+optimization_date: '2025-12-11T11:44:14.748718'
+original_url: https://thebuildingcoder.typepad.com/blog/0859_updater_transact.html
+post_number: 0859
+reading_time_minutes: 3
+series: general
+slug: updater_transact
+source_file: 0859_updater_transact.htm
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- transactions
+- walls
+title: Updater Queues Multi-Transaction Operation for Idling
+word_count: 690
 ---
 
 ### Updater Queues Multi-Transaction Operation for Idling

@@ -1,11 +1,20 @@
 ---
-post_number: "0308"
-title: "Revit API Resources"
-slug: "api_resources"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0308_api_resources.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0308_api_resources.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.720118'
+original_url: https://thebuildingcoder.typepad.com/blog/0308_api_resources.html
+post_number: 0308
+reading_time_minutes: 1
+series: general
+slug: api_resources
+source_file: 0308_api_resources.htm
+tags:
+- revit-api
+- views
+title: Revit API Resources
+word_count: 64
 ---
 
 ### Revit API Resources

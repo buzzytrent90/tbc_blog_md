@@ -1,11 +1,23 @@
 ---
-post_number: "0428"
-title: "Flex Duct Start Tangent"
-slug: "flex_duct_start_tangent"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api']
-source_file: "0428_flex_duct_start_tangent.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0428_flex_duct_start_tangent.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.930048'
+original_url: https://thebuildingcoder.typepad.com/blog/0428_flex_duct_start_tangent.html
+post_number: 0428
+reading_time_minutes: 3
+series: mep
+slug: flex_duct_start_tangent
+source_file: 0428_flex_duct_start_tangent.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- mep
+title: Flex Duct Start Tangent
+word_count: 535
 ---
 
 ### Flex Duct Start Tangent

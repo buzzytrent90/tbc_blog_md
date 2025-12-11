@@ -1,11 +1,27 @@
 ---
-post_number: "0071"
-title: "Filter for Hosted Elements"
-slug: "filter_hosted_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'walls', 'windows']
-source_file: "0071_filter_hosted_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0071_filter_hosted_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.314162'
+original_url: https://thebuildingcoder.typepad.com/blog/0071_filter_hosted_elements.html
+post_number: '0071'
+reading_time_minutes: 1
+series: filtering
+slug: filter_hosted_elements
+source_file: 0071_filter_hosted_elements.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- walls
+- windows
+title: Filter for Hosted Elements
+word_count: 222
 ---
 
 ### Filter for Hosted Elements

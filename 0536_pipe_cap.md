@@ -1,11 +1,27 @@
 ---
-post_number: "0536"
-title: "Create a Pipe Cap"
-slug: "pipe_cap"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'transactions']
-source_file: "0536_pipe_cap.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0536_pipe_cap.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.124608'
+original_url: https://thebuildingcoder.typepad.com/blog/0536_pipe_cap.html
+post_number: '0536'
+reading_time_minutes: 5
+series: mep
+slug: pipe_cap
+source_file: 0536_pipe_cap.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- transactions
+- mep
+title: Create a Pipe Cap
+word_count: 936
 ---
 
 ### Create a Pipe Cap

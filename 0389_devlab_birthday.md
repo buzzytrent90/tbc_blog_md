@@ -1,11 +1,22 @@
 ---
-post_number: "0389"
-title: "DevLab and Birthday"
-slug: "devlab_birthday"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'transactions']
-source_file: "0389_devlab_birthday.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0389_devlab_birthday.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.865716'
+original_url: https://thebuildingcoder.typepad.com/blog/0389_devlab_birthday.html
+post_number: 0389
+reading_time_minutes: 2
+series: general
+slug: devlab_birthday
+source_file: 0389_devlab_birthday.htm
+tags:
+- elements
+- family
+- revit-api
+- transactions
+title: DevLab and Birthday
+word_count: 390
 ---
 
 ### DevLab and Birthday

@@ -1,11 +1,29 @@
 ---
-post_number: "0489"
-title: "Access to Sketch and Sketch Plane"
-slug: "get_sketch"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'schedules', 'selection', 'transactions', 'walls']
-source_file: "0489_get_sketch.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0489_get_sketch.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.039705'
+original_url: https://thebuildingcoder.typepad.com/blog/0489_get_sketch.html
+post_number: 0489
+reading_time_minutes: 6
+series: general
+slug: get_sketch
+source_file: 0489_get_sketch.htm
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- schedules
+- selection
+- transactions
+- walls
+title: Access to Sketch and Sketch Plane
+word_count: 1152
 ---
 
 ### Access to Sketch and Sketch Plane

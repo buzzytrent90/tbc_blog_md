@@ -1,11 +1,30 @@
 ---
-post_number: "1887"
-title: "Sheet View Geom Text"
-slug: "sheet_view_geom_text"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1887_sheet_view_geom_text.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1887_sheet_view_geom_text.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.967468'
+original_url: https://thebuildingcoder.typepad.com/blog/1887_sheet_view_geom_text.html
+post_number: '1887'
+reading_time_minutes: 12
+series: views
+slug: sheet_view_geom_text
+source_file: 1887_sheet_view_geom_text.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- walls
+title: Sheet View Geom Text
+word_count: 2316
 ---
 
 ### Sheet View Xform, Coords, Img Export and Title Block

@@ -1,11 +1,19 @@
 ---
-post_number: "1041"
-title: "The Dynamo Revit Unit Test Framework"
-slug: "dynamo_unit_test"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1041_dynamo_unit_test.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1041_dynamo_unit_test.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.178806'
+original_url: https://thebuildingcoder.typepad.com/blog/1041_dynamo_unit_test.html
+post_number: '1041'
+reading_time_minutes: 2
+series: general
+slug: dynamo_unit_test
+source_file: 1041_dynamo_unit_test.htm
+tags:
+- revit-api
+title: The Dynamo Revit Unit Test Framework
+word_count: 308
 ---
 
 ### The Dynamo Revit Unit Test Framework

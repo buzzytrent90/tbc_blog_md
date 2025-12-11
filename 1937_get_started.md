@@ -1,11 +1,24 @@
 ---
-post_number: "1937"
-title: "Get Started"
-slug: "get_started"
-author: "Jeremy Tammik"
-tags: ['levels', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1937_get_started.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1937_get_started.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.083384'
+original_url: https://thebuildingcoder.typepad.com/blog/1937_get_started.html
+post_number: '1937'
+reading_time_minutes: 9
+series: general
+slug: get_started
+source_file: 1937_get_started.md
+tags:
+- levels
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Get Started
+word_count: 1856
 ---
 
 ### Getting Started Once Again

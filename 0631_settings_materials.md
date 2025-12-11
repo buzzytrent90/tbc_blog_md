@@ -1,11 +1,23 @@
 ---
-post_number: "0631"
-title: "Retrieving Materials"
-slug: "settings_materials"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api']
-source_file: "0631_settings_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0631_settings_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.298000'
+original_url: https://thebuildingcoder.typepad.com/blog/0631_settings_materials.html
+post_number: '0631'
+reading_time_minutes: 1
+series: materials
+slug: settings_materials
+source_file: 0631_settings_materials.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- materials
+title: Retrieving Materials
+word_count: 140
 ---
 
 ### Retrieving Materials

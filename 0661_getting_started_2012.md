@@ -1,11 +1,26 @@
 ---
-post_number: "0661"
-title: "Getting Started with the Revit 2012 API"
-slug: "getting_started_2012"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'schedules', 'views']
-source_file: "0661_getting_started_2012.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0661_getting_started_2012.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.349751'
+original_url: https://thebuildingcoder.typepad.com/blog/0661_getting_started_2012.html
+post_number: '0661'
+reading_time_minutes: 7
+series: getting_started
+slug: getting_started_2012
+source_file: 0661_getting_started_2012.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- schedules
+- views
+- getting_started
+title: Getting Started with the Revit 2012 API
+word_count: 1479
 ---
 
 ### Getting Started with the Revit 2012 API

@@ -1,11 +1,25 @@
 ---
-post_number: "0529"
-title: "Use of NewTakeOffFitting on a Duct"
-slug: "newtakeofffitting_duct"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'python', 'revit-api', 'transactions']
-source_file: "0529_newtakeofffitting_duct.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0529_newtakeofffitting_duct.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.111227'
+original_url: https://thebuildingcoder.typepad.com/blog/0529_newtakeofffitting_duct.html
+post_number: 0529
+reading_time_minutes: 4
+series: mep
+slug: newtakeofffitting_duct
+source_file: 0529_newtakeofffitting_duct.htm
+tags:
+- elements
+- family
+- filtering
+- python
+- revit-api
+- transactions
+- mep
+title: Use of NewTakeOffFitting on a Duct
+word_count: 787
 ---
 
 ### Use of NewTakeOffFitting on a Duct

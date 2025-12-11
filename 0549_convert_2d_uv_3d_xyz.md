@@ -1,11 +1,21 @@
 ---
-post_number: "0549"
-title: "Converting Between 2D UV and 3D XYZ Coordinates"
-slug: "convert_2d_uv_3d_xyz"
-author: "Jeremy Tammik"
-tags: ['geometry', 'parameters', 'revit-api']
-source_file: "0549_convert_2d_uv_3d_xyz.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0549_convert_2d_uv_3d_xyz.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.152079'
+original_url: https://thebuildingcoder.typepad.com/blog/0549_convert_2d_uv_3d_xyz.html
+post_number: 0549
+reading_time_minutes: 3
+series: geometry
+slug: convert_2d_uv_3d_xyz
+source_file: 0549_convert_2d_uv_3d_xyz.htm
+tags:
+- geometry
+- parameters
+- revit-api
+title: Converting Between 2D UV and 3D XYZ Coordinates
+word_count: 511
 ---
 
 ### Converting Between 2D UV and 3D XYZ Coordinates

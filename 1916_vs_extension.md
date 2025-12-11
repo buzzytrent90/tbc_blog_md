@@ -1,11 +1,22 @@
 ---
-post_number: "1916"
-title: "Vs Extension"
-slug: "vs_extension"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets', 'windows']
-source_file: "1916_vs_extension.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1916_vs_extension.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.035552'
+original_url: https://thebuildingcoder.typepad.com/blog/1916_vs_extension.html
+post_number: '1916'
+reading_time_minutes: 8
+series: general
+slug: vs_extension
+source_file: 1916_vs_extension.md
+tags:
+- references
+- revit-api
+- sheets
+- windows
+title: Vs Extension
+word_count: 1539
 ---
 
 ### Nina and a VS Revit Add-In Extension

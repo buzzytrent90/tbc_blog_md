@@ -1,11 +1,24 @@
 ---
-post_number: "0160"
-title: "Convex Hull and Volume Computation"
-slug: "convex_hull_volume"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'rooms', 'walls']
-source_file: "0160_convex_hull_volume.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0160_convex_hull_volume.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.462419'
+original_url: https://thebuildingcoder.typepad.com/blog/0160_convex_hull_volume.html
+post_number: '0160'
+reading_time_minutes: 4
+series: general
+slug: convex_hull_volume
+source_file: 0160_convex_hull_volume.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- rooms
+- walls
+title: Convex Hull and Volume Computation
+word_count: 784
 ---
 
 ### Convex Hull and Volume Computation

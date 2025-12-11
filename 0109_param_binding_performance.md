@@ -1,11 +1,21 @@
 ---
-post_number: "0109"
-title: "Parameter Binding Performance"
-slug: "param_binding_performance"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api']
-source_file: "0109_param_binding_performance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0109_param_binding_performance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.378371'
+original_url: https://thebuildingcoder.typepad.com/blog/0109_param_binding_performance.html
+post_number: 0109
+reading_time_minutes: 1
+series: parameters
+slug: param_binding_performance
+source_file: 0109_param_binding_performance.htm
+tags:
+- csharp
+- parameters
+- revit-api
+title: Parameter Binding Performance
+word_count: 220
 ---
 
 ### Parameter Binding Performance

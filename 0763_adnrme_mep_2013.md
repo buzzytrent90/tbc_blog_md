@@ -1,11 +1,29 @@
 ---
-post_number: "0763"
-title: "The ADN MEP Sample AdnRme for Revit MEP 2013"
-slug: "adnrme_mep_2013"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'views', 'windows']
-source_file: "0763_adnrme_mep_2013.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0763_adnrme_mep_2013.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.542178'
+original_url: https://thebuildingcoder.typepad.com/blog/0763_adnrme_mep_2013.html
+post_number: '0763'
+reading_time_minutes: 10
+series: mep
+slug: adnrme_mep_2013
+source_file: 0763_adnrme_mep_2013.htm
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- views
+- windows
+- mep
+title: The ADN MEP Sample AdnRme for Revit MEP 2013
+word_count: 2047
 ---
 
 ### The ADN MEP Sample AdnRme for Revit MEP 2013

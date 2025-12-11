@@ -1,11 +1,30 @@
 ---
-post_number: "1898"
-title: "2022 Job Column Inst"
-slug: "2022_job_column_inst"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'vbnet', 'views']
-source_file: "1898_2022_job_column_inst.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1898_2022_job_column_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.994459'
+original_url: https://thebuildingcoder.typepad.com/blog/1898_2022_job_column_inst.html
+post_number: '1898'
+reading_time_minutes: 10
+series: structural
+slug: 2022_job_column_inst
+source_file: 1898_2022_job_column_inst.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- vbnet
+- views
+- structural
+title: 2022 Job Column Inst
+word_count: 1970
 ---
 
 ### Sneak Peek, Automatic Columns, Arcs Angles and Careers

@@ -1,11 +1,28 @@
 ---
-post_number: "1910"
-title: "Asset Keyword"
-slug: "asset_keyword"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1910_asset_keyword.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1910_asset_keyword.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.024390'
+original_url: https://thebuildingcoder.typepad.com/blog/1910_asset_keyword.html
+post_number: '1910'
+reading_time_minutes: 8
+series: materials
+slug: asset_keyword
+source_file: 1910_asset_keyword.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- materials
+title: Asset Keyword
+word_count: 1571
 ---
 
 ### Topo from Lines, Asset Keyword and Regeneration

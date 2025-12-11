@@ -1,11 +1,23 @@
 ---
-post_number: "0283"
-title: "Curves"
-slug: "abg04_curves"
-author: "Jeremy Tammik"
-tags: ['geometry', 'levels', 'parameters', 'revit-api', 'views']
-source_file: "0283_abg04_curves.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0283_abg04_curves.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.674899'
+original_url: https://thebuildingcoder.typepad.com/blog/0283_abg04_curves.html
+post_number: 0283
+reading_time_minutes: 6
+series: geometry
+slug: abg04_curves
+source_file: 0283_abg04_curves.htm
+tags:
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+title: Curves
+word_count: 1178
 ---
 
 ### Curves

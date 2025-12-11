@@ -1,11 +1,32 @@
 ---
-post_number: "1370"
-title: "Rtc Revit Api Panel"
-slug: "rtc_revit_api_panel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1370_rtc_revit_api_panel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1370_rtc_revit_api_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.871031'
+original_url: https://thebuildingcoder.typepad.com/blog/1370_rtc_revit_api_panel.html
+post_number: '1370'
+reading_time_minutes: 14
+series: general
+slug: rtc_revit_api_panel
+source_file: 1370_rtc_revit_api_panel.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- sheets
+- transactions
+- views
+- walls
+title: Rtc Revit Api Panel
+word_count: 2729
 ---
 
 ### RTC, Budapest and the Revit API Panel

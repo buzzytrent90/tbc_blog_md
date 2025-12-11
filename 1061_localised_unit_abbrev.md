@@ -1,11 +1,26 @@
 ---
-post_number: "1061"
-title: "Localised Unit Abbreviations"
-slug: "localised_unit_abbrev"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1061_localised_unit_abbrev.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1061_localised_unit_abbrev.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.218950'
+original_url: https://thebuildingcoder.typepad.com/blog/1061_localised_unit_abbrev.html
+post_number: '1061'
+reading_time_minutes: 5
+series: general
+slug: localised_unit_abbrev
+source_file: 1061_localised_unit_abbrev.htm
+tags:
+- csharp
+- elements
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Localised Unit Abbreviations
+word_count: 1028
 ---
 
 ### Localised Unit Abbreviations

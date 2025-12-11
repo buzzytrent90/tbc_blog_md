@@ -1,11 +1,25 @@
 ---
-post_number: "1207"
-title: "Autodesk View and Data API Webinar"
-slug: "adva_webinar"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'revit-api', 'schedules', 'selection', 'views']
-source_file: "1207_adva_webinar.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1207_adva_webinar.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.510694'
+original_url: https://thebuildingcoder.typepad.com/blog/1207_adva_webinar.html
+post_number: '1207'
+reading_time_minutes: 4
+series: general
+slug: adva_webinar
+source_file: 1207_adva_webinar.htm
+tags:
+- elements
+- levels
+- parameters
+- revit-api
+- schedules
+- selection
+- views
+title: Autodesk View and Data API Webinar
+word_count: 860
 ---
 
 ### Autodesk View and Data API Webinar

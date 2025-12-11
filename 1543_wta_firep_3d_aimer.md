@@ -1,11 +1,30 @@
 ---
-post_number: "1543"
-title: "Wta Firep 3d Aimer"
-slug: "wta_firep_3d_aimer"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'views', 'windows']
-source_file: "1543_wta_firep_3d_aimer.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1543_wta_firep_3d_aimer.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.255240'
+original_url: https://thebuildingcoder.typepad.com/blog/1543_wta_firep_3d_aimer.html
+post_number: '1543'
+reading_time_minutes: 7
+series: general
+slug: wta_firep_3d_aimer
+source_file: 1543_wta_firep_3d_aimer.md
+tags:
+- csharp
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- views
+- windows
+title: Wta Firep 3d Aimer
+word_count: 1463
 ---
 
 ### WTA Elec, FireP and 3D Aimer Tools

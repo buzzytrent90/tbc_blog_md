@@ -1,11 +1,25 @@
 ---
-post_number: "0944"
-title: "Add-In Wizards for Revit 2014"
-slug: "addin_wizard_2014"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'schedules', 'vbnet', 'views', 'windows']
-source_file: "0944_addin_wizard_2014.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0944_addin_wizard_2014.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.961755'
+original_url: https://thebuildingcoder.typepad.com/blog/0944_addin_wizard_2014.html
+post_number: 0944
+reading_time_minutes: 4
+series: general
+slug: addin_wizard_2014
+source_file: 0944_addin_wizard_2014.htm
+tags:
+- csharp
+- references
+- revit-api
+- schedules
+- vbnet
+- views
+- windows
+title: Add-In Wizards for Revit 2014
+word_count: 878
 ---
 
 ### Add-In Wizards for Revit 2014

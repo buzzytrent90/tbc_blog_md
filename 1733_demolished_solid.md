@@ -1,11 +1,31 @@
 ---
-post_number: "1733"
-title: "Demolished Solid"
-slug: "demolished_solid"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1733_demolished_solid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1733_demolished_solid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.628948'
+original_url: https://thebuildingcoder.typepad.com/blog/1733_demolished_solid.html
+post_number: '1733'
+reading_time_minutes: 5
+series: general
+slug: demolished_solid
+source_file: 1733_demolished_solid.md
+tags:
+- doors
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Demolished Solid
+word_count: 965
 ---
 
 ### Determine Exact Opening by Demolishing

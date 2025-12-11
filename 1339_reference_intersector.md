@@ -1,11 +1,30 @@
 ---
-post_number: "1339"
-title: "Using ReferenceIntersector in Linked Files"
-slug: "reference_intersector"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'views', 'walls', 'windows']
-source_file: "1339_reference_intersector.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1339_reference_intersector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.803435'
+original_url: https://thebuildingcoder.typepad.com/blog/1339_reference_intersector.html
+post_number: '1339'
+reading_time_minutes: 6
+series: general
+slug: reference_intersector
+source_file: 1339_reference_intersector.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- views
+- walls
+- windows
+title: Using ReferenceIntersector in Linked Files
+word_count: 1274
 ---
 
 ### Using ReferenceIntersector in Linked Files

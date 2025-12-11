@@ -1,11 +1,31 @@
 ---
-post_number: "0539"
-title: "Dimension Walls by Iterating Faces"
-slug: "dim_walls_it_face"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "0539_dim_walls_it_face.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0539_dim_walls_it_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.132078'
+original_url: https://thebuildingcoder.typepad.com/blog/0539_dim_walls_it_face.html
+post_number: 0539
+reading_time_minutes: 11
+series: general
+slug: dim_walls_it_face
+source_file: 0539_dim_walls_it_face.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Dimension Walls by Iterating Faces
+word_count: 2192
 ---
 
 ### Dimension Walls by Iterating Faces

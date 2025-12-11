@@ -1,11 +1,24 @@
 ---
-post_number: "1192"
-title: "Accessing Discipline and Duplicating View Template"
-slug: "view_template_discipl"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'views']
-source_file: "1192_view_template_discipl.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1192_view_template_discipl.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.485258'
+original_url: https://thebuildingcoder.typepad.com/blog/1192_view_template_discipl.html
+post_number: '1192'
+reading_time_minutes: 3
+series: views
+slug: view_template_discipl
+source_file: 1192_view_template_discipl.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- views
+title: Accessing Discipline and Duplicating View Template
+word_count: 585
 ---
 
 ### Accessing Discipline and Duplicating View Template

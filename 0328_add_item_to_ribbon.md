@@ -1,11 +1,21 @@
 ---
-post_number: "0328"
-title: "Adding Non-Commands to the Revit Ribbon"
-slug: "add_item_to_ribbon"
-author: "Jeremy Tammik"
-tags: ['parameters', 'python', 'revit-api']
-source_file: "0328_add_item_to_ribbon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0328_add_item_to_ribbon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.751318'
+original_url: https://thebuildingcoder.typepad.com/blog/0328_add_item_to_ribbon.html
+post_number: 0328
+reading_time_minutes: 2
+series: general
+slug: add_item_to_ribbon
+source_file: 0328_add_item_to_ribbon.htm
+tags:
+- parameters
+- python
+- revit-api
+title: Adding Non-Commands to the Revit Ribbon
+word_count: 317
 ---
 
 ### Adding Non-Commands to the Revit Ribbon

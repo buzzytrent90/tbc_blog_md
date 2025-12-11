@@ -1,11 +1,26 @@
 ---
-post_number: "1797"
-title: "Indesign Rvtclipper"
-slug: "indesign_rvtclipper"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1797_indesign_rvtclipper.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1797_indesign_rvtclipper.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.765866'
+original_url: https://thebuildingcoder.typepad.com/blog/1797_indesign_rvtclipper.html
+post_number: '1797'
+reading_time_minutes: 4
+series: general
+slug: indesign_rvtclipper
+source_file: 1797_indesign_rvtclipper.md
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- references
+- revit-api
+- sheets
+- views
+title: Indesign Rvtclipper
+word_count: 841
 ---
 
 ### Automated PDF Report and 2D Sketch Booleans

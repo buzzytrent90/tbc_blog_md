@@ -1,11 +1,23 @@
 ---
-post_number: "1045"
-title: "RoomEditorApp for Revit 2014 on GitHub"
-slug: "roomeditorapp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'rooms', 'windows']
-source_file: "1045_roomeditorapp.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1045_roomeditorapp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.185381'
+original_url: https://thebuildingcoder.typepad.com/blog/1045_roomeditorapp.html
+post_number: '1045'
+reading_time_minutes: 5
+series: general
+slug: roomeditorapp
+source_file: 1045_roomeditorapp.htm
+tags:
+- csharp
+- references
+- revit-api
+- rooms
+- windows
+title: RoomEditorApp for Revit 2014 on GitHub
+word_count: 1003
 ---
 
 ### RoomEditorApp for Revit 2014 on GitHub

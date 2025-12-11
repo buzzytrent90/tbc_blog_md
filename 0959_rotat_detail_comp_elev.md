@@ -1,11 +1,27 @@
 ---
-post_number: "0959"
-title: "Correct Detail Component Rotation in Elevation View"
-slug: "rotat_detail_comp_elev"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views']
-source_file: "0959_rotat_detail_comp_elev.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0959_rotat_detail_comp_elev.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.993044'
+original_url: https://thebuildingcoder.typepad.com/blog/0959_rotat_detail_comp_elev.html
+post_number: 0959
+reading_time_minutes: 9
+series: general
+slug: rotat_detail_comp_elev
+source_file: 0959_rotat_detail_comp_elev.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+title: Correct Detail Component Rotation in Elevation View
+word_count: 1817
 ---
 
 ### Correct Detail Component Rotation in Elevation View

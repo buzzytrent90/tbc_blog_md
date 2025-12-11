@@ -1,11 +1,24 @@
 ---
-post_number: "0842"
-title: "Porting an AutoCAD Application"
-slug: "port_acad_app"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'walls']
-source_file: "0842_port_acad_app.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0842_port_acad_app.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.714627'
+original_url: https://thebuildingcoder.typepad.com/blog/0842_port_acad_app.html
+post_number: 0842
+reading_time_minutes: 6
+series: general
+slug: port_acad_app
+source_file: 0842_port_acad_app.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- walls
+title: Porting an AutoCAD Application
+word_count: 1135
 ---
 
 ﻿

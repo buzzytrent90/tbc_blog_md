@@ -1,11 +1,22 @@
 ---
-post_number: "1967"
-title: "Addins"
-slug: "addins"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets']
-source_file: "1967_addins.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1967_addins.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.151175'
+original_url: https://thebuildingcoder.typepad.com/blog/1967_addins.html
+post_number: '1967'
+reading_time_minutes: 5
+series: general
+slug: addins
+source_file: 1967_addins.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+title: Addins
+word_count: 1067
 ---
 
 ### BIM360 Links and Programming Add-Ins

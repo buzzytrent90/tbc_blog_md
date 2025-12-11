@@ -1,11 +1,26 @@
 ---
-post_number: "1689"
-title: "Automation Warnings"
-slug: "automation_warnings"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1689_automation_warnings.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1689_automation_warnings.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: news
+optimization_date: '2025-12-11T11:44:16.526788'
+original_url: https://thebuildingcoder.typepad.com/blog/1689_automation_warnings.html
+post_number: '1689'
+reading_time_minutes: 3
+series: general
+slug: automation_warnings
+source_file: 1689_automation_warnings.md
+tags:
+- elements
+- levels
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Automation Warnings
+word_count: 598
 ---
 
 ### Swallowing StairsAutomation Warnings

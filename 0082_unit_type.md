@@ -1,11 +1,22 @@
 ---
-post_number: "0082"
-title: "Unit Types and Format Options"
-slug: "unit_type"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "0082_unit_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0082_unit_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.331634'
+original_url: https://thebuildingcoder.typepad.com/blog/0082_unit_type.html
+post_number: 0082
+reading_time_minutes: 2
+series: elements
+slug: unit_type
+source_file: 0082_unit_type.htm
+tags:
+- revit-api
+- sheets
+- views
+- elements
+title: Unit Types and Format Options
+word_count: 461
 ---
 
 ### Unit Types and Format Options

@@ -1,11 +1,28 @@
 ---
-post_number: "1016"
-title: "Access to Individual Elements in Linked Projects"
-slug: "linked_project_element"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "1016_linked_project_element.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1016_linked_project_element.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.127316'
+original_url: https://thebuildingcoder.typepad.com/blog/1016_linked_project_element.html
+post_number: '1016'
+reading_time_minutes: 9
+series: elements
+slug: linked_project_element
+source_file: 1016_linked_project_element.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- transactions
+- views
+- walls
+title: Access to Individual Elements in Linked Projects
+word_count: 1725
 ---
 
 ### Access to Individual Elements in Linked Projects

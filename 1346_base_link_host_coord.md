@@ -1,11 +1,22 @@
 ---
-post_number: "1346"
-title: "Internal vs. Base Point and Link to Host Coordinates"
-slug: "base_link_host_coord"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api']
-source_file: "1346_base_link_host_coord.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1346_base_link_host_coord.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.816312'
+original_url: https://thebuildingcoder.typepad.com/blog/1346_base_link_host_coord.html
+post_number: '1346'
+reading_time_minutes: 2
+series: general
+slug: base_link_host_coord
+source_file: 1346_base_link_host_coord.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+title: Internal vs. Base Point and Link to Host Coordinates
+word_count: 498
 ---
 
 ### Internal vs. Base Point and Link to Host Coordinates

@@ -1,11 +1,30 @@
 ---
-post_number: "0070"
-title: "Barcelona Questions"
-slug: "barcelona"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'transactions', 'views', 'walls', 'windows']
-source_file: "0070_barcelona.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0070_barcelona.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.312734'
+original_url: https://thebuildingcoder.typepad.com/blog/0070_barcelona.html
+post_number: '0070'
+reading_time_minutes: 3
+series: general
+slug: barcelona
+source_file: 0070_barcelona.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- transactions
+- views
+- walls
+- windows
+title: Barcelona Questions
+word_count: 635
 ---
 
 ### Barcelona Questions

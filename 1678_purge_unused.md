@@ -1,11 +1,25 @@
 ---
-post_number: "1678"
-title: "Purge Unused"
-slug: "purge_unused"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'rooms', 'sheets', 'transactions', 'vbnet', 'views']
-source_file: "1678_purge_unused.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1678_purge_unused.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.508197'
+original_url: https://thebuildingcoder.typepad.com/blog/1678_purge_unused.html
+post_number: '1678'
+reading_time_minutes: 4
+series: general
+slug: purge_unused
+source_file: 1678_purge_unused.md
+tags:
+- elements
+- revit-api
+- rooms
+- sheets
+- transactions
+- vbnet
+- views
+title: Purge Unused
+word_count: 785
 ---
 
 ### Purge Unused using Performance Adviser

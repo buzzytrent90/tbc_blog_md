@@ -1,11 +1,26 @@
 ---
-post_number: "0020"
-title: "Filter Performance Conclusion"
-slug: "filter_conclusion"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'windows']
-source_file: "0020_filter_conclusion.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0020_filter_conclusion.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.241036'
+original_url: https://thebuildingcoder.typepad.com/blog/0020_filter_conclusion.html
+post_number: '0020'
+reading_time_minutes: 2
+series: filtering
+slug: filter_conclusion
+source_file: 0020_filter_conclusion.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- windows
+title: Filter Performance Conclusion
+word_count: 496
 ---
 
 ### Filter Performance Conclusion

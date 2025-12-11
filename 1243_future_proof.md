@@ -1,11 +1,34 @@
 ---
-post_number: "1243"
-title: "Determining Intersecting Elements and Continued Futureproofing"
-slug: "future_proof"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1243_future_proof.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1243_future_proof.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.592624'
+original_url: https://thebuildingcoder.typepad.com/blog/1243_future_proof.html
+post_number: '1243'
+reading_time_minutes: 9
+series: general
+slug: future_proof
+source_file: 1243_future_proof.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Determining Intersecting Elements and Continued Futureproofing
+word_count: 1896
 ---
 
 ### Determining Intersecting Elements and Continued Futureproofing

@@ -1,11 +1,27 @@
 ---
-post_number: "1578"
-title: "Fam Filt Forge Aec"
-slug: "fam_filt_forge_aec"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1578_fam_filt_forge_aec.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1578_fam_filt_forge_aec.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.327850'
+original_url: https://thebuildingcoder.typepad.com/blog/1578_fam_filt_forge_aec.html
+post_number: '1578'
+reading_time_minutes: 8
+series: general
+slug: fam_filt_forge_aec
+source_file: 1578_fam_filt_forge_aec.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Fam Filt Forge Aec
+word_count: 1548
 ---
 
 ### Forge, Installed Version, Move Group, Name Filter

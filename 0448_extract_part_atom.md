@@ -1,11 +1,26 @@
 ---
-post_number: "0448"
-title: "Extract Part Atom Revisited"
-slug: "extract_part_atom"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'python', 'revit-api', 'transactions', 'windows']
-source_file: "0448_extract_part_atom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0448_extract_part_atom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.963123'
+original_url: https://thebuildingcoder.typepad.com/blog/0448_extract_part_atom.html
+post_number: 0448
+reading_time_minutes: 2
+series: general
+slug: extract_part_atom
+source_file: 0448_extract_part_atom.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- python
+- revit-api
+- transactions
+- windows
+title: Extract Part Atom Revisited
+word_count: 462
 ---
 
 ### Extract Part Atom Revisited

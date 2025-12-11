@@ -1,11 +1,23 @@
 ---
-post_number: "1400"
-title: "Revit Cloud"
-slug: "revit_cloud"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1400_revit_cloud.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1400_revit_cloud.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.940856'
+original_url: https://thebuildingcoder.typepad.com/blog/1400_revit_cloud.html
+post_number: '1400'
+reading_time_minutes: 3
+series: general
+slug: revit_cloud
+source_file: 1400_revit_cloud.md
+tags:
+- csharp
+- python
+- revit-api
+- sheets
+- views
+title: Revit Cloud
+word_count: 517
 ---
 
 ### What Can Revit on the Cloud Do For You?

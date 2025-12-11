@@ -1,11 +1,28 @@
 ---
-post_number: "2013"
-title: "Pernickety"
-slug: "pernickety"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "2013_pernickety.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2013_pernickety.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.274574'
+original_url: https://thebuildingcoder.typepad.com/blog/2013_pernickety.html
+post_number: '2013'
+reading_time_minutes: 6
+series: general
+slug: pernickety
+source_file: 2013_pernickety.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Pernickety
+word_count: 1139
 ---
 
 ### Pernickety Blogging

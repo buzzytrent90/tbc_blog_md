@@ -1,11 +1,23 @@
 ---
-post_number: "0264"
-title: "Modify the DWF Export Filename"
-slug: "dwf_export_filename"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "0264_dwf_export_filename.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0264_dwf_export_filename.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.642959'
+original_url: https://thebuildingcoder.typepad.com/blog/0264_dwf_export_filename.html
+post_number: '0264'
+reading_time_minutes: 3
+series: general
+slug: dwf_export_filename
+source_file: 0264_dwf_export_filename.htm
+tags:
+- csharp
+- parameters
+- revit-api
+- sheets
+- views
+title: Modify the DWF Export Filename
+word_count: 523
 ---
 
 ### Modify the DWF Export Filename

@@ -1,11 +1,26 @@
 ---
-post_number: "1276"
-title: "Family Instance Area and Auto-Loading a Project File"
-slug: "inst_area_autoload"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "1276_inst_area_autoload.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1276_inst_area_autoload.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.655772'
+original_url: https://thebuildingcoder.typepad.com/blog/1276_inst_area_autoload.html
+post_number: '1276'
+reading_time_minutes: 8
+series: structural
+slug: inst_area_autoload
+source_file: 1276_inst_area_autoload.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- rooms
+- views
+- structural
+title: Family Instance Area and Auto-Loading a Project File
+word_count: 1503
 ---
 
 ### Family Instance Area and Auto-Loading a Project File

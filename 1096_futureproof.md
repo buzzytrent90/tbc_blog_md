@@ -1,11 +1,29 @@
 ---
-post_number: "1096"
-title: "Future Proofing The Building Coder Samples"
-slug: "futureproof"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1096_futureproof.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1096_futureproof.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.296869'
+original_url: https://thebuildingcoder.typepad.com/blog/1096_futureproof.html
+post_number: '1096'
+reading_time_minutes: 5
+series: general
+slug: futureproof
+source_file: 1096_futureproof.htm
+tags:
+- elements
+- family
+- filtering
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Future Proofing The Building Coder Samples
+word_count: 1094
 ---
 
 ### Future Proofing The Building Coder Samples

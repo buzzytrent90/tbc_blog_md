@@ -1,11 +1,23 @@
 ---
-post_number: "1815"
-title: "Devdays Migrate"
-slug: "devdays_migrate"
-author: "Jeremy Tammik"
-tags: ['family', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1815_devdays_migrate.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1815_devdays_migrate.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.800696'
+original_url: https://thebuildingcoder.typepad.com/blog/1815_devdays_migrate.html
+post_number: '1815'
+reading_time_minutes: 5
+series: general
+slug: devdays_migrate
+source_file: 1815_devdays_migrate.md
+tags:
+- family
+- references
+- revit-api
+- sheets
+- views
+title: Devdays Migrate
+word_count: 960
 ---
 
 ### DevDays Online and Add-In Migration

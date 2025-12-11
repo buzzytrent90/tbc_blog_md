@@ -1,11 +1,23 @@
 ---
-post_number: "1644"
-title: "Sdk Samples Lookup"
-slug: "sdk_samples_lookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'references', 'revit-api', 'sheets']
-source_file: "1644_sdk_samples_lookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1644_sdk_samples_lookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: news
+optimization_date: '2025-12-11T11:44:16.451459'
+original_url: https://thebuildingcoder.typepad.com/blog/1644_sdk_samples_lookup.html
+post_number: '1644'
+reading_time_minutes: 2
+series: general
+slug: sdk_samples_lookup
+source_file: 1644_sdk_samples_lookup.md
+tags:
+- elements
+- geometry
+- references
+- revit-api
+- sheets
+title: Sdk Samples Lookup
+word_count: 308
 ---
 
 ### RevitLookup 2019 and New SDK Samples

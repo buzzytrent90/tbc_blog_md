@@ -1,11 +1,21 @@
 ---
-post_number: "0786"
-title: "AEC DevCamp 2012 Material"
-slug: "aec_devcamp_mat"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'views']
-source_file: "0786_aec_devcamp_mat.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0786_aec_devcamp_mat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: news
+optimization_date: '2025-12-11T11:44:14.589049'
+original_url: https://thebuildingcoder.typepad.com/blog/0786_aec_devcamp_mat.html
+post_number: 0786
+reading_time_minutes: 2
+series: general
+slug: aec_devcamp_mat
+source_file: 0786_aec_devcamp_mat.htm
+tags:
+- levels
+- revit-api
+- views
+title: AEC DevCamp 2012 Material
+word_count: 369
 ---
 
 ### AEC DevCamp 2012 Material

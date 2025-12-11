@@ -1,11 +1,21 @@
 ---
-post_number: "0331"
-title: "Revit 2011 Product GUIDs"
-slug: "revit_2011_guids"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'selection']
-source_file: "0331_revit_2011_guids.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0331_revit_2011_guids.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.756759'
+original_url: https://thebuildingcoder.typepad.com/blog/0331_revit_2011_guids.html
+post_number: '0331'
+reading_time_minutes: 4
+series: general
+slug: revit_2011_guids
+source_file: 0331_revit_2011_guids.htm
+tags:
+- revit-api
+- schedules
+- selection
+title: Revit 2011 Product GUIDs
+word_count: 802
 ---
 
 ### Revit 2011 Product GUIDs

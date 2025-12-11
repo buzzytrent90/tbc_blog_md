@@ -1,11 +1,22 @@
 ---
-post_number: "0708"
-title: "Point Cloud Unit Conversion"
-slug: "point_cloud_unit_conv"
-author: "Jeremy Tammik"
-tags: ['python', 'references', 'revit-api']
-source_file: "0708_point_cloud_unit_conv.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0708_point_cloud_unit_conv.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.439044'
+original_url: https://thebuildingcoder.typepad.com/blog/0708_point_cloud_unit_conv.html
+post_number: 0708
+reading_time_minutes: 3
+series: geometry
+slug: point_cloud_unit_conv
+source_file: 0708_point_cloud_unit_conv.htm
+tags:
+- python
+- references
+- revit-api
+- geometry
+title: Point Cloud Unit Conversion
+word_count: 565
 ---
 
 ### Point Cloud Unit Conversion

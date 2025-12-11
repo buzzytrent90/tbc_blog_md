@@ -1,11 +1,25 @@
 ---
-post_number: "1104"
-title: "Daylighting Extension and Splitting with Taps"
-slug: "duct_pipe_tap_split"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "1104_duct_pipe_tap_split.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1104_duct_pipe_tap_split.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.311719'
+original_url: https://thebuildingcoder.typepad.com/blog/1104_duct_pipe_tap_split.html
+post_number: '1104'
+reading_time_minutes: 3
+series: mep
+slug: duct_pipe_tap_split
+source_file: 1104_duct_pipe_tap_split.htm
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- views
+- walls
+- mep
+title: Daylighting Extension and Splitting with Taps
+word_count: 688
 ---
 
 ### Daylighting Extension and Splitting with Taps

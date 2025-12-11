@@ -1,11 +1,28 @@
 ---
-post_number: "0636"
-title: "Retrieving Lines Within a Family Instance"
-slug: "lines_in_inst"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'views', 'walls']
-source_file: "0636_lines_in_inst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0636_lines_in_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.305854'
+original_url: https://thebuildingcoder.typepad.com/blog/0636_lines_in_inst.html
+post_number: '0636'
+reading_time_minutes: 3
+series: general
+slug: lines_in_inst
+source_file: 0636_lines_in_inst.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- views
+- walls
+title: Retrieving Lines Within a Family Instance
+word_count: 503
 ---
 
 ### Retrieving Lines Within a Family Instance

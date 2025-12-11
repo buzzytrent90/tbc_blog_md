@@ -1,11 +1,23 @@
 ---
-post_number: "0178"
-title: "Language Independent Category Access"
-slug: "language_independent_cat"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'selection']
-source_file: "0178_language_independent_cat.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0178_language_independent_cat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.494332'
+original_url: https://thebuildingcoder.typepad.com/blog/0178_language_independent_cat.html
+post_number: 0178
+reading_time_minutes: 1
+series: general
+slug: language_independent_cat
+source_file: 0178_language_independent_cat.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- selection
+title: Language Independent Category Access
+word_count: 296
 ---
 
 ### Language Independent Category Access

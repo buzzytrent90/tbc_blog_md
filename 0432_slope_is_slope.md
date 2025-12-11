@@ -1,11 +1,20 @@
 ---
-post_number: "0432"
-title: "Slope is Slope, Not Radians"
-slug: "slope_is_slope"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api']
-source_file: "0432_slope_is_slope.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0432_slope_is_slope.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.936925'
+original_url: https://thebuildingcoder.typepad.com/blog/0432_slope_is_slope.html
+post_number: '0432'
+reading_time_minutes: 1
+series: general
+slug: slope_is_slope
+source_file: 0432_slope_is_slope.htm
+tags:
+- parameters
+- revit-api
+title: Slope is Slope, Not Radians
+word_count: 259
 ---
 
 ### Slope is Slope, Not Radians

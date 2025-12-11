@@ -1,11 +1,25 @@
 ---
-post_number: "0470"
-title: "NewBlend Sample"
-slug: "newblend"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'transactions', 'views']
-source_file: "0470_newblend.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0470_newblend.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.002339'
+original_url: https://thebuildingcoder.typepad.com/blog/0470_newblend.html
+post_number: '0470'
+reading_time_minutes: 3
+series: general
+slug: newblend
+source_file: 0470_newblend.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- transactions
+- views
+title: NewBlend Sample
+word_count: 591
 ---
 
 ### NewBlend Sample

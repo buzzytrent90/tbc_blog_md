@@ -1,11 +1,23 @@
 ---
-post_number: "0480"
-title: "Complexity versus Constructability"
-slug: "constructability"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api']
-source_file: "0480_constructability.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0480_constructability.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.019852'
+original_url: https://thebuildingcoder.typepad.com/blog/0480_constructability.html
+post_number: 0480
+reading_time_minutes: 2
+series: general
+slug: constructability
+source_file: 0480_constructability.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+title: Complexity versus Constructability
+word_count: 340
 ---
 
 ### Complexity versus Constructability

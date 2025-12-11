@@ -1,11 +1,25 @@
 ---
-post_number: "0947"
-title: "External Command Lister and Adding Ribbon Commands"
-slug: "external_cmd_lister"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'revit-api', 'transactions', 'windows']
-source_file: "0947_external_cmd_lister.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0947_external_cmd_lister.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.968459'
+original_url: https://thebuildingcoder.typepad.com/blog/0947_external_cmd_lister.html
+post_number: 0947
+reading_time_minutes: 9
+series: general
+slug: external_cmd_lister
+source_file: 0947_external_cmd_lister.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- revit-api
+- transactions
+- windows
+title: External Command Lister and Adding Ribbon Commands
+word_count: 1824
 ---
 
 ### External Command Lister and Adding Ribbon Commands

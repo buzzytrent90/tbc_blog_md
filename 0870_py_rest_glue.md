@@ -1,11 +1,22 @@
 ---
-post_number: "0870"
-title: "BIM 360 Glue REST API Authentication Using Python"
-slug: "py_rest_glue"
-author: "Jeremy Tammik"
-tags: ['parameters', 'python', 'revit-api', 'views']
-source_file: "0870_py_rest_glue.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0870_py_rest_glue.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.766913'
+original_url: https://thebuildingcoder.typepad.com/blog/0870_py_rest_glue.html
+post_number: 0870
+reading_time_minutes: 7
+series: general
+slug: py_rest_glue
+source_file: 0870_py_rest_glue.htm
+tags:
+- parameters
+- python
+- revit-api
+- views
+title: BIM 360 Glue REST API Authentication Using Python
+word_count: 1371
 ---
 
 ### BIM 360 Glue REST API Authentication Using Python

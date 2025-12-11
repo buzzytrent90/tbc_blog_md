@@ -1,11 +1,22 @@
 ---
-post_number: "0829"
-title: "FamilyParameter IsShared Property"
-slug: "family_param_shared"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api']
-source_file: "0829_family_param_shared.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0829_family_param_shared.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.687050'
+original_url: https://thebuildingcoder.typepad.com/blog/0829_family_param_shared.html
+post_number: 0829
+reading_time_minutes: 3
+series: family
+slug: family_param_shared
+source_file: 0829_family_param_shared.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+title: FamilyParameter IsShared Property
+word_count: 628
 ---
 
 ﻿

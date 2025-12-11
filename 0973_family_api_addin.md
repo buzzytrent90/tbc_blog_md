@@ -1,11 +1,28 @@
 ---
-post_number: "0973"
-title: "Family API Add-in – Load Family and Place Instances"
-slug: "family_api_addin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'python', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0973_family_api_addin.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0973_family_api_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.025886'
+original_url: https://thebuildingcoder.typepad.com/blog/0973_family_api_addin.html
+post_number: 0973
+reading_time_minutes: 15
+series: family
+slug: family_api_addin
+source_file: 0973_family_api_addin.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- python
+- revit-api
+- selection
+- transactions
+- views
+title: "Family API Add-in \u2013 Load Family and Place Instances"
+word_count: 2992
 ---
 
 ### Family API Add-in – Load Family and Place Instances

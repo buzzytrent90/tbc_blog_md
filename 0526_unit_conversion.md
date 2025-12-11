@@ -1,11 +1,20 @@
 ---
-post_number: "0526"
-title: "Unit Conversion and New Blogs"
-slug: "unit_conversion"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0526_unit_conversion.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0526_unit_conversion.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.106141'
+original_url: https://thebuildingcoder.typepad.com/blog/0526_unit_conversion.html
+post_number: '0526'
+reading_time_minutes: 3
+series: general
+slug: unit_conversion
+source_file: 0526_unit_conversion.htm
+tags:
+- revit-api
+- views
+title: Unit Conversion and New Blogs
+word_count: 631
 ---
 
 ### Unit Conversion and New Blogs

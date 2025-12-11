@@ -1,11 +1,26 @@
 ---
-post_number: "2003"
-title: "Resx Lang Devcon"
-slug: "resx_lang_devcon"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "2003_resx_lang_devcon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2003_resx_lang_devcon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.245404'
+original_url: https://thebuildingcoder.typepad.com/blog/2003_resx_lang_devcon.html
+post_number: '2003'
+reading_time_minutes: 11
+series: general
+slug: resx_lang_devcon
+source_file: 2003_resx_lang_devcon.md
+tags:
+- csharp
+- family
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Resx Lang Devcon
+word_count: 2150
 ---
 
 ### Resx Language Management and APS DevCons

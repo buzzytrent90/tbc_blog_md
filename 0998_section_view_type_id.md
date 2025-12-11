@@ -1,11 +1,25 @@
 ---
-post_number: "0998"
-title: "Language Independent Section View Type Id Retrieval"
-slug: "section_view_type_id"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'schedules', 'views']
-source_file: "0998_section_view_type_id.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0998_section_view_type_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.087085'
+original_url: https://thebuildingcoder.typepad.com/blog/0998_section_view_type_id.html
+post_number: 0998
+reading_time_minutes: 2
+series: elements
+slug: section_view_type_id
+source_file: 0998_section_view_type_id.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- schedules
+- views
+title: Language Independent Section View Type Id Retrieval
+word_count: 441
 ---
 
 ### Language Independent Section View Type Id Retrieval

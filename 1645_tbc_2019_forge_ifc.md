@@ -1,11 +1,23 @@
 ---
-post_number: "1645"
-title: "Tbc 2019 Forge Ifc"
-slug: "tbc_2019_forge_ifc"
-author: "Jeremy Tammik"
-tags: ['levels', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1645_tbc_2019_forge_ifc.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1645_tbc_2019_forge_ifc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.453077'
+original_url: https://thebuildingcoder.typepad.com/blog/1645_tbc_2019_forge_ifc.html
+post_number: '1645'
+reading_time_minutes: 6
+series: general
+slug: tbc_2019_forge_ifc
+source_file: 1645_tbc_2019_forge_ifc.md
+tags:
+- levels
+- references
+- revit-api
+- sheets
+- views
+title: Tbc 2019 Forge Ifc
+word_count: 1239
 ---
 
 ### Forge RVT to IFC, ADN Xtra, TBC and AdnRme Updates

@@ -1,11 +1,28 @@
 ---
-post_number: "1451"
-title: "The Building Coder"
-slug: "custom_export_adn_2017"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'windows']
-source_file: "1451_custom_export_adn_2017.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1451_custom_export_adn_2017.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.051182'
+original_url: https://thebuildingcoder.typepad.com/blog/1451_custom_export_adn_2017.html
+post_number: '1451'
+reading_time_minutes: 13
+series: general
+slug: custom_export_adn_2017
+source_file: 1451_custom_export_adn_2017.md
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- windows
+title: The Building Coder
+word_count: 2699
 ---
 
 ### Exporting RVT BIM to JSON, WebGL and Forge

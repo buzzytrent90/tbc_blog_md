@@ -1,11 +1,24 @@
 ---
-post_number: "0110"
-title: "Transform"
-slug: "transform"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'walls']
-source_file: "0110_transform.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0110_transform.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.379836'
+original_url: https://thebuildingcoder.typepad.com/blog/0110_transform.html
+post_number: '0110'
+reading_time_minutes: 3
+series: geometry
+slug: transform
+source_file: 0110_transform.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- walls
+title: Transform
+word_count: 672
 ---
 
 ### Transform

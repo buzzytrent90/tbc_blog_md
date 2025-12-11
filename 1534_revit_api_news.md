@@ -1,11 +1,29 @@
 ---
-post_number: "1534"
-title: "Revit Api News"
-slug: "revit_api_news"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1534_revit_api_news.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1534_revit_api_news.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: news
+optimization_date: '2025-12-11T11:44:16.236616'
+original_url: https://thebuildingcoder.typepad.com/blog/1534_revit_api_news.html
+post_number: '1534'
+reading_time_minutes: 13
+series: general
+slug: revit_api_news
+source_file: 1534_revit_api_news.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Revit Api News
+word_count: 2601
 ---
 
 ### RevitLookup and DevDays Online API News

@@ -1,11 +1,28 @@
 ---
-post_number: "1970"
-title: "Webview2"
-slug: "webview2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1970_webview2.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1970_webview2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.158233'
+original_url: https://thebuildingcoder.typepad.com/blog/1970_webview2.html
+post_number: '1970'
+reading_time_minutes: 10
+series: views
+slug: webview2
+source_file: 1970_webview2.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Webview2
+word_count: 2016
 ---
 
 ### WebView2, LandXML, RefPlane and Revision

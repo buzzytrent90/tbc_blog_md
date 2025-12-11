@@ -1,11 +1,31 @@
 ---
-post_number: "0824"
-title: "Categories Collection Item Accessor Fails"
-slug: "categories"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'schedules', 'selection', 'views', 'walls', 'windows']
-source_file: "0824_categories.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0824_categories.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.674461'
+original_url: https://thebuildingcoder.typepad.com/blog/0824_categories.html
+post_number: 0824
+reading_time_minutes: 8
+series: general
+slug: categories
+source_file: 0824_categories.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- schedules
+- selection
+- views
+- walls
+- windows
+title: Categories Collection Item Accessor Fails
+word_count: 1655
 ---
 
 ### Categories Collection Item Accessor Fails

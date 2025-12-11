@@ -1,11 +1,25 @@
 ---
-post_number: "0629"
-title: "Set Underlay Display Property to None"
-slug: "underlay_none"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0629_underlay_none.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0629_underlay_none.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.294918'
+original_url: https://thebuildingcoder.typepad.com/blog/0629_underlay_none.html
+post_number: 0629
+reading_time_minutes: 1
+series: general
+slug: underlay_none
+source_file: 0629_underlay_none.htm
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- references
+- revit-api
+- views
+title: Set Underlay Display Property to None
+word_count: 220
 ---
 
 ### Set Underlay Display Property to None

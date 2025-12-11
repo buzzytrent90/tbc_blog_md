@@ -1,11 +1,26 @@
 ---
-post_number: "1097"
-title: "The GEOM_VISIBILITY_PARAM Visibility Settings"
-slug: "visibility_settings"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'views']
-source_file: "1097_visibility_settings.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1097_visibility_settings.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.298749'
+original_url: https://thebuildingcoder.typepad.com/blog/1097_visibility_settings.html
+post_number: '1097'
+reading_time_minutes: 6
+series: views
+slug: visibility_settings
+source_file: 1097_visibility_settings.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+title: The GEOM_VISIBILITY_PARAM Visibility Settings
+word_count: 1208
 ---
 
 ### The GEOM\_VISIBILITY\_PARAM Visibility Settings

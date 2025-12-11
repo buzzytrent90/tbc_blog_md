@@ -1,11 +1,31 @@
 ---
-post_number: "1357"
-title: "Directshape Simple"
-slug: "directshape_simple"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1357_directshape_simple.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1357_directshape_simple.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.839897'
+original_url: https://thebuildingcoder.typepad.com/blog/1357_directshape_simple.html
+post_number: '1357'
+reading_time_minutes: 10
+series: general
+slug: directshape_simple
+source_file: 1357_directshape_simple.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+title: Directshape Simple
+word_count: 1964
 ---
 
 ### Simple DirectShape on Face, RestSharp, PUT and POST

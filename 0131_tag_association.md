@@ -1,11 +1,27 @@
 ---
-post_number: "0131"
-title: "Tag Association"
-slug: "tag_association"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'levels', 'references', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0131_tag_association.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0131_tag_association.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.410637'
+original_url: https://thebuildingcoder.typepad.com/blog/0131_tag_association.html
+post_number: '0131'
+reading_time_minutes: 4
+series: general
+slug: tag_association
+source_file: 0131_tag_association.htm
+tags:
+- doors
+- elements
+- family
+- levels
+- references
+- revit-api
+- transactions
+- walls
+- windows
+title: Tag Association
+word_count: 795
 ---
 
 ### Tag Association

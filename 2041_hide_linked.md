@@ -1,11 +1,24 @@
 ---
-post_number: "2041"
-title: "Hide Linked"
-slug: "hide_linked"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'references', 'revit-api', 'selection', 'sheets']
-source_file: "2041_hide_linked.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2041_hide_linked.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.343160'
+original_url: https://thebuildingcoder.typepad.com/blog/2041_hide_linked.html
+post_number: '2041'
+reading_time_minutes: 3
+series: general
+slug: hide_linked
+source_file: 2041_hide_linked.md
+tags:
+- elements
+- filtering
+- references
+- revit-api
+- selection
+- sheets
+title: Hide Linked
+word_count: 545
 ---
 
 ### Revit 2025 API Video and Hiding Linked Elements

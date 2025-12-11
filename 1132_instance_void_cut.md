@@ -1,11 +1,29 @@
 ---
-post_number: "1132"
-title: "Transaction Group and Regeneration for InstanceVoidCutUtils"
-slug: "instance_void_cut"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions']
-source_file: "1132_instance_void_cut.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1132_instance_void_cut.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.363510'
+original_url: https://thebuildingcoder.typepad.com/blog/1132_instance_void_cut.html
+post_number: '1132'
+reading_time_minutes: 9
+series: elements
+slug: instance_void_cut
+source_file: 1132_instance_void_cut.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+title: Transaction Group and Regeneration for InstanceVoidCutUtils
+word_count: 1788
 ---
 
 ### Transaction Group and Regeneration for InstanceVoidCutUtils

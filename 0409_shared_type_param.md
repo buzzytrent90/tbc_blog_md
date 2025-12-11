@@ -1,11 +1,24 @@
 ---
-post_number: "0409"
-title: "Shared Type Parameter"
-slug: "shared_type_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'parameters', 'revit-api', 'walls']
-source_file: "0409_shared_type_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0409_shared_type_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.901837'
+original_url: https://thebuildingcoder.typepad.com/blog/0409_shared_type_param.html
+post_number: 0409
+reading_time_minutes: 3
+series: elements
+slug: shared_type_param
+source_file: 0409_shared_type_param.htm
+tags:
+- csharp
+- doors
+- elements
+- parameters
+- revit-api
+- walls
+title: Shared Type Parameter
+word_count: 637
 ---
 
 ### Shared Type Parameter

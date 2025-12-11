@@ -1,11 +1,24 @@
 ---
-post_number: "0435"
-title: "Modeless Form and Shared Parameter Disappearance"
-slug: "shared_params_disappear"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'selection', 'windows']
-source_file: "0435_shared_params_disappear.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0435_shared_params_disappear.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.942079'
+original_url: https://thebuildingcoder.typepad.com/blog/0435_shared_params_disappear.html
+post_number: '0435'
+reading_time_minutes: 7
+series: general
+slug: shared_params_disappear
+source_file: 0435_shared_params_disappear.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- selection
+- windows
+title: Modeless Form and Shared Parameter Disappearance
+word_count: 1311
 ---
 
 ### Modeless Form and Shared Parameter Disappearance

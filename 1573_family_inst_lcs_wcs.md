@@ -1,11 +1,28 @@
 ---
-post_number: "1573"
-title: "Family Inst Lcs Wcs"
-slug: "family_inst_lcs_wcs"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'walls']
-source_file: "1573_family_inst_lcs_wcs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1573_family_inst_lcs_wcs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.315732'
+original_url: https://thebuildingcoder.typepad.com/blog/1573_family_inst_lcs_wcs.html
+post_number: '1573'
+reading_time_minutes: 8
+series: family
+slug: family_inst_lcs_wcs
+source_file: 1573_family_inst_lcs_wcs.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- walls
+title: Family Inst Lcs Wcs
+word_count: 1690
 ---
 
 ### Picked Instance Face Geometry in LCS Versus WCS

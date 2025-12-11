@@ -1,11 +1,25 @@
 ---
-post_number: "0913"
-title: "Rename View by Matching Elevation Tag with Room"
-slug: "match_view_tag_room"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'rooms', 'views']
-source_file: "0913_match_view_tag_room.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0913_match_view_tag_room.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.876351'
+original_url: https://thebuildingcoder.typepad.com/blog/0913_match_view_tag_room.html
+post_number: 0913
+reading_time_minutes: 4
+series: views
+slug: match_view_tag_room
+source_file: 0913_match_view_tag_room.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- rooms
+- views
+title: Rename View by Matching Elevation Tag with Room
+word_count: 704
 ---
 
 ### Rename View by Matching Elevation Tag with Room

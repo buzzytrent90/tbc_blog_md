@@ -1,11 +1,27 @@
 ---
-post_number: "1922"
-title: "Multiversion"
-slug: "multiversion"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1922_multiversion.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1922_multiversion.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.049275'
+original_url: https://thebuildingcoder.typepad.com/blog/1922_multiversion.html
+post_number: '1922'
+reading_time_minutes: 6
+series: general
+slug: multiversion
+source_file: 1922_multiversion.md
+tags:
+- elements
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+- walls
+title: Multiversion
+word_count: 1119
 ---
 
 ### DLL as Resource and Multi-Version Add-Ins

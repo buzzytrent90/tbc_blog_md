@@ -1,11 +1,20 @@
 ---
-post_number: "0687"
-title: "AU Day Two"
-slug: "au_day_two"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api']
-source_file: "0687_au_day_two.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0687_au_day_two.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:14.395490'
+original_url: https://thebuildingcoder.typepad.com/blog/0687_au_day_two.html
+post_number: 0687
+reading_time_minutes: 1
+series: general
+slug: au_day_two
+source_file: 0687_au_day_two.htm
+tags:
+- geometry
+- revit-api
+title: AU Day Two
+word_count: 221
 ---
 
 ### AU Day Two

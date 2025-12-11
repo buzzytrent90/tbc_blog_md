@@ -1,11 +1,24 @@
 ---
-post_number: "0872"
-title: "ToElementIds Performance"
-slug: "toelementids_perf"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'python', 'revit-api', 'views']
-source_file: "0872_toelementids_perf.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0872_toelementids_perf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.769703'
+original_url: https://thebuildingcoder.typepad.com/blog/0872_toelementids_perf.html
+post_number: 0872
+reading_time_minutes: 3
+series: elements
+slug: toelementids_perf
+source_file: 0872_toelementids_perf.htm
+tags:
+- elements
+- filtering
+- levels
+- python
+- revit-api
+- views
+title: ToElementIds Performance
+word_count: 585
 ---
 
 ### ToElementIds Performance

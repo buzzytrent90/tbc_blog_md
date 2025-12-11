@@ -1,11 +1,35 @@
 ---
-post_number: "1368"
-title: "Revit Macros"
-slug: "revit_macros"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'vbnet', 'views', 'walls', 'windows']
-source_file: "1368_revit_macros.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1368_revit_macros.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.865417'
+original_url: https://thebuildingcoder.typepad.com/blog/1368_revit_macros.html
+post_number: '1368'
+reading_time_minutes: 21
+series: general
+slug: revit_macros
+source_file: 1368_revit_macros.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- vbnet
+- views
+- walls
+- windows
+title: Revit Macros
+word_count: 4269
 ---
 
 ### RTC Classes and Getting Started with Revit Macros

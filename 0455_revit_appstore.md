@@ -1,11 +1,20 @@
 ---
-post_number: "0455"
-title: "Revit AppStore"
-slug: "revit_appstore"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0455_revit_appstore.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0455_revit_appstore.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:13.974459'
+original_url: https://thebuildingcoder.typepad.com/blog/0455_revit_appstore.html
+post_number: '0455'
+reading_time_minutes: 3
+series: general
+slug: revit_appstore
+source_file: 0455_revit_appstore.htm
+tags:
+- revit-api
+- views
+title: Revit AppStore
+word_count: 617
 ---
 
 ### Revit AppStore

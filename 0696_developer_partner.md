@@ -1,11 +1,21 @@
 ---
-post_number: "0696"
-title: "Finding a Development Partner"
-slug: "developer_partner"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'views']
-source_file: "0696_developer_partner.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0696_developer_partner.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.415147'
+original_url: https://thebuildingcoder.typepad.com/blog/0696_developer_partner.html
+post_number: 0696
+reading_time_minutes: 2
+series: general
+slug: developer_partner
+source_file: 0696_developer_partner.htm
+tags:
+- references
+- revit-api
+- views
+title: Finding a Development Partner
+word_count: 365
 ---
 
 ### Finding a Development Partner

@@ -1,11 +1,22 @@
 ---
-post_number: "0009"
-title: "What Next?"
-slug: "what_next"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'walls']
-source_file: "0009_what_next.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0009_what_next.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.222126'
+original_url: https://thebuildingcoder.typepad.com/blog/0009_what_next.html
+post_number: 0009
+reading_time_minutes: 2
+series: general
+slug: what_next
+source_file: 0009_what_next.htm
+tags:
+- elements
+- parameters
+- revit-api
+- walls
+title: What Next?
+word_count: 378
 ---
 
 ### What Next?

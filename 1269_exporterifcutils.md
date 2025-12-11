@@ -1,11 +1,20 @@
 ---
-post_number: "1269"
-title: "ExporterIfcUtils Curve Loop Sort and Validate"
-slug: "exporterifcutils"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms']
-source_file: "1269_exporterifcutils.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1269_exporterifcutils.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.642799'
+original_url: https://thebuildingcoder.typepad.com/blog/1269_exporterifcutils.html
+post_number: '1269'
+reading_time_minutes: 2
+series: general
+slug: exporterifcutils
+source_file: 1269_exporterifcutils.htm
+tags:
+- revit-api
+- rooms
+title: ExporterIfcUtils Curve Loop Sort and Validate
+word_count: 326
 ---
 
 ### ExporterIfcUtils Curve Loop Sort and Validate

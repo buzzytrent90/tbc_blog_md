@@ -1,11 +1,22 @@
 ---
-post_number: "0164"
-title: "Three Coding and Performance Hints"
-slug: "three_hints"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api']
-source_file: "0164_three_hints.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0164_three_hints.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.469488'
+original_url: https://thebuildingcoder.typepad.com/blog/0164_three_hints.html
+post_number: '0164'
+reading_time_minutes: 2
+series: general
+slug: three_hints
+source_file: 0164_three_hints.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+title: Three Coding and Performance Hints
+word_count: 448
 ---
 
 ### Three Coding and Performance Hints

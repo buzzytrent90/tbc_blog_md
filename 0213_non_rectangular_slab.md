@@ -1,11 +1,24 @@
 ---
-post_number: "0213"
-title: "Creating a Non-rectangular Slab"
-slug: "non_rectangular_slab"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'parameters', 'revit-api', 'views']
-source_file: "0213_non_rectangular_slab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0213_non_rectangular_slab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.561750'
+original_url: https://thebuildingcoder.typepad.com/blog/0213_non_rectangular_slab.html
+post_number: '0213'
+reading_time_minutes: 2
+series: general
+slug: non_rectangular_slab
+source_file: 0213_non_rectangular_slab.htm
+tags:
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+title: Creating a Non-rectangular Slab
+word_count: 331
 ---
 
 ### Creating a Non-rectangular Slab

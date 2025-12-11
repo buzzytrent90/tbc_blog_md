@@ -1,11 +1,22 @@
 ---
-post_number: "0049"
-title: "Document IsModified Property"
-slug: "is_modified"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions']
-source_file: "0049_is_modified.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0049_is_modified.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.285960'
+original_url: https://thebuildingcoder.typepad.com/blog/0049_is_modified.html
+post_number: 0049
+reading_time_minutes: 2
+series: general
+slug: is_modified
+source_file: 0049_is_modified.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+title: Document IsModified Property
+word_count: 395
 ---
 
 ### Document IsModified Property

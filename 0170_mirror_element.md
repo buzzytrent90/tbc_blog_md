@@ -1,11 +1,26 @@
 ---
-post_number: "0170"
-title: "Mirror an Element"
-slug: "mirror_element"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'selection']
-source_file: "0170_mirror_element.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0170_mirror_element.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.480404'
+original_url: https://thebuildingcoder.typepad.com/blog/0170_mirror_element.html
+post_number: '0170'
+reading_time_minutes: 2
+series: elements
+slug: mirror_element
+source_file: 0170_mirror_element.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- selection
+title: Mirror an Element
+word_count: 331
 ---
 
 ### Mirror an Element

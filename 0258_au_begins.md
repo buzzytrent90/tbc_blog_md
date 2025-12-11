@@ -1,11 +1,22 @@
 ---
-post_number: "0258"
-title: "AU Begins"
-slug: "au_begins"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'rooms', 'schedules']
-source_file: "0258_au_begins.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0258_au_begins.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.634341'
+original_url: https://thebuildingcoder.typepad.com/blog/0258_au_begins.html
+post_number: 0258
+reading_time_minutes: 3
+series: general
+slug: au_begins
+source_file: 0258_au_begins.htm
+tags:
+- family
+- revit-api
+- rooms
+- schedules
+title: AU Begins
+word_count: 650
 ---
 
 ### AU Begins

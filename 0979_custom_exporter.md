@@ -1,11 +1,27 @@
 ---
-post_number: "0979"
-title: "Graphics Pipeline Custom Exporter"
-slug: "custom_exporter"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0979_custom_exporter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0979_custom_exporter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.038394'
+original_url: https://thebuildingcoder.typepad.com/blog/0979_custom_exporter.html
+post_number: 0979
+reading_time_minutes: 7
+series: general
+slug: custom_exporter
+source_file: 0979_custom_exporter.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- rooms
+- views
+- walls
+title: Graphics Pipeline Custom Exporter
+word_count: 1403
 ---
 
 ### Graphics Pipeline Custom Exporter

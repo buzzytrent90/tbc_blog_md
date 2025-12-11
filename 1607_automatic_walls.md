@@ -1,11 +1,31 @@
 ---
-post_number: "1607"
-title: "Automatic Walls"
-slug: "automatic_walls"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1607_automatic_walls.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1607_automatic_walls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.381657'
+original_url: https://thebuildingcoder.typepad.com/blog/1607_automatic_walls.html
+post_number: '1607'
+reading_time_minutes: 5
+series: general
+slug: automatic_walls
+source_file: 1607_automatic_walls.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Automatic Walls
+word_count: 931
 ---
 
 ### Automatic Wall Creation

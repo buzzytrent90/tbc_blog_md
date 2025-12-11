@@ -1,11 +1,19 @@
 ---
-post_number: "0021"
-title: "SDK Update Posted"
-slug: "sdk_update_posted"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0021_sdk_update_posted.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0021_sdk_update_posted.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: news
+optimization_date: '2025-12-11T11:44:13.242235'
+original_url: https://thebuildingcoder.typepad.com/blog/0021_sdk_update_posted.html
+post_number: '0021'
+reading_time_minutes: 1
+series: general
+slug: sdk_update_posted
+source_file: 0021_sdk_update_posted.htm
+tags:
+- revit-api
+title: SDK Update Posted
+word_count: 163
 ---
 
 ### SDK Update Posted

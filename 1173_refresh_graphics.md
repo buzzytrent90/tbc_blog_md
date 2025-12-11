@@ -1,11 +1,25 @@
 ---
-post_number: "1173"
-title: "Refresh Element Graphics Display"
-slug: "refresh_graphics"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1173_refresh_graphics.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1173_refresh_graphics.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.453008'
+original_url: https://thebuildingcoder.typepad.com/blog/1173_refresh_graphics.html
+post_number: '1173'
+reading_time_minutes: 5
+series: general
+slug: refresh_graphics
+source_file: 1173_refresh_graphics.htm
+tags:
+- elements
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- windows
+title: Refresh Element Graphics Display
+word_count: 985
 ---
 
 ### Refresh Element Graphics Display

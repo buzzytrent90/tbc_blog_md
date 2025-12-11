@@ -1,11 +1,27 @@
 ---
-post_number: "1135"
-title: "Category Support for Shared Type and Instance Parameters"
-slug: "categ_type_inst_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'python', 'revit-api', 'selection', 'sheets', 'walls', 'windows']
-source_file: "1135_categ_type_inst_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1135_categ_type_inst_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.370904'
+original_url: https://thebuildingcoder.typepad.com/blog/1135_categ_type_inst_param.html
+post_number: '1135'
+reading_time_minutes: 6
+series: elements
+slug: categ_type_inst_param
+source_file: 1135_categ_type_inst_param.htm
+tags:
+- csharp
+- elements
+- parameters
+- python
+- revit-api
+- selection
+- sheets
+- walls
+- windows
+title: Category Support for Shared Type and Instance Parameters
+word_count: 1252
 ---
 
 ### Category Support for Shared Type and Instance Parameters

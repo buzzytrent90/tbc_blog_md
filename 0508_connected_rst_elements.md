@@ -1,11 +1,26 @@
 ---
-post_number: "0508"
-title: "Finding Connected Structural Elements"
-slug: "connected_rst_elements"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'geometry', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0508_connected_rst_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0508_connected_rst_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.072575'
+original_url: https://thebuildingcoder.typepad.com/blog/0508_connected_rst_elements.html
+post_number: 0508
+reading_time_minutes: 2
+series: elements
+slug: connected_rst_elements
+source_file: 0508_connected_rst_elements.htm
+tags:
+- doors
+- elements
+- filtering
+- geometry
+- revit-api
+- views
+- walls
+- windows
+title: Finding Connected Structural Elements
+word_count: 472
 ---
 
 ### Finding Connected Structural Elements

@@ -1,11 +1,19 @@
 ---
-post_number: "0615"
-title: "VendorId, DevTV, and My First Plugin"
-slug: "vendorid"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0615_vendorid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0615_vendorid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.270561'
+original_url: https://thebuildingcoder.typepad.com/blog/0615_vendorid.html
+post_number: '0615'
+reading_time_minutes: 4
+series: general
+slug: vendorid
+source_file: 0615_vendorid.htm
+tags:
+- revit-api
+title: VendorId, DevTV, and My First Plugin
+word_count: 738
 ---
 
 ### VendorId, DevTV, and My First Plugin

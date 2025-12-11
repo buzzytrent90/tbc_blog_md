@@ -1,11 +1,29 @@
 ---
-post_number: "1751"
-title: "Filter Benchmark"
-slug: "filter_benchmark"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1751_filter_benchmark.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1751_filter_benchmark.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.668767'
+original_url: https://thebuildingcoder.typepad.com/blog/1751_filter_benchmark.html
+post_number: '1751'
+reading_time_minutes: 6
+series: filtering
+slug: filter_benchmark
+source_file: 1751_filter_benchmark.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+title: Filter Benchmark
+word_count: 1287
 ---
 
 ### Filtered Element Collector Benchmark

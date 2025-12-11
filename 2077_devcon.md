@@ -1,11 +1,22 @@
 ---
-post_number: "2077"
-title: "Devcon"
-slug: "devcon"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views', 'walls']
-source_file: "2077_devcon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2077_devcon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.433590'
+original_url: https://thebuildingcoder.typepad.com/blog/2077_devcon.html
+post_number: '2077'
+reading_time_minutes: 6
+series: general
+slug: devcon
+source_file: 2077_devcon.md
+tags:
+- revit-api
+- sheets
+- views
+- walls
+title: Devcon
+word_count: 1231
 ---
 
 ### AI Agents and Selfies at DevCon 2025

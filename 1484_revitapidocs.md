@@ -1,11 +1,22 @@
 ---
-post_number: "1484"
-title: "The Building Coder"
-slug: "revitapidocs"
-author: "Jeremy Tammik"
-tags: ['filtering', 'revit-api', 'sheets', 'views']
-source_file: "1484_revitapidocs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1484_revitapidocs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.132178'
+original_url: https://thebuildingcoder.typepad.com/blog/1484_revitapidocs.html
+post_number: '1484'
+reading_time_minutes: 3
+series: general
+slug: revitapidocs
+source_file: 1484_revitapidocs.md
+tags:
+- filtering
+- revit-api
+- sheets
+- views
+title: The Building Coder
+word_count: 552
 ---
 
 ### Token Expiry and Online Revit API Docs

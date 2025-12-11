@@ -1,11 +1,26 @@
 ---
-post_number: "1960"
-title: "27k Instances"
-slug: "27k_instances"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'sheets', 'transactions']
-source_file: "1960_27k_instances.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1960_27k_instances.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.133755'
+original_url: https://thebuildingcoder.typepad.com/blog/1960_27k_instances.html
+post_number: '1960'
+reading_time_minutes: 7
+series: elements
+slug: 27k_instances
+source_file: 1960_27k_instances.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+title: 27k Instances
+word_count: 1363
 ---
 
 ### IFC Property Set, Bulk Instances and Vary by Group

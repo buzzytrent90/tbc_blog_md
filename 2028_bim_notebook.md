@@ -1,11 +1,25 @@
 ---
-post_number: "2028"
-title: "Bim Notebook"
-slug: "bim_notebook"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "2028_bim_notebook.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2028_bim_notebook.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.310280'
+original_url: https://thebuildingcoder.typepad.com/blog/2028_bim_notebook.html
+post_number: '2028'
+reading_time_minutes: 10
+series: general
+slug: bim_notebook
+source_file: 2028_bim_notebook.md
+tags:
+- elements
+- filtering
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Bim Notebook
+word_count: 2000
 ---
 
 ### Interactive BIM Notebook, Temporary Graphics and AI

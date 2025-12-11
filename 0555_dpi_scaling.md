@@ -1,11 +1,20 @@
 ---
-post_number: "0555"
-title: "Handling DPI Scaling in .NET Application Forms"
-slug: "dpi_scaling"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms']
-source_file: "0555_dpi_scaling.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0555_dpi_scaling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.164560'
+original_url: https://thebuildingcoder.typepad.com/blog/0555_dpi_scaling.html
+post_number: '0555'
+reading_time_minutes: 1
+series: general
+slug: dpi_scaling
+source_file: 0555_dpi_scaling.htm
+tags:
+- revit-api
+- rooms
+title: Handling DPI Scaling in .NET Application Forms
+word_count: 153
 ---
 
 ### Handling DPI Scaling in .NET Application Forms

@@ -1,11 +1,25 @@
 ---
-post_number: "0735"
-title: "Determine Revit Demo Mode"
-slug: "demo_mode"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'references', 'revit-api', 'transactions', 'views']
-source_file: "0735_demo_mode.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0735_demo_mode.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.483640'
+original_url: https://thebuildingcoder.typepad.com/blog/0735_demo_mode.html
+post_number: '0735'
+reading_time_minutes: 3
+series: general
+slug: demo_mode
+source_file: 0735_demo_mode.htm
+tags:
+- csharp
+- elements
+- filtering
+- references
+- revit-api
+- transactions
+- views
+title: Determine Revit Demo Mode
+word_count: 574
 ---
 
 ### Determine Revit Demo Mode

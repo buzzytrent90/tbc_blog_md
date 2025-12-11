@@ -1,11 +1,28 @@
 ---
-post_number: "0587"
-title: "Extensible Storage of a Map"
-slug: "extensible_storage_map"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'python', 'references', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0587_extensible_storage_map.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0587_extensible_storage_map.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.218578'
+original_url: https://thebuildingcoder.typepad.com/blog/0587_extensible_storage_map.html
+post_number: 0587
+reading_time_minutes: 5
+series: general
+slug: extensible_storage_map
+source_file: 0587_extensible_storage_map.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- python
+- references
+- revit-api
+- selection
+- transactions
+- walls
+title: Extensible Storage of a Map
+word_count: 1077
 ---
 
 ### Extensible Storage of a Map

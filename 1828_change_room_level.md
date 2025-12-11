@@ -1,11 +1,30 @@
 ---
-post_number: "1828"
-title: "Change Room Level"
-slug: "change_room_level"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1828_change_room_level.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1828_change_room_level.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.830438'
+original_url: https://thebuildingcoder.typepad.com/blog/1828_change_room_level.html
+post_number: '1828'
+reading_time_minutes: 9
+series: transactions
+slug: change_room_level
+source_file: 1828_change_room_level.md
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Change Room Level
+word_count: 1722
 ---
 
 ### Panel Schedule Slots and Changing Room Level

@@ -1,11 +1,22 @@
 ---
-post_number: "0032"
-title: "Model Line Creation"
-slug: "model_lines"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'python', 'revit-api']
-source_file: "0032_model_lines.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0032_model_lines.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.262229'
+original_url: https://thebuildingcoder.typepad.com/blog/0032_model_lines.html
+post_number: '0032'
+reading_time_minutes: 4
+series: general
+slug: model_lines
+source_file: 0032_model_lines.htm
+tags:
+- elements
+- geometry
+- python
+- revit-api
+title: Model Line Creation
+word_count: 700
 ---
 
 ### Model Line Creation

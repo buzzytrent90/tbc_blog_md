@@ -1,11 +1,30 @@
 ---
-post_number: "0340"
-title: "Element Level Events"
-slug: "element_events"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0340_element_events.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0340_element_events.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: news
+optimization_date: '2025-12-11T11:44:13.773751'
+original_url: https://thebuildingcoder.typepad.com/blog/0340_element_events.html
+post_number: '0340'
+reading_time_minutes: 8
+series: elements
+slug: element_events
+source_file: 0340_element_events.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Element Level Events
+word_count: 1574
 ---
 
 ### Element Level Events

@@ -1,11 +1,28 @@
 ---
-post_number: "1482"
-title: "The Building Coder"
-slug: "material_asset_texture"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1482_material_asset_texture.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1482_material_asset_texture.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 13.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.127807'
+original_url: https://thebuildingcoder.typepad.com/blog/1482_material_asset_texture.html
+post_number: '1482'
+reading_time_minutes: 14
+series: materials
+slug: material_asset_texture
+source_file: 1482_material_asset_texture.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- python
+- references
+- revit-api
+- sheets
+- views
+- materials
+title: The Building Coder
+word_count: 2900
 ---
 
 ### Material Asset Textures, Forge Webinar Recordings

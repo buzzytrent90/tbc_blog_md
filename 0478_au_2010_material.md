@@ -1,11 +1,22 @@
 ---
-post_number: "0478"
-title: "Autodesk University 2010 Class Materials"
-slug: "au_2010_material"
-author: "Jeremy Tammik"
-tags: ['filtering', 'revit-api', 'rooms']
-source_file: "0478_au_2010_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0478_au_2010_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.016224'
+original_url: https://thebuildingcoder.typepad.com/blog/0478_au_2010_material.html
+post_number: 0478
+reading_time_minutes: 2
+series: materials
+slug: au_2010_material
+source_file: 0478_au_2010_material.htm
+tags:
+- filtering
+- revit-api
+- rooms
+- materials
+title: Autodesk University 2010 Class Materials
+word_count: 376
 ---
 
 ### Autodesk University 2010 Class Materials

@@ -1,11 +1,29 @@
 ---
-post_number: "1191"
-title: "Activate Your Family Symbol Before Using It"
-slug: "activate_famil_symbol"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1191_activate_famil_symbol.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1191_activate_famil_symbol.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.483718'
+original_url: https://thebuildingcoder.typepad.com/blog/1191_activate_famil_symbol.html
+post_number: '1191'
+reading_time_minutes: 5
+series: elements
+slug: activate_famil_symbol
+source_file: 1191_activate_famil_symbol.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Activate Your Family Symbol Before Using It
+word_count: 1094
 ---
 
 ### Activate Your Family Symbol Before Using It

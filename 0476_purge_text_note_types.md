@@ -1,11 +1,23 @@
 ---
-post_number: "0476"
-title: "Purge Unused Text Note Types"
-slug: "purge_text_note_types"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'transactions']
-source_file: "0476_purge_text_note_types.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0476_purge_text_note_types.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.013006'
+original_url: https://thebuildingcoder.typepad.com/blog/0476_purge_text_note_types.html
+post_number: '0476'
+reading_time_minutes: 6
+series: elements
+slug: purge_text_note_types
+source_file: 0476_purge_text_note_types.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- transactions
+title: Purge Unused Text Note Types
+word_count: 1123
 ---
 
 ### Purge Unused Text Note Types

@@ -1,11 +1,20 @@
 ---
-post_number: "1944"
-title: "Macro Survey"
-slug: "macro_survey"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1944_macro_survey.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1944_macro_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.0
+content_type: documentation
+optimization_date: '2025-12-11T11:44:17.098166'
+original_url: https://thebuildingcoder.typepad.com/blog/1944_macro_survey.html
+post_number: '1944'
+reading_time_minutes: 1
+series: general
+slug: macro_survey
+source_file: 1944_macro_survey.md
+tags:
+- revit-api
+- sheets
+title: Macro Survey
+word_count: 67
 ---
 
 ### Revit Macro User Survey

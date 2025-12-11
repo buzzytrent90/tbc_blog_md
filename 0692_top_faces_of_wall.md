@@ -1,11 +1,23 @@
 ---
-post_number: "0692"
-title: "Top Faces of Sloped Wall Update"
-slug: "top_faces_of_wall"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api', 'views', 'walls']
-source_file: "0692_top_faces_of_wall.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0692_top_faces_of_wall.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.406992'
+original_url: https://thebuildingcoder.typepad.com/blog/0692_top_faces_of_wall.html
+post_number: 0692
+reading_time_minutes: 5
+series: general
+slug: top_faces_of_wall
+source_file: 0692_top_faces_of_wall.htm
+tags:
+- csharp
+- levels
+- revit-api
+- views
+- walls
+title: Top Faces of Sloped Wall Update
+word_count: 1060
 ---
 
 ### Top Faces of Sloped Wall Update

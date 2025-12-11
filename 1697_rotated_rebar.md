@@ -1,11 +1,29 @@
 ---
-post_number: "1697"
-title: "Rotated Rebar"
-slug: "rotated_rebar"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1697_rotated_rebar.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1697_rotated_rebar.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.545640'
+original_url: https://thebuildingcoder.typepad.com/blog/1697_rotated_rebar.html
+post_number: '1697'
+reading_time_minutes: 9
+series: general
+slug: rotated_rebar
+source_file: 1697_rotated_rebar.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Rotated Rebar
+word_count: 1881
 ---
 
 ### Resources, Rotated Rebar Stirrups and Steel Stuff

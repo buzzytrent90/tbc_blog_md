@@ -1,11 +1,23 @@
 ---
-post_number: "1144"
-title: "Element Id – Export, Unique, Navisworks and Other Ids"
-slug: "nw_unique_id"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'references', 'revit-api', 'windows']
-source_file: "1144_nw_unique_id.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1144_nw_unique_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.395837'
+original_url: https://thebuildingcoder.typepad.com/blog/1144_nw_unique_id.html
+post_number: '1144'
+reading_time_minutes: 11
+series: general
+slug: nw_unique_id
+source_file: 1144_nw_unique_id.htm
+tags:
+- elements
+- parameters
+- references
+- revit-api
+- windows
+title: "Element Id \u2013 Export, Unique, Navisworks and Other Ids"
+word_count: 2136
 ---
 
 ### Element Id – Export, Unique, Navisworks and Other Ids

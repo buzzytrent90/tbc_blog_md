@@ -1,11 +1,28 @@
 ---
-post_number: "1224"
-title: "Brussels Hackathon, Pipe Wall Thickness and Voids"
-slug: "pipe_wall_thickness"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "1224_pipe_wall_thickness.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1224_pipe_wall_thickness.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.547665'
+original_url: https://thebuildingcoder.typepad.com/blog/1224_pipe_wall_thickness.html
+post_number: '1224'
+reading_time_minutes: 4
+series: mep
+slug: pipe_wall_thickness
+source_file: 1224_pipe_wall_thickness.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- views
+- walls
+- mep
+title: Brussels Hackathon, Pipe Wall Thickness and Voids
+word_count: 733
 ---
 
 ### Brussels Hackathon, Pipe Wall Thickness and Voids

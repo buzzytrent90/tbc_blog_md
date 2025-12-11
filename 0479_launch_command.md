@@ -1,11 +1,29 @@
 ---
-post_number: "0479"
-title: "Launching a Revit Command"
-slug: "launch_command"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'selection', 'transactions', 'walls', 'windows']
-source_file: "0479_launch_command.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0479_launch_command.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.017984'
+original_url: https://thebuildingcoder.typepad.com/blog/0479_launch_command.html
+post_number: 0479
+reading_time_minutes: 7
+series: general
+slug: launch_command
+source_file: 0479_launch_command.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- selection
+- transactions
+- walls
+- windows
+title: Launching a Revit Command
+word_count: 1443
 ---
 
 ### Launching a Revit Command

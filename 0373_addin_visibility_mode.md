@@ -1,11 +1,25 @@
 ---
-post_number: "0373"
-title: "Add-In Visibility Mode"
-slug: "addin_visibility_mode"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'revit-api', 'schedules', 'views', 'windows']
-source_file: "0373_addin_visibility_mode.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0373_addin_visibility_mode.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.837705'
+original_url: https://thebuildingcoder.typepad.com/blog/0373_addin_visibility_mode.html
+post_number: '0373'
+reading_time_minutes: 4
+series: views
+slug: addin_visibility_mode
+source_file: 0373_addin_visibility_mode.htm
+tags:
+- csharp
+- doors
+- family
+- revit-api
+- schedules
+- views
+- windows
+title: Add-In Visibility Mode
+word_count: 819
 ---
 
 ### Add-In Visibility Mode

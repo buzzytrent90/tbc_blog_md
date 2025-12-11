@@ -1,11 +1,27 @@
 ---
-post_number: "1860"
-title: "Ci Graphql"
-slug: "ci_graphql"
-author: "Jeremy Tammik"
-tags: ['doors', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'windows']
-source_file: "1860_ci_graphql.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1860_ci_graphql.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.910546'
+original_url: https://thebuildingcoder.typepad.com/blog/1860_ci_graphql.html
+post_number: '1860'
+reading_time_minutes: 9
+series: general
+slug: ci_graphql
+source_file: 1860_ci_graphql.md
+tags:
+- doors
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- windows
+title: Ci Graphql
+word_count: 1788
 ---
 
 ### RevitLookup Continuous Integration and GraphQL

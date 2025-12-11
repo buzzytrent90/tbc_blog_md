@@ -1,11 +1,26 @@
 ---
-post_number: "0392"
-title: "Export Data to XML"
-slug: "export_xml"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "0392_export_xml.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0392_export_xml.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.870836'
+original_url: https://thebuildingcoder.typepad.com/blog/0392_export_xml.html
+post_number: 0392
+reading_time_minutes: 3
+series: general
+slug: export_xml
+source_file: 0392_export_xml.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- revit-api
+- sheets
+- transactions
+- views
+title: Export Data to XML
+word_count: 627
 ---
 
 ### Export Data to XML

@@ -1,11 +1,31 @@
 ---
-post_number: "0656"
-title: "Unofficial Parameters and BipChecker"
-slug: "unofficial_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "0656_unofficial_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0656_unofficial_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.341247'
+original_url: https://thebuildingcoder.typepad.com/blog/0656_unofficial_param.html
+post_number: '0656'
+reading_time_minutes: 12
+series: general
+slug: unofficial_param
+source_file: 0656_unofficial_param.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Unofficial Parameters and BipChecker
+word_count: 2493
 ---
 
 ### Unofficial Parameters and BipChecker

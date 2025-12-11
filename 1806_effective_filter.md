@@ -1,11 +1,26 @@
 ---
-post_number: "1806"
-title: "Effective Filter"
-slug: "effective_filter"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1806_effective_filter.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1806_effective_filter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.782847'
+original_url: https://thebuildingcoder.typepad.com/blog/1806_effective_filter.html
+post_number: '1806'
+reading_time_minutes: 7
+series: filtering
+slug: effective_filter
+source_file: 1806_effective_filter.md
+tags:
+- elements
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+title: Effective Filter
+word_count: 1393
 ---
 
 ### Forge Rooms, Effective Filtered Element Collectors

@@ -1,11 +1,24 @@
 ---
-post_number: "0073"
-title: "Transactions"
-slug: "transaction"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'rooms', 'transactions', 'views']
-source_file: "0073_transaction.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0073_transaction.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.316807'
+original_url: https://thebuildingcoder.typepad.com/blog/0073_transaction.html
+post_number: '0073'
+reading_time_minutes: 4
+series: transactions
+slug: transaction
+source_file: 0073_transaction.htm
+tags:
+- csharp
+- parameters
+- revit-api
+- rooms
+- transactions
+- views
+title: Transactions
+word_count: 784
 ---
 
 ### Transactions

@@ -1,11 +1,25 @@
 ---
-post_number: "1098"
-title: "Deleting Unnamed Non-Hosting Reference Planes"
-slug: "delete_unused_ref_plane"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'references', 'revit-api', 'transactions']
-source_file: "1098_delete_unused_ref_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1098_delete_unused_ref_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.301006'
+original_url: https://thebuildingcoder.typepad.com/blog/1098_delete_unused_ref_plane.html
+post_number: '1098'
+reading_time_minutes: 7
+series: general
+slug: delete_unused_ref_plane
+source_file: 1098_delete_unused_ref_plane.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- transactions
+title: Deleting Unnamed Non-Hosting Reference Planes
+word_count: 1319
 ---
 
 ### Deleting Unnamed Non-Hosting Reference Planes

@@ -1,11 +1,25 @@
 ---
-post_number: "1463"
-title: "The Building Coder"
-slug: "macro_samples_2017"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'revit-api', 'sheets', 'vbnet', 'views']
-source_file: "1463_macro_samples_2017.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1463_macro_samples_2017.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.080308'
+original_url: https://thebuildingcoder.typepad.com/blog/1463_macro_samples_2017.html
+post_number: '1463'
+reading_time_minutes: 6
+series: general
+slug: macro_samples_2017
+source_file: 1463_macro_samples_2017.md
+tags:
+- csharp
+- family
+- python
+- revit-api
+- sheets
+- vbnet
+- views
+title: The Building Coder
+word_count: 1138
 ---
 
 ### Revit Macro Samples Migrated to Revit 2017

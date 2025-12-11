@@ -1,11 +1,24 @@
 ---
-post_number: "0037"
-title: "Editing a Floor Profile"
-slug: "editing_floor_profile"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'selection']
-source_file: "0037_editing_floor_profile.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0037_editing_floor_profile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.269291'
+original_url: https://thebuildingcoder.typepad.com/blog/0037_editing_floor_profile.html
+post_number: '0037'
+reading_time_minutes: 4
+series: general
+slug: editing_floor_profile
+source_file: 0037_editing_floor_profile.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- selection
+title: Editing a Floor Profile
+word_count: 832
 ---
 
 ### Editing a Floor Profile

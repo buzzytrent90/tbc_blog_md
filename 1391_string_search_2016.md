@@ -1,11 +1,26 @@
 ---
-post_number: "1391"
-title: "String Search 2016"
-slug: "string_search_2016"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1391_string_search_2016.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1391_string_search_2016.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.923114'
+original_url: https://thebuildingcoder.typepad.com/blog/1391_string_search_2016.html
+post_number: '1391'
+reading_time_minutes: 6
+series: filtering
+slug: string_search_2016
+source_file: 1391_string_search_2016.md
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: String Search 2016
+word_count: 1248
 ---
 
 ### All Model Text, StringSearch 2016 and New Jobs

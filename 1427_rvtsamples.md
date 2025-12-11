@@ -1,11 +1,25 @@
 ---
-post_number: "1427"
-title: "Rvtsamples"
-slug: "rvtsamples"
-author: "Jeremy Tammik"
-tags: ['family', 'python', 'revit-api', 'rooms', 'sheets', 'vbnet', 'windows']
-source_file: "1427_rvtsamples.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1427_rvtsamples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.994215'
+original_url: https://thebuildingcoder.typepad.com/blog/1427_rvtsamples.html
+post_number: '1427'
+reading_time_minutes: 8
+series: general
+slug: rvtsamples
+source_file: 1427_rvtsamples.md
+tags:
+- family
+- python
+- revit-api
+- rooms
+- sheets
+- vbnet
+- windows
+title: Rvtsamples
+word_count: 1693
 ---
 
 ### RvtSamples for Revit 2017

@@ -1,11 +1,23 @@
 ---
-post_number: "1511"
-title: "Cpp Crypto Content"
-slug: "cpp_crypto_content"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'revit-api', 'sheets']
-source_file: "1511_cpp_crypto_content.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1511_cpp_crypto_content.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.189063'
+original_url: https://thebuildingcoder.typepad.com/blog/1511_cpp_crypto_content.html
+post_number: '1511'
+reading_time_minutes: 5
+series: general
+slug: cpp_crypto_content
+source_file: 1511_cpp_crypto_content.md
+tags:
+- csharp
+- family
+- geometry
+- revit-api
+- sheets
+title: Cpp Crypto Content
+word_count: 910
 ---
 
 ### Happy New Year, C++, Crypto and Content

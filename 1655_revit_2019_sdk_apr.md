@@ -1,11 +1,26 @@
 ---
-post_number: "1655"
-title: "Revit 2019 Sdk Apr"
-slug: "revit_2019_sdk_apr"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'walls', 'windows']
-source_file: "1655_revit_2019_sdk_apr.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1655_revit_2019_sdk_apr.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.471931'
+original_url: https://thebuildingcoder.typepad.com/blog/1655_revit_2019_sdk_apr.html
+post_number: '1655'
+reading_time_minutes: 4
+series: general
+slug: revit_2019_sdk_apr
+source_file: 1655_revit_2019_sdk_apr.md
+tags:
+- elements
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- walls
+- windows
+title: Revit 2019 Sdk Apr
+word_count: 885
 ---
 
 ### Installing the Revit 2019 SDK April Update

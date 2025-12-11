@@ -1,11 +1,22 @@
 ---
-post_number: "0856"
-title: "Moving to the Mac"
-slug: "moving_to_mac"
-author: "Jeremy Tammik"
-tags: ['family', 'python', 'revit-api', 'windows']
-source_file: "0856_moving_to_mac.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0856_moving_to_mac.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.743288'
+original_url: https://thebuildingcoder.typepad.com/blog/0856_moving_to_mac.html
+post_number: 0856
+reading_time_minutes: 3
+series: general
+slug: moving_to_mac
+source_file: 0856_moving_to_mac.htm
+tags:
+- family
+- python
+- revit-api
+- windows
+title: Moving to the Mac
+word_count: 670
 ---
 
 ### Moving to the Mac

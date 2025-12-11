@@ -1,11 +1,26 @@
 ---
-post_number: "1295"
-title: "Element Selection Changed Event"
-slug: "selection_changed_event"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'revit-api', 'selection', 'transactions', 'windows']
-source_file: "1295_selection_changed_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1295_selection_changed_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.704512'
+original_url: https://thebuildingcoder.typepad.com/blog/1295_selection_changed_event.html
+post_number: '1295'
+reading_time_minutes: 5
+series: filtering
+slug: selection_changed_event
+source_file: 1295_selection_changed_event.htm
+tags:
+- csharp
+- elements
+- levels
+- revit-api
+- selection
+- transactions
+- windows
+- filtering
+title: Element Selection Changed Event
+word_count: 991
 ---
 
 ### Element Selection Changed Event

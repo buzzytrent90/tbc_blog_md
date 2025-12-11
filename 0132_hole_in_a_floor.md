@@ -1,11 +1,24 @@
 ---
-post_number: "0132"
-title: "Hole in a Floor"
-slug: "hole_in_a_floor"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'revit-api', 'walls']
-source_file: "0132_hole_in_a_floor.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0132_hole_in_a_floor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.412090'
+original_url: https://thebuildingcoder.typepad.com/blog/0132_hole_in_a_floor.html
+post_number: '0132'
+reading_time_minutes: 1
+series: general
+slug: hole_in_a_floor
+source_file: 0132_hole_in_a_floor.htm
+tags:
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- walls
+title: Hole in a Floor
+word_count: 295
 ---
 
 ### Hole in a Floor

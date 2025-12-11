@@ -1,11 +1,26 @@
 ---
-post_number: "0653"
-title: "Activate a 3D View"
-slug: "activate_3d_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'transactions', 'views']
-source_file: "0653_activate_3d_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0653_activate_3d_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.336501'
+original_url: https://thebuildingcoder.typepad.com/blog/0653_activate_3d_view.html
+post_number: '0653'
+reading_time_minutes: 2
+series: views
+slug: activate_3d_view
+source_file: 0653_activate_3d_view.htm
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- transactions
+- views
+title: Activate a 3D View
+word_count: 443
 ---
 
 ### Activate a 3D View

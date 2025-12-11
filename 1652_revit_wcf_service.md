@@ -1,11 +1,27 @@
 ---
-post_number: "1652"
-title: "Revit Wcf Service"
-slug: "revit_wcf_service"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1652_revit_wcf_service.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1652_revit_wcf_service.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.465500'
+original_url: https://thebuildingcoder.typepad.com/blog/1652_revit_wcf_service.html
+post_number: '1652'
+reading_time_minutes: 11
+series: general
+slug: revit_wcf_service
+source_file: 1652_revit_wcf_service.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Revit Wcf Service
+word_count: 2134
 ---
 
 ### Drive Revit via a WCF Service, Wall Directions and Parameters

@@ -1,11 +1,23 @@
 ---
-post_number: "1344"
-title: "Revit API Context and Form Creation"
-slug: "api_context_form_err"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'python', 'revit-api', 'transactions']
-source_file: "1344_api_context_form_err.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1344_api_context_form_err.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.813573'
+original_url: https://thebuildingcoder.typepad.com/blog/1344_api_context_form_err.html
+post_number: '1344'
+reading_time_minutes: 4
+series: general
+slug: api_context_form_err
+source_file: 1344_api_context_form_err.htm
+tags:
+- family
+- geometry
+- python
+- revit-api
+- transactions
+title: Revit API Context and Form Creation
+word_count: 806
 ---
 
 ### Revit API Context and Form Creation

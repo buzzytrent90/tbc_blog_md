@@ -1,11 +1,25 @@
 ---
-post_number: "0544"
-title: "Comparing Element Id for Equality"
-slug: "element_id_equality"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'references', 'revit-api', 'selection', 'walls']
-source_file: "0544_element_id_equality.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0544_element_id_equality.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.142515'
+original_url: https://thebuildingcoder.typepad.com/blog/0544_element_id_equality.html
+post_number: '0544'
+reading_time_minutes: 1
+series: elements
+slug: element_id_equality
+source_file: 0544_element_id_equality.htm
+tags:
+- csharp
+- elements
+- filtering
+- references
+- revit-api
+- selection
+- walls
+title: Comparing Element Id for Equality
+word_count: 265
 ---
 
 ### Comparing Element Id for Equality

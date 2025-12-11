@@ -1,11 +1,23 @@
 ---
-post_number: "0339"
-title: "ElementId Parameter Value"
-slug: "element_id_param_value"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'selection']
-source_file: "0339_element_id_param_value.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0339_element_id_param_value.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.771969'
+original_url: https://thebuildingcoder.typepad.com/blog/0339_element_id_param_value.html
+post_number: 0339
+reading_time_minutes: 2
+series: parameters
+slug: element_id_param_value
+source_file: 0339_element_id_param_value.htm
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- selection
+title: ElementId Parameter Value
+word_count: 440
 ---
 
 ### ElementId Parameter Value

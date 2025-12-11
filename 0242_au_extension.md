@@ -1,11 +1,19 @@
 ---
-post_number: "0242"
-title: "Autodesk University Extension"
-slug: "au_extension"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0242_au_extension.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0242_au_extension.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.608695'
+original_url: https://thebuildingcoder.typepad.com/blog/0242_au_extension.html
+post_number: '0242'
+reading_time_minutes: 1
+series: general
+slug: au_extension
+source_file: 0242_au_extension.htm
+tags:
+- revit-api
+title: Autodesk University Extension
+word_count: 232
 ---
 
 ### Autodesk University Extension

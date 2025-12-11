@@ -1,11 +1,22 @@
 ---
-post_number: "0372"
-title: "Parameter Access and Scheduling"
-slug: "param_scheduling"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'schedules', 'sheets']
-source_file: "0372_param_scheduling.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0372_param_scheduling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.836274'
+original_url: https://thebuildingcoder.typepad.com/blog/0372_param_scheduling.html
+post_number: '0372'
+reading_time_minutes: 1
+series: general
+slug: param_scheduling
+source_file: 0372_param_scheduling.htm
+tags:
+- parameters
+- revit-api
+- schedules
+- sheets
+title: Parameter Access and Scheduling
+word_count: 282
 ---
 
 ### Parameter Access and Scheduling

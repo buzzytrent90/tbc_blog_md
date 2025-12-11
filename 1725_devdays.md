@@ -1,11 +1,23 @@
 ---
-post_number: "1725"
-title: "Devdays"
-slug: "devdays"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "1725_devdays.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1725_devdays.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.611943'
+original_url: https://thebuildingcoder.typepad.com/blog/1725_devdays.html
+post_number: '1725'
+reading_time_minutes: 3
+series: general
+slug: devdays
+source_file: 1725_devdays.md
+tags:
+- family
+- revit-api
+- schedules
+- sheets
+- views
+title: Devdays
+word_count: 687
 ---
 
 ### Register for DevDays Online

@@ -1,11 +1,20 @@
 ---
-post_number: "1491"
-title: "The Building Coder"
-slug: "public_roadmap"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1491_public_roadmap.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1491_public_roadmap.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.147302'
+original_url: https://thebuildingcoder.typepad.com/blog/1491_public_roadmap.html
+post_number: '1491'
+reading_time_minutes: 2
+series: general
+slug: public_roadmap
+source_file: 1491_public_roadmap.md
+tags:
+- revit-api
+- sheets
+title: The Building Coder
+word_count: 402
 ---
 
 ### Revit Future Direction and Public Roadmap

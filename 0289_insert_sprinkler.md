@@ -1,11 +1,29 @@
 ---
-post_number: "0289"
-title: "Insert Face-Hosted Sprinkler"
-slug: "insert_sprinkler"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'walls']
-source_file: "0289_insert_sprinkler.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0289_insert_sprinkler.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.686764'
+original_url: https://thebuildingcoder.typepad.com/blog/0289_insert_sprinkler.html
+post_number: 0289
+reading_time_minutes: 7
+series: general
+slug: insert_sprinkler
+source_file: 0289_insert_sprinkler.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- walls
+title: Insert Face-Hosted Sprinkler
+word_count: 1321
 ---
 
 ### Insert Face-Hosted Sprinkler

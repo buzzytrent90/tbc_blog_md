@@ -1,11 +1,24 @@
 ---
-post_number: "0249"
-title: "Revit API Flavours"
-slug: "revit_api_flavours"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'rooms', 'views']
-source_file: "0249_revit_api_flavours.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0249_revit_api_flavours.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.621037'
+original_url: https://thebuildingcoder.typepad.com/blog/0249_revit_api_flavours.html
+post_number: 0249
+reading_time_minutes: 3
+series: general
+slug: revit_api_flavours
+source_file: 0249_revit_api_flavours.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- rooms
+- views
+title: Revit API Flavours
+word_count: 537
 ---
 
 ### Revit API Flavours

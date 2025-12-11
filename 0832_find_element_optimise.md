@@ -1,11 +1,29 @@
 ---
-post_number: "0832"
-title: "FindElement and Collector Optimisation"
-slug: "find_element_optimise"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'selection', 'walls']
-source_file: "0832_find_element_optimise.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0832_find_element_optimise.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.695613'
+original_url: https://thebuildingcoder.typepad.com/blog/0832_find_element_optimise.html
+post_number: 0832
+reading_time_minutes: 4
+series: elements
+slug: find_element_optimise
+source_file: 0832_find_element_optimise.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- selection
+- walls
+title: FindElement and Collector Optimisation
+word_count: 853
 ---
 
 ﻿

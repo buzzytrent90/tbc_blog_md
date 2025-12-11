@@ -1,11 +1,29 @@
 ---
-post_number: "2074"
-title: "Intersect Result"
-slug: "intersect_result"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "2074_intersect_result.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2074_intersect_result.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.426943'
+original_url: https://thebuildingcoder.typepad.com/blog/2074_intersect_result.html
+post_number: '2074'
+reading_time_minutes: 7
+series: general
+slug: intersect_result
+source_file: 2074_intersect_result.md
+tags:
+- csharp
+- elements
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Intersect Result
+word_count: 1412
 ---
 
 ### Intersection Result, LLM for IFC and More AI

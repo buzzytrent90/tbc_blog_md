@@ -1,11 +1,26 @@
 ---
-post_number: "1813"
-title: "Torsion Tools"
-slug: "torsion_tools"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1813_torsion_tools.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1813_torsion_tools.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.796785'
+original_url: https://thebuildingcoder.typepad.com/blog/1813_torsion_tools.html
+post_number: '1813'
+reading_time_minutes: 6
+series: general
+slug: torsion_tools
+source_file: 1813_torsion_tools.md
+tags:
+- elements
+- filtering
+- geometry
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Torsion Tools
+word_count: 1235
 ---
 
 ### Torsion Tools, Command Event and Info in DA4R

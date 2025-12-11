@@ -1,11 +1,22 @@
 ---
-post_number: "1285"
-title: "Keyboard Shortcuts and Other News"
-slug: "keyboard_shortcut"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'views', 'windows']
-source_file: "1285_keyboard_shortcut.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1285_keyboard_shortcut.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.680478'
+original_url: https://thebuildingcoder.typepad.com/blog/1285_keyboard_shortcut.html
+post_number: '1285'
+reading_time_minutes: 7
+series: general
+slug: keyboard_shortcut
+source_file: 1285_keyboard_shortcut.htm
+tags:
+- elements
+- revit-api
+- views
+- windows
+title: Keyboard Shortcuts and Other News
+word_count: 1340
 ---
 
 ### Keyboard Shortcuts and Other News

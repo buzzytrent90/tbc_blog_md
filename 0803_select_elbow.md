@@ -1,11 +1,27 @@
 ---
-post_number: "0803"
-title: "Elbow Fitting Selection and Dimensioning"
-slug: "select_elbow"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'selection', 'transactions']
-source_file: "0803_select_elbow.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0803_select_elbow.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.624162'
+original_url: https://thebuildingcoder.typepad.com/blog/0803_select_elbow.html
+post_number: 0803
+reading_time_minutes: 6
+series: general
+slug: select_elbow
+source_file: 0803_select_elbow.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- selection
+- transactions
+title: Elbow Fitting Selection and Dimensioning
+word_count: 1227
 ---
 
 ### Elbow Fitting Selection and Dimensioning

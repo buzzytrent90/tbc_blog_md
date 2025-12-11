@@ -1,11 +1,31 @@
 ---
-post_number: "1133"
-title: "Profiling Revit Add-ins and RoomEditorApp Enhancements"
-slug: "glowcode_profiling"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1133_glowcode_profiling.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1133_glowcode_profiling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.366325'
+original_url: https://thebuildingcoder.typepad.com/blog/1133_glowcode_profiling.html
+post_number: '1133'
+reading_time_minutes: 11
+series: general
+slug: glowcode_profiling
+source_file: 1133_glowcode_profiling.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Profiling Revit Add-ins and RoomEditorApp Enhancements
+word_count: 2252
 ---
 
 ### Profiling Revit Add-ins and RoomEditorApp Enhancements

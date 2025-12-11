@@ -1,11 +1,21 @@
 ---
-post_number: "1036"
-title: "The Building Coder Samples on GitHub"
-slug: "tbc_samples_github"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "1036_tbc_samples_github.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1036_tbc_samples_github.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.168287'
+original_url: https://thebuildingcoder.typepad.com/blog/1036_tbc_samples_github.html
+post_number: '1036'
+reading_time_minutes: 5
+series: general
+slug: tbc_samples_github
+source_file: 1036_tbc_samples_github.htm
+tags:
+- csharp
+- revit-api
+- windows
+title: The Building Coder Samples on GitHub
+word_count: 1089
 ---
 
 ### The Building Coder Samples on GitHub

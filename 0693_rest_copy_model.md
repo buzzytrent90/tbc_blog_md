@@ -1,11 +1,21 @@
 ---
-post_number: "0693"
-title: "Copy a Model from a Revit Server"
-slug: "rest_copy_model"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'views']
-source_file: "0693_rest_copy_model.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0693_rest_copy_model.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.408772'
+original_url: https://thebuildingcoder.typepad.com/blog/0693_rest_copy_model.html
+post_number: 0693
+reading_time_minutes: 2
+series: general
+slug: rest_copy_model
+source_file: 0693_rest_copy_model.htm
+tags:
+- references
+- revit-api
+- views
+title: Copy a Model from a Revit Server
+word_count: 400
 ---
 
 ### Copy a Model from a Revit Server

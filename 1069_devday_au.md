@@ -1,11 +1,23 @@
 ---
-post_number: "1069"
-title: "DevDay@AU, Chronicle, Extensible Storage Removal with Linked Files, View Depth Override and Sound of Noise"
-slug: "devday_au"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'rooms', 'views']
-source_file: "1069_devday_au.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1069_devday_au.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.236260'
+original_url: https://thebuildingcoder.typepad.com/blog/1069_devday_au.html
+post_number: '1069'
+reading_time_minutes: 9
+series: general
+slug: devday_au
+source_file: 1069_devday_au.htm
+tags:
+- references
+- revit-api
+- rooms
+- views
+title: DevDay@AU, Chronicle, Extensible Storage Removal with Linked Files, View Depth
+  Override and Sound of Noise
+word_count: 1873
 ---
 
 ### DevDay@AU, Chronicle, Extensible Storage Removal with Linked Files, View Depth Override and Sound of Noise

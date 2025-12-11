@@ -1,11 +1,24 @@
 ---
-post_number: "1582"
-title: "Forge View Nuget"
-slug: "forge_view_nuget"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1582_forge_view_nuget.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1582_forge_view_nuget.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: news
+optimization_date: '2025-12-11T11:44:16.336900'
+original_url: https://thebuildingcoder.typepad.com/blog/1582_forge_view_nuget.html
+post_number: '1582'
+reading_time_minutes: 3
+series: views
+slug: forge_view_nuget
+source_file: 1582_forge_view_nuget.md
+tags:
+- elements
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Forge View Nuget
+word_count: 628
 ---
 
 ### Revit 2018.1 NuGet Packages, Rooms and Views in Forge

@@ -1,11 +1,30 @@
 ---
-post_number: "1078"
-title: "DevLab Munich"
-slug: "devlab_muc"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'transactions', 'views', 'walls', 'windows']
-source_file: "1078_devlab_muc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1078_devlab_muc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.260309'
+original_url: https://thebuildingcoder.typepad.com/blog/1078_devlab_muc.html
+post_number: '1078'
+reading_time_minutes: 14
+series: general
+slug: devlab_muc
+source_file: 1078_devlab_muc.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- transactions
+- views
+- walls
+- windows
+title: DevLab Munich
+word_count: 2773
 ---
 
 ### DevLab Munich

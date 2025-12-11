@@ -1,11 +1,22 @@
 ---
-post_number: "0651"
-title: "Revit and AEC API Classes at Autodesk University"
-slug: "au_2011_revit_classes"
-author: "Jeremy Tammik"
-tags: ['geometry', 'references', 'revit-api', 'views']
-source_file: "0651_au_2011_revit_classes.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0651_au_2011_revit_classes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.332603'
+original_url: https://thebuildingcoder.typepad.com/blog/0651_au_2011_revit_classes.html
+post_number: '0651'
+reading_time_minutes: 3
+series: general
+slug: au_2011_revit_classes
+source_file: 0651_au_2011_revit_classes.htm
+tags:
+- geometry
+- references
+- revit-api
+- views
+title: Revit and AEC API Classes at Autodesk University
+word_count: 506
 ---
 
 ### Revit and AEC API Classes at Autodesk University

@@ -1,11 +1,25 @@
 ---
-post_number: "0932"
-title: "Room Editor Project Overview and CouchDB Configuration"
-slug: "room_edit_couchdb_conf"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0932_room_edit_couchdb_conf.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0932_room_edit_couchdb_conf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.923294'
+original_url: https://thebuildingcoder.typepad.com/blog/0932_room_edit_couchdb_conf.html
+post_number: 0932
+reading_time_minutes: 11
+series: general
+slug: room_edit_couchdb_conf
+source_file: 0932_room_edit_couchdb_conf.htm
+tags:
+- csharp
+- family
+- python
+- revit-api
+- rooms
+- schedules
+- views
+title: Room Editor Project Overview and CouchDB Configuration
+word_count: 2246
 ---
 
 ### Room Editor Project Overview and CouchDB Configuration

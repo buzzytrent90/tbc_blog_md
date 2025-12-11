@@ -1,11 +1,27 @@
 ---
-post_number: "0665"
-title: "Retrieving Duct and Pipe Endpoints"
-slug: "retrieve_duct_endpoint"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0665_retrieve_duct_endpoint.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0665_retrieve_duct_endpoint.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.357713'
+original_url: https://thebuildingcoder.typepad.com/blog/0665_retrieve_duct_endpoint.html
+post_number: '0665'
+reading_time_minutes: 3
+series: geometry
+slug: retrieve_duct_endpoint
+source_file: 0665_retrieve_duct_endpoint.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- revit-api
+- transactions
+- views
+- windows
+title: Retrieving Duct and Pipe Endpoints
+word_count: 630
 ---
 
 ### Retrieving Duct and Pipe Endpoints

@@ -1,11 +1,24 @@
 ---
-post_number: "1886"
-title: "Preview Sketch Api"
-slug: "preview_sketch_api"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1886_preview_sketch_api.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1886_preview_sketch_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.965247'
+original_url: https://thebuildingcoder.typepad.com/blog/1886_preview_sketch_api.html
+post_number: '1886'
+reading_time_minutes: 3
+series: views
+slug: preview_sketch_api
+source_file: 1886_preview_sketch_api.md
+tags:
+- elements
+- geometry
+- revit-api
+- sheets
+- views
+- walls
+title: Preview Sketch Api
+word_count: 539
 ---
 
 ### Sketch-Based Creation and Editing API Preview

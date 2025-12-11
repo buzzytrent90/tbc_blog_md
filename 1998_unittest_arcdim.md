@@ -1,11 +1,23 @@
 ---
-post_number: "1998"
-title: "Unittest Arcdim"
-slug: "unittest_arcdim"
-author: "Jeremy Tammik"
-tags: ['geometry', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1998_unittest_arcdim.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1998_unittest_arcdim.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.233505'
+original_url: https://thebuildingcoder.typepad.com/blog/1998_unittest_arcdim.html
+post_number: '1998'
+reading_time_minutes: 8
+series: general
+slug: unittest_arcdim
+source_file: 1998_unittest_arcdim.md
+tags:
+- geometry
+- references
+- revit-api
+- sheets
+- views
+title: Unittest Arcdim
+word_count: 1534
 ---
 
 ### Unit Testing and Arc Dimensioning

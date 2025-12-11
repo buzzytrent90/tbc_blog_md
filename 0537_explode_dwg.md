@@ -1,11 +1,25 @@
 ---
-post_number: "0537"
-title: "Explode a DWG"
-slug: "explode_dwg"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0537_explode_dwg.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0537_explode_dwg.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.126936'
+original_url: https://thebuildingcoder.typepad.com/blog/0537_explode_dwg.html
+post_number: '0537'
+reading_time_minutes: 3
+series: general
+slug: explode_dwg
+source_file: 0537_explode_dwg.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- transactions
+- views
+- windows
+title: Explode a DWG
+word_count: 513
 ---
 
 ### Explode a DWG

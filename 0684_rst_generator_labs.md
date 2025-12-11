@@ -1,11 +1,23 @@
 ---
-post_number: "0684"
-title: "Project Structure Generator on Autodesk Labs"
-slug: "rst_generator_labs"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'views', 'walls']
-source_file: "0684_rst_generator_labs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0684_rst_generator_labs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.390890'
+original_url: https://thebuildingcoder.typepad.com/blog/0684_rst_generator_labs.html
+post_number: 0684
+reading_time_minutes: 2
+series: general
+slug: rst_generator_labs
+source_file: 0684_rst_generator_labs.htm
+tags:
+- elements
+- family
+- revit-api
+- views
+- walls
+title: Project Structure Generator on Autodesk Labs
+word_count: 400
 ---
 
 ### Project Structure Generator on Autodesk Labs

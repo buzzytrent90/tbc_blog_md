@@ -1,11 +1,21 @@
 ---
-post_number: "0043"
-title: "Defining a New Parameter"
-slug: "new_param"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api']
-source_file: "0043_new_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0043_new_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.277765'
+original_url: https://thebuildingcoder.typepad.com/blog/0043_new_param.html
+post_number: '0043'
+reading_time_minutes: 2
+series: general
+slug: new_param
+source_file: 0043_new_param.htm
+tags:
+- elements
+- parameters
+- revit-api
+title: Defining a New Parameter
+word_count: 340
 ---
 
 ### Defining a New Parameter

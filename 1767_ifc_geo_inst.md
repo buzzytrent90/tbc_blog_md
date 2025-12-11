@@ -1,11 +1,26 @@
 ---
-post_number: "1767"
-title: "Ifc Geo Inst"
-slug: "ifc_geo_inst"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'sheets', 'windows']
-source_file: "1767_ifc_geo_inst.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1767_ifc_geo_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.704684'
+original_url: https://thebuildingcoder.typepad.com/blog/1767_ifc_geo_inst.html
+post_number: '1767'
+reading_time_minutes: 5
+series: general
+slug: ifc_geo_inst
+source_file: 1767_ifc_geo_inst.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- sheets
+- windows
+title: Ifc Geo Inst
+word_count: 913
 ---
 
 ### IFC Update, Instance Geometry, Parameters

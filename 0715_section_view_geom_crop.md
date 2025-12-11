@@ -1,11 +1,25 @@
 ---
-post_number: "0715"
-title: "Section View Geometry Not Cropped"
-slug: "section_view_geom_crop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'rooms', 'views']
-source_file: "0715_section_view_geom_crop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0715_section_view_geom_crop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.452262'
+original_url: https://thebuildingcoder.typepad.com/blog/0715_section_view_geom_crop.html
+post_number: '0715'
+reading_time_minutes: 5
+series: views
+slug: section_view_geom_crop
+source_file: 0715_section_view_geom_crop.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- rooms
+- views
+title: Section View Geometry Not Cropped
+word_count: 948
 ---
 
 ### Section View Geometry Not Cropped

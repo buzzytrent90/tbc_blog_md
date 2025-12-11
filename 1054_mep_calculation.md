@@ -1,11 +1,21 @@
 ---
-post_number: "1054"
-title: "User MEP Calculation Sample on GitHub"
-slug: "mep_calculation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api']
-source_file: "1054_mep_calculation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1054_mep_calculation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.206740'
+original_url: https://thebuildingcoder.typepad.com/blog/1054_mep_calculation.html
+post_number: '1054'
+reading_time_minutes: 4
+series: mep
+slug: mep_calculation
+source_file: 1054_mep_calculation.htm
+tags:
+- csharp
+- revit-api
+- mep
+title: User MEP Calculation Sample on GitHub
+word_count: 860
 ---
 
 ### User MEP Calculation Sample on GitHub

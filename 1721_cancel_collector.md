@@ -1,11 +1,23 @@
 ---
-post_number: "1721"
-title: "Cancel Collector"
-slug: "cancel_collector"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'sheets', 'walls']
-source_file: "1721_cancel_collector.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1721_cancel_collector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.604331'
+original_url: https://thebuildingcoder.typepad.com/blog/1721_cancel_collector.html
+post_number: '1721'
+reading_time_minutes: 4
+series: filtering
+slug: cancel_collector
+source_file: 1721_cancel_collector.md
+tags:
+- elements
+- filtering
+- revit-api
+- sheets
+- walls
+title: Cancel Collector
+word_count: 783
 ---
 
 ### Aborting Filtered Element Collection

@@ -1,11 +1,27 @@
 ---
-post_number: "1775"
-title: "Getsimilartypes"
-slug: "getsimilartypes"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1775_getsimilartypes.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1775_getsimilartypes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.720681'
+original_url: https://thebuildingcoder.typepad.com/blog/1775_getsimilartypes.html
+post_number: '1775'
+reading_time_minutes: 5
+series: elements
+slug: getsimilartypes
+source_file: 1775_getsimilartypes.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+title: Getsimilartypes
+word_count: 972
 ---
 
 ### GetSimilarTypes, SnappingService and Title Labels

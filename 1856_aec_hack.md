@@ -1,11 +1,21 @@
 ---
-post_number: "1856"
-title: "Aec Hack"
-slug: "aec_hack"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "1856_aec_hack.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1856_aec_hack.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.902310'
+original_url: https://thebuildingcoder.typepad.com/blog/1856_aec_hack.html
+post_number: '1856'
+reading_time_minutes: 3
+series: general
+slug: aec_hack
+source_file: 1856_aec_hack.md
+tags:
+- revit-api
+- sheets
+- views
+title: Aec Hack
+word_count: 526
 ---
 
 ### IFC 21.1 and AEC Hackathon Presentations

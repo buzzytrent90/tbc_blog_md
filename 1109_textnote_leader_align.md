@@ -1,11 +1,23 @@
 ---
-post_number: "1109"
-title: "TextNote Leader Alignment"
-slug: "textnote_leader_align"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1109_textnote_leader_align.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1109_textnote_leader_align.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.322175'
+original_url: https://thebuildingcoder.typepad.com/blog/1109_textnote_leader_align.html
+post_number: '1109'
+reading_time_minutes: 3
+series: general
+slug: textnote_leader_align
+source_file: 1109_textnote_leader_align.htm
+tags:
+- csharp
+- revit-api
+- selection
+- transactions
+- views
+title: TextNote Leader Alignment
+word_count: 570
 ---
 
 ### TextNote Leader Alignment

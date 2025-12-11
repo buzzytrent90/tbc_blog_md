@@ -1,11 +1,22 @@
 ---
-post_number: "1028"
-title: "Family Instance Placement"
-slug: "newfamilyinstance"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'views']
-source_file: "1028_newfamilyinstance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1028_newfamilyinstance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.153945'
+original_url: https://thebuildingcoder.typepad.com/blog/1028_newfamilyinstance.html
+post_number: '1028'
+reading_time_minutes: 2
+series: elements
+slug: newfamilyinstance
+source_file: 1028_newfamilyinstance.htm
+tags:
+- family
+- revit-api
+- views
+- elements
+title: Family Instance Placement
+word_count: 465
 ---
 
 ### Family Instance Placement

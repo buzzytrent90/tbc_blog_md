@@ -1,11 +1,27 @@
 ---
-post_number: "1117"
-title: "Using Generic Collections with Filters and Forms"
-slug: "generic_select_form"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'rooms', 'selection', 'transactions', 'views', 'windows']
-source_file: "1117_generic_select_form.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1117_generic_select_form.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.336292'
+original_url: https://thebuildingcoder.typepad.com/blog/1117_generic_select_form.html
+post_number: '1117'
+reading_time_minutes: 6
+series: general
+slug: generic_select_form
+source_file: 1117_generic_select_form.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+- windows
+title: Using Generic Collections with Filters and Forms
+word_count: 1161
 ---
 
 ### Using Generic Collections with Filters and Forms

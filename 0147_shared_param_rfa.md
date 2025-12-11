@@ -1,11 +1,22 @@
 ---
-post_number: "0147"
-title: "Adding a Shared Parameter to an RFA File"
-slug: "shared_param_rfa"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api', 'windows']
-source_file: "0147_shared_param_rfa.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0147_shared_param_rfa.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.442594'
+original_url: https://thebuildingcoder.typepad.com/blog/0147_shared_param_rfa.html
+post_number: '0147'
+reading_time_minutes: 2
+series: family
+slug: shared_param_rfa
+source_file: 0147_shared_param_rfa.htm
+tags:
+- family
+- parameters
+- revit-api
+- windows
+title: Adding a Shared Parameter to an RFA File
+word_count: 499
 ---
 
 ### Adding a Shared Parameter to an RFA File

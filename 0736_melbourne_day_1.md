@@ -1,11 +1,31 @@
 ---
-post_number: "0736"
-title: "Melbourne Day One"
-slug: "melbourne_day_1"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'transactions', 'walls']
-source_file: "0736_melbourne_day_1.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0736_melbourne_day_1.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.486379'
+original_url: https://thebuildingcoder.typepad.com/blog/0736_melbourne_day_1.html
+post_number: '0736'
+reading_time_minutes: 7
+series: general
+slug: melbourne_day_1
+source_file: 0736_melbourne_day_1.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- walls
+title: Melbourne Day One
+word_count: 1372
 ---
 
 ### Melbourne Day One

@@ -1,11 +1,30 @@
 ---
-post_number: "1393"
-title: "Idling Dmu Doc Change"
-slug: "idling_dmu_doc_change"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1393_idling_dmu_doc_change.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1393_idling_dmu_doc_change.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.926512'
+original_url: https://thebuildingcoder.typepad.com/blog/1393_idling_dmu_doc_change.html
+post_number: '1393'
+reading_time_minutes: 10
+series: transactions
+slug: idling_dmu_doc_change
+source_file: 1393_idling_dmu_doc_change.md
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Idling Dmu Doc Change
+word_count: 1974
 ---
 
 ### Idling, DMU, DocumentChanged and Need for Regen

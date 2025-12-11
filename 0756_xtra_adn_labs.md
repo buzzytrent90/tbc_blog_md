@@ -1,11 +1,25 @@
 ---
-post_number: "0756"
-title: "Xtra ADN Revit 2013 API Training Labs"
-slug: "xtra_adn_labs"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'selection', 'walls']
-source_file: "0756_xtra_adn_labs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0756_xtra_adn_labs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.528802'
+original_url: https://thebuildingcoder.typepad.com/blog/0756_xtra_adn_labs.html
+post_number: '0756'
+reading_time_minutes: 4
+series: general
+slug: xtra_adn_labs
+source_file: 0756_xtra_adn_labs.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- selection
+- walls
+title: Xtra ADN Revit 2013 API Training Labs
+word_count: 886
 ---
 
 ### Xtra ADN Revit 2013 API Training Labs

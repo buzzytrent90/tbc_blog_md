@@ -1,11 +1,22 @@
 ---
-post_number: "0552"
-title: "Application Versus Command Event"
-slug: "app_versus_cmd_event"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'levels', 'revit-api']
-source_file: "0552_app_versus_cmd_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0552_app_versus_cmd_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.157940'
+original_url: https://thebuildingcoder.typepad.com/blog/0552_app_versus_cmd_event.html
+post_number: '0552'
+reading_time_minutes: 2
+series: general
+slug: app_versus_cmd_event
+source_file: 0552_app_versus_cmd_event.htm
+tags:
+- csharp
+- family
+- levels
+- revit-api
+title: Application Versus Command Event
+word_count: 336
 ---
 
 ### Application Versus Command Event

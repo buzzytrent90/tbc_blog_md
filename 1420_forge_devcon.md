@@ -1,11 +1,24 @@
 ---
-post_number: "1420"
-title: "Forge Devcon"
-slug: "forge_devcon"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1420_forge_devcon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1420_forge_devcon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.978431'
+original_url: https://thebuildingcoder.typepad.com/blog/1420_forge_devcon.html
+post_number: '1420'
+reading_time_minutes: 9
+series: general
+slug: forge_devcon
+source_file: 1420_forge_devcon.md
+tags:
+- csharp
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Forge Devcon
+word_count: 1750
 ---
 
 ### Forge DevCon, Spring, Impermanence, BIM Cloud

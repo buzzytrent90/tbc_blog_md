@@ -1,11 +1,24 @@
 ---
-post_number: "0465"
-title: "Access Deleted Element"
-slug: "access_deleted_element"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'transactions']
-source_file: "0465_access_deleted_element.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0465_access_deleted_element.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.995076'
+original_url: https://thebuildingcoder.typepad.com/blog/0465_access_deleted_element.html
+post_number: '0465'
+reading_time_minutes: 3
+series: elements
+slug: access_deleted_element
+source_file: 0465_access_deleted_element.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- transactions
+title: Access Deleted Element
+word_count: 668
 ---
 
 ### Access Deleted Element

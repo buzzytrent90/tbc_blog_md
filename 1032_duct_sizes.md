@@ -1,11 +1,22 @@
 ---
-post_number: "1032"
-title: "Programmatic Access to Duct Sizes"
-slug: "duct_sizes"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "1032_duct_sizes.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1032_duct_sizes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.160943'
+original_url: https://thebuildingcoder.typepad.com/blog/1032_duct_sizes.html
+post_number: '1032'
+reading_time_minutes: 2
+series: mep
+slug: duct_sizes
+source_file: 1032_duct_sizes.htm
+tags:
+- csharp
+- revit-api
+- windows
+- mep
+title: Programmatic Access to Duct Sizes
+word_count: 400
 ---
 
 ### Programmatic Access to Duct Sizes

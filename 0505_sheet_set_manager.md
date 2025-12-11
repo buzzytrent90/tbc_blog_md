@@ -1,11 +1,23 @@
 ---
-post_number: "0505"
-title: "Sheet Manager and Copy Parameters"
-slug: "sheet_set_manager"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'schedules', 'sheets']
-source_file: "0505_sheet_set_manager.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0505_sheet_set_manager.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: news
+optimization_date: '2025-12-11T11:44:14.068296'
+original_url: https://thebuildingcoder.typepad.com/blog/0505_sheet_set_manager.html
+post_number: '0505'
+reading_time_minutes: 3
+series: views
+slug: sheet_set_manager
+source_file: 0505_sheet_set_manager.htm
+tags:
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+title: Sheet Manager and Copy Parameters
+word_count: 554
 ---
 
 ### Sheet Manager and Copy Parameters

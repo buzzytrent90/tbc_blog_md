@@ -1,11 +1,28 @@
 ---
-post_number: "1849"
-title: "Change Elem Color"
-slug: "change_elem_color"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1849_change_elem_color.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1849_change_elem_color.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.886083'
+original_url: https://thebuildingcoder.typepad.com/blog/1849_change_elem_color.html
+post_number: '1849'
+reading_time_minutes: 6
+series: transactions
+slug: change_elem_color
+source_file: 1849_change_elem_color.md
+tags:
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Change Elem Color
+word_count: 1208
 ---
 
 ### Changing Element Colour and Material

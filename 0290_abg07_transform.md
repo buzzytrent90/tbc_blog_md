@@ -1,11 +1,26 @@
 ---
-post_number: "0290"
-title: "Transformations"
-slug: "abg07_transform"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'references', 'revit-api', 'walls', 'windows']
-source_file: "0290_abg07_transform.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0290_abg07_transform.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.688317'
+original_url: https://thebuildingcoder.typepad.com/blog/0290_abg07_transform.html
+post_number: 0290
+reading_time_minutes: 4
+series: geometry
+slug: abg07_transform
+source_file: 0290_abg07_transform.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- references
+- revit-api
+- walls
+- windows
+title: Transformations
+word_count: 859
 ---
 
 ### Transformations

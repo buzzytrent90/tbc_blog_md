@@ -1,11 +1,27 @@
 ---
-post_number: "0843"
-title: "Sweep PickPath Tolerance Criteria"
-slug: "sweep_path_tolerance"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'python', 'references', 'revit-api', 'schedules', 'walls']
-source_file: "0843_sweep_path_tolerance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0843_sweep_path_tolerance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.716865'
+original_url: https://thebuildingcoder.typepad.com/blog/0843_sweep_path_tolerance.html
+post_number: 0843
+reading_time_minutes: 10
+series: general
+slug: sweep_path_tolerance
+source_file: 0843_sweep_path_tolerance.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- python
+- references
+- revit-api
+- schedules
+- walls
+title: Sweep PickPath Tolerance Criteria
+word_count: 2075
 ---
 
 ### Sweep PickPath Tolerance Criteria

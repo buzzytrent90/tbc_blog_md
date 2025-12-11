@@ -1,11 +1,25 @@
 ---
-post_number: "0161"
-title: "Volume Computation Enable"
-slug: "volumecomputationenable"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'rooms', 'selection', 'windows']
-source_file: "0161_volumecomputationenable.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0161_volumecomputationenable.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.464024'
+original_url: https://thebuildingcoder.typepad.com/blog/0161_volumecomputationenable.html
+post_number: '0161'
+reading_time_minutes: 2
+series: general
+slug: volumecomputationenable
+source_file: 0161_volumecomputationenable.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- rooms
+- selection
+- windows
+title: Volume Computation Enable
+word_count: 453
 ---
 
 ### Volume Computation Enable

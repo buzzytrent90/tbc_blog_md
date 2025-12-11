@@ -1,11 +1,24 @@
 ---
-post_number: "0137"
-title: "VB Samples and Other Questions"
-slug: "vb_samples"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'vbnet', 'views', 'windows']
-source_file: "0137_vb_samples.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0137_vb_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.423289'
+original_url: https://thebuildingcoder.typepad.com/blog/0137_vb_samples.html
+post_number: '0137'
+reading_time_minutes: 6
+series: general
+slug: vb_samples
+source_file: 0137_vb_samples.htm
+tags:
+- csharp
+- elements
+- revit-api
+- vbnet
+- views
+- windows
+title: VB Samples and Other Questions
+word_count: 1210
 ---
 
 ### VB Samples and Other Questions

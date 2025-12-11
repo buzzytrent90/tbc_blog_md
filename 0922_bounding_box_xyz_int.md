@@ -1,11 +1,26 @@
 ---
-post_number: "0922"
-title: "Curve Following Face and Bounding Box Implementation"
-slug: "bounding_box_xyz_int"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'python', 'revit-api', 'schedules', 'views', 'windows']
-source_file: "0922_bounding_box_xyz_int.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0922_bounding_box_xyz_int.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.900166'
+original_url: https://thebuildingcoder.typepad.com/blog/0922_bounding_box_xyz_int.html
+post_number: 0922
+reading_time_minutes: 12
+series: geometry
+slug: bounding_box_xyz_int
+source_file: 0922_bounding_box_xyz_int.htm
+tags:
+- csharp
+- family
+- geometry
+- python
+- revit-api
+- schedules
+- views
+- windows
+title: Curve Following Face and Bounding Box Implementation
+word_count: 2406
 ---
 
 ### Curve Following Face and Bounding Box Implementation

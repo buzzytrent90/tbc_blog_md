@@ -1,11 +1,29 @@
 ---
-post_number: "1057"
-title: "Revit Database Exploration Tools and the Python Shell"
-slug: "db_explor_python_sh"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1057_db_explor_python_sh.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1057_db_explor_python_sh.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.211671'
+original_url: https://thebuildingcoder.typepad.com/blog/1057_db_explor_python_sh.html
+post_number: '1057'
+reading_time_minutes: 10
+series: general
+slug: db_explor_python_sh
+source_file: 1057_db_explor_python_sh.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Revit Database Exploration Tools and the Python Shell
+word_count: 1941
 ---
 
 ### Revit Database Exploration Tools and the Python Shell

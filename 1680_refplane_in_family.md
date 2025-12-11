@@ -1,11 +1,25 @@
 ---
-post_number: "1680"
-title: "Refplane In Family"
-slug: "refplane_in_family"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1680_refplane_in_family.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1680_refplane_in_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.511703'
+original_url: https://thebuildingcoder.typepad.com/blog/1680_refplane_in_family.html
+post_number: '1680'
+reading_time_minutes: 4
+series: family
+slug: refplane_in_family
+source_file: 1680_refplane_in_family.md
+tags:
+- family
+- geometry
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Refplane In Family
+word_count: 809
 ---
 
 ### Icon Access and Reference Plane in Family Instance

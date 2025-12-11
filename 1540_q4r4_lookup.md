@@ -1,11 +1,25 @@
 ---
-post_number: "1540"
-title: "Q4r4 Lookup"
-slug: "q4r4_lookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets']
-source_file: "1540_q4r4_lookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1540_q4r4_lookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.248928'
+original_url: https://thebuildingcoder.typepad.com/blog/1540_q4r4_lookup.html
+post_number: '1540'
+reading_time_minutes: 6
+series: general
+slug: q4r4_lookup
+source_file: 1540_q4r4_lookup.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+title: Q4r4 Lookup
+word_count: 1214
 ---
 
 ### Elasticsearch-Head, RevitLookup and Area Schemes

@@ -1,11 +1,24 @@
 ---
-post_number: "1246"
-title: "WebGL Goes Mobile and Sorted Level Retrieval"
-slug: "webgl_sorted_level"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'views']
-source_file: "1246_webgl_sorted_level.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1246_webgl_sorted_level.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.599280'
+original_url: https://thebuildingcoder.typepad.com/blog/1246_webgl_sorted_level.html
+post_number: '1246'
+reading_time_minutes: 4
+series: general
+slug: webgl_sorted_level
+source_file: 1246_webgl_sorted_level.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- views
+title: WebGL Goes Mobile and Sorted Level Retrieval
+word_count: 775
 ---
 
 ### WebGL Goes Mobile and Sorted Level Retrieval

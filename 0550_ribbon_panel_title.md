@@ -1,11 +1,21 @@
 ---
-post_number: "0550"
-title: "Ribbon Panel Title Conflict"
-slug: "ribbon_panel_title"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api']
-source_file: "0550_ribbon_panel_title.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0550_ribbon_panel_title.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.153914'
+original_url: https://thebuildingcoder.typepad.com/blog/0550_ribbon_panel_title.html
+post_number: '0550'
+reading_time_minutes: 3
+series: general
+slug: ribbon_panel_title
+source_file: 0550_ribbon_panel_title.htm
+tags:
+- csharp
+- elements
+- revit-api
+title: Ribbon Panel Title Conflict
+word_count: 600
 ---
 
 ### Ribbon Panel Title Conflict

@@ -1,11 +1,31 @@
 ---
-post_number: "1656"
-title: "Exterior Walls"
-slug: "exterior_walls"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1656_exterior_walls.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1656_exterior_walls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.474081'
+original_url: https://thebuildingcoder.typepad.com/blog/1656_exterior_walls.html
+post_number: '1656'
+reading_time_minutes: 11
+series: general
+slug: exterior_walls
+source_file: 1656_exterior_walls.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Exterior Walls
+word_count: 2275
 ---
 
 ### FilterRule Use and Retrieving Exterior Walls

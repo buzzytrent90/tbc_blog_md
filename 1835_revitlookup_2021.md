@@ -1,11 +1,21 @@
 ---
-post_number: "1835"
-title: "Revitlookup 2021"
-slug: "revitlookup_2021"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets']
-source_file: "1835_revitlookup_2021.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1835_revitlookup_2021.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.845120'
+original_url: https://thebuildingcoder.typepad.com/blog/1835_revitlookup_2021.html
+post_number: '1835'
+reading_time_minutes: 4
+series: general
+slug: revitlookup_2021
+source_file: 1835_revitlookup_2021.md
+tags:
+- references
+- revit-api
+- sheets
+title: Revitlookup 2021
+word_count: 764
 ---
 
 ### RevitLookup 2021 with Multi-Release Support

@@ -1,11 +1,23 @@
 ---
-post_number: "1334"
-title: "Dynamo, Centroid & Volume Calculation Migration Blitz"
-slug: "centroid_migration"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'references', 'revit-api', 'views']
-source_file: "1334_centroid_migration.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1334_centroid_migration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.792950'
+original_url: https://thebuildingcoder.typepad.com/blog/1334_centroid_migration.html
+post_number: '1334'
+reading_time_minutes: 5
+series: general
+slug: centroid_migration
+source_file: 1334_centroid_migration.htm
+tags:
+- elements
+- family
+- references
+- revit-api
+- views
+title: Dynamo, Centroid & Volume Calculation Migration Blitz
+word_count: 967
 ---
 
 ### Dynamo, Centroid & Volume Calculation Migration Blitz

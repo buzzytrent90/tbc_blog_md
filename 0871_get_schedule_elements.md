@@ -1,11 +1,23 @@
 ---
-post_number: "0871"
-title: "Accessing all Elements in a Schedule"
-slug: "get_schedule_elements"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'schedules', 'views']
-source_file: "0871_get_schedule_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0871_get_schedule_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.768447'
+original_url: https://thebuildingcoder.typepad.com/blog/0871_get_schedule_elements.html
+post_number: 0871
+reading_time_minutes: 1
+series: elements
+slug: get_schedule_elements
+source_file: 0871_get_schedule_elements.htm
+tags:
+- elements
+- filtering
+- revit-api
+- schedules
+- views
+title: Accessing all Elements in a Schedule
+word_count: 250
 ---
 
 ### Accessing all Elements in a Schedule

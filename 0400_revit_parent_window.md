@@ -1,11 +1,26 @@
 ---
-post_number: "0400"
-title: "Revit Parent Window"
-slug: "revit_parent_window"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'schedules', 'views', 'windows']
-source_file: "0400_revit_parent_window.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0400_revit_parent_window.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.886689'
+original_url: https://thebuildingcoder.typepad.com/blog/0400_revit_parent_window.html
+post_number: '0400'
+reading_time_minutes: 5
+series: general
+slug: revit_parent_window
+source_file: 0400_revit_parent_window.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- schedules
+- views
+- windows
+title: Revit Parent Window
+word_count: 914
 ---
 
 ### Revit Parent Window

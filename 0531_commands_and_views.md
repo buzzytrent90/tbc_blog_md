@@ -1,11 +1,28 @@
 ---
-post_number: "0531"
-title: "Command and Conquer When Switching Views"
-slug: "commands_and_views"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'revit-api', 'schedules', 'transactions', 'views', 'windows']
-source_file: "0531_commands_and_views.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0531_commands_and_views.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.115363'
+original_url: https://thebuildingcoder.typepad.com/blog/0531_commands_and_views.html
+post_number: '0531'
+reading_time_minutes: 4
+series: views
+slug: commands_and_views
+source_file: 0531_commands_and_views.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- schedules
+- transactions
+- views
+- windows
+title: Command and Conquer When Switching Views
+word_count: 896
 ---
 
 ### Command and Conquer When Switching Views

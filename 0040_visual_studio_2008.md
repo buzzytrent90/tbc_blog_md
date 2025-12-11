@@ -1,11 +1,21 @@
 ---
-post_number: "0040"
-title: "Visual Studio 2008"
-slug: "visual_studio_2008"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api']
-source_file: "0040_visual_studio_2008.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0040_visual_studio_2008.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.273806'
+original_url: https://thebuildingcoder.typepad.com/blog/0040_visual_studio_2008.html
+post_number: '0040'
+reading_time_minutes: 1
+series: general
+slug: visual_studio_2008
+source_file: 0040_visual_studio_2008.htm
+tags:
+- csharp
+- levels
+- revit-api
+title: Visual Studio 2008
+word_count: 169
 ---
 
 ### Visual Studio 2008

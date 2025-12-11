@@ -1,11 +1,26 @@
 ---
-post_number: "1560"
-title: "2018 Sdk Samples"
-slug: "2018_sdk_samples"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1560_2018_sdk_samples.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1560_2018_sdk_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.288767'
+original_url: https://thebuildingcoder.typepad.com/blog/1560_2018_sdk_samples.html
+post_number: '1560'
+reading_time_minutes: 4
+series: general
+slug: 2018_sdk_samples
+source_file: 1560_2018_sdk_samples.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- sheets
+- views
+title: 2018 Sdk Samples
+word_count: 896
 ---
 
 ### Revit 2017 and 2018 SDK Samples

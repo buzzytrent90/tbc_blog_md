@@ -1,11 +1,28 @@
 ---
-post_number: "0386"
-title: "MEP System Creation"
-slug: "mep_system_creation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'windows']
-source_file: "0386_mep_system_creation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0386_mep_system_creation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.860645'
+original_url: https://thebuildingcoder.typepad.com/blog/0386_mep_system_creation.html
+post_number: 0386
+reading_time_minutes: 6
+series: mep
+slug: mep_system_creation
+source_file: 0386_mep_system_creation.htm
+tags:
+- elements
+- family
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- windows
+- mep
+title: MEP System Creation
+word_count: 1282
 ---
 
 ### MEP System Creation

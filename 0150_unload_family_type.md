@@ -1,11 +1,23 @@
 ---
-post_number: "0150"
-title: "Unload Family Type"
-slug: "unload_family_type"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api']
-source_file: "0150_unload_family_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0150_unload_family_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.448115'
+original_url: https://thebuildingcoder.typepad.com/blog/0150_unload_family_type.html
+post_number: '0150'
+reading_time_minutes: 1
+series: elements
+slug: unload_family_type
+source_file: 0150_unload_family_type.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+title: Unload Family Type
+word_count: 243
 ---
 
 ### Unload Family Type

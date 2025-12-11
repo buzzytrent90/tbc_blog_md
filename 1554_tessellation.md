@@ -1,11 +1,25 @@
 ---
-post_number: "1554"
-title: "Tessellation"
-slug: "tessellation"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'levels', 'revit-api', 'rooms', 'sheets', 'walls']
-source_file: "1554_tessellation.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1554_tessellation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.278809'
+original_url: https://thebuildingcoder.typepad.com/blog/1554_tessellation.html
+post_number: '1554'
+reading_time_minutes: 4
+series: general
+slug: tessellation
+source_file: 1554_tessellation.md
+tags:
+- family
+- geometry
+- levels
+- revit-api
+- rooms
+- sheets
+- walls
+title: Tessellation
+word_count: 738
 ---
 
 ### Wall and Opening Tessellation

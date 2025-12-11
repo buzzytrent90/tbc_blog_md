@@ -1,11 +1,22 @@
 ---
-post_number: "0309"
-title: "NewEllipse Parameters"
-slug: "newellipse"
-author: "Jeremy Tammik"
-tags: ['geometry', 'parameters', 'python', 'revit-api']
-source_file: "0309_newellipse.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0309_newellipse.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.721264'
+original_url: https://thebuildingcoder.typepad.com/blog/0309_newellipse.html
+post_number: 0309
+reading_time_minutes: 2
+series: general
+slug: newellipse
+source_file: 0309_newellipse.htm
+tags:
+- geometry
+- parameters
+- python
+- revit-api
+title: NewEllipse Parameters
+word_count: 473
 ---
 
 ### NewEllipse Parameters

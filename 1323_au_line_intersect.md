@@ -1,11 +1,22 @@
 ---
-post_number: "1323"
-title: "Connect Desktop and Cloud & Intersecting Lines or Grid Segments"
-slug: "au_line_intersect"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'revit-api', 'views']
-source_file: "1323_au_line_intersect.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1323_au_line_intersect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.770883'
+original_url: https://thebuildingcoder.typepad.com/blog/1323_au_line_intersect.html
+post_number: '1323'
+reading_time_minutes: 5
+series: general
+slug: au_line_intersect
+source_file: 1323_au_line_intersect.htm
+tags:
+- csharp
+- geometry
+- revit-api
+- views
+title: Connect Desktop and Cloud & Intersecting Lines or Grid Segments
+word_count: 914
 ---
 
 ### Connect Desktop and Cloud & Intersecting Lines or Grid Segments

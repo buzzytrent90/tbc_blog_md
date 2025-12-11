@@ -1,11 +1,27 @@
 ---
-post_number: "1392"
-title: "Model Elements"
-slug: "model_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1392_model_elements.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1392_model_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.924739'
+original_url: https://thebuildingcoder.typepad.com/blog/1392_model_elements.html
+post_number: '1392'
+reading_time_minutes: 4
+series: elements
+slug: model_elements
+source_file: 1392_model_elements.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- sheets
+- views
+title: Model Elements
+word_count: 700
 ---
 
 ### Retrieving All Model Elements

@@ -1,11 +1,28 @@
 ---
-post_number: "0804"
-title: "UR1 and Line Origin versus Start and End Point"
-slug: "ur1_line_origin_end"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0804_ur1_line_origin_end.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0804_ur1_line_origin_end.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.626139'
+original_url: https://thebuildingcoder.typepad.com/blog/0804_ur1_line_origin_end.html
+post_number: 0804
+reading_time_minutes: 4
+series: general
+slug: ur1_line_origin_end
+source_file: 0804_ur1_line_origin_end.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- walls
+title: UR1 and Line Origin versus Start and End Point
+word_count: 865
 ---
 
 ### UR1 and Line Origin versus Start and End Point

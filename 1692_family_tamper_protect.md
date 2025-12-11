@@ -1,11 +1,23 @@
 ---
-post_number: "1692"
-title: "Family Tamper Protect"
-slug: "family_tamper_protect"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'references', 'revit-api', 'sheets']
-source_file: "1692_family_tamper_protect.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1692_family_tamper_protect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.533136'
+original_url: https://thebuildingcoder.typepad.com/blog/1692_family_tamper_protect.html
+post_number: '1692'
+reading_time_minutes: 4
+series: family
+slug: family_tamper_protect
+source_file: 1692_family_tamper_protect.md
+tags:
+- family
+- geometry
+- references
+- revit-api
+- sheets
+title: Family Tamper Protect
+word_count: 818
 ---
 
 ### Protecting a Family from Tampering

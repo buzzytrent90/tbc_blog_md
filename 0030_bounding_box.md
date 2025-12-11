@@ -1,11 +1,28 @@
 ---
-post_number: "0030"
-title: "Element Bounding Box"
-slug: "bounding_box"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0030_bounding_box.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0030_bounding_box.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.259092'
+original_url: https://thebuildingcoder.typepad.com/blog/0030_bounding_box.html
+post_number: '0030'
+reading_time_minutes: 5
+series: geometry
+slug: bounding_box
+source_file: 0030_bounding_box.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- views
+- walls
+- windows
+title: Element Bounding Box
+word_count: 902
 ---
 
 ### Element Bounding Box

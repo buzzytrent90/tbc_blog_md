@@ -1,11 +1,25 @@
 ---
-post_number: "1167"
-title: "RoomEditorApp PluralString and Free Educational Software"
-slug: "roomeditorapp_plural"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'rooms', 'views']
-source_file: "1167_roomeditorapp_plural.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1167_roomeditorapp_plural.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.438600'
+original_url: https://thebuildingcoder.typepad.com/blog/1167_roomeditorapp_plural.html
+post_number: '1167'
+reading_time_minutes: 5
+series: general
+slug: roomeditorapp_plural
+source_file: 1167_roomeditorapp_plural.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- rooms
+- views
+title: RoomEditorApp PluralString and Free Educational Software
+word_count: 955
 ---
 
 ### RoomEditorApp PluralString and Free Educational Software

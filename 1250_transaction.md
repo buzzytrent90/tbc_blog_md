@@ -1,11 +1,25 @@
 ---
-post_number: "1250"
-title: "Handling Transaction Status and Errors"
-slug: "transaction"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'python', 'revit-api', 'transactions', 'views']
-source_file: "1250_transaction.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1250_transaction.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.605801'
+original_url: https://thebuildingcoder.typepad.com/blog/1250_transaction.html
+post_number: '1250'
+reading_time_minutes: 15
+series: transactions
+slug: transaction
+source_file: 1250_transaction.htm
+tags:
+- csharp
+- elements
+- levels
+- python
+- revit-api
+- transactions
+- views
+title: Handling Transaction Status and Errors
+word_count: 3083
 ---
 
 ### Handling Transaction Status and Errors

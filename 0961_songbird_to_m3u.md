@@ -1,11 +1,24 @@
 ---
-post_number: "0961"
-title: "Super Insane MP3 and Songbird Playlist Exporter"
-slug: "songbird_to_m3u"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'python', 'revit-api', 'views']
-source_file: "0961_songbird_to_m3u.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0961_songbird_to_m3u.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.997581'
+original_url: https://thebuildingcoder.typepad.com/blog/0961_songbird_to_m3u.html
+post_number: 0961
+reading_time_minutes: 14
+series: transactions
+slug: songbird_to_m3u
+source_file: 0961_songbird_to_m3u.htm
+tags:
+- elements
+- levels
+- python
+- revit-api
+- views
+- transactions
+title: Super Insane MP3 and Songbird Playlist Exporter
+word_count: 2779
 ---
 
 ﻿

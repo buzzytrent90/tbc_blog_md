@@ -1,11 +1,29 @@
 ---
-post_number: "1800"
-title: "Helix 3d Viewer"
-slug: "helix_3d_viewer"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1800_helix_3d_viewer.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1800_helix_3d_viewer.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.772172'
+original_url: https://thebuildingcoder.typepad.com/blog/1800_helix_3d_viewer.html
+post_number: '1800'
+reading_time_minutes: 11
+series: views
+slug: helix_3d_viewer
+source_file: 1800_helix_3d_viewer.md
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Helix 3d Viewer
+word_count: 2144
 ---
 
 ### Integrating the Helix 3D Viewer with a WPF Add-In

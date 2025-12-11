@@ -1,11 +1,24 @@
 ---
-post_number: "1021"
-title: "MultiReferenceAnnotation Example"
-slug: "multi_reference_annot"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'transactions', 'views']
-source_file: "1021_multi_reference_annot.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1021_multi_reference_annot.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.138442'
+original_url: https://thebuildingcoder.typepad.com/blog/1021_multi_reference_annot.html
+post_number: '1021'
+reading_time_minutes: 2
+series: general
+slug: multi_reference_annot
+source_file: 1021_multi_reference_annot.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- transactions
+- views
+title: MultiReferenceAnnotation Example
+word_count: 482
 ---
 
 ### MultiReferenceAnnotation Example

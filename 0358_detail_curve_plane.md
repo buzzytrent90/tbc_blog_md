@@ -1,11 +1,23 @@
 ---
-post_number: "0358"
-title: "Detail Curve Must Indeed lie in Plane"
-slug: "detail_curve_plane"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'views']
-source_file: "0358_detail_curve_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0358_detail_curve_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.805544'
+original_url: https://thebuildingcoder.typepad.com/blog/0358_detail_curve_plane.html
+post_number: 0358
+reading_time_minutes: 4
+series: geometry
+slug: detail_curve_plane
+source_file: 0358_detail_curve_plane.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- views
+title: Detail Curve Must Indeed lie in Plane
+word_count: 896
 ---
 
 ### Detail Curve Must Indeed lie in Plane

@@ -1,11 +1,22 @@
 ---
-post_number: "0271"
-title: "Revit Python Shell"
-slug: "revit_python_shell"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'revit-api', 'windows']
-source_file: "0271_revit_python_shell.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0271_revit_python_shell.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.655566'
+original_url: https://thebuildingcoder.typepad.com/blog/0271_revit_python_shell.html
+post_number: '0271'
+reading_time_minutes: 2
+series: general
+slug: revit_python_shell
+source_file: 0271_revit_python_shell.htm
+tags:
+- elements
+- python
+- revit-api
+- windows
+title: Revit Python Shell
+word_count: 447
 ---
 
 ### Revit Python Shell

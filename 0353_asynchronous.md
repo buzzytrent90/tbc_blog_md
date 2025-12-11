@@ -1,11 +1,24 @@
 ---
-post_number: "0353"
-title: "Asynchronous API Calls and Idling"
-slug: "asynchronous"
-author: "Jeremy Tammik"
-tags: ['levels', 'parameters', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0353_asynchronous.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0353_asynchronous.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.795003'
+original_url: https://thebuildingcoder.typepad.com/blog/0353_asynchronous.html
+post_number: '0353'
+reading_time_minutes: 7
+series: general
+slug: asynchronous
+source_file: 0353_asynchronous.htm
+tags:
+- levels
+- parameters
+- revit-api
+- transactions
+- views
+- walls
+title: Asynchronous API Calls and Idling
+word_count: 1407
 ---
 
 ### Asynchronous API Calls and Idling

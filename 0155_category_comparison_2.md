@@ -1,11 +1,27 @@
 ---
-post_number: "0155"
-title: "Category Comparison and Model Elements Revisited"
-slug: "category_comparison_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'revit-api', 'selection', 'views']
-source_file: "0155_category_comparison_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0155_category_comparison_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.454814'
+original_url: https://thebuildingcoder.typepad.com/blog/0155_category_comparison_2.html
+post_number: '0155'
+reading_time_minutes: 4
+series: elements
+slug: category_comparison_2
+source_file: 0155_category_comparison_2.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- revit-api
+- selection
+- views
+title: Category Comparison and Model Elements Revisited
+word_count: 896
 ---
 
 ### Category Comparison and Model Elements Revisited

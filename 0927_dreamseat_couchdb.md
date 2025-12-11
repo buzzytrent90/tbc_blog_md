@@ -1,11 +1,27 @@
 ---
-post_number: "0927"
-title: "Desktop to Cloud via DreamSeat CouchDB Client"
-slug: "dreamseat_couchdb"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'references', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0927_dreamseat_couchdb.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0927_dreamseat_couchdb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.911988'
+original_url: https://thebuildingcoder.typepad.com/blog/0927_dreamseat_couchdb.html
+post_number: 0927
+reading_time_minutes: 10
+series: general
+slug: dreamseat_couchdb
+source_file: 0927_dreamseat_couchdb.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- references
+- revit-api
+- rooms
+- schedules
+- views
+title: Desktop to Cloud via DreamSeat CouchDB Client
+word_count: 1969
 ---
 
 ### Desktop to Cloud via DreamSeat CouchDB Client

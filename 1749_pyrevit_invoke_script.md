@@ -1,11 +1,21 @@
 ---
-post_number: "1749"
-title: "Pyrevit Invoke Script"
-slug: "pyrevit_invoke_script"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets']
-source_file: "1749_pyrevit_invoke_script.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1749_pyrevit_invoke_script.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: news
+optimization_date: '2025-12-11T11:44:16.665382'
+original_url: https://thebuildingcoder.typepad.com/blog/1749_pyrevit_invoke_script.html
+post_number: '1749'
+reading_time_minutes: 2
+series: general
+slug: pyrevit_invoke_script
+source_file: 1749_pyrevit_invoke_script.md
+tags:
+- references
+- revit-api
+- sheets
+title: Pyrevit Invoke Script
+word_count: 307
 ---
 
 ### Rapid Prototyping, Debugging, Testing and Deployment

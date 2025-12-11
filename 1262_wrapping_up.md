@@ -1,11 +1,24 @@
 ---
-post_number: "1262"
-title: "Back from The Conference Tour and Wrapping Up"
-slug: "wrapping_up"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'revit-api', 'views', 'windows']
-source_file: "1262_wrapping_up.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1262_wrapping_up.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.633889'
+original_url: https://thebuildingcoder.typepad.com/blog/1262_wrapping_up.html
+post_number: '1262'
+reading_time_minutes: 6
+series: general
+slug: wrapping_up
+source_file: 1262_wrapping_up.htm
+tags:
+- elements
+- family
+- levels
+- revit-api
+- views
+- windows
+title: Back from The Conference Tour and Wrapping Up
+word_count: 1291
 ---
 
 ### Back from The Conference Tour and Wrapping Up

@@ -1,11 +1,24 @@
 ---
-post_number: "1063"
-title: "Translated Shared Parameter GUID Consolidation"
-slug: "translat_param_guid"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'transactions']
-source_file: "1063_translat_param_guid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1063_translat_param_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.225342'
+original_url: https://thebuildingcoder.typepad.com/blog/1063_translat_param_guid.html
+post_number: '1063'
+reading_time_minutes: 3
+series: general
+slug: translat_param_guid
+source_file: 1063_translat_param_guid.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- transactions
+title: Translated Shared Parameter GUID Consolidation
+word_count: 669
 ---
 
 ### Translated Shared Parameter GUID Consolidation

@@ -1,11 +1,29 @@
 ---
-post_number: "1121"
-title: "Creating a Sloped Floor"
-slug: "create_sloped_floor"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "1121_create_sloped_floor.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1121_create_sloped_floor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.343794'
+original_url: https://thebuildingcoder.typepad.com/blog/1121_create_sloped_floor.html
+post_number: '1121'
+reading_time_minutes: 9
+series: general
+slug: create_sloped_floor
+source_file: 1121_create_sloped_floor.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Creating a Sloped Floor
+word_count: 1832
 ---
 
 ### Creating a Sloped Floor

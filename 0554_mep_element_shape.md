@@ -1,11 +1,26 @@
 ---
-post_number: "0554"
-title: "Distinguishing MEP Element Shape"
-slug: "mep_element_shape"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'selection', 'transactions']
-source_file: "0554_mep_element_shape.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0554_mep_element_shape.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.162125'
+original_url: https://thebuildingcoder.typepad.com/blog/0554_mep_element_shape.html
+post_number: '0554'
+reading_time_minutes: 10
+series: elements
+slug: mep_element_shape
+source_file: 0554_mep_element_shape.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+title: Distinguishing MEP Element Shape
+word_count: 2047
 ---
 
 ### Distinguishing MEP Element Shape

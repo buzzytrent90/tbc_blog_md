@@ -1,11 +1,23 @@
 ---
-post_number: "1115"
-title: "Storing Revit Add-in Settings"
-slug: "storing_preferences"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'views', 'windows']
-source_file: "1115_storing_preferences.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1115_storing_preferences.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.332862'
+original_url: https://thebuildingcoder.typepad.com/blog/1115_storing_preferences.html
+post_number: '1115'
+reading_time_minutes: 2
+series: general
+slug: storing_preferences
+source_file: 1115_storing_preferences.htm
+tags:
+- csharp
+- references
+- revit-api
+- views
+- windows
+title: Storing Revit Add-in Settings
+word_count: 395
 ---
 
 ### Storing Revit Add-in Settings

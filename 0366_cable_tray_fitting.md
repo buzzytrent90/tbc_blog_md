@@ -1,11 +1,25 @@
 ---
-post_number: "0366"
-title: "Cable Tray Orientation and Fittings"
-slug: "cable_tray_fitting"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'revit-api', 'views']
-source_file: "0366_cable_tray_fitting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0366_cable_tray_fitting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.824427'
+original_url: https://thebuildingcoder.typepad.com/blog/0366_cable_tray_fitting.html
+post_number: '0366'
+reading_time_minutes: 12
+series: general
+slug: cable_tray_fitting
+source_file: 0366_cable_tray_fitting.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- revit-api
+- views
+title: Cable Tray Orientation and Fittings
+word_count: 2428
 ---
 
 ### Cable Tray Orientation and Fittings

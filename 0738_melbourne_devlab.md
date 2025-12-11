@@ -1,11 +1,32 @@
 ---
-post_number: "0738"
-title: "Melbourne DevLab"
-slug: "melbourne_devlab"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'windows']
-source_file: "0738_melbourne_devlab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0738_melbourne_devlab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.490834'
+original_url: https://thebuildingcoder.typepad.com/blog/0738_melbourne_devlab.html
+post_number: 0738
+reading_time_minutes: 9
+series: general
+slug: melbourne_devlab
+source_file: 0738_melbourne_devlab.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- windows
+title: Melbourne DevLab
+word_count: 1804
 ---
 
 ### Melbourne DevLab

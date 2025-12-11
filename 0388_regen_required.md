@@ -1,11 +1,23 @@
 ---
-post_number: "0388"
-title: "To Regenerate or Not to Regenerate..."
-slug: "regen_required"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'revit-api']
-source_file: "0388_regen_required.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0388_regen_required.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.864203'
+original_url: https://thebuildingcoder.typepad.com/blog/0388_regen_required.html
+post_number: 0388
+reading_time_minutes: 3
+series: general
+slug: regen_required
+source_file: 0388_regen_required.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- revit-api
+title: To Regenerate or Not to Regenerate...
+word_count: 506
 ---
 
 ### To Regenerate or Not to Regenerate...

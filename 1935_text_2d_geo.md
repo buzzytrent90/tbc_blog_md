@@ -1,11 +1,26 @@
 ---
-post_number: "1935"
-title: "Text 2d Geo"
-slug: "text_2d_geo"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1935_text_2d_geo.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1935_text_2d_geo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.078669'
+original_url: https://thebuildingcoder.typepad.com/blog/1935_text_2d_geo.html
+post_number: '1935'
+reading_time_minutes: 8
+series: general
+slug: text_2d_geo
+source_file: 1935_text_2d_geo.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- sheets
+- views
+title: Text 2d Geo
+word_count: 1657
 ---
 
 ### Detailed 2D Text and Other Element Geometry

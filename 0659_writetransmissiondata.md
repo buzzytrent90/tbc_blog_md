@@ -1,11 +1,25 @@
 ---
-post_number: "0659"
-title: "Using the WriteTransmissionData Method"
-slug: "writetransmissiondata"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'python', 'references', 'revit-api', 'transactions']
-source_file: "0659_writetransmissiondata.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0659_writetransmissiondata.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.346435'
+original_url: https://thebuildingcoder.typepad.com/blog/0659_writetransmissiondata.html
+post_number: 0659
+reading_time_minutes: 2
+series: general
+slug: writetransmissiondata
+source_file: 0659_writetransmissiondata.htm
+tags:
+- csharp
+- elements
+- parameters
+- python
+- references
+- revit-api
+- transactions
+title: Using the WriteTransmissionData Method
+word_count: 435
 ---
 
 ### Using the WriteTransmissionData Method

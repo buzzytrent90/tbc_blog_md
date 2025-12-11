@@ -1,11 +1,26 @@
 ---
-post_number: "0926"
-title: "Setting up your ViewOrientation3D"
-slug: "vieworientation3d"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'references', 'revit-api', 'sheets', 'views']
-source_file: "0926_vieworientation3d.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0926_vieworientation3d.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.909363'
+original_url: https://thebuildingcoder.typepad.com/blog/0926_vieworientation3d.html
+post_number: 0926
+reading_time_minutes: 4
+series: views
+slug: vieworientation3d
+source_file: 0926_vieworientation3d.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- references
+- revit-api
+- sheets
+- views
+title: Setting up your ViewOrientation3D
+word_count: 716
 ---
 
 ### Setting up your ViewOrientation3D

@@ -1,11 +1,23 @@
 ---
-post_number: "1884"
-title: "Transient Graphics"
-slug: "transient_graphics"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1884_transient_graphics.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1884_transient_graphics.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.961605'
+original_url: https://thebuildingcoder.typepad.com/blog/1884_transient_graphics.html
+post_number: '1884'
+reading_time_minutes: 3
+series: general
+slug: transient_graphics
+source_file: 1884_transient_graphics.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+- windows
+title: Transient Graphics
+word_count: 687
 ---
 
 ### Transient Graphics, Humane AI, BI and Lockdown

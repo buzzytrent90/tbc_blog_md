@@ -1,11 +1,24 @@
 ---
-post_number: "0381"
-title: "Highlight Elements"
-slug: "highlight_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'schedules', 'selection', 'walls']
-source_file: "0381_highlight_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0381_highlight_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.852215'
+original_url: https://thebuildingcoder.typepad.com/blog/0381_highlight_elements.html
+post_number: 0381
+reading_time_minutes: 2
+series: elements
+slug: highlight_elements
+source_file: 0381_highlight_elements.htm
+tags:
+- csharp
+- elements
+- revit-api
+- schedules
+- selection
+- walls
+title: Highlight Elements
+word_count: 470
 ---
 
 ### Highlight Elements

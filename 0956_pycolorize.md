@@ -1,11 +1,27 @@
 ---
-post_number: "0956"
-title: "Python Mac Pasteboard Access"
-slug: "pycolorize"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'walls', 'windows']
-source_file: "0956_pycolorize.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0956_pycolorize.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.985355'
+original_url: https://thebuildingcoder.typepad.com/blog/0956_pycolorize.html
+post_number: 0956
+reading_time_minutes: 7
+series: general
+slug: pycolorize
+source_file: 0956_pycolorize.htm
+tags:
+- csharp
+- family
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- walls
+- windows
+title: Python Mac Pasteboard Access
+word_count: 1313
 ---
 
 ﻿

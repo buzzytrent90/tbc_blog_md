@@ -1,11 +1,26 @@
 ---
-post_number: "0348"
-title: "Regeneration Option Best Practices"
-slug: "regen_option_rules"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0348_regen_option_rules.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0348_regen_option_rules.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.786341'
+original_url: https://thebuildingcoder.typepad.com/blog/0348_regen_option_rules.html
+post_number: 0348
+reading_time_minutes: 8
+series: general
+slug: regen_option_rules
+source_file: 0348_regen_option_rules.htm
+tags:
+- elements
+- levels
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- walls
+title: Regeneration Option Best Practices
+word_count: 1681
 ---
 
 ### Regeneration Option Best Practices

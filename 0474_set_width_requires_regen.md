@@ -1,11 +1,25 @@
 ---
-post_number: "0474"
-title: "Setting Text Width Requires Regen"
-slug: "set_width_requires_regen"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'transactions', 'views']
-source_file: "0474_set_width_requires_regen.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0474_set_width_requires_regen.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.009038'
+original_url: https://thebuildingcoder.typepad.com/blog/0474_set_width_requires_regen.html
+post_number: '0474'
+reading_time_minutes: 3
+series: general
+slug: set_width_requires_regen
+source_file: 0474_set_width_requires_regen.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- transactions
+- views
+title: Setting Text Width Requires Regen
+word_count: 558
 ---
 
 ### Setting Text Width Requires Regen

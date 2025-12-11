@@ -1,11 +1,20 @@
 ---
-post_number: "1180"
-title: "Upgrading Family Files Silently"
-slug: "silent_upgrade"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "1180_silent_upgrade.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1180_silent_upgrade.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.465622'
+original_url: https://thebuildingcoder.typepad.com/blog/1180_silent_upgrade.html
+post_number: '1180'
+reading_time_minutes: 2
+series: general
+slug: silent_upgrade
+source_file: 1180_silent_upgrade.htm
+tags:
+- family
+- revit-api
+title: Upgrading Family Files Silently
+word_count: 332
 ---
 
 ### Upgrading Family Files Silently

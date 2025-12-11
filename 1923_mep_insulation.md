@@ -1,11 +1,27 @@
 ---
-post_number: "1923"
-title: "Mep Insulation"
-slug: "mep_insulation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1923_mep_insulation.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1923_mep_insulation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.051714'
+original_url: https://thebuildingcoder.typepad.com/blog/1923_mep_insulation.html
+post_number: '1923'
+reading_time_minutes: 5
+series: mep
+slug: mep_insulation
+source_file: 1923_mep_insulation.md
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- mep
+title: Mep Insulation
+word_count: 903
 ---
 
 ### Sci-Fi, Languages and Pipe Insulation Retrieval

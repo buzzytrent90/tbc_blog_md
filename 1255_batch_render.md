@@ -1,11 +1,22 @@
 ---
-post_number: "1255"
-title: "AU Ends and Batch Rendering Across Several Projects"
-slug: "batch_render"
-author: "Jeremy Tammik"
-tags: ['doors', 'revit-api', 'selection', 'views']
-source_file: "1255_batch_render.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1255_batch_render.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.618017'
+original_url: https://thebuildingcoder.typepad.com/blog/1255_batch_render.html
+post_number: '1255'
+reading_time_minutes: 5
+series: general
+slug: batch_render
+source_file: 1255_batch_render.htm
+tags:
+- doors
+- revit-api
+- selection
+- views
+title: AU Ends and Batch Rendering Across Several Projects
+word_count: 941
 ---
 
 ### AU Ends and Batch Rendering Across Several Projects

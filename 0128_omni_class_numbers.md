@@ -1,11 +1,26 @@
 ---
-post_number: "0128"
-title: "Omni Class Numbers"
-slug: "omni_class_numbers"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'views', 'windows']
-source_file: "0128_omni_class_numbers.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0128_omni_class_numbers.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.406961'
+original_url: https://thebuildingcoder.typepad.com/blog/0128_omni_class_numbers.html
+post_number: 0128
+reading_time_minutes: 4
+series: general
+slug: omni_class_numbers
+source_file: 0128_omni_class_numbers.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- views
+- windows
+title: Omni Class Numbers
+word_count: 874
 ---
 
 ### Omni Class Numbers

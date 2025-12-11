@@ -1,11 +1,25 @@
 ---
-post_number: "1829"
-title: "Split Duct"
-slug: "split_duct"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'sheets', 'transactions']
-source_file: "1829_split_duct.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1829_split_duct.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.833502'
+original_url: https://thebuildingcoder.typepad.com/blog/1829_split_duct.html
+post_number: '1829'
+reading_time_minutes: 7
+series: mep
+slug: split_duct
+source_file: 1829_split_duct.md
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- sheets
+- transactions
+- mep
+title: Split Duct
+word_count: 1401
 ---
 
 ### Splitting a Duct in More Depth

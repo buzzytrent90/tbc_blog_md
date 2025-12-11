@@ -1,11 +1,25 @@
 ---
-post_number: "0051"
-title: "Driving Revit from Outside"
-slug: "driving_revit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'selection', 'transactions', 'views', 'windows']
-source_file: "0051_driving_revit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0051_driving_revit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.288902'
+original_url: https://thebuildingcoder.typepad.com/blog/0051_driving_revit.html
+post_number: '0051'
+reading_time_minutes: 7
+series: general
+slug: driving_revit
+source_file: 0051_driving_revit.htm
+tags:
+- csharp
+- elements
+- revit-api
+- selection
+- transactions
+- views
+- windows
+title: Driving Revit from Outside
+word_count: 1307
 ---
 
 ### Driving Revit from Outside

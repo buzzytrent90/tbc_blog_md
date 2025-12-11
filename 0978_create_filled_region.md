@@ -1,11 +1,23 @@
 ---
-post_number: "0978"
-title: "Create a Filled Region to use as a Mask"
-slug: "create_filled_region"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'views']
-source_file: "0978_create_filled_region.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0978_create_filled_region.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.036774'
+original_url: https://thebuildingcoder.typepad.com/blog/0978_create_filled_region.html
+post_number: 0978
+reading_time_minutes: 2
+series: general
+slug: create_filled_region
+source_file: 0978_create_filled_region.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- views
+title: Create a Filled Region to use as a Mask
+word_count: 374
 ---
 
 ### Create a Filled Region to use as a Mask

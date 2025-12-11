@@ -1,11 +1,22 @@
 ---
-post_number: "0637"
-title: "Visual Studio, C# and VB Express"
-slug: "vs_express"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'vbnet']
-source_file: "0637_vs_express.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0637_vs_express.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.307666'
+original_url: https://thebuildingcoder.typepad.com/blog/0637_vs_express.html
+post_number: '0637'
+reading_time_minutes: 3
+series: general
+slug: vs_express
+source_file: 0637_vs_express.htm
+tags:
+- csharp
+- references
+- revit-api
+- vbnet
+title: Visual Studio, C# and VB Express
+word_count: 639
 ---
 
 ### Visual Studio, C# and VB Express

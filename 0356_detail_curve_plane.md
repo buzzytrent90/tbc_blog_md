@@ -1,11 +1,25 @@
 ---
-post_number: "0356"
-title: "Detail Curve Must be in Plane"
-slug: "detail_curve_plane"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'python', 'revit-api', 'views']
-source_file: "0356_detail_curve_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0356_detail_curve_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.801770'
+original_url: https://thebuildingcoder.typepad.com/blog/0356_detail_curve_plane.html
+post_number: '0356'
+reading_time_minutes: 4
+series: geometry
+slug: detail_curve_plane
+source_file: 0356_detail_curve_plane.htm
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- python
+- revit-api
+- views
+title: Detail Curve Must be in Plane
+word_count: 786
 ---
 
 ### Detail Curve Must be in Plane

@@ -1,11 +1,22 @@
 ---
-post_number: "0472"
-title: "Blends, Hermite Splines and Derivatives"
-slug: "hermite_splines"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'revit-api']
-source_file: "0472_hermite_splines.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0472_hermite_splines.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.006350'
+original_url: https://thebuildingcoder.typepad.com/blog/0472_hermite_splines.html
+post_number: '0472'
+reading_time_minutes: 3
+series: general
+slug: hermite_splines
+source_file: 0472_hermite_splines.htm
+tags:
+- elements
+- family
+- geometry
+- revit-api
+title: Blends, Hermite Splines and Derivatives
+word_count: 554
 ---
 
 ### Blends, Hermite Splines and Derivatives

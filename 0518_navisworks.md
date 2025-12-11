@@ -1,11 +1,20 @@
 ---
-post_number: "0518"
-title: "Create a Navisworks File from Revit"
-slug: "navisworks"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0518_navisworks.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0518_navisworks.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.091054'
+original_url: https://thebuildingcoder.typepad.com/blog/0518_navisworks.html
+post_number: 0518
+reading_time_minutes: 2
+series: general
+slug: navisworks
+source_file: 0518_navisworks.htm
+tags:
+- revit-api
+- views
+title: Create a Navisworks File from Revit
+word_count: 414
 ---
 
 ### Create a Navisworks File from Revit

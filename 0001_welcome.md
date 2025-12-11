@@ -1,11 +1,21 @@
 ---
-post_number: "0001"
-title: "Welcome"
-slug: "welcome"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'windows']
-source_file: "0001_welcome.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0001_welcome.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.207913'
+original_url: https://thebuildingcoder.typepad.com/blog/0001_welcome.html
+post_number: '0001'
+reading_time_minutes: 2
+series: getting_started
+slug: welcome
+source_file: 0001_welcome.htm
+tags:
+- revit-api
+- windows
+- getting_started
+title: Welcome
+word_count: 303
 ---
 
 ### Welcome

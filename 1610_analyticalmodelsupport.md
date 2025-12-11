@@ -1,11 +1,26 @@
 ---
-post_number: "1610"
-title: "Analyticalmodelsupport"
-slug: "analyticalmodelsupport"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'walls']
-source_file: "1610_analyticalmodelsupport.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1610_analyticalmodelsupport.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.388516'
+original_url: https://thebuildingcoder.typepad.com/blog/1610_analyticalmodelsupport.html
+post_number: '1610'
+reading_time_minutes: 3
+series: structural
+slug: analyticalmodelsupport
+source_file: 1610_analyticalmodelsupport.md
+tags:
+- elements
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- walls
+- structural
+title: Analyticalmodelsupport
+word_count: 515
 ---
 
 ### How to Use GetAnalyticalModelSupports

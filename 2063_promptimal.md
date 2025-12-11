@@ -1,11 +1,24 @@
 ---
-post_number: "2063"
-title: "Promptimal"
-slug: "promptimal"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "2063_promptimal.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2063_promptimal.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.398644'
+original_url: https://thebuildingcoder.typepad.com/blog/2063_promptimal.html
+post_number: '2063'
+reading_time_minutes: 6
+series: general
+slug: promptimal
+source_file: 2063_promptimal.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Promptimal
+word_count: 1220
 ---
 
 ### Wall Layer Voodoo and Prompt Optimisation

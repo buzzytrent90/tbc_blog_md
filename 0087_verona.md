@@ -1,11 +1,25 @@
 ---
-post_number: "0087"
-title: "Verona Revit API Training"
-slug: "verona"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'selection', 'walls']
-source_file: "0087_verona.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0087_verona.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.338675'
+original_url: https://thebuildingcoder.typepad.com/blog/0087_verona.html
+post_number: 0087
+reading_time_minutes: 2
+series: general
+slug: verona
+source_file: 0087_verona.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- selection
+- walls
+title: Verona Revit API Training
+word_count: 490
 ---
 
 ### Verona Revit API Training

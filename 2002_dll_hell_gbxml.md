@@ -1,11 +1,30 @@
 ---
-post_number: "2002"
-title: "Dll Hell Gbxml"
-slug: "dll_hell_gbxml"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "2002_dll_hell_gbxml.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2002_dll_hell_gbxml.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.242370'
+original_url: https://thebuildingcoder.typepad.com/blog/2002_dll_hell_gbxml.html
+post_number: '2002'
+reading_time_minutes: 9
+series: general
+slug: dll_hell_gbxml
+source_file: 2002_dll_hell_gbxml.md
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Dll Hell Gbxml
+word_count: 1727
 ---
 
 ### Export, gbXML and Python Tips

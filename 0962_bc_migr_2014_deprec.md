@@ -1,11 +1,22 @@
 ---
-post_number: "0962"
-title: "Removing Deprecated API Compilation Warnings"
-slug: "bc_migr_2014_deprec"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'references', 'revit-api']
-source_file: "0962_bc_migr_2014_deprec.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0962_bc_migr_2014_deprec.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: news
+optimization_date: '2025-12-11T11:44:15.000442'
+original_url: https://thebuildingcoder.typepad.com/blog/0962_bc_migr_2014_deprec.html
+post_number: 0962
+reading_time_minutes: 2
+series: general
+slug: bc_migr_2014_deprec
+source_file: 0962_bc_migr_2014_deprec.htm
+tags:
+- elements
+- filtering
+- references
+- revit-api
+title: Removing Deprecated API Compilation Warnings
+word_count: 311
 ---
 
 ### Removing Deprecated API Compilation Warnings

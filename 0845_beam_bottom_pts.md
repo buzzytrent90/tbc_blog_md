@@ -1,11 +1,28 @@
 ---
-post_number: "0845"
-title: "Beam Bottom Endpoint"
-slug: "beam_bottom_pts"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'views', 'walls']
-source_file: "0845_beam_bottom_pts.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0845_beam_bottom_pts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.720412'
+original_url: https://thebuildingcoder.typepad.com/blog/0845_beam_bottom_pts.html
+post_number: 0845
+reading_time_minutes: 4
+series: structural
+slug: beam_bottom_pts
+source_file: 0845_beam_bottom_pts.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- views
+- walls
+- structural
+title: Beam Bottom Endpoint
+word_count: 895
 ---
 
 ### Beam Bottom Endpoint

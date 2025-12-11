@@ -1,11 +1,32 @@
 ---
-post_number: "1755"
-title: "Room Volume Ds"
-slug: "room_volume_ds"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1755_room_volume_ds.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1755_room_volume_ds.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.677905'
+original_url: https://thebuildingcoder.typepad.com/blog/1755_room_volume_ds.html
+post_number: '1755'
+reading_time_minutes: 11
+series: general
+slug: room_volume_ds
+source_file: 1755_room_volume_ds.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Room Volume Ds
+word_count: 2274
 ---
 
 ### DirectShape Element to Represent Room Volume

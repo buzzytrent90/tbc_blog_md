@@ -1,11 +1,28 @@
 ---
-post_number: "1568"
-title: "Dim Seg Points"
-slug: "dim_seg_points"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1568_dim_seg_points.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1568_dim_seg_points.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.304268'
+original_url: https://thebuildingcoder.typepad.com/blog/1568_dim_seg_points.html
+post_number: '1568'
+reading_time_minutes: 4
+series: geometry
+slug: dim_seg_points
+source_file: 1568_dim_seg_points.md
+tags:
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Dim Seg Points
+word_count: 767
 ---
 
 ### Determining Dimension Segment Endoints

@@ -1,11 +1,25 @@
 ---
-post_number: "0754"
-title: "Adding a Category to a Shared Parameter"
-slug: "shared_param_add_categ"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'vbnet']
-source_file: "0754_shared_param_add_categ.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0754_shared_param_add_categ.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.525219'
+original_url: https://thebuildingcoder.typepad.com/blog/0754_shared_param_add_categ.html
+post_number: '0754'
+reading_time_minutes: 4
+series: general
+slug: shared_param_add_categ
+source_file: 0754_shared_param_add_categ.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- vbnet
+title: Adding a Category to a Shared Parameter
+word_count: 814
 ---
 
 ### Adding a Category to a Shared Parameter

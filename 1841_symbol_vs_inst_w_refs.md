@@ -1,11 +1,27 @@
 ---
-post_number: "1841"
-title: "Symbol Vs Inst W Refs"
-slug: "symbol_vs_inst_w_refs"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1841_symbol_vs_inst_w_refs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1841_symbol_vs_inst_w_refs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.868082'
+original_url: https://thebuildingcoder.typepad.com/blog/1841_symbol_vs_inst_w_refs.html
+post_number: '1841'
+reading_time_minutes: 7
+series: elements
+slug: symbol_vs_inst_w_refs
+source_file: 1841_symbol_vs_inst_w_refs.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Symbol Vs Inst W Refs
+word_count: 1411
 ---
 
 ### References to Symbol versus Instance Geometry

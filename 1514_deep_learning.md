@@ -1,11 +1,25 @@
 ---
-post_number: "1514"
-title: "Deep Learning"
-slug: "deep_learning"
-author: "Jeremy Tammik"
-tags: ['levels', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1514_deep_learning.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1514_deep_learning.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.193993'
+original_url: https://thebuildingcoder.typepad.com/blog/1514_deep_learning.html
+post_number: '1514'
+reading_time_minutes: 9
+series: general
+slug: deep_learning
+source_file: 1514_deep_learning.md
+tags:
+- levels
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Deep Learning
+word_count: 1750
 ---
 
 ### AU in London and Deep Learning

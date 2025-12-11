@@ -1,11 +1,26 @@
 ---
-post_number: "1291"
-title: "Thin Lines Add-in Using UI Automation"
-slug: "thin_lines_app"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1291_thin_lines_app.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1291_thin_lines_app.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.694782'
+original_url: https://thebuildingcoder.typepad.com/blog/1291_thin_lines_app.html
+post_number: '1291'
+reading_time_minutes: 9
+series: general
+slug: thin_lines_app
+source_file: 1291_thin_lines_app.htm
+tags:
+- csharp
+- elements
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- windows
+title: Thin Lines Add-in Using UI Automation
+word_count: 1722
 ---
 
 ### Thin Lines Add-in Using UI Automation

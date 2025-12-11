@@ -1,11 +1,25 @@
 ---
-post_number: "0035"
-title: "Loading The Building Coder Samples"
-slug: "loading_bc_samples"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'references', 'revit-api', 'walls']
-source_file: "0035_loading_bc_samples.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0035_loading_bc_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.266578'
+original_url: https://thebuildingcoder.typepad.com/blog/0035_loading_bc_samples.html
+post_number: '0035'
+reading_time_minutes: 3
+series: structural
+slug: loading_bc_samples
+source_file: 0035_loading_bc_samples.htm
+tags:
+- csharp
+- elements
+- filtering
+- references
+- revit-api
+- walls
+- structural
+title: Loading The Building Coder Samples
+word_count: 683
 ---
 
 ### Loading The Building Coder Samples

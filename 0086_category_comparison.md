@@ -1,11 +1,21 @@
 ---
-post_number: "0086"
-title: "Category Comparison"
-slug: "category_comparison"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api']
-source_file: "0086_category_comparison.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0086_category_comparison.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.337299'
+original_url: https://thebuildingcoder.typepad.com/blog/0086_category_comparison.html
+post_number: 0086
+reading_time_minutes: 2
+series: elements
+slug: category_comparison
+source_file: 0086_category_comparison.htm
+tags:
+- csharp
+- elements
+- revit-api
+title: Category Comparison
+word_count: 365
 ---
 
 ### Category Comparison

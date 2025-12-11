@@ -1,11 +1,25 @@
 ---
-post_number: "1373"
-title: "Worksharingutils"
-slug: "worksharingutils"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1373_worksharingutils.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1373_worksharingutils.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.879018'
+original_url: https://thebuildingcoder.typepad.com/blog/1373_worksharingutils.html
+post_number: '1373'
+reading_time_minutes: 3
+series: general
+slug: worksharingutils
+source_file: 1373_worksharingutils.md
+tags:
+- csharp
+- elements
+- geometry
+- python
+- revit-api
+- sheets
+- views
+title: Worksharingutils
+word_count: 510
 ---
 
 ### WorksharingUtils

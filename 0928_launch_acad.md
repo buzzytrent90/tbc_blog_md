@@ -1,11 +1,26 @@
 ---
-post_number: "0928"
-title: "Launching AutoCAD within a Revit Add-in"
-slug: "launch_acad"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'transactions', 'vbnet', 'views', 'windows']
-source_file: "0928_launch_acad.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0928_launch_acad.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.914447'
+original_url: https://thebuildingcoder.typepad.com/blog/0928_launch_acad.html
+post_number: 0928
+reading_time_minutes: 3
+series: general
+slug: launch_acad
+source_file: 0928_launch_acad.htm
+tags:
+- elements
+- python
+- references
+- revit-api
+- transactions
+- vbnet
+- views
+- windows
+title: Launching AutoCAD within a Revit Add-in
+word_count: 592
 ---
 
 ### Launching AutoCAD within a Revit Add-in

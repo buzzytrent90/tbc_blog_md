@@ -1,11 +1,26 @@
 ---
-post_number: "1526"
-title: "Set View Idling"
-slug: "set_view_idling"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1526_set_view_idling.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1526_set_view_idling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.220827'
+original_url: https://thebuildingcoder.typepad.com/blog/1526_set_view_idling.html
+post_number: '1526'
+reading_time_minutes: 5
+series: views
+slug: set_view_idling
+source_file: 1526_set_view_idling.md
+tags:
+- elements
+- filtering
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Set View Idling
+word_count: 1026
 ---
 
 ### Setting Active View During Idling

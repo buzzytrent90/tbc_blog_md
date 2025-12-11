@@ -1,11 +1,22 @@
 ---
-post_number: "1952"
-title: "Manager Journal Macro"
-slug: "manager_journal_macro"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'sheets', 'views']
-source_file: "1952_manager_journal_macro.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1952_manager_journal_macro.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: news
+optimization_date: '2025-12-11T11:44:17.118651'
+original_url: https://thebuildingcoder.typepad.com/blog/1952_manager_journal_macro.html
+post_number: '1952'
+reading_time_minutes: 3
+series: general
+slug: manager_journal_macro
+source_file: 1952_manager_journal_macro.md
+tags:
+- python
+- revit-api
+- sheets
+- views
+title: Manager Journal Macro
+word_count: 576
 ---
 
 ### Analysis of Macros, Journals and Add-In Manager

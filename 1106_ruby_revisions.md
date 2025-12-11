@@ -1,11 +1,26 @@
 ---
-post_number: "1106"
-title: "Wrangling Revisions with Ruby"
-slug: "ruby_revisions"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'parameters', 'python', 'revit-api', 'schedules', 'sheets', 'transactions']
-source_file: "1106_ruby_revisions.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1106_ruby_revisions.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.315275'
+original_url: https://thebuildingcoder.typepad.com/blog/1106_ruby_revisions.html
+post_number: '1106'
+reading_time_minutes: 6
+series: general
+slug: ruby_revisions
+source_file: 1106_ruby_revisions.htm
+tags:
+- csharp
+- levels
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- transactions
+title: Wrangling Revisions with Ruby
+word_count: 1293
 ---
 
 ### Wrangling Revisions with Ruby

@@ -1,11 +1,22 @@
 ---
-post_number: "0648"
-title: "Modeless Forms in Revit"
-slug: "modeless_form"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'revit-api', 'views']
-source_file: "0648_modeless_form.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0648_modeless_form.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.327676'
+original_url: https://thebuildingcoder.typepad.com/blog/0648_modeless_form.html
+post_number: 0648
+reading_time_minutes: 3
+series: general
+slug: modeless_form
+source_file: 0648_modeless_form.htm
+tags:
+- doors
+- elements
+- revit-api
+- views
+title: Modeless Forms in Revit
+word_count: 675
 ---
 
 ### Modeless Forms in Revit

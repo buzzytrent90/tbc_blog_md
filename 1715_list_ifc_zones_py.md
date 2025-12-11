@@ -1,11 +1,26 @@
 ---
-post_number: "1715"
-title: "List Ifc Zones Py"
-slug: "list_ifc_zones_py"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets']
-source_file: "1715_list_ifc_zones_py.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1715_list_ifc_zones_py.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.590166'
+original_url: https://thebuildingcoder.typepad.com/blog/1715_list_ifc_zones_py.html
+post_number: '1715'
+reading_time_minutes: 6
+series: general
+slug: list_ifc_zones_py
+source_file: 1715_list_ifc_zones_py.md
+tags:
+- elements
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+title: List Ifc Zones Py
+word_count: 1128
 ---
 
 ### Retrieving Linked IfcZone Elements Using Python

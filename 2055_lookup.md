@@ -1,11 +1,24 @@
 ---
-post_number: "2055"
-title: "Lookup"
-slug: "lookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'references', 'revit-api', 'sheets']
-source_file: "2055_lookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2055_lookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: news
+optimization_date: '2025-12-11T11:44:17.377857'
+original_url: https://thebuildingcoder.typepad.com/blog/2055_lookup.html
+post_number: '2055'
+reading_time_minutes: 5
+series: general
+slug: lookup
+source_file: 2055_lookup.md
+tags:
+- elements
+- family
+- filtering
+- references
+- revit-api
+- sheets
+title: Lookup
+word_count: 953
 ---
 
 ### RevitLookup 2025.0.9

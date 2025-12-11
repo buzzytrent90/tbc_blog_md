@@ -1,11 +1,26 @@
 ---
-post_number: "1340"
-title: "Intersect Solid Filter, AVF vs DirectShape Debugging"
-slug: "inters_solid_filt"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "1340_inters_solid_filt.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1340_inters_solid_filt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.806218'
+original_url: https://thebuildingcoder.typepad.com/blog/1340_inters_solid_filt.html
+post_number: '1340'
+reading_time_minutes: 7
+series: general
+slug: inters_solid_filt
+source_file: 1340_inters_solid_filt.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- revit-api
+- transactions
+- views
+- walls
+title: Intersect Solid Filter, AVF vs DirectShape Debugging
+word_count: 1385
 ---
 
 ### Intersect Solid Filter, AVF vs DirectShape Debugging

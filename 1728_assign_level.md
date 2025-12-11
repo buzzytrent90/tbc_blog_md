@@ -1,11 +1,24 @@
 ---
-post_number: "1728"
-title: "Assign Level"
-slug: "assign_level"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'revit-api', 'rooms', 'sheets']
-source_file: "1728_assign_level.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1728_assign_level.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.618701'
+original_url: https://thebuildingcoder.typepad.com/blog/1728_assign_level.html
+post_number: '1728'
+reading_time_minutes: 4
+series: general
+slug: assign_level
+source_file: 1728_assign_level.md
+tags:
+- elements
+- filtering
+- levels
+- revit-api
+- rooms
+- sheets
+title: Assign Level
+word_count: 704
 ---
 
 ### Assigning a Level to an Element Missing It

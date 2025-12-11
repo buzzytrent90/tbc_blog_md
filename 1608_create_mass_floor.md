@@ -1,11 +1,31 @@
 ---
-post_number: "1608"
-title: "Create Mass Floor"
-slug: "create_mass_floor"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1608_create_mass_floor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1608_create_mass_floor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.383241'
+original_url: https://thebuildingcoder.typepad.com/blog/1608_create_mass_floor.html
+post_number: '1608'
+reading_time_minutes: 3
+series: general
+slug: create_mass_floor
+source_file: 1608_create_mass_floor.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Create Mass Floor
+word_count: 680
 ---
 
 ### Creating Face Wall and Mass Floor

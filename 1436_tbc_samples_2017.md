@@ -1,11 +1,25 @@
 ---
-post_number: "1436"
-title: "Tbc Samples 2017"
-slug: "tbc_samples_2017"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1436_tbc_samples_2017.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1436_tbc_samples_2017.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: news
+optimization_date: '2025-12-11T11:44:16.022745'
+original_url: https://thebuildingcoder.typepad.com/blog/1436_tbc_samples_2017.html
+post_number: '1436'
+reading_time_minutes: 5
+series: general
+slug: tbc_samples_2017
+source_file: 1436_tbc_samples_2017.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Tbc Samples 2017
+word_count: 1018
 ---
 
 ### The Building Coder Samples 2017

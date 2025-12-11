@@ -1,11 +1,25 @@
 ---
-post_number: "2047"
-title: "Aps Accel Vacat"
-slug: "aps_accel_vacat"
-author: "Jeremy Tammik"
-tags: ['parameters', 'python', 'revit-api', 'schedules', 'sheets', 'views', 'windows']
-source_file: "2047_aps_accel_vacat.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2047_aps_accel_vacat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.357159'
+original_url: https://thebuildingcoder.typepad.com/blog/2047_aps_accel_vacat.html
+post_number: '2047'
+reading_time_minutes: 5
+series: general
+slug: aps_accel_vacat
+source_file: 2047_aps_accel_vacat.md
+tags:
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- views
+- windows
+title: Aps Accel Vacat
+word_count: 997
 ---
 
 ### APS Accelerator and Q4R4 Chunking with Claude

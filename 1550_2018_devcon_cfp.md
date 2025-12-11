@@ -1,11 +1,24 @@
 ---
-post_number: "1550"
-title: "2018 Devcon Cfp"
-slug: "2018_devcon_cfp"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1550_2018_devcon_cfp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1550_2018_devcon_cfp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.271840'
+original_url: https://thebuildingcoder.typepad.com/blog/1550_2018_devcon_cfp.html
+post_number: '1550'
+reading_time_minutes: 6
+series: general
+slug: 2018_devcon_cfp
+source_file: 1550_2018_devcon_cfp.md
+tags:
+- elements
+- family
+- references
+- revit-api
+- sheets
+- views
+title: 2018 Devcon Cfp
+word_count: 1160
 ---
 
 ### RevitLookup 2018 and Forge DevCon CFP

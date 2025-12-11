@@ -1,11 +1,26 @@
 ---
-post_number: "0775"
-title: "Revit 2013 API Webcast Recording"
-slug: "revit_api_webcast"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "0775_revit_api_webcast.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0775_revit_api_webcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.567814'
+original_url: https://thebuildingcoder.typepad.com/blog/0775_revit_api_webcast.html
+post_number: '0775'
+reading_time_minutes: 3
+series: general
+slug: revit_api_webcast
+source_file: 0775_revit_api_webcast.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- parameters
+- revit-api
+- views
+- walls
+title: Revit 2013 API Webcast Recording
+word_count: 568
 ---
 
 ### Revit 2013 API Webcast Recording

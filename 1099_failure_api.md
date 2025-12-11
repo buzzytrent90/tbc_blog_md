@@ -1,11 +1,23 @@
 ---
-post_number: "1099"
-title: "Skip Invalid Element Generation Using Failure API"
-slug: "failure_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'rooms', 'transactions']
-source_file: "1099_failure_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1099_failure_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.302627'
+original_url: https://thebuildingcoder.typepad.com/blog/1099_failure_api.html
+post_number: '1099'
+reading_time_minutes: 3
+series: general
+slug: failure_api
+source_file: 1099_failure_api.htm
+tags:
+- csharp
+- elements
+- revit-api
+- rooms
+- transactions
+title: Skip Invalid Element Generation Using Failure API
+word_count: 543
 ---
 
 ### Skip Invalid Element Generation Using Failure API

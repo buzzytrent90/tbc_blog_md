@@ -1,11 +1,22 @@
 ---
-post_number: "1018"
-title: "Creating an Offset Wall"
-slug: "create_offset_wall"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'walls']
-source_file: "1018_create_offset_wall.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1018_create_offset_wall.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.131711'
+original_url: https://thebuildingcoder.typepad.com/blog/1018_create_offset_wall.html
+post_number: '1018'
+reading_time_minutes: 3
+series: general
+slug: create_offset_wall
+source_file: 1018_create_offset_wall.htm
+tags:
+- csharp
+- parameters
+- revit-api
+- walls
+title: Creating an Offset Wall
+word_count: 657
 ---
 
 ### Creating an Offset Wall

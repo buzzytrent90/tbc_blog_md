@@ -1,11 +1,23 @@
 ---
-post_number: "0312"
-title: "Connector Orientation"
-slug: "connector_orientation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'views']
-source_file: "0312_connector_orientation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0312_connector_orientation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.726989'
+original_url: https://thebuildingcoder.typepad.com/blog/0312_connector_orientation.html
+post_number: '0312'
+reading_time_minutes: 1
+series: mep
+slug: connector_orientation
+source_file: 0312_connector_orientation.htm
+tags:
+- elements
+- family
+- revit-api
+- views
+- mep
+title: Connector Orientation
+word_count: 287
 ---
 
 ### Connector Orientation

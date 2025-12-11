@@ -1,11 +1,22 @@
 ---
-post_number: "0408"
-title: "API Training and AEC DevCamp Material"
-slug: "aec_devcamp_material"
-author: "Jeremy Tammik"
-tags: ['filtering', 'revit-api', 'schedules']
-source_file: "0408_aec_devcamp_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0408_aec_devcamp_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: news
+optimization_date: '2025-12-11T11:44:13.900547'
+original_url: https://thebuildingcoder.typepad.com/blog/0408_aec_devcamp_material.html
+post_number: 0408
+reading_time_minutes: 2
+series: materials
+slug: aec_devcamp_material
+source_file: 0408_aec_devcamp_material.htm
+tags:
+- filtering
+- revit-api
+- schedules
+- materials
+title: API Training and AEC DevCamp Material
+word_count: 416
 ---
 
 ### API Training and AEC DevCamp Material

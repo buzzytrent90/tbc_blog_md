@@ -1,11 +1,21 @@
 ---
-post_number: "1156"
-title: "AEC Hackathon – From the Midst of the Fray"
-slug: "aec_hackathon"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'views']
-source_file: "1156_aec_hackathon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1156_aec_hackathon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.417625'
+original_url: https://thebuildingcoder.typepad.com/blog/1156_aec_hackathon.html
+post_number: '1156'
+reading_time_minutes: 2
+series: general
+slug: aec_hackathon
+source_file: 1156_aec_hackathon.htm
+tags:
+- revit-api
+- schedules
+- views
+title: "AEC Hackathon \u2013 From the Midst of the Fray"
+word_count: 357
 ---
 
 ### AEC Hackathon – From the Midst of the Fray

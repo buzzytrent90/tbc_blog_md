@@ -1,11 +1,24 @@
 ---
-post_number: "1094"
-title: "Lots of Clouds"
-slug: "clouds"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'revit-api', 'rooms', 'views']
-source_file: "1094_clouds.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1094_clouds.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: news
+optimization_date: '2025-12-11T11:44:15.292991'
+original_url: https://thebuildingcoder.typepad.com/blog/1094_clouds.html
+post_number: '1094'
+reading_time_minutes: 8
+series: general
+slug: clouds
+source_file: 1094_clouds.htm
+tags:
+- elements
+- geometry
+- levels
+- revit-api
+- rooms
+- views
+title: Lots of Clouds
+word_count: 1578
 ---
 
 ### Lots of Clouds

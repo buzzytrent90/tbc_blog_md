@@ -1,11 +1,32 @@
 ---
-post_number: "1297"
-title: "FindInserts Retrieves All Openings in All Wall Types"
-slug: "host_find_inserts"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'revit-api', 'rooms', 'transactions', 'vbnet', 'walls', 'windows']
-source_file: "1297_host_find_inserts.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1297_host_find_inserts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.709216'
+original_url: https://thebuildingcoder.typepad.com/blog/1297_host_find_inserts.html
+post_number: '1297'
+reading_time_minutes: 6
+series: general
+slug: host_find_inserts
+source_file: 1297_host_find_inserts.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- revit-api
+- rooms
+- transactions
+- vbnet
+- walls
+- windows
+title: FindInserts Retrieves All Openings in All Wall Types
+word_count: 1110
 ---
 
 ### FindInserts Retrieves All Openings in All Wall Types

@@ -1,11 +1,23 @@
 ---
-post_number: "1467"
-title: "The Building Coder"
-slug: "forge_online_hack"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "1467_forge_online_hack.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1467_forge_online_hack.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.090581'
+original_url: https://thebuildingcoder.typepad.com/blog/1467_forge_online_hack.html
+post_number: '1467'
+reading_time_minutes: 4
+series: general
+slug: forge_online_hack
+source_file: 1467_forge_online_hack.md
+tags:
+- family
+- revit-api
+- schedules
+- sheets
+- views
+title: The Building Coder
+word_count: 789
 ---
 
 ### Forge and AppStore Online Hackathon Webinars

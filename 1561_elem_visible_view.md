@@ -1,11 +1,26 @@
 ---
-post_number: "1561"
-title: "Elem Visible View"
-slug: "elem_visible_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1561_elem_visible_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1561_elem_visible_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.291016'
+original_url: https://thebuildingcoder.typepad.com/blog/1561_elem_visible_view.html
+post_number: '1561'
+reading_time_minutes: 4
+series: views
+slug: elem_visible_view
+source_file: 1561_elem_visible_view.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- sheets
+- views
+title: Elem Visible View
+word_count: 877
 ---
 
 ### Retrieving Elements Visible in View

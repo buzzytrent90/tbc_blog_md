@@ -1,11 +1,20 @@
 ---
-post_number: "0192"
-title: "Online Revit Help"
-slug: "online_help"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0192_online_help.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0192_online_help.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.520375'
+original_url: https://thebuildingcoder.typepad.com/blog/0192_online_help.html
+post_number: 0192
+reading_time_minutes: 2
+series: general
+slug: online_help
+source_file: 0192_online_help.htm
+tags:
+- revit-api
+- views
+title: Online Revit Help
+word_count: 306
 ---
 
 ### Online Revit Help

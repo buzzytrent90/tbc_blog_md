@@ -1,11 +1,32 @@
 ---
-post_number: "1309"
-title: "Gross and Net Wall Area Calculation Enhancement"
-slug: "spatial_calculator"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'schedules', 'transactions', 'vbnet', 'views', 'walls']
-source_file: "1309_spatial_calculator.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1309_spatial_calculator.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.740519'
+original_url: https://thebuildingcoder.typepad.com/blog/1309_spatial_calculator.html
+post_number: '1309'
+reading_time_minutes: 7
+series: general
+slug: spatial_calculator
+source_file: 1309_spatial_calculator.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- schedules
+- transactions
+- vbnet
+- views
+- walls
+title: Gross and Net Wall Area Calculation Enhancement
+word_count: 1372
 ---
 
 ### Gross and Net Wall Area Calculation Enhancement

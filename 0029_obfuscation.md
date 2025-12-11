@@ -1,11 +1,19 @@
 ---
-post_number: "0029"
-title: "Obfuscation"
-slug: "obfuscation"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0029_obfuscation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0029_obfuscation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.257332'
+original_url: https://thebuildingcoder.typepad.com/blog/0029_obfuscation.html
+post_number: 0029
+reading_time_minutes: 1
+series: general
+slug: obfuscation
+source_file: 0029_obfuscation.htm
+tags:
+- revit-api
+title: Obfuscation
+word_count: 204
 ---
 
 ### Obfuscation

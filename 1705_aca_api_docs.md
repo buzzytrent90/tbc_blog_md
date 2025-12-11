@@ -1,11 +1,21 @@
 ---
-post_number: "1705"
-title: "Aca Api Docs"
-slug: "aca_api_docs"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets']
-source_file: "1705_aca_api_docs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1705_aca_api_docs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.566375'
+original_url: https://thebuildingcoder.typepad.com/blog/1705_aca_api_docs.html
+post_number: '1705'
+reading_time_minutes: 1
+series: general
+slug: aca_api_docs
+source_file: 1705_aca_api_docs.md
+tags:
+- references
+- revit-api
+- sheets
+title: Aca Api Docs
+word_count: 265
 ---
 
 ### AutoCAD Architecture 2019 API Documentation

@@ -1,11 +1,28 @@
 ---
-post_number: "0471"
-title: "Place Detail Instance"
-slug: "place_site_component"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'transactions', 'views']
-source_file: "0471_place_site_component.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0471_place_site_component.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.004562'
+original_url: https://thebuildingcoder.typepad.com/blog/0471_place_site_component.html
+post_number: '0471'
+reading_time_minutes: 6
+series: general
+slug: place_site_component
+source_file: 0471_place_site_component.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- transactions
+- views
+title: Place Detail Instance
+word_count: 1132
 ---
 
 ### Place Detail Instance

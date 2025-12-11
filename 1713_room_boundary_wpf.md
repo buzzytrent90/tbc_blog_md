@@ -1,11 +1,23 @@
 ---
-post_number: "1713"
-title: "Room Boundary Wpf"
-slug: "room_boundary_wpf"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1713_room_boundary_wpf.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1713_room_boundary_wpf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.586686'
+original_url: https://thebuildingcoder.typepad.com/blog/1713_room_boundary_wpf.html
+post_number: '1713'
+reading_time_minutes: 3
+series: general
+slug: room_boundary_wpf
+source_file: 1713_room_boundary_wpf.md
+tags:
+- csharp
+- revit-api
+- rooms
+- sheets
+- views
+title: Room Boundary Wpf
+word_count: 567
 ---
 
 ### Room Boundaries to CSV and WPF Template

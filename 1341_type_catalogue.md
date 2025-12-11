@@ -1,11 +1,24 @@
 ---
-post_number: "1341"
-title: "Type Catalogues and FireRating in the Cloud"
-slug: "type_catalogue"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api', 'selection', 'views']
-source_file: "1341_type_catalogue.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1341_type_catalogue.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.808563'
+original_url: https://thebuildingcoder.typepad.com/blog/1341_type_catalogue.html
+post_number: '1341'
+reading_time_minutes: 5
+series: elements
+slug: type_catalogue
+source_file: 1341_type_catalogue.htm
+tags:
+- family
+- parameters
+- revit-api
+- selection
+- views
+- elements
+title: Type Catalogues and FireRating in the Cloud
+word_count: 988
 ---
 
 ### Type Catalogues and FireRating in the Cloud

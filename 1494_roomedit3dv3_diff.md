@@ -1,11 +1,23 @@
 ---
-post_number: "1494"
-title: "The Building Coder"
-slug: "roomedit3dv3_diff"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1494_roomedit3dv3_diff.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1494_roomedit3dv3_diff.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.154444'
+original_url: https://thebuildingcoder.typepad.com/blog/1494_roomedit3dv3_diff.html
+post_number: '1494'
+reading_time_minutes: 11
+series: general
+slug: roomedit3dv3_diff
+source_file: 1494_roomedit3dv3_diff.md
+tags:
+- elements
+- revit-api
+- rooms
+- sheets
+- views
+title: The Building Coder
+word_count: 2212
 ---
 
 ### Roomedit3dv3 Diff from Forge Boilerplate Code

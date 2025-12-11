@@ -1,11 +1,21 @@
 ---
-post_number: "1505"
-title: "Missing Project Info"
-slug: "missing_project_info"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets']
-source_file: "1505_missing_project_info.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1505_missing_project_info.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.178929'
+original_url: https://thebuildingcoder.typepad.com/blog/1505_missing_project_info.html
+post_number: '1505'
+reading_time_minutes: 1
+series: general
+slug: missing_project_info
+source_file: 1505_missing_project_info.md
+tags:
+- elements
+- revit-api
+- sheets
+title: Missing Project Info
+word_count: 256
 ---
 
 ### Restoring a Missing Project Information Element

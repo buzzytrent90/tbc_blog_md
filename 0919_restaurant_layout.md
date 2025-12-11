@@ -1,11 +1,25 @@
 ---
-post_number: "0919"
-title: "Cloud-Based Restaurant Seating Arrangement and Cleaning"
-slug: "restaurant_layout"
-author: "Jeremy Tammik"
-tags: ['family', 'filtering', 'levels', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0919_restaurant_layout.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0919_restaurant_layout.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: news
+optimization_date: '2025-12-11T11:44:14.891564'
+original_url: https://thebuildingcoder.typepad.com/blog/0919_restaurant_layout.html
+post_number: 0919
+reading_time_minutes: 6
+series: general
+slug: restaurant_layout
+source_file: 0919_restaurant_layout.htm
+tags:
+- family
+- filtering
+- levels
+- revit-api
+- rooms
+- schedules
+- views
+title: Cloud-Based Restaurant Seating Arrangement and Cleaning
+word_count: 1297
 ---
 
 ### Cloud-Based Restaurant Seating Arrangement and Cleaning

@@ -1,11 +1,23 @@
 ---
-post_number: "0734"
-title: "Retrieve Geometry in Element Coordinate System"
-slug: "retrieve_ecs_geom"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api']
-source_file: "0734_retrieve_ecs_geom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0734_retrieve_ecs_geom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.482102'
+original_url: https://thebuildingcoder.typepad.com/blog/0734_retrieve_ecs_geom.html
+post_number: '0734'
+reading_time_minutes: 4
+series: general
+slug: retrieve_ecs_geom
+source_file: 0734_retrieve_ecs_geom.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+title: Retrieve Geometry in Element Coordinate System
+word_count: 813
 ---
 
 ### Retrieve Geometry in Element Coordinate System

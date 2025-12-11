@@ -1,11 +1,23 @@
 ---
-post_number: "1630"
-title: "Adn Web Labs Update"
-slug: "adn_web_labs_update"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1630_adn_web_labs_update.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1630_adn_web_labs_update.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.424851'
+original_url: https://thebuildingcoder.typepad.com/blog/1630_adn_web_labs_update.html
+post_number: '1630'
+reading_time_minutes: 2
+series: general
+slug: adn_web_labs_update
+source_file: 1630_adn_web_labs_update.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+- views
+title: Adn Web Labs Update
+word_count: 474
 ---
 
 ### Updated ADN Web Site, Revit API Labs, Tag Creation

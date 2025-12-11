@@ -1,11 +1,26 @@
 ---
-post_number: "0838"
-title: "Wall Footing Relationship Revisited"
-slug: "wall_footing"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'python', 'references', 'revit-api', 'transactions', 'walls']
-source_file: "0838_wall_footing.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0838_wall_footing.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.705536'
+original_url: https://thebuildingcoder.typepad.com/blog/0838_wall_footing.html
+post_number: 0838
+reading_time_minutes: 4
+series: general
+slug: wall_footing
+source_file: 0838_wall_footing.htm
+tags:
+- elements
+- filtering
+- levels
+- python
+- references
+- revit-api
+- transactions
+- walls
+title: Wall Footing Relationship Revisited
+word_count: 707
 ---
 
 ### Wall Footing Relationship Revisited

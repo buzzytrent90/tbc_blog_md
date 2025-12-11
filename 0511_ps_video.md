@@ -1,11 +1,20 @@
 ---
-post_number: "0511"
-title: "84 Second Product Support Overview"
-slug: "ps_video"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0511_ps_video.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0511_ps_video.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.077298'
+original_url: https://thebuildingcoder.typepad.com/blog/0511_ps_video.html
+post_number: '0511'
+reading_time_minutes: 1
+series: general
+slug: ps_video
+source_file: 0511_ps_video.htm
+tags:
+- revit-api
+- views
+title: 84 Second Product Support Overview
+word_count: 147
 ---
 
 ### 84 Second Product Support Overview

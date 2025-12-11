@@ -1,11 +1,32 @@
 ---
-post_number: "1355"
-title: "Directshape Face"
-slug: "directshape_face"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1355_directshape_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1355_directshape_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.833572'
+original_url: https://thebuildingcoder.typepad.com/blog/1355_directshape_face.html
+post_number: '1355'
+reading_time_minutes: 16
+series: general
+slug: directshape_face
+source_file: 1355_directshape_face.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+title: Directshape Face
+word_count: 3257
 ---
 
 ### DirectShape From Face and Sketch Plane Reuse

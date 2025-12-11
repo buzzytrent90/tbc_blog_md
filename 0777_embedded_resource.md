@@ -1,11 +1,23 @@
 ---
-post_number: "0777"
-title: "Retrieve Embedded Resource Image"
-slug: "embedded_resource"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'references', 'revit-api', 'windows']
-source_file: "0777_embedded_resource.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0777_embedded_resource.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.571103'
+original_url: https://thebuildingcoder.typepad.com/blog/0777_embedded_resource.html
+post_number: '0777'
+reading_time_minutes: 3
+series: general
+slug: embedded_resource
+source_file: 0777_embedded_resource.htm
+tags:
+- csharp
+- python
+- references
+- revit-api
+- windows
+title: Retrieve Embedded Resource Image
+word_count: 622
 ---
 
 ### Retrieve Embedded Resource Image

@@ -1,11 +1,25 @@
 ---
-post_number: "1517"
-title: "Text Rotat"
-slug: "text_rotat"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1517_text_rotat.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1517_text_rotat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.200513'
+original_url: https://thebuildingcoder.typepad.com/blog/1517_text_rotat.html
+post_number: '1517'
+reading_time_minutes: 8
+series: general
+slug: text_rotat
+source_file: 1517_text_rotat.md
+tags:
+- elements
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Text Rotat
+word_count: 1564
 ---
 
 ### TextNote Rotation, Forge DevCon, TensorFlow and Keras

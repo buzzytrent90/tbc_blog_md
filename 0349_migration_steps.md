@@ -1,11 +1,25 @@
 ---
-post_number: "0349"
-title: "Plug-In Migration Steps"
-slug: "migration_steps"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'references', 'revit-api', 'transactions']
-source_file: "0349_migration_steps.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0349_migration_steps.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: news
+optimization_date: '2025-12-11T11:44:13.788497'
+original_url: https://thebuildingcoder.typepad.com/blog/0349_migration_steps.html
+post_number: 0349
+reading_time_minutes: 3
+series: general
+slug: migration_steps
+source_file: 0349_migration_steps.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- references
+- revit-api
+- transactions
+title: Plug-In Migration Steps
+word_count: 644
 ---
 
 ### Plug-In Migration Steps

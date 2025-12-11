@@ -1,11 +1,23 @@
 ---
-post_number: "0676"
-title: "Revit API Developer Guide on Autodesk WikiHelp"
-slug: "api_wikihelp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'vbnet', 'views', 'windows']
-source_file: "0676_api_wikihelp.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0676_api_wikihelp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.379105'
+original_url: https://thebuildingcoder.typepad.com/blog/0676_api_wikihelp.html
+post_number: '0676'
+reading_time_minutes: 4
+series: general
+slug: api_wikihelp
+source_file: 0676_api_wikihelp.htm
+tags:
+- csharp
+- revit-api
+- vbnet
+- views
+- windows
+title: Revit API Developer Guide on Autodesk WikiHelp
+word_count: 849
 ---
 
 ### Revit API Developer Guide on Autodesk WikiHelp

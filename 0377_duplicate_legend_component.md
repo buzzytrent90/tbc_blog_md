@@ -1,11 +1,25 @@
 ---
-post_number: "0377"
-title: "Duplicate Legend Component"
-slug: "duplicate_legend_component"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'revit-api', 'selection', 'transactions']
-source_file: "0377_duplicate_legend_component.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0377_duplicate_legend_component.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.843806'
+original_url: https://thebuildingcoder.typepad.com/blog/0377_duplicate_legend_component.html
+post_number: '0377'
+reading_time_minutes: 2
+series: general
+slug: duplicate_legend_component
+source_file: 0377_duplicate_legend_component.htm
+tags:
+- elements
+- family
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+title: Duplicate Legend Component
+word_count: 465
 ---
 
 ### Duplicate Legend Component

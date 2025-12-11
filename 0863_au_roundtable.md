@@ -1,11 +1,29 @@
 ---
-post_number: "0863"
-title: "The Champions Roundtable at AU"
-slug: "au_roundtable"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0863_au_roundtable.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0863_au_roundtable.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.755271'
+original_url: https://thebuildingcoder.typepad.com/blog/0863_au_roundtable.html
+post_number: 0863
+reading_time_minutes: 14
+series: general
+slug: au_roundtable
+source_file: 0863_au_roundtable.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- windows
+title: The Champions Roundtable at AU
+word_count: 2871
 ---
 
 ### The Champions Roundtable at AU

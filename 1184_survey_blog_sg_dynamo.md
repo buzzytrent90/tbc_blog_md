@@ -1,11 +1,27 @@
 ---
-post_number: "1184"
-title: "Wishlist, Blogging, Smartgeometry, Dynamo and FormIt"
-slug: "survey_blog_sg_dynamo"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'python', 'references', 'revit-api', 'views']
-source_file: "1184_survey_blog_sg_dynamo.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1184_survey_blog_sg_dynamo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.471817'
+original_url: https://thebuildingcoder.typepad.com/blog/1184_survey_blog_sg_dynamo.html
+post_number: '1184'
+reading_time_minutes: 6
+series: general
+slug: survey_blog_sg_dynamo
+source_file: 1184_survey_blog_sg_dynamo.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- python
+- references
+- revit-api
+- views
+title: Wishlist, Blogging, Smartgeometry, Dynamo and FormIt
+word_count: 1235
 ---
 
 ### Wishlist, Blogging, Smartgeometry, Dynamo and FormIt

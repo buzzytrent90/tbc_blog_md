@@ -1,11 +1,21 @@
 ---
-post_number: "1595"
-title: "Do Not Reuse Guid"
-slug: "do_not_reuse_guid"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'sheets']
-source_file: "1595_do_not_reuse_guid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1595_do_not_reuse_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.362216'
+original_url: https://thebuildingcoder.typepad.com/blog/1595_do_not_reuse_guid.html
+post_number: '1595'
+reading_time_minutes: 1
+series: general
+slug: do_not_reuse_guid
+source_file: 1595_do_not_reuse_guid.md
+tags:
+- parameters
+- revit-api
+- sheets
+title: Do Not Reuse Guid
+word_count: 285
 ---
 
 ### Do Not Reuse an Existing GUID

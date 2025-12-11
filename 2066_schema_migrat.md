@@ -1,11 +1,22 @@
 ---
-post_number: "2066"
-title: "Schema Migrat"
-slug: "schema_migrat"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views', 'windows']
-source_file: "2066_schema_migrat.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2066_schema_migrat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.405333'
+original_url: https://thebuildingcoder.typepad.com/blog/2066_schema_migrat.html
+post_number: '2066'
+reading_time_minutes: 8
+series: general
+slug: schema_migrat
+source_file: 2066_schema_migrat.md
+tags:
+- revit-api
+- sheets
+- views
+- windows
+title: Schema Migrat
+word_count: 1532
 ---
 
 ### Tools for Extensible Storage and OAuth Auth0

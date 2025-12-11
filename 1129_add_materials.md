@@ -1,11 +1,24 @@
 ---
-post_number: "1129"
-title: "Getting Serious Adding New Materials from List"
-slug: "add_materials"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1129_add_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1129_add_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.357915'
+original_url: https://thebuildingcoder.typepad.com/blog/1129_add_materials.html
+post_number: '1129'
+reading_time_minutes: 3
+series: materials
+slug: add_materials
+source_file: 1129_add_materials.htm
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- views
+- materials
+title: Getting Serious Adding New Materials from List
+word_count: 634
 ---
 
 ### Getting Serious Adding New Materials from List

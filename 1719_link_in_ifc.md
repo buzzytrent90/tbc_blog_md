@@ -1,11 +1,29 @@
 ---
-post_number: "1719"
-title: "Link In Ifc"
-slug: "link_in_ifc"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1719_link_in_ifc.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1719_link_in_ifc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.599801'
+original_url: https://thebuildingcoder.typepad.com/blog/1719_link_in_ifc.html
+post_number: '1719'
+reading_time_minutes: 8
+series: general
+slug: link_in_ifc
+source_file: 1719_link_in_ifc.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Link In Ifc
+word_count: 1551
 ---
 
 ### Link in and Analyse IFC File Zones and Spaces

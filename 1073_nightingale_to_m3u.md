@@ -1,11 +1,21 @@
 ---
-post_number: "1073"
-title: "Nightingale M3U and Denormalized Filename Characters"
-slug: "nightingale_to_m3u"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'revit-api']
-source_file: "1073_nightingale_to_m3u.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1073_nightingale_to_m3u.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.247792'
+original_url: https://thebuildingcoder.typepad.com/blog/1073_nightingale_to_m3u.html
+post_number: '1073'
+reading_time_minutes: 3
+series: general
+slug: nightingale_to_m3u
+source_file: 1073_nightingale_to_m3u.htm
+tags:
+- elements
+- python
+- revit-api
+title: Nightingale M3U and Denormalized Filename Characters
+word_count: 576
 ---
 
 ### Nightingale M3U and Denormalized Filename Characters

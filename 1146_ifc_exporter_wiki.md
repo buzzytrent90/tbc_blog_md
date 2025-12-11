@@ -1,11 +1,20 @@
 ---
-post_number: "1146"
-title: "IFC Exporter Open Source Wiki"
-slug: "ifc_exporter_wiki"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "1146_ifc_exporter_wiki.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1146_ifc_exporter_wiki.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.400582'
+original_url: https://thebuildingcoder.typepad.com/blog/1146_ifc_exporter_wiki.html
+post_number: '1146'
+reading_time_minutes: 4
+series: general
+slug: ifc_exporter_wiki
+source_file: 1146_ifc_exporter_wiki.htm
+tags:
+- family
+- revit-api
+title: IFC Exporter Open Source Wiki
+word_count: 717
 ---
 
 ### IFC Exporter Open Source Wiki

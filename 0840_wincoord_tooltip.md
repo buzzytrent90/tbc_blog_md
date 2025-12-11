@@ -1,11 +1,31 @@
 ---
-post_number: "0840"
-title: "UIView, Windows Coordinates, ReferenceIntersector and My Own Tooltip"
-slug: "wincoord_tooltip"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'references', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0840_wincoord_tooltip.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0840_wincoord_tooltip.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 12.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.709302'
+original_url: https://thebuildingcoder.typepad.com/blog/0840_wincoord_tooltip.html
+post_number: 0840
+reading_time_minutes: 18
+series: general
+slug: wincoord_tooltip
+source_file: 0840_wincoord_tooltip.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- references
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: UIView, Windows Coordinates, ReferenceIntersector and My Own Tooltip
+word_count: 3519
 ---
 
 ### UIView, Windows Coordinates, ReferenceIntersector and My Own Tooltip

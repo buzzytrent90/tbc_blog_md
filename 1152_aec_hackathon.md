@@ -1,11 +1,20 @@
 ---
-post_number: "1152"
-title: "AEC Hackathon, DevGuide URL and AppStore Webinar"
-slug: "aec_hackathon"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1152_aec_hackathon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1152_aec_hackathon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.412751'
+original_url: https://thebuildingcoder.typepad.com/blog/1152_aec_hackathon.html
+post_number: '1152'
+reading_time_minutes: 3
+series: general
+slug: aec_hackathon
+source_file: 1152_aec_hackathon.htm
+tags:
+- revit-api
+- views
+title: AEC Hackathon, DevGuide URL and AppStore Webinar
+word_count: 669
 ---
 
 ### AEC Hackathon, DevGuide URL and AppStore Webinar

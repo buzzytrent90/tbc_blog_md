@@ -1,11 +1,20 @@
 ---
-post_number: "1259"
-title: "Embedding an Interactive View and Data IFC Model"
-slug: "adva_embed_ifc"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1259_adva_embed_ifc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1259_adva_embed_ifc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.628310'
+original_url: https://thebuildingcoder.typepad.com/blog/1259_adva_embed_ifc.html
+post_number: '1259'
+reading_time_minutes: 1
+series: general
+slug: adva_embed_ifc
+source_file: 1259_adva_embed_ifc.htm
+tags:
+- revit-api
+- views
+title: Embedding an Interactive View and Data IFC Model
+word_count: 187
 ---
 
 ### Embedding an Interactive View and Data IFC Model

@@ -1,11 +1,19 @@
 ---
-post_number: "1270"
-title: "Vacazione in Sicilia"
-slug: "vacazione_sicilia"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1270_vacazione_sicilia.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1270_vacazione_sicilia.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.643916'
+original_url: https://thebuildingcoder.typepad.com/blog/1270_vacazione_sicilia.html
+post_number: '1270'
+reading_time_minutes: 1
+series: general
+slug: vacazione_sicilia
+source_file: 1270_vacazione_sicilia.htm
+tags:
+- revit-api
+title: Vacazione in Sicilia
+word_count: 59
 ---
 
 ### Vacazione in Sicilia

@@ -1,11 +1,23 @@
 ---
-post_number: "0780"
-title: "DevLab and Room Separation"
-slug: "devlab_room_sep"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api', 'rooms', 'views']
-source_file: "0780_devlab_room_sep.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0780_devlab_room_sep.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.577918'
+original_url: https://thebuildingcoder.typepad.com/blog/0780_devlab_room_sep.html
+post_number: 0780
+reading_time_minutes: 2
+series: general
+slug: devlab_room_sep
+source_file: 0780_devlab_room_sep.htm
+tags:
+- csharp
+- levels
+- revit-api
+- rooms
+- views
+title: DevLab and Room Separation
+word_count: 452
 ---
 
 ### DevLab and Room Separation

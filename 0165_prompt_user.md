@@ -1,11 +1,21 @@
 ---
-post_number: "0165"
-title: "Prompt the User for Pinning and IFC Export"
-slug: "prompt_user"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api']
-source_file: "0165_prompt_user.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0165_prompt_user.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.471335'
+original_url: https://thebuildingcoder.typepad.com/blog/0165_prompt_user.html
+post_number: '0165'
+reading_time_minutes: 3
+series: general
+slug: prompt_user
+source_file: 0165_prompt_user.htm
+tags:
+- elements
+- filtering
+- revit-api
+title: Prompt the User for Pinning and IFC Export
+word_count: 563
 ---
 
 ### Prompt the User for Pinning and IFC Export

@@ -1,11 +1,22 @@
 ---
-post_number: "1128"
-title: "BIM 360 Growing Fast"
-slug: "web_cloud_news"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'transactions', 'windows']
-source_file: "1128_web_cloud_news.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1128_web_cloud_news.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.356479'
+original_url: https://thebuildingcoder.typepad.com/blog/1128_web_cloud_news.html
+post_number: '1128'
+reading_time_minutes: 5
+series: general
+slug: web_cloud_news
+source_file: 1128_web_cloud_news.htm
+tags:
+- family
+- revit-api
+- transactions
+- windows
+title: BIM 360 Growing Fast
+word_count: 944
 ---
 
 ### BIM 360 Growing Fast

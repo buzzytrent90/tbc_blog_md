@@ -1,11 +1,26 @@
 ---
-post_number: "0892"
-title: "Content Localisation"
-slug: "content_localisation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'schedules', 'views']
-source_file: "0892_content_localisation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0892_content_localisation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.809138'
+original_url: https://thebuildingcoder.typepad.com/blog/0892_content_localisation.html
+post_number: 0892
+reading_time_minutes: 5
+series: general
+slug: content_localisation
+source_file: 0892_content_localisation.htm
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- schedules
+- views
+title: Content Localisation
+word_count: 955
 ---
 
 ### Content Localisation

@@ -1,11 +1,28 @@
 ---
-post_number: "0706"
-title: "The Genesis of Revit and its API"
-slug: "genesis"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'levels', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "0706_genesis.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0706_genesis.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.435557'
+original_url: https://thebuildingcoder.typepad.com/blog/0706_genesis.html
+post_number: '0706'
+reading_time_minutes: 17
+series: general
+slug: genesis
+source_file: 0706_genesis.htm
+tags:
+- doors
+- elements
+- family
+- levels
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: The Genesis of Revit and its API
+word_count: 3346
 ---
 
 ### The Genesis of Revit and its API

@@ -1,11 +1,26 @@
 ---
-post_number: "0417"
-title: "Linq Methods and Visual Studio Tips"
-slug: "linq_vs_tips"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'references', 'revit-api', 'selection', 'transactions']
-source_file: "0417_linq_vs_tips.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0417_linq_vs_tips.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.914913'
+original_url: https://thebuildingcoder.typepad.com/blog/0417_linq_vs_tips.html
+post_number: '0417'
+reading_time_minutes: 6
+series: general
+slug: linq_vs_tips
+source_file: 0417_linq_vs_tips.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- references
+- revit-api
+- selection
+- transactions
+title: Linq Methods and Visual Studio Tips
+word_count: 1224
 ---
 
 ### Linq Methods and Visual Studio Tips

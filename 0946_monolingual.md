@@ -1,11 +1,20 @@
 ---
-post_number: "0946"
-title: "Removing Extreneous Mac Architectures, Languages and Files"
-slug: "monolingual"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0946_monolingual.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0946_monolingual.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.966250'
+original_url: https://thebuildingcoder.typepad.com/blog/0946_monolingual.html
+post_number: 0946
+reading_time_minutes: 2
+series: general
+slug: monolingual
+source_file: 0946_monolingual.htm
+tags:
+- revit-api
+- views
+title: Removing Extreneous Mac Architectures, Languages and Files
+word_count: 406
 ---
 
 ### Removing Extreneous Mac Architectures, Languages and Files

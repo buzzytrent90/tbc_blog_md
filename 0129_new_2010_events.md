@@ -1,11 +1,21 @@
 ---
-post_number: "0129"
-title: "New 2010 Events"
-slug: "new_2010_events"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'transactions', 'views']
-source_file: "0129_new_2010_events.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0129_new_2010_events.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.408284'
+original_url: https://thebuildingcoder.typepad.com/blog/0129_new_2010_events.html
+post_number: 0129
+reading_time_minutes: 3
+series: general
+slug: new_2010_events
+source_file: 0129_new_2010_events.htm
+tags:
+- revit-api
+- transactions
+- views
+title: New 2010 Events
+word_count: 554
 ---
 
 ### New 2010 Events

@@ -1,11 +1,27 @@
 ---
-post_number: "1636"
-title: "Connector Neighbour"
-slug: "connector_neighbour"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1636_connector_neighbour.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1636_connector_neighbour.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.435772'
+original_url: https://thebuildingcoder.typepad.com/blog/1636_connector_neighbour.html
+post_number: '1636'
+reading_time_minutes: 12
+series: mep
+slug: connector_neighbour
+source_file: 1636_connector_neighbour.md
+tags:
+- elements
+- family
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- mep
+title: Connector Neighbour
+word_count: 2403
 ---
 
 ### Connector, Neighbour, Conduit, Transition

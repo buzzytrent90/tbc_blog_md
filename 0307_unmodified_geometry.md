@@ -1,11 +1,24 @@
 ---
-post_number: "0307"
-title: "Unmodified Element Geometry"
-slug: "unmodified_geometry"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'references', 'revit-api', 'walls']
-source_file: "0307_unmodified_geometry.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0307_unmodified_geometry.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.718879'
+original_url: https://thebuildingcoder.typepad.com/blog/0307_unmodified_geometry.html
+post_number: '0307'
+reading_time_minutes: 2
+series: geometry
+slug: unmodified_geometry
+source_file: 0307_unmodified_geometry.htm
+tags:
+- elements
+- family
+- geometry
+- references
+- revit-api
+- walls
+title: Unmodified Element Geometry
+word_count: 313
 ---
 
 ### Unmodified Element Geometry

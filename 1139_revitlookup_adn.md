@@ -1,11 +1,21 @@
 ---
-post_number: "1139"
-title: "RevitLookup for UR1, ADN, AEC and AU News"
-slug: "revitlookup_adn"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'views']
-source_file: "1139_revitlookup_adn.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1139_revitlookup_adn.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.378404'
+original_url: https://thebuildingcoder.typepad.com/blog/1139_revitlookup_adn.html
+post_number: '1139'
+reading_time_minutes: 4
+series: general
+slug: revitlookup_adn
+source_file: 1139_revitlookup_adn.htm
+tags:
+- references
+- revit-api
+- views
+title: RevitLookup for UR1, ADN, AEC and AU News
+word_count: 786
 ---
 
 ﻿

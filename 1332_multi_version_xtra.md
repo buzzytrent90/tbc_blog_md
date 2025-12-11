@@ -1,11 +1,24 @@
 ---
-post_number: "1332"
-title: "ADN Labs Xtra, Multi-Version Add-Ins and CNC Direct"
-slug: "multi_version_xtra"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'walls']
-source_file: "1332_multi_version_xtra.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1332_multi_version_xtra.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.789681'
+original_url: https://thebuildingcoder.typepad.com/blog/1332_multi_version_xtra.html
+post_number: '1332'
+reading_time_minutes: 4
+series: general
+slug: multi_version_xtra
+source_file: 1332_multi_version_xtra.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- walls
+title: ADN Labs Xtra, Multi-Version Add-Ins and CNC Direct
+word_count: 711
 ---
 
 ### ADN Labs Xtra, Multi-Version Add-Ins and CNC Direct

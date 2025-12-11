@@ -1,11 +1,25 @@
 ---
-post_number: "2068"
-title: "Uiapp"
-slug: "uiapp"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'references', 'revit-api', 'sheets', 'views']
-source_file: "2068_uiapp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2068_uiapp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.410812'
+original_url: https://thebuildingcoder.typepad.com/blog/2068_uiapp.html
+post_number: '2068'
+reading_time_minutes: 8
+series: general
+slug: uiapp
+source_file: 2068_uiapp.md
+tags:
+- doors
+- elements
+- family
+- references
+- revit-api
+- sheets
+- views
+title: Uiapp
+word_count: 1522
 ---
 
 ### Access UIApplication and Bounding Box on Sheet

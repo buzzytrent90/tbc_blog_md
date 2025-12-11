@@ -1,11 +1,27 @@
 ---
-post_number: "2069"
-title: "Fab Part Service"
-slug: "fab_part_service"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "2069_fab_part_service.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2069_fab_part_service.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.413363'
+original_url: https://thebuildingcoder.typepad.com/blog/2069_fab_part_service.html
+post_number: '2069'
+reading_time_minutes: 5
+series: general
+slug: fab_part_service
+source_file: 2069_fab_part_service.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- selection
+- sheets
+- views
+title: Fab Part Service
+word_count: 1069
 ---
 
 ### DevCon, API Docs and Fabrication Part Service

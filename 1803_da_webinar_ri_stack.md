@@ -1,11 +1,29 @@
 ---
-post_number: "1803"
-title: "Da Webinar Ri Stack"
-slug: "da_webinar_ri_stack"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'references', 'revit-api', 'schedules', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1803_da_webinar_ri_stack.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1803_da_webinar_ri_stack.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.777390'
+original_url: https://thebuildingcoder.typepad.com/blog/1803_da_webinar_ri_stack.html
+post_number: '1803'
+reading_time_minutes: 9
+series: general
+slug: da_webinar_ri_stack
+source_file: 1803_da_webinar_ri_stack.md
+tags:
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Da Webinar Ri Stack
+word_count: 1726
 ---
 
 ### Design Automation API, Stacks, Collectors and Links

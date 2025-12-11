@@ -1,11 +1,26 @@
 ---
-post_number: "0174"
-title: "Journal File Replay"
-slug: "journal_file_replay"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'levels', 'parameters', 'python', 'revit-api', 'transactions', 'windows']
-source_file: "0174_journal_file_replay.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0174_journal_file_replay.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.486912'
+original_url: https://thebuildingcoder.typepad.com/blog/0174_journal_file_replay.html
+post_number: '0174'
+reading_time_minutes: 7
+series: general
+slug: journal_file_replay
+source_file: 0174_journal_file_replay.htm
+tags:
+- csharp
+- family
+- levels
+- parameters
+- python
+- revit-api
+- transactions
+- windows
+title: Journal File Replay
+word_count: 1396
 ---
 
 ### Journal File Replay

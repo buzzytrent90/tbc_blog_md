@@ -1,11 +1,20 @@
 ---
-post_number: "0434"
-title: "Network Access to Add-In Manifest and Icons"
-slug: "addin_manifest_folder"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'windows']
-source_file: "0434_addin_manifest_folder.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0434_addin_manifest_folder.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.940081'
+original_url: https://thebuildingcoder.typepad.com/blog/0434_addin_manifest_folder.html
+post_number: '0434'
+reading_time_minutes: 4
+series: general
+slug: addin_manifest_folder
+source_file: 0434_addin_manifest_folder.htm
+tags:
+- revit-api
+- windows
+title: Network Access to Add-In Manifest and Icons
+word_count: 865
 ---
 
 ### Network Access to Add-In Manifest and Icons

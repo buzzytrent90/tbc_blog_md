@@ -1,11 +1,24 @@
 ---
-post_number: "1979"
-title: "Dark Theme"
-slug: "dark_theme"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'revit-api', 'sheets', 'windows']
-source_file: "1979_dark_theme.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1979_dark_theme.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.175645'
+original_url: https://thebuildingcoder.typepad.com/blog/1979_dark_theme.html
+post_number: '1979'
+reading_time_minutes: 5
+series: general
+slug: dark_theme
+source_file: 1979_dark_theme.md
+tags:
+- elements
+- family
+- levels
+- revit-api
+- sheets
+- windows
+title: Dark Theme
+word_count: 950
 ---
 
 ### New Roadmaps, Dark Theme Possibility Looming

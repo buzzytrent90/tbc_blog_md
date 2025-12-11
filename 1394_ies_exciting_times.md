@@ -1,11 +1,26 @@
 ---
-post_number: "1394"
-title: "Ies Exciting Times"
-slug: "ies_exciting_times"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'python', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1394_ies_exciting_times.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1394_ies_exciting_times.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.928638'
+original_url: https://thebuildingcoder.typepad.com/blog/1394_ies_exciting_times.html
+post_number: '1394'
+reading_time_minutes: 6
+series: general
+slug: ies_exciting_times
+source_file: 1394_ies_exciting_times.md
+tags:
+- csharp
+- family
+- parameters
+- python
+- revit-api
+- selection
+- sheets
+- views
+title: Ies Exciting Times
+word_count: 1200
 ---
 
 ### Loading an IES Photometric Web and Exciting Times

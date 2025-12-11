@@ -1,11 +1,20 @@
 ---
-post_number: "0457"
-title: "Cairo and Free .NET Books"
-slug: "cairo_and_net_books"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0457_cairo_and_net_books.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0457_cairo_and_net_books.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.977993'
+original_url: https://thebuildingcoder.typepad.com/blog/0457_cairo_and_net_books.html
+post_number: '0457'
+reading_time_minutes: 2
+series: general
+slug: cairo_and_net_books
+source_file: 0457_cairo_and_net_books.htm
+tags:
+- family
+- revit-api
+title: Cairo and Free .NET Books
+word_count: 365
 ---
 
 ### Cairo and Free .NET Books

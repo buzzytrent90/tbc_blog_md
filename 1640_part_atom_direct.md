@@ -1,11 +1,26 @@
 ---
-post_number: "1640"
-title: "Part Atom Direct"
-slug: "part_atom_direct"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'walls', 'windows']
-source_file: "1640_part_atom_direct.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1640_part_atom_direct.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.443379'
+original_url: https://thebuildingcoder.typepad.com/blog/1640_part_atom_direct.html
+post_number: '1640'
+reading_time_minutes: 4
+series: general
+slug: part_atom_direct
+source_file: 1640_part_atom_direct.md
+tags:
+- family
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- walls
+- windows
+title: Part Atom Direct
+word_count: 888
 ---
 
 ### Standalone BasicFileInfo and ExtractPartAtom

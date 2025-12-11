@@ -1,11 +1,29 @@
 ---
-post_number: "1634"
-title: "Lookup Search Snoop"
-slug: "lookup_search_snoop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1634_lookup_search_snoop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1634_lookup_search_snoop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: news
+optimization_date: '2025-12-11T11:44:16.432019'
+original_url: https://thebuildingcoder.typepad.com/blog/1634_lookup_search_snoop.html
+post_number: '1634'
+reading_time_minutes: 4
+series: filtering
+slug: lookup_search_snoop
+source_file: 1634_lookup_search_snoop.md
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- filtering
+title: Lookup Search Snoop
+word_count: 715
 ---
 
 ### RevitLookup Search by Element and Unique Id

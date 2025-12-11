@@ -1,11 +1,20 @@
 ---
-post_number: "0095"
-title: "Bolt out of the Red"
-slug: "bolt_out_of_the_red"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0095_bolt_out_of_the_red.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0095_bolt_out_of_the_red.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.350517'
+original_url: https://thebuildingcoder.typepad.com/blog/0095_bolt_out_of_the_red.html
+post_number: 0095
+reading_time_minutes: 1
+series: general
+slug: bolt_out_of_the_red
+source_file: 0095_bolt_out_of_the_red.htm
+tags:
+- family
+- revit-api
+title: Bolt out of the Red
+word_count: 131
 ---
 
 ### Bolt out of the Red

@@ -1,11 +1,28 @@
 ---
-post_number: "0609"
-title: "MEP Placeholders"
-slug: "mep_placeholder"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'python', 'revit-api', 'transactions', 'views']
-source_file: "0609_mep_placeholder.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0609_mep_placeholder.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.257380'
+original_url: https://thebuildingcoder.typepad.com/blog/0609_mep_placeholder.html
+post_number: 0609
+reading_time_minutes: 8
+series: mep
+slug: mep_placeholder
+source_file: 0609_mep_placeholder.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- python
+- revit-api
+- transactions
+- views
+- mep
+title: MEP Placeholders
+word_count: 1607
 ---
 
 ### MEP Placeholders

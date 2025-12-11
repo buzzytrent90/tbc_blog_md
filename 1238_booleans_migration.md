@@ -1,11 +1,27 @@
 ---
-post_number: "1238"
-title: "Migrating Deprecated API and 2D Boolean Operations"
-slug: "booleans_migration"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'selection', 'views']
-source_file: "1238_booleans_migration.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1238_booleans_migration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.580972'
+original_url: https://thebuildingcoder.typepad.com/blog/1238_booleans_migration.html
+post_number: '1238'
+reading_time_minutes: 6
+series: general
+slug: booleans_migration
+source_file: 1238_booleans_migration.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- selection
+- views
+title: Migrating Deprecated API and 2D Boolean Operations
+word_count: 1199
 ---
 
 ### Migrating Deprecated API and 2D Boolean Operations

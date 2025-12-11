@@ -1,11 +1,21 @@
 ---
-post_number: "1769"
-title: "2019 Rvt Da4r Api Survey"
-slug: "2019_rvt_da4r_api_survey"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets']
-source_file: "1769_2019_rvt_da4r_api_survey.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1769_2019_rvt_da4r_api_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.708326'
+original_url: https://thebuildingcoder.typepad.com/blog/1769_2019_rvt_da4r_api_survey.html
+post_number: '1769'
+reading_time_minutes: 1
+series: general
+slug: 2019_rvt_da4r_api_survey
+source_file: 1769_2019_rvt_da4r_api_survey.md
+tags:
+- elements
+- revit-api
+- sheets
+title: 2019 Rvt Da4r Api Survey
+word_count: 152
 ---
 
 ### Revit API and Design Automation API Survey

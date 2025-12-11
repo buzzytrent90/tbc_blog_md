@@ -1,11 +1,28 @@
 ---
-post_number: "1158"
-title: "Determine Views Displaying Given Element"
-slug: "views_displaying_elem"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'revit-api', 'rooms', 'selection', 'transactions', 'views']
-source_file: "1158_views_displaying_elem.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1158_views_displaying_elem.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.421536'
+original_url: https://thebuildingcoder.typepad.com/blog/1158_views_displaying_elem.html
+post_number: '1158'
+reading_time_minutes: 10
+series: views
+slug: views_displaying_elem
+source_file: 1158_views_displaying_elem.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+title: Determine Views Displaying Given Element
+word_count: 2021
 ---
 
 ### Determine Views Displaying Given Element

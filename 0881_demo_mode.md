@@ -1,11 +1,25 @@
 ---
-post_number: "0881"
-title: "Determine Revit Demo Mode Revisited"
-slug: "demo_mode"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'references', 'revit-api', 'views', 'windows']
-source_file: "0881_demo_mode.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0881_demo_mode.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.789195'
+original_url: https://thebuildingcoder.typepad.com/blog/0881_demo_mode.html
+post_number: 0881
+reading_time_minutes: 4
+series: general
+slug: demo_mode
+source_file: 0881_demo_mode.htm
+tags:
+- csharp
+- elements
+- levels
+- references
+- revit-api
+- views
+- windows
+title: Determine Revit Demo Mode Revisited
+word_count: 784
 ---
 
 ### Determine Revit Demo Mode Revisited

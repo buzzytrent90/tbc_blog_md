@@ -1,11 +1,25 @@
 ---
-post_number: "0698"
-title: "Export Walls and Floors to SAT"
-slug: "export_wall_floor_sat"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0698_export_wall_floor_sat.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0698_export_wall_floor_sat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.419123'
+original_url: https://thebuildingcoder.typepad.com/blog/0698_export_wall_floor_sat.html
+post_number: 0698
+reading_time_minutes: 3
+series: general
+slug: export_wall_floor_sat
+source_file: 0698_export_wall_floor_sat.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- transactions
+- views
+- walls
+title: Export Walls and Floors to SAT
+word_count: 649
 ---
 
 ### Export Walls and Floors to SAT

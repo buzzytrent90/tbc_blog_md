@@ -1,11 +1,27 @@
 ---
-post_number: "1188"
-title: "View and Data API Presentation Material"
-slug: "adva_demo_material"
-author: "Jeremy Tammik"
-tags: ['doors', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1188_adva_demo_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1188_adva_demo_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.478156'
+original_url: https://thebuildingcoder.typepad.com/blog/1188_adva_demo_material.html
+post_number: '1188'
+reading_time_minutes: 16
+series: materials
+slug: adva_demo_material
+source_file: 1188_adva_demo_material.htm
+tags:
+- doors
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- views
+- materials
+title: View and Data API Presentation Material
+word_count: 3182
 ---
 
 ### View and Data API Presentation Material

@@ -1,11 +1,28 @@
 ---
-post_number: "0314"
-title: "Object Relationships"
-slug: "object_relationship"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "0314_object_relationship.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0314_object_relationship.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.731452'
+original_url: https://thebuildingcoder.typepad.com/blog/0314_object_relationship.html
+post_number: '0314'
+reading_time_minutes: 4
+series: general
+slug: object_relationship
+source_file: 0314_object_relationship.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Object Relationships
+word_count: 831
 ---
 
 ### Object Relationships

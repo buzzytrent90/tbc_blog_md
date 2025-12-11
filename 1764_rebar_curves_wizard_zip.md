@@ -1,11 +1,28 @@
 ---
-post_number: "1764"
-title: "Rebar Curves Wizard Zip"
-slug: "rebar_curves_wizard_zip"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1764_rebar_curves_wizard_zip.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1764_rebar_curves_wizard_zip.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.698325'
+original_url: https://thebuildingcoder.typepad.com/blog/1764_rebar_curves_wizard_zip.html
+post_number: '1764'
+reading_time_minutes: 9
+series: geometry
+slug: rebar_curves_wizard_zip
+source_file: 1764_rebar_curves_wizard_zip.md
+tags:
+- csharp
+- family
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- walls
+- windows
+- geometry
+title: Rebar Curves Wizard Zip
+word_count: 1757
 ---
 
 ### Roadmap, Rebar Curves, Wizard Zip and More

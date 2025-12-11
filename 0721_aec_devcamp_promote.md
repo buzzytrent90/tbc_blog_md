@@ -1,11 +1,21 @@
 ---
-post_number: "0721"
-title: "AEC DevCamp Coming Up Again"
-slug: "aec_devcamp_promote"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'views']
-source_file: "0721_aec_devcamp_promote.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0721_aec_devcamp_promote.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.462334'
+original_url: https://thebuildingcoder.typepad.com/blog/0721_aec_devcamp_promote.html
+post_number: '0721'
+reading_time_minutes: 2
+series: general
+slug: aec_devcamp_promote
+source_file: 0721_aec_devcamp_promote.htm
+tags:
+- revit-api
+- schedules
+- views
+title: AEC DevCamp Coming Up Again
+word_count: 417
 ---
 
 ### AEC DevCamp Coming Up Again

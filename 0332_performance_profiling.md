@@ -1,11 +1,26 @@
 ---
-post_number: "0332"
-title: "Performance Profiling"
-slug: "performance_profiling"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'windows']
-source_file: "0332_performance_profiling.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0332_performance_profiling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.759280'
+original_url: https://thebuildingcoder.typepad.com/blog/0332_performance_profiling.html
+post_number: '0332'
+reading_time_minutes: 11
+series: general
+slug: performance_profiling
+source_file: 0332_performance_profiling.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- windows
+title: Performance Profiling
+word_count: 2257
 ---
 
 ### Performance Profiling

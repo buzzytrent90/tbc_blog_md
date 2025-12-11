@@ -1,11 +1,31 @@
 ---
-post_number: "1298"
-title: "IFCExportUtils Methods Determine Door and Window Area"
-slug: "door_window_area"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1298_door_window_area.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1298_door_window_area.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.711185'
+original_url: https://thebuildingcoder.typepad.com/blog/1298_door_window_area.html
+post_number: '1298'
+reading_time_minutes: 8
+series: general
+slug: door_window_area
+source_file: 1298_door_window_area.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- windows
+title: IFCExportUtils Methods Determine Door and Window Area
+word_count: 1552
 ---
 
 ### IFCExportUtils Methods Determine Door and Window Area

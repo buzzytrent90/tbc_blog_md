@@ -1,11 +1,22 @@
 ---
-post_number: "0640"
-title: "Changing the Type of Many Instances"
-slug: "changetypeid"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api']
-source_file: "0640_changetypeid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0640_changetypeid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: news
+optimization_date: '2025-12-11T11:44:14.312840'
+original_url: https://thebuildingcoder.typepad.com/blog/0640_changetypeid.html
+post_number: '0640'
+reading_time_minutes: 1
+series: transactions
+slug: changetypeid
+source_file: 0640_changetypeid.htm
+tags:
+- elements
+- family
+- revit-api
+- transactions
+title: Changing the Type of Many Instances
+word_count: 250
 ---
 
 ### Changing the Type of Many Instances

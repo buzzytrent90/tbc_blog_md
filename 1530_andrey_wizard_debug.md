@@ -1,11 +1,21 @@
 ---
-post_number: "1530"
-title: "Andrey Wizard Debug"
-slug: "andrey_wizard_debug"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets']
-source_file: "1530_andrey_wizard_debug.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1530_andrey_wizard_debug.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.229791'
+original_url: https://thebuildingcoder.typepad.com/blog/1530_andrey_wizard_debug.html
+post_number: '1530'
+reading_time_minutes: 1
+series: general
+slug: andrey_wizard_debug
+source_file: 1530_andrey_wizard_debug.md
+tags:
+- csharp
+- revit-api
+- sheets
+title: Andrey Wizard Debug
+word_count: 245
 ---
 
 ### Add-In Templates Supporting Edit and Continue

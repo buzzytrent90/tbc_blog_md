@@ -1,11 +1,31 @@
 ---
-post_number: "1381"
-title: "Au 3 Filter Delete"
-slug: "au_3_filter_delete"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1381_au_3_filter_delete.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1381_au_3_filter_delete.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.899734'
+original_url: https://thebuildingcoder.typepad.com/blog/1381_au_3_filter_delete.html
+post_number: '1381'
+reading_time_minutes: 5
+series: filtering
+slug: au_3_filter_delete
+source_file: 1381_au_3_filter_delete.md
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Au 3 Filter Delete
+word_count: 971
 ---
 
 ### AU, IoC, Banks and Not To Delete While Iterating

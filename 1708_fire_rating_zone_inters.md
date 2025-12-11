@@ -1,11 +1,34 @@
 ---
-post_number: "1708"
-title: "Fire Rating Zone Inters"
-slug: "fire_rating_zone_inters"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1708_fire_rating_zone_inters.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1708_fire_rating_zone_inters.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.573254'
+original_url: https://thebuildingcoder.typepad.com/blog/1708_fire_rating_zone_inters.html
+post_number: '1708'
+reading_time_minutes: 18
+series: general
+slug: fire_rating_zone_inters
+source_file: 1708_fire_rating_zone_inters.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Fire Rating Zone Inters
+word_count: 3565
 ---
 
 ### Fire Rating Zone Intersection

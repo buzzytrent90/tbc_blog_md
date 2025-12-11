@@ -1,11 +1,24 @@
 ---
-post_number: "0093"
-title: "Converting to Filters"
-slug: "converting_to_filters"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'revit-api']
-source_file: "0093_converting_to_filters.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0093_converting_to_filters.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.347704'
+original_url: https://thebuildingcoder.typepad.com/blog/0093_converting_to_filters.html
+post_number: 0093
+reading_time_minutes: 3
+series: filtering
+slug: converting_to_filters
+source_file: 0093_converting_to_filters.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- revit-api
+title: Converting to Filters
+word_count: 620
 ---
 
 ### Converting to Filters

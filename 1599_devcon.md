@@ -1,11 +1,20 @@
 ---
-post_number: "1599"
-title: "Devcon"
-slug: "devcon"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1599_devcon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1599_devcon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.367708'
+original_url: https://thebuildingcoder.typepad.com/blog/1599_devcon.html
+post_number: '1599'
+reading_time_minutes: 1
+series: general
+slug: devcon
+source_file: 1599_devcon.md
+tags:
+- revit-api
+- sheets
+title: Devcon
+word_count: 211
 ---
 
 ### Forge DevCon Highlights

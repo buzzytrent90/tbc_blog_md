@@ -1,11 +1,22 @@
 ---
-post_number: "0054"
-title: "Web Service"
-slug: "web_service"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'windows']
-source_file: "0054_web_service.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0054_web_service.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.293427'
+original_url: https://thebuildingcoder.typepad.com/blog/0054_web_service.html
+post_number: '0054'
+reading_time_minutes: 2
+series: general
+slug: web_service
+source_file: 0054_web_service.htm
+tags:
+- elements
+- references
+- revit-api
+- windows
+title: Web Service
+word_count: 471
 ---
 
 ### Web Service

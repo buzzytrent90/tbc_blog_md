@@ -1,11 +1,19 @@
 ---
-post_number: "0669"
-title: "Loading an Add-in With a Journal File"
-slug: "journal_addin"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0669_journal_addin.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0669_journal_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.364544'
+original_url: https://thebuildingcoder.typepad.com/blog/0669_journal_addin.html
+post_number: 0669
+reading_time_minutes: 2
+series: general
+slug: journal_addin
+source_file: 0669_journal_addin.htm
+tags:
+- revit-api
+title: Loading an Add-in With a Journal File
+word_count: 324
 ---
 
 ### Loading an Add-in With a Journal File

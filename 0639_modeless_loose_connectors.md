@@ -1,11 +1,24 @@
 ---
-post_number: "0639"
-title: "Modeless Loose Connector Navigator Update"
-slug: "modeless_loose_connectors"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api']
-source_file: "0639_modeless_loose_connectors.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0639_modeless_loose_connectors.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.311090'
+original_url: https://thebuildingcoder.typepad.com/blog/0639_modeless_loose_connectors.html
+post_number: 0639
+reading_time_minutes: 6
+series: mep
+slug: modeless_loose_connectors
+source_file: 0639_modeless_loose_connectors.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- mep
+title: Modeless Loose Connector Navigator Update
+word_count: 1120
 ---
 
 ### Modeless Loose Connector Navigator Update

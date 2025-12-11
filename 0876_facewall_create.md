@@ -1,11 +1,29 @@
 ---
-post_number: "0876"
-title: "Create FaceWall on Slanted Mass Face"
-slug: "facewall_create"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'walls']
-source_file: "0876_facewall_create.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0876_facewall_create.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.781409'
+original_url: https://thebuildingcoder.typepad.com/blog/0876_facewall_create.html
+post_number: 0876
+reading_time_minutes: 3
+series: general
+slug: facewall_create
+source_file: 0876_facewall_create.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- walls
+title: Create FaceWall on Slanted Mass Face
+word_count: 642
 ---
 
 ### Create FaceWall on Slanted Mass Face

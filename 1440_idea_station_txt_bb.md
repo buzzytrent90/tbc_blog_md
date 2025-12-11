@@ -1,11 +1,24 @@
 ---
-post_number: "1440"
-title: "Idea Station Txt Bb"
-slug: "idea_station_txt_bb"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1440_idea_station_txt_bb.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1440_idea_station_txt_bb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.030333'
+original_url: https://thebuildingcoder.typepad.com/blog/1440_idea_station_txt_bb.html
+post_number: '1440'
+reading_time_minutes: 3
+series: general
+slug: idea_station_txt_bb
+source_file: 1440_idea_station_txt_bb.md
+tags:
+- csharp
+- elements
+- revit-api
+- rooms
+- sheets
+- views
+title: Idea Station Txt Bb
+word_count: 696
 ---
 
 ### Idea Station and TextNote Bounding Box

@@ -1,11 +1,26 @@
 ---
-post_number: "1639"
-title: "Linked Inters Filt"
-slug: "linked_inters_filt"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1639_linked_inters_filt.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1639_linked_inters_filt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.441598'
+original_url: https://thebuildingcoder.typepad.com/blog/1639_linked_inters_filt.html
+post_number: '1639'
+reading_time_minutes: 7
+series: general
+slug: linked_inters_filt
+source_file: 1639_linked_inters_filt.md
+tags:
+- elements
+- filtering
+- geometry
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Linked Inters Filt
+word_count: 1303
 ---
 
 ### Using Intersection Filter with Linked File

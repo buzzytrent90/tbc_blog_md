@@ -1,11 +1,25 @@
 ---
-post_number: "1183"
-title: "Upgrading Family Files Silently, Part 2"
-slug: "silent_upgrade"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'references', 'revit-api', 'transactions', 'windows']
-source_file: "1183_silent_upgrade.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1183_silent_upgrade.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.470210'
+original_url: https://thebuildingcoder.typepad.com/blog/1183_silent_upgrade.html
+post_number: '1183'
+reading_time_minutes: 6
+series: general
+slug: silent_upgrade
+source_file: 1183_silent_upgrade.htm
+tags:
+- csharp
+- family
+- parameters
+- references
+- revit-api
+- transactions
+- windows
+title: Upgrading Family Files Silently, Part 2
+word_count: 1276
 ---
 
 ### Upgrading Family Files Silently, Part 2

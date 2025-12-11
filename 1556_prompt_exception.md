@@ -1,11 +1,25 @@
 ---
-post_number: "1556"
-title: "Prompt Exception"
-slug: "prompt_exception"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1556_prompt_exception.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1556_prompt_exception.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.282627'
+original_url: https://thebuildingcoder.typepad.com/blog/1556_prompt_exception.html
+post_number: '1556'
+reading_time_minutes: 6
+series: general
+slug: prompt_exception
+source_file: 1556_prompt_exception.md
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Prompt Exception
+word_count: 1156
 ---
 
 ### Prompt Cancel Throws Exception in Revit 2018

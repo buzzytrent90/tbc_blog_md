@@ -1,11 +1,29 @@
 ---
-post_number: "1449"
-title: "The Building Coder"
-slug: "traverse_mep_system"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1449_traverse_mep_system.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1449_traverse_mep_system.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.045731'
+original_url: https://thebuildingcoder.typepad.com/blog/1449_traverse_mep_system.html
+post_number: '1449'
+reading_time_minutes: 6
+series: mep
+slug: traverse_mep_system
+source_file: 1449_traverse_mep_system.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- mep
+title: The Building Coder
+word_count: 1292
 ---
 
 ### Traversing and Exporting all MEP System Graphs

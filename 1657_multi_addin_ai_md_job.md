@@ -1,11 +1,22 @@
 ---
-post_number: "1657"
-title: "Multi Addin Ai Md Job"
-slug: "multi_addin_ai_md_job"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets', 'views']
-source_file: "1657_multi_addin_ai_md_job.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1657_multi_addin_ai_md_job.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.476014'
+original_url: https://thebuildingcoder.typepad.com/blog/1657_multi_addin_ai_md_job.html
+post_number: '1657'
+reading_time_minutes: 4
+series: general
+slug: multi_addin_ai_md_job
+source_file: 1657_multi_addin_ai_md_job.md
+tags:
+- references
+- revit-api
+- sheets
+- views
+title: Multi Addin Ai Md Job
+word_count: 708
 ---
 
 ### Multi-Target Add-Ins, AI, Markdown and Job Offer

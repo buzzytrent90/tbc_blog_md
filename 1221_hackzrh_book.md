@@ -1,11 +1,20 @@
 ---
-post_number: "1221"
-title: "Hackzurich, Fluelisee, Memento, Jobs and Books"
-slug: "hackzrh_book"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1221_hackzrh_book.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1221_hackzrh_book.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.539048'
+original_url: https://thebuildingcoder.typepad.com/blog/1221_hackzrh_book.html
+post_number: '1221'
+reading_time_minutes: 3
+series: general
+slug: hackzrh_book
+source_file: 1221_hackzrh_book.htm
+tags:
+- revit-api
+- views
+title: Hackzurich, Fluelisee, Memento, Jobs and Books
+word_count: 536
 ---
 
 ### Hackzurich, Fluelisee, Memento, Jobs and Books

@@ -1,11 +1,24 @@
 ---
-post_number: "0819"
-title: "IFC GUID Generation and Uniqueness"
-slug: "ifc_guid"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'levels', 'revit-api', 'rooms', 'walls']
-source_file: "0819_ifc_guid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0819_ifc_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.659727'
+original_url: https://thebuildingcoder.typepad.com/blog/0819_ifc_guid.html
+post_number: 0819
+reading_time_minutes: 5
+series: general
+slug: ifc_guid
+source_file: 0819_ifc_guid.htm
+tags:
+- doors
+- elements
+- levels
+- revit-api
+- rooms
+- walls
+title: IFC GUID Generation and Uniqueness
+word_count: 1024
 ---
 
 ### IFC GUID Generation and Uniqueness

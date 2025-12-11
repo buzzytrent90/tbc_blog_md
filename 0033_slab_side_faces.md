@@ -1,11 +1,23 @@
 ---
-post_number: "0033"
-title: "Slab Side Faces"
-slug: "slab_side_faces"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'selection']
-source_file: "0033_slab_side_faces.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0033_slab_side_faces.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.263750'
+original_url: https://thebuildingcoder.typepad.com/blog/0033_slab_side_faces.html
+post_number: '0033'
+reading_time_minutes: 5
+series: general
+slug: slab_side_faces
+source_file: 0033_slab_side_faces.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- selection
+title: Slab Side Faces
+word_count: 952
 ---
 
 ### Slab Side Faces

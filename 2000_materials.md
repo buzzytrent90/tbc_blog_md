@@ -1,11 +1,32 @@
 ---
-post_number: "2000"
-title: "Materials"
-slug: "materials"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'schedules', 'sheets', 'vbnet', 'views', 'walls', 'windows']
-source_file: "2000_materials.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2000_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.237953'
+original_url: https://thebuildingcoder.typepad.com/blog/2000_materials.html
+post_number: '2000'
+reading_time_minutes: 13
+series: materials
+slug: materials
+source_file: 2000_materials.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- schedules
+- sheets
+- vbnet
+- views
+- walls
+- windows
+- materials
+title: Materials
+word_count: 2627
 ---
 
 ### RBP, Materials, Assets and the Visual API

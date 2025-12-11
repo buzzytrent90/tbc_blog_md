@@ -1,11 +1,28 @@
 ---
-post_number: "1227"
-title: "Worksharing and Duplicating Element Geometry"
-slug: "worksharing_dupl_geom"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1227_worksharing_dupl_geom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1227_worksharing_dupl_geom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.555055'
+original_url: https://thebuildingcoder.typepad.com/blog/1227_worksharing_dupl_geom.html
+post_number: '1227'
+reading_time_minutes: 11
+series: general
+slug: worksharing_dupl_geom
+source_file: 1227_worksharing_dupl_geom.htm
+tags:
+- doors
+- elements
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Worksharing and Duplicating Element Geometry
+word_count: 2284
 ---
 
 ### Worksharing and Duplicating Element Geometry

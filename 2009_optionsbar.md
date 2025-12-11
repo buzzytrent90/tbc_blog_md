@@ -1,11 +1,31 @@
 ---
-post_number: "2009"
-title: "Optionsbar"
-slug: "optionsbar"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "2009_optionsbar.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2009_optionsbar.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.261926'
+original_url: https://thebuildingcoder.typepad.com/blog/2009_optionsbar.html
+post_number: '2009'
+reading_time_minutes: 9
+series: general
+slug: optionsbar
+source_file: 2009_optionsbar.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Optionsbar
+word_count: 1814
 ---
 
 ### OptionsBar and Bye Bye to DA4R 2018

@@ -1,11 +1,20 @@
 ---
-post_number: "0226"
-title: "Unit Suffix and the ProjectUnit SDK Sample"
-slug: "unit_suffix"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api']
-source_file: "0226_unit_suffix.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0226_unit_suffix.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.583256'
+original_url: https://thebuildingcoder.typepad.com/blog/0226_unit_suffix.html
+post_number: '0226'
+reading_time_minutes: 6
+series: general
+slug: unit_suffix
+source_file: 0226_unit_suffix.htm
+tags:
+- parameters
+- revit-api
+title: Unit Suffix and the ProjectUnit SDK Sample
+word_count: 1204
 ---
 
 ### Unit Suffix and the ProjectUnit SDK Sample

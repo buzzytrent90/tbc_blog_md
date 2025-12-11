@@ -1,11 +1,21 @@
 ---
-post_number: "0083"
-title: "Use F# Directly in Revit"
-slug: "f_sharp_directly"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api']
-source_file: "0083_f_sharp_directly.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0083_f_sharp_directly.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.333135'
+original_url: https://thebuildingcoder.typepad.com/blog/0083_f_sharp_directly.html
+post_number: 0083
+reading_time_minutes: 3
+series: general
+slug: f_sharp_directly
+source_file: 0083_f_sharp_directly.htm
+tags:
+- csharp
+- elements
+- revit-api
+title: Use F# Directly in Revit
+word_count: 663
 ---
 
 ### Use F# Directly in Revit

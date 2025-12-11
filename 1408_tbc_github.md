@@ -1,11 +1,25 @@
 ---
-post_number: "1408"
-title: "Tbc Github"
-slug: "tbc_github"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'python', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1408_tbc_github.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1408_tbc_github.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.956519'
+original_url: https://thebuildingcoder.typepad.com/blog/1408_tbc_github.html
+post_number: '1408'
+reading_time_minutes: 7
+series: general
+slug: tbc_github
+source_file: 1408_tbc_github.md
+tags:
+- csharp
+- levels
+- python
+- revit-api
+- sheets
+- views
+- walls
+title: Tbc Github
+word_count: 1371
 ---
 
 ### tbc – The Building Coder Source and Index on GitHub

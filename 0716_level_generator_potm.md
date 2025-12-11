@@ -1,11 +1,23 @@
 ---
-post_number: "0716"
-title: "Level Generator ADN Plugin of the Month"
-slug: "level_generator_potm"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0716_level_generator_potm.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0716_level_generator_potm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.453992'
+original_url: https://thebuildingcoder.typepad.com/blog/0716_level_generator_potm.html
+post_number: '0716'
+reading_time_minutes: 2
+series: general
+slug: level_generator_potm
+source_file: 0716_level_generator_potm.htm
+tags:
+- levels
+- revit-api
+- rooms
+- views
+- walls
+title: Level Generator ADN Plugin of the Month
+word_count: 488
 ---
 
 ### Level Generator ADN Plugin of the Month

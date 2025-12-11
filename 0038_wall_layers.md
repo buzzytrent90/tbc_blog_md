@@ -1,11 +1,27 @@
 ---
-post_number: "0038"
-title: "Wall Compound Layers"
-slug: "wall_layers"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0038_wall_layers.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0038_wall_layers.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.270860'
+original_url: https://thebuildingcoder.typepad.com/blog/0038_wall_layers.html
+post_number: 0038
+reading_time_minutes: 7
+series: general
+slug: wall_layers
+source_file: 0038_wall_layers.htm
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: Wall Compound Layers
+word_count: 1320
 ---
 
 ### Wall Compound Layers

@@ -1,11 +1,21 @@
 ---
-post_number: "0965"
-title: "The ADN Sample AdnRme for Revit MEP 2014"
-slug: "adn_migr_2014_mep"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api']
-source_file: "0965_adn_migr_2014_mep.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0965_adn_migr_2014_mep.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: news
+optimization_date: '2025-12-11T11:44:15.007356'
+original_url: https://thebuildingcoder.typepad.com/blog/0965_adn_migr_2014_mep.html
+post_number: 0965
+reading_time_minutes: 1
+series: mep
+slug: adn_migr_2014_mep
+source_file: 0965_adn_migr_2014_mep.htm
+tags:
+- references
+- revit-api
+- mep
+title: The ADN Sample AdnRme for Revit MEP 2014
+word_count: 257
 ---
 
 ### The ADN Sample AdnRme for Revit MEP 2014

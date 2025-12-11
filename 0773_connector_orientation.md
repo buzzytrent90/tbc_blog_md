@@ -1,11 +1,24 @@
 ---
-post_number: "0773"
-title: "Connector Orientation"
-slug: "connector_orientation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'revit-api', 'walls']
-source_file: "0773_connector_orientation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0773_connector_orientation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.564001'
+original_url: https://thebuildingcoder.typepad.com/blog/0773_connector_orientation.html
+post_number: '0773'
+reading_time_minutes: 3
+series: mep
+slug: connector_orientation
+source_file: 0773_connector_orientation.htm
+tags:
+- csharp
+- family
+- geometry
+- revit-api
+- walls
+- mep
+title: Connector Orientation
+word_count: 646
 ---
 
 ### Connector Orientation

@@ -1,11 +1,28 @@
 ---
-post_number: "2019"
-title: "Bridge Test"
-slug: "cefsharp_roundtrip"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "2019_cefsharp_roundtrip.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2019_cefsharp_roundtrip.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.287466'
+original_url: https://thebuildingcoder.typepad.com/blog/2019_cefsharp_roundtrip.html
+post_number: '2019'
+reading_time_minutes: 10
+series: general
+slug: cefsharp_roundtrip
+source_file: 2019_cefsharp_roundtrip.md
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Bridge Test
+word_count: 1967
 ---
 
 ### 3D View, Curved Section and Browser Round-Trip

@@ -1,11 +1,22 @@
 ---
-post_number: "0802"
-title: "View of NewGroup Duplicated Elements"
-slug: "new_group_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'views']
-source_file: "0802_new_group_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0802_new_group_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.622234'
+original_url: https://thebuildingcoder.typepad.com/blog/0802_new_group_view.html
+post_number: 0802
+reading_time_minutes: 1
+series: views
+slug: new_group_view
+source_file: 0802_new_group_view.htm
+tags:
+- csharp
+- elements
+- revit-api
+- views
+title: View of NewGroup Duplicated Elements
+word_count: 230
 ---
 
 ### View of NewGroup Duplicated Elements

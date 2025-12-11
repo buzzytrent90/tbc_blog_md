@@ -1,11 +1,29 @@
 ---
-post_number: "0025"
-title: "Element Materials"
-slug: "element_materials"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0025_element_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0025_element_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.248482'
+original_url: https://thebuildingcoder.typepad.com/blog/0025_element_materials.html
+post_number: '0025'
+reading_time_minutes: 3
+series: elements
+slug: element_materials
+source_file: 0025_element_materials.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: Element Materials
+word_count: 652
 ---
 
 ### Element Materials

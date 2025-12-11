@@ -1,11 +1,23 @@
 ---
-post_number: "1312"
-title: "Add-in Migration to Revit 2016 and Updated Wizards"
-slug: "addin_wizard_2016"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'vbnet', 'views']
-source_file: "1312_addin_wizard_2016.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1312_addin_wizard_2016.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.746149'
+original_url: https://thebuildingcoder.typepad.com/blog/1312_addin_wizard_2016.html
+post_number: '1312'
+reading_time_minutes: 7
+series: general
+slug: addin_wizard_2016
+source_file: 1312_addin_wizard_2016.htm
+tags:
+- csharp
+- references
+- revit-api
+- vbnet
+- views
+title: Add-in Migration to Revit 2016 and Updated Wizards
+word_count: 1315
 ---
 
 ### Add-in Migration to Revit 2016 and Updated Wizards

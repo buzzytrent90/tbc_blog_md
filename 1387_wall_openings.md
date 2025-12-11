@@ -1,11 +1,33 @@
 ---
-post_number: "1387"
-title: "Wall Openings"
-slug: "wall_openings"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1387_wall_openings.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1387_wall_openings.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.912257'
+original_url: https://thebuildingcoder.typepad.com/blog/1387_wall_openings.html
+post_number: '1387'
+reading_time_minutes: 14
+series: general
+slug: wall_openings
+source_file: 1387_wall_openings.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Wall Openings
+word_count: 2737
 ---
 
 ### Retrieving Wall Openings and Sorting Points

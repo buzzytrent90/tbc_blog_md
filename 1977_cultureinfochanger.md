@@ -1,11 +1,25 @@
 ---
-post_number: "1977"
-title: "Cultureinfochanger"
-slug: "cultureinfochanger"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1977_cultureinfochanger.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1977_cultureinfochanger.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.172609'
+original_url: https://thebuildingcoder.typepad.com/blog/1977_cultureinfochanger.html
+post_number: '1977'
+reading_time_minutes: 5
+series: transactions
+slug: cultureinfochanger
+source_file: 1977_cultureinfochanger.md
+tags:
+- csharp
+- family
+- python
+- revit-api
+- sheets
+- views
+- transactions
+title: Cultureinfochanger
+word_count: 989
 ---
 
 ### CultureInfoChanger and IronPython3

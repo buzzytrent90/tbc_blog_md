@@ -1,11 +1,25 @@
 ---
-post_number: "1804"
-title: "Combine Edges"
-slug: "combine_edges"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'transactions']
-source_file: "1804_combine_edges.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1804_combine_edges.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.779373'
+original_url: https://thebuildingcoder.typepad.com/blog/1804_combine_edges.html
+post_number: '1804'
+reading_time_minutes: 6
+series: geometry
+slug: combine_edges
+source_file: 1804_combine_edges.md
+tags:
+- family
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- transactions
+title: Combine Edges
+word_count: 1158
 ---
 
 ### Cyrillic Lookup, Moving Grids and Combining Edges

@@ -1,11 +1,28 @@
 ---
-post_number: "1577"
-title: "Forge Ids Install"
-slug: "forge_ids_install"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'levels', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1577_forge_ids_install.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1577_forge_ids_install.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.324545'
+original_url: https://thebuildingcoder.typepad.com/blog/1577_forge_ids_install.html
+post_number: '1577'
+reading_time_minutes: 10
+series: general
+slug: forge_ids_install
+source_file: 1577_forge_ids_install.md
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- levels
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Forge Ids Install
+word_count: 1952
 ---
 
 ### Revit versus Forge, Ids and Add-In Installation

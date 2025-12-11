@@ -1,11 +1,23 @@
 ---
-post_number: "0514"
-title: "Subscribing to UI Automation Events"
-slug: "ui_automation_events"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'rooms', 'walls', 'windows']
-source_file: "0514_ui_automation_events.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0514_ui_automation_events.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.084183'
+original_url: https://thebuildingcoder.typepad.com/blog/0514_ui_automation_events.html
+post_number: '0514'
+reading_time_minutes: 2
+series: general
+slug: ui_automation_events
+source_file: 0514_ui_automation_events.htm
+tags:
+- family
+- revit-api
+- rooms
+- walls
+- windows
+title: Subscribing to UI Automation Events
+word_count: 390
 ---
 
 ### Subscribing to UI Automation Events

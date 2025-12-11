@@ -1,11 +1,25 @@
 ---
-post_number: "0925"
-title: "Handy Utility Classes"
-slug: "handy_utils"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'walls']
-source_file: "0925_handy_utils.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0925_handy_utils.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.907530'
+original_url: https://thebuildingcoder.typepad.com/blog/0925_handy_utils.html
+post_number: 0925
+reading_time_minutes: 2
+series: general
+slug: handy_utils
+source_file: 0925_handy_utils.htm
+tags:
+- elements
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- walls
+title: Handy Utility Classes
+word_count: 374
 ---
 
 ### Handy Utility Classes

@@ -1,11 +1,22 @@
 ---
-post_number: "1723"
-title: "Add Template Ini File"
-slug: "add_template_ini_file"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views', 'windows']
-source_file: "1723_add_template_ini_file.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1723_add_template_ini_file.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.608114'
+original_url: https://thebuildingcoder.typepad.com/blog/1723_add_template_ini_file.html
+post_number: '1723'
+reading_time_minutes: 1
+series: general
+slug: add_template_ini_file
+source_file: 1723_add_template_ini_file.md
+tags:
+- revit-api
+- sheets
+- views
+- windows
+title: Add Template Ini File
+word_count: 277
 ---
 
 ### Accessing and Modifying Settings in the Ini File

@@ -1,11 +1,23 @@
 ---
-post_number: "0008"
-title: "Debugging a Revit Add-In"
-slug: "debugging"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'vbnet']
-source_file: "0008_debugging.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0008_debugging.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.220661'
+original_url: https://thebuildingcoder.typepad.com/blog/0008_debugging.html
+post_number: 0008
+reading_time_minutes: 7
+series: general
+slug: debugging
+source_file: 0008_debugging.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- vbnet
+title: Debugging a Revit Add-In
+word_count: 1460
 ---
 
 ### Debugging a Revit Add-In

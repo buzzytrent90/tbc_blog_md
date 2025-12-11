@@ -1,11 +1,21 @@
 ---
-post_number: "1124"
-title: "Automating Large Scale Waste Recycling and Sustainability"
-slug: "waste_sustainabilty"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'walls', 'windows']
-source_file: "1124_waste_sustainabilty.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1124_waste_sustainabilty.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.349041'
+original_url: https://thebuildingcoder.typepad.com/blog/1124_waste_sustainabilty.html
+post_number: '1124'
+reading_time_minutes: 3
+series: general
+slug: waste_sustainabilty
+source_file: 1124_waste_sustainabilty.htm
+tags:
+- revit-api
+- walls
+- windows
+title: Automating Large Scale Waste Recycling and Sustainability
+word_count: 592
 ---
 
 ### Automating Large Scale Waste Recycling and Sustainability

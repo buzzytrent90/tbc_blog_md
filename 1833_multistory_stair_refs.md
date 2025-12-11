@@ -1,11 +1,26 @@
 ---
-post_number: "1833"
-title: "Multistory Stair Refs"
-slug: "multistory_stair_refs"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1833_multistory_stair_refs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1833_multistory_stair_refs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.841432'
+original_url: https://thebuildingcoder.typepad.com/blog/1833_multistory_stair_refs.html
+post_number: '1833'
+reading_time_minutes: 7
+series: general
+slug: multistory_stair_refs
+source_file: 1833_multistory_stair_refs.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- sheets
+- views
+title: Multistory Stair Refs
+word_count: 1379
 ---
 
 ### Multistory Stair Point References, BIM360 Project Users, Zoom and Jobs

@@ -1,11 +1,19 @@
 ---
-post_number: "1060"
-title: "Revit 2014 Developer Guide PDF"
-slug: "developer_guide_pdf"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1060_developer_guide_pdf.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1060_developer_guide_pdf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: news
+optimization_date: '2025-12-11T11:44:15.217011'
+original_url: https://thebuildingcoder.typepad.com/blog/1060_developer_guide_pdf.html
+post_number: '1060'
+reading_time_minutes: 1
+series: general
+slug: developer_guide_pdf
+source_file: 1060_developer_guide_pdf.htm
+tags:
+- revit-api
+title: Revit 2014 Developer Guide PDF
+word_count: 171
 ---
 
 ### Revit 2014 Developer Guide PDF

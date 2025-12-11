@@ -1,11 +1,21 @@
 ---
-post_number: "0638"
-title: "Locking the Add-Ins Ribbon Tab"
-slug: "lock_addin_ribbon_tab"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'selection']
-source_file: "0638_lock_addin_ribbon_tab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0638_lock_addin_ribbon_tab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.309268'
+original_url: https://thebuildingcoder.typepad.com/blog/0638_lock_addin_ribbon_tab.html
+post_number: 0638
+reading_time_minutes: 1
+series: general
+slug: lock_addin_ribbon_tab
+source_file: 0638_lock_addin_ribbon_tab.htm
+tags:
+- elements
+- revit-api
+- selection
+title: Locking the Add-Ins Ribbon Tab
+word_count: 147
 ---
 
 ### Locking the Add-Ins Ribbon Tab

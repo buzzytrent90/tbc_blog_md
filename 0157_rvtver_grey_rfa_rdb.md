@@ -1,11 +1,25 @@
 ---
-post_number: "0157"
-title: "RFA Version, Grey Commands, Family Context and RDB Link"
-slug: "rvtver_grey_rfa_rdb"
-author: "Jeremy Tammik"
-tags: ['doors', 'family', 'revit-api', 'schedules', 'selection', 'views', 'windows']
-source_file: "0157_rvtver_grey_rfa_rdb.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0157_rvtver_grey_rfa_rdb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.457650'
+original_url: https://thebuildingcoder.typepad.com/blog/0157_rvtver_grey_rfa_rdb.html
+post_number: '0157'
+reading_time_minutes: 3
+series: family
+slug: rvtver_grey_rfa_rdb
+source_file: 0157_rvtver_grey_rfa_rdb.htm
+tags:
+- doors
+- family
+- revit-api
+- schedules
+- selection
+- views
+- windows
+title: RFA Version, Grey Commands, Family Context and RDB Link
+word_count: 652
 ---
 
 ### RFA Version, Grey Commands, Family Context and RDB Link

@@ -1,11 +1,22 @@
 ---
-post_number: "1788"
-title: "Testrunner"
-slug: "testrunner"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets', 'views']
-source_file: "1788_testrunner.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1788_testrunner.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.747457'
+original_url: https://thebuildingcoder.typepad.com/blog/1788_testrunner.html
+post_number: '1788'
+reading_time_minutes: 5
+series: general
+slug: testrunner
+source_file: 1788_testrunner.md
+tags:
+- references
+- revit-api
+- sheets
+- views
+title: Testrunner
+word_count: 939
 ---
 
 ### TestRunner – Run Unit Tests in Revit

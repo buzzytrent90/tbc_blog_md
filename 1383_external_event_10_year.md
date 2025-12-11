@@ -1,11 +1,27 @@
 ---
-post_number: "1383"
-title: "External Event 10 Year"
-slug: "external_event_10_year"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'python', 'revit-api', 'rooms', 'sheets', 'transactions', 'views']
-source_file: "1383_external_event_10_year.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1383_external_event_10_year.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.904199'
+original_url: https://thebuildingcoder.typepad.com/blog/1383_external_event_10_year.html
+post_number: '1383'
+reading_time_minutes: 6
+series: general
+slug: external_event_10_year
+source_file: 1383_external_event_10_year.md
+tags:
+- csharp
+- elements
+- geometry
+- python
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+title: External Event 10 Year
+word_count: 1114
 ---
 
 ### External Events and 10 Year Forum Anniversary

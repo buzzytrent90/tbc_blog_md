@@ -1,11 +1,23 @@
 ---
-post_number: "1023"
-title: "How to Save a Solid to a File"
-slug: "save_solid_to_file"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'revit-api', 'views']
-source_file: "1023_save_solid_to_file.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1023_save_solid_to_file.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.144369'
+original_url: https://thebuildingcoder.typepad.com/blog/1023_save_solid_to_file.html
+post_number: '1023'
+reading_time_minutes: 2
+series: general
+slug: save_solid_to_file
+source_file: 1023_save_solid_to_file.htm
+tags:
+- elements
+- family
+- geometry
+- revit-api
+- views
+title: How to Save a Solid to a File
+word_count: 362
 ---
 
 ### How to Save a Solid to a File

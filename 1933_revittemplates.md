@@ -1,11 +1,24 @@
 ---
-post_number: "1933"
-title: "Revittemplates"
-slug: "revittemplates"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'sheets', 'transactions', 'windows']
-source_file: "1933_revittemplates.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1933_revittemplates.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.075230'
+original_url: https://thebuildingcoder.typepad.com/blog/1933_revittemplates.html
+post_number: '1933'
+reading_time_minutes: 2
+series: general
+slug: revittemplates
+source_file: 1933_revittemplates.md
+tags:
+- csharp
+- parameters
+- revit-api
+- sheets
+- transactions
+- windows
+title: Revittemplates
+word_count: 383
 ---
 
 ### RevitTemplates Update 1.7.0

@@ -1,11 +1,24 @@
 ---
-post_number: "0149"
-title: "Creating a Slanted Column"
-slug: "slanted_column"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'revit-api']
-source_file: "0149_slanted_column.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0149_slanted_column.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.446205'
+original_url: https://thebuildingcoder.typepad.com/blog/0149_slanted_column.html
+post_number: 0149
+reading_time_minutes: 4
+series: structural
+slug: slanted_column
+source_file: 0149_slanted_column.htm
+tags:
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- structural
+title: Creating a Slanted Column
+word_count: 716
 ---
 
 ### Creating a Slanted Column

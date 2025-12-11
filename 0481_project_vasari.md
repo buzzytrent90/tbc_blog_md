@@ -1,11 +1,24 @@
 ---
-post_number: "0481"
-title: "Autodesk Project Vasari"
-slug: "project_vasari"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0481_project_vasari.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0481_project_vasari.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.021192'
+original_url: https://thebuildingcoder.typepad.com/blog/0481_project_vasari.html
+post_number: 0481
+reading_time_minutes: 1
+series: general
+slug: project_vasari
+source_file: 0481_project_vasari.htm
+tags:
+- doors
+- elements
+- revit-api
+- views
+- walls
+- windows
+title: Autodesk Project Vasari
+word_count: 252
 ---
 
 ### Autodesk Project Vasari

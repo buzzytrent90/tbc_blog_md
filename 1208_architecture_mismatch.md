@@ -1,11 +1,20 @@
 ---
-post_number: "1208"
-title: "Architecture Mismatch Warning Disabler Update"
-slug: "architecture_mismatch"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api']
-source_file: "1208_architecture_mismatch.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1208_architecture_mismatch.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: news
+optimization_date: '2025-12-11T11:44:15.512282'
+original_url: https://thebuildingcoder.typepad.com/blog/1208_architecture_mismatch.html
+post_number: '1208'
+reading_time_minutes: 1
+series: general
+slug: architecture_mismatch
+source_file: 1208_architecture_mismatch.htm
+tags:
+- csharp
+- revit-api
+title: Architecture Mismatch Warning Disabler Update
+word_count: 235
 ---
 
 ### Architecture Mismatch Warning Disabler Update

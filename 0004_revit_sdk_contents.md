@@ -1,11 +1,23 @@
 ---
-post_number: "0004"
-title: "The Revit SDK Contents"
-slug: "revit_sdk_contents"
-author: "Jeremy Tammik"
-tags: ['family', 'levels', 'revit-api', 'sheets', 'views']
-source_file: "0004_revit_sdk_contents.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0004_revit_sdk_contents.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.213293'
+original_url: https://thebuildingcoder.typepad.com/blog/0004_revit_sdk_contents.html
+post_number: '0004'
+reading_time_minutes: 4
+series: general
+slug: revit_sdk_contents
+source_file: 0004_revit_sdk_contents.htm
+tags:
+- family
+- levels
+- revit-api
+- sheets
+- views
+title: The Revit SDK Contents
+word_count: 845
 ---
 
 ### The Revit SDK Contents

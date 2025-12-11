@@ -1,11 +1,22 @@
 ---
-post_number: "0909"
-title: "Units and RevitLookup"
-slug: "units_revitlookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'views']
-source_file: "0909_units_revitlookup.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0909_units_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.866979'
+original_url: https://thebuildingcoder.typepad.com/blog/0909_units_revitlookup.html
+post_number: 0909
+reading_time_minutes: 3
+series: general
+slug: units_revitlookup
+source_file: 0909_units_revitlookup.htm
+tags:
+- elements
+- parameters
+- revit-api
+- views
+title: Units and RevitLookup
+word_count: 538
 ---
 
 ### Units and RevitLookup

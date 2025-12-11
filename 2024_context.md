@@ -1,11 +1,28 @@
 ---
-post_number: "2024"
-title: "Context"
-slug: "context"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "2024_context.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2024_context.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.299273'
+original_url: https://thebuildingcoder.typepad.com/blog/2024_context.html
+post_number: '2024'
+reading_time_minutes: 13
+series: general
+slug: context
+source_file: 2024_context.md
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Context
+word_count: 2622
 ---
 
 ### Valid Revit API Context, LLM and LTG

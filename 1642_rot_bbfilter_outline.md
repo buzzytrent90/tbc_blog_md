@@ -1,11 +1,24 @@
 ---
-post_number: "1642"
-title: "Rot Bbfilter Outline"
-slug: "rot_bbfilter_outline"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1642_rot_bbfilter_outline.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1642_rot_bbfilter_outline.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.446798'
+original_url: https://thebuildingcoder.typepad.com/blog/1642_rot_bbfilter_outline.html
+post_number: '1642'
+reading_time_minutes: 3
+series: filtering
+slug: rot_bbfilter_outline
+source_file: 1642_rot_bbfilter_outline.md
+tags:
+- elements
+- filtering
+- revit-api
+- selection
+- sheets
+- views
+title: Rot Bbfilter Outline
+word_count: 507
 ---
 
 ### Bounding Box Filter is Always Axis Aligned

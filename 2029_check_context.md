@@ -1,11 +1,25 @@
 ---
-post_number: "2029"
-title: "Check Context"
-slug: "check_context"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "2029_check_context.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2029_check_context.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.312955'
+original_url: https://thebuildingcoder.typepad.com/blog/2029_check_context.html
+post_number: '2029'
+reading_time_minutes: 4
+series: general
+slug: check_context
+source_file: 2029_check_context.md
+tags:
+- csharp
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Check Context
+word_count: 746
 ---
 
 ### API Context, Input State and DA4R Debugging

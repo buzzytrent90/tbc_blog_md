@@ -1,11 +1,29 @@
 ---
-post_number: "1478"
-title: "The Building Coder"
-slug: "roomedit3d_broadcast"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1478_roomedit3d_broadcast.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1478_roomedit3d_broadcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.117420'
+original_url: https://thebuildingcoder.typepad.com/blog/1478_roomedit3d_broadcast.html
+post_number: '1478'
+reading_time_minutes: 4
+series: general
+slug: roomedit3d_broadcast
+source_file: 1478_roomedit3d_broadcast.md
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- windows
+title: The Building Coder
+word_count: 804
 ---
 
 ### Retrieving and Broadcasting the Roomedit3dv3 Translation

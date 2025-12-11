@@ -1,11 +1,28 @@
 ---
-post_number: "0016"
-title: "Relationship Inverter"
-slug: "relationship_inverter"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'walls', 'windows']
-source_file: "0016_relationship_inverter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0016_relationship_inverter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.234797'
+original_url: https://thebuildingcoder.typepad.com/blog/0016_relationship_inverter.html
+post_number: '0016'
+reading_time_minutes: 6
+series: general
+slug: relationship_inverter
+source_file: 0016_relationship_inverter.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- walls
+- windows
+title: Relationship Inverter
+word_count: 1169
 ---
 
 ### Relationship Inverter

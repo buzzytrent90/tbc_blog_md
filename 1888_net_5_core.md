@@ -1,11 +1,27 @@
 ---
-post_number: "1888"
-title: "Net 5 Core"
-slug: "net_5_core"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'references', 'revit-api', 'sheets', 'vbnet', 'views']
-source_file: "1888_net_5_core.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1888_net_5_core.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.969677'
+original_url: https://thebuildingcoder.typepad.com/blog/1888_net_5_core.html
+post_number: '1888'
+reading_time_minutes: 9
+series: general
+slug: net_5_core
+source_file: 1888_net_5_core.md
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- references
+- revit-api
+- sheets
+- vbnet
+- views
+title: Net 5 Core
+word_count: 1783
 ---
 
 ### Face Triangulation LOD, .NET 5 and Core

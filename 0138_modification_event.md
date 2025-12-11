@@ -1,11 +1,25 @@
 ---
-post_number: "0138"
-title: "Document Modification in an Event"
-slug: "modification_event"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'revit-api', 'schedules', 'transactions']
-source_file: "0138_modification_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0138_modification_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.425326'
+original_url: https://thebuildingcoder.typepad.com/blog/0138_modification_event.html
+post_number: 0138
+reading_time_minutes: 5
+series: general
+slug: modification_event
+source_file: 0138_modification_event.htm
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- revit-api
+- schedules
+- transactions
+title: Document Modification in an Event
+word_count: 1069
 ---
 
 ### Document Modification in an Event

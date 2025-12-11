@@ -1,11 +1,25 @@
 ---
-post_number: "1555"
-title: "Modeless"
-slug: "modeless"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1555_modeless.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1555_modeless.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.280565'
+original_url: https://thebuildingcoder.typepad.com/blog/1555_modeless.html
+post_number: '1555'
+reading_time_minutes: 5
+series: general
+slug: modeless
+source_file: 1555_modeless.md
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- sheets
+- views
+- windows
+title: Modeless
+word_count: 1003
 ---
 
 ### External Access to the Revit API

@@ -1,11 +1,26 @@
 ---
-post_number: "1326"
-title: "Revit 2016 SP1 and Sheets Missing from Print Dialogue"
-slug: "2016_sp1_print_sheets"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1326_2016_sp1_print_sheets.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1326_2016_sp1_print_sheets.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.777833'
+original_url: https://thebuildingcoder.typepad.com/blog/1326_2016_sp1_print_sheets.html
+post_number: '1326'
+reading_time_minutes: 8
+series: views
+slug: 2016_sp1_print_sheets
+source_file: 1326_2016_sp1_print_sheets.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Revit 2016 SP1 and Sheets Missing from Print Dialogue
+word_count: 1613
 ---
 
 ### Revit 2016 SP1 and Sheets Missing from Print Dialogue

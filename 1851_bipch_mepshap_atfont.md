@@ -1,11 +1,29 @@
 ---
-post_number: "1851"
-title: "Bipch Mepshap Atfont"
-slug: "bipch_mepshap_atfont"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1851_bipch_mepshap_atfont.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1851_bipch_mepshap_atfont.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.891875'
+original_url: https://thebuildingcoder.typepad.com/blog/1851_bipch_mepshap_atfont.html
+post_number: '1851'
+reading_time_minutes: 10
+series: mep
+slug: bipch_mepshap_atfont
+source_file: 1851_bipch_mepshap_atfont.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- windows
+- mep
+title: Bipch Mepshap Atfont
+word_count: 2072
 ---
 
 ### Duct Shape, BipChecker Facelift and @ Fonts

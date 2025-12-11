@@ -1,11 +1,21 @@
 ---
-post_number: "1791"
-title: "Da4r Release"
-slug: "da4r_release"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "1791_da4r_release.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1791_da4r_release.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.752416'
+original_url: https://thebuildingcoder.typepad.com/blog/1791_da4r_release.html
+post_number: '1791'
+reading_time_minutes: 4
+series: general
+slug: da4r_release
+source_file: 1791_da4r_release.md
+tags:
+- revit-api
+- sheets
+- views
+title: Da4r Release
+word_count: 783
 ---
 
 ### Design Automation API for Revit Going Public

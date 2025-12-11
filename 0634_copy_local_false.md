@@ -1,11 +1,24 @@
 ---
-post_number: "0634"
-title: "Set Copy Local to False"
-slug: "copy_local_false"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'references', 'revit-api', 'selection', 'vbnet']
-source_file: "0634_copy_local_false.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0634_copy_local_false.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.302244'
+original_url: https://thebuildingcoder.typepad.com/blog/0634_copy_local_false.html
+post_number: '0634'
+reading_time_minutes: 2
+series: general
+slug: copy_local_false
+source_file: 0634_copy_local_false.htm
+tags:
+- csharp
+- family
+- references
+- revit-api
+- selection
+- vbnet
+title: Set Copy Local to False
+word_count: 481
 ---
 
 ### Set Copy Local to False

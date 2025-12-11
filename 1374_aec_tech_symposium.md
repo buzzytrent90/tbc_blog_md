@@ -1,11 +1,25 @@
 ---
-post_number: "1374"
-title: "Aec Tech Symposium"
-slug: "aec_tech_symposium"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1374_aec_tech_symposium.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1374_aec_tech_symposium.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.880793'
+original_url: https://thebuildingcoder.typepad.com/blog/1374_aec_tech_symposium.html
+post_number: '1374'
+reading_time_minutes: 3
+series: general
+slug: aec_tech_symposium
+source_file: 1374_aec_tech_symposium.md
+tags:
+- csharp
+- geometry
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Aec Tech Symposium
+word_count: 629
 ---
 
 ### Kids@Work and AEC Technology Symposium Videos

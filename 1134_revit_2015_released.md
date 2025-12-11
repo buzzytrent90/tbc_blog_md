@@ -1,11 +1,21 @@
 ---
-post_number: "1134"
-title: "Revit 2015 and Updated SDK Released"
-slug: "revit_2015_released"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'views']
-source_file: "1134_revit_2015_released.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1134_revit_2015_released.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:15.368737'
+original_url: https://thebuildingcoder.typepad.com/blog/1134_revit_2015_released.html
+post_number: '1134'
+reading_time_minutes: 1
+series: general
+slug: revit_2015_released
+source_file: 1134_revit_2015_released.htm
+tags:
+- family
+- revit-api
+- views
+title: Revit 2015 and Updated SDK Released
+word_count: 218
 ---
 
 ### Revit 2015 and Updated SDK Released

@@ -1,11 +1,33 @@
 ---
-post_number: "0874"
-title: "Solid Centroid and Volume Calculation"
-slug: "centroid"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'references', 'revit-api', 'rooms', 'selection', 'views', 'walls', 'windows']
-source_file: "0874_centroid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0874_centroid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.775637'
+original_url: https://thebuildingcoder.typepad.com/blog/0874_centroid.html
+post_number: 0874
+reading_time_minutes: 24
+series: general
+slug: centroid
+source_file: 0874_centroid.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- references
+- revit-api
+- rooms
+- selection
+- views
+- walls
+- windows
+title: Solid Centroid and Volume Calculation
+word_count: 4733
 ---
 
 ### Solid Centroid and Volume Calculation

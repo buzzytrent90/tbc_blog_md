@@ -1,11 +1,22 @@
 ---
-post_number: "0394"
-title: "Revit API Introduction Webcast Recording"
-slug: "revit_api_intro_webcast"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'selection']
-source_file: "0394_revit_api_intro_webcast.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0394_revit_api_intro_webcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.874880'
+original_url: https://thebuildingcoder.typepad.com/blog/0394_revit_api_intro_webcast.html
+post_number: 0394
+reading_time_minutes: 1
+series: general
+slug: revit_api_intro_webcast
+source_file: 0394_revit_api_intro_webcast.htm
+tags:
+- elements
+- filtering
+- revit-api
+- selection
+title: Revit API Introduction Webcast Recording
+word_count: 256
 ---
 
 ### Revit API Introduction Webcast Recording

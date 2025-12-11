@@ -1,11 +1,28 @@
 ---
-post_number: "1672"
-title: "Cmdwallprofile 2019"
-slug: "cmdwallprofile_2019"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'walls', 'windows']
-source_file: "1672_cmdwallprofile_2019.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1672_cmdwallprofile_2019.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.499363'
+original_url: https://thebuildingcoder.typepad.com/blog/1672_cmdwallprofile_2019.html
+post_number: '1672'
+reading_time_minutes: 8
+series: general
+slug: cmdwallprofile_2019
+source_file: 1672_cmdwallprofile_2019.md
+tags:
+- doors
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- walls
+- windows
+title: Cmdwallprofile 2019
+word_count: 1543
 ---
 
 ### Wall Profile Command Update

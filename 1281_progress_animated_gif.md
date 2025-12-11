@@ -1,11 +1,24 @@
 ---
-post_number: "1281"
-title: "Displaying Progress Bar and Generating Animated GIF"
-slug: "progress_animated_gif"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'revit-api', 'vbnet', 'windows']
-source_file: "1281_progress_animated_gif.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1281_progress_animated_gif.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.667744'
+original_url: https://thebuildingcoder.typepad.com/blog/1281_progress_animated_gif.html
+post_number: '1281'
+reading_time_minutes: 7
+series: general
+slug: progress_animated_gif
+source_file: 1281_progress_animated_gif.htm
+tags:
+- elements
+- levels
+- parameters
+- revit-api
+- vbnet
+- windows
+title: Displaying Progress Bar and Generating Animated GIF
+word_count: 1480
 ---
 
 ### Displaying Progress Bar and Generating Animated GIF

@@ -1,11 +1,26 @@
 ---
-post_number: "1074"
-title: "Replacing an Idling Event Handler by an External Event"
-slug: "roomedit_extern_event"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'rooms', 'schedules', 'views', 'windows']
-source_file: "1074_roomedit_extern_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1074_roomedit_extern_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.250736'
+original_url: https://thebuildingcoder.typepad.com/blog/1074_roomedit_extern_event.html
+post_number: '1074'
+reading_time_minutes: 15
+series: general
+slug: roomedit_extern_event
+source_file: 1074_roomedit_extern_event.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- rooms
+- schedules
+- views
+- windows
+title: Replacing an Idling Event Handler by an External Event
+word_count: 3086
 ---
 
 ### Replacing an Idling Event Handler by an External Event

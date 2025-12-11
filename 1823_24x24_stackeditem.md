@@ -1,11 +1,27 @@
 ---
-post_number: "1823"
-title: "24x24 Stackeditem"
-slug: "24x24_stackeditem"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1823_24x24_stackeditem.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1823_24x24_stackeditem.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.818298'
+original_url: https://thebuildingcoder.typepad.com/blog/1823_24x24_stackeditem.html
+post_number: '1823'
+reading_time_minutes: 5
+series: general
+slug: 24x24_stackeditem
+source_file: 1823_24x24_stackeditem.md
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: 24x24 Stackeditem
+word_count: 1042
 ---
 
 ### 24x24 StackedItem, Ribbon Utils, Journal Encoding

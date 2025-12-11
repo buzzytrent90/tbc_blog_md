@@ -1,11 +1,31 @@
 ---
-post_number: "0540"
-title: "Dimension Walls using FindReferencesByDirection"
-slug: "dim_walls_find_refs"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "0540_dim_walls_find_refs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0540_dim_walls_find_refs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.134709'
+original_url: https://thebuildingcoder.typepad.com/blog/0540_dim_walls_find_refs.html
+post_number: '0540'
+reading_time_minutes: 6
+series: general
+slug: dim_walls_find_refs
+source_file: 0540_dim_walls_find_refs.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Dimension Walls using FindReferencesByDirection
+word_count: 1290
 ---
 
 ### Dimension Walls using FindReferencesByDirection

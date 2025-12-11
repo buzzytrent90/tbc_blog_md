@@ -1,11 +1,25 @@
 ---
-post_number: "0798"
-title: "RevitRubyShell Implementation and Installer"
-slug: "revitrubyshell"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'python', 'revit-api', 'windows']
-source_file: "0798_revitrubyshell.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0798_revitrubyshell.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.614365'
+original_url: https://thebuildingcoder.typepad.com/blog/0798_revitrubyshell.html
+post_number: 0798
+reading_time_minutes: 3
+series: general
+slug: revitrubyshell
+source_file: 0798_revitrubyshell.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- python
+- revit-api
+- windows
+title: RevitRubyShell Implementation and Installer
+word_count: 525
 ---
 
 ### RevitRubyShell Implementation and Installer

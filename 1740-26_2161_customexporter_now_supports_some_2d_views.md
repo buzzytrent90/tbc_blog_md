@@ -1,0 +1,98 @@
+---
+author: Jeremy Tammik
+optimization_date: '2025-12-11T11:24:49.064518'
+original_url: https://thebuildingcoder.typepad.com/blog/1740_whats_new_2020.html
+parent_post: 1740_whats_new_2020.md
+part_number: '26'
+part_total: '37'
+post_number: '1740'
+series: geometry
+slug: whats_new_2020_2.16.1._customexporter_now_supports_some_2d_views
+source_file: 1740_whats_new_2020.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- selection
+- sheets
+- views
+- walls
+title: API Changes - 2.16.1. CustomExporter now supports some 2D views
+word_count: 329
+---
+
+### 2.16.1. CustomExporter now supports some 2D views
+
+The class CustomExporter can now export 2D views. The only 2D view types supported at this time are plans, sections and elevations. The new method:
+- CustomExporter.Export()
+accepts either a 3D or 2D view.
+The method:
+- CustomExporter.Export(IList)
+can now accept either 3D or 2D views, with the limitation that views in the collection must be either all 3D or all 2D.
+For both Export() calls, the exporter context must correspond to the views' type; use IModelExportContext or IPhotoRenderContext for 3D views and IExportContext2D for 2D views.
+Several new properties expand the options for the CustomExporter to support 2D objects:
+- CustomExporter.Export2DGeometricObjectsIncludingPatternLines – Indicates whether pattern lines of geometric objects should be exported in a 2D context. Defaults to false.
+- CustomExporter.Export2DIncludingAnnotationObjects – Indicates whether annotation objects should be exported in a 2D context. Defaults to false.
+- CustomExporter.Export2DForceDisplayStyle – Forces a display style for the export. If the style is DisplayStyle.Undefined, then export uses DisplayStyle.Wireframe for wireframe views and DisplayStyle.HDR for other views. Defaults to DisplayStyle.Undefined.
+The new interface:
+- IExportContext2D
+should be used for exporting 2D views. It has the following methods in addition to the method inherited from IExportContext:
+- IExportContext2D.OnElementBegin2D()
+- IExportContext2D.OnElementEnd2D()
+- IExportContext2D.OnFaceEdge2D()
+- IExportContext2D.OnFaceSilhouette2D()
+The new classes:
+- ElementNode
+- FaceEdgeNode
+- FaceSilhouetteNode
+contain data for various 2D exported objects.
+Some notes on 2D export in DisplayStyle.Wireframe:
+- Geometric object methods (OnCurve, OnFaceEdge2D, OnFaceSilhouette2D) are called regardless of the object being eventually output, i.e. even if it’s occluded by another element.
+And in DisplayStyle.HDR:
+- Tessellated geometry methods (OnLineSegment and OnPolylineSegments) are called regardless of the return value of the respective geometric object methods (OnCurve, OnFaceEdge2D, OnFaceSilhouette2D).
+- None of these methods are called between the respective pairs of calls OnInstanceBegin/OnInstanceEnd or OnLinkBegin/OnLinkEnd. They are called between OnElementBegin2D/OnElementEnd2D and OnViewBegin/OnViewEnd.
+For an example of the use of the API for custom export of 2D views, see the new sample CustomExporter/Custom2DExporter.
+---
+
+## Related Sections
+- [API Changes - What's New in the Revit 2020 API](./1740-01_whats_new_in_the_revit_2020_api.md)
+- [API Changes - 2.2.1. ImageType API](./1740-02_221_imagetype_api.md)
+- [API Changes - 2.2.2. ImageInstance API](./1740-03_222_imageinstance_api.md)
+- [API Changes - 2.3.1. Setting filters](./1740-04_231_setting_filters.md)
+- [API Changes - 2.4.1. Journal playback](./1740-05_241_journal_playback.md)
+- [API Changes - 2.5.1. Add Animated Progress Bar to a TaskDialog](./1740-06_251_add_animated_progress_bar_to_a_taskdialog.md)
+- [API Changes - 2.5.2. Specify minimum width and height for a DockablePane](./1740-07_252_specify_minimum_width_and_height_for_a_dockabl.md)
+- [API Changes - 2.6.1. Returning cloud model information for cloud workshared models](./1740-08_261_returning_cloud_model_information_for_cloud_wo.md)
+- [API Changes - 2.6.2. Open/Save/Modify cloud models on BIM 360](./1740-09_262_opensavemodify_cloud_models_on_bim_360.md)
+- [API Changes - 2.6.3. Identifying if background calculations are underway](./1740-10_263_identifying_if_background_calculations_are_und.md)
+- [API Changes - 2.7.1. Category visibility](./1740-11_271_category_visibility.md)
+- [API Changes - 2.7.2. Get string names of categories](./1740-12_272_get_string_names_of_categories.md)
+- [API Changes - 2.8.1. Getting localized parameter names](./1740-13_281_getting_localized_parameter_names.md)
+- [API Changes - 2.8.2. Hiding empty parameters](./1740-14_282_hiding_empty_parameters.md)
+- [API Changes - 2.8.3. Filtering by presence or absence of parameter value](./1740-15_283_filtering_by_presence_or_absence_of_parameter_.md)
+- [API Changes - 2.9.1. CurveLoop API](./1740-16_291_curveloop_api.md)
+- [API Changes - 2.10.1. View Template API additions](./1740-17_2101_view_template_api_additions.md)
+- [API Changes - 2.10.2. View Filter API additions](./1740-18_2102_view_filter_api_additions.md)
+- [API Changes - 2.12.1. TopographySurface additions](./1740-19_2121_topographysurface_additions.md)
+- [API Changes - 2.12.2. TopographyLinkType additions](./1740-20_2122_topographylinktype_additions.md)
+- [API Changes - 2.13.1. SiteLocation addition](./1740-21_2131_sitelocation_addition.md)
+- [API Changes - 2.13.2. BasePoint additions](./1740-22_2132_basepoint_additions.md)
+- [API Changes - 2.14.1. Part creation from DirectShapes](./1740-23_2141_part_creation_from_directshapes.md)
+- [API Changes - 2.14.2. Returning the entities that create a divided Part](./1740-24_2142_returning_the_entities_that_create_a_divided_.md)
+- [API Changes - 2.15.1. BalusterInfo reference name](./1740-25_2151_balusterinfo_reference_name.md)
+- [API Changes - 2.16.2. New Navisworks export options](./1740-27_2162_new_navisworks_export_options.md)
+- [API Changes - 2.17.1. Additional References](./1740-28_2171_additional_references.md)
+- [API Changes - 2.17.2. 3D view placement restrictions](./1740-29_2172_3d_view_placement_restrictions.md)
+- [API Changes - 2.18.1. Glazing schema API](./1740-30_2181_glazing_schema_api.md)
+- [API Changes - 2.19.1. Path of Travel API](./1740-31_2191_path_of_travel_api.md)
+- [API Changes - 2.20.1. RebarConstraint additions](./1740-32_2201_rebarconstraint_additions.md)
+- [API Changes - 2.20.2. Updating free-form rebar based on shared parameters](./1740-33_2202_updating_free_form_rebar_based_on_shared_para.md)
+- [API Changes - 2.20.3. StructuralConnectionHandler additions](./1740-34_2203_structuralconnectionhandler_additions.md)
+- [API Changes - 2.21.1. FabricationPart additions](./1740-35_2211_fabricationpart_additions.md)
+- [API Changes - 2.21.2. FabricationNetworkChangeService](./1740-36_2212_fabricationnetworkchangeservice.md)
+- [API Changes - 2.21.3. ElectricalSystem API additions](./1740-37_2213_electricalsystem_api_additions.md)

@@ -1,11 +1,24 @@
 ---
-post_number: "0725"
-title: "Family Instance Room Phase"
-slug: "fam_inst_room_phase"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'python', 'revit-api', 'rooms', 'schedules']
-source_file: "0725_fam_inst_room_phase.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0725_fam_inst_room_phase.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.468631'
+original_url: https://thebuildingcoder.typepad.com/blog/0725_fam_inst_room_phase.html
+post_number: '0725'
+reading_time_minutes: 3
+series: general
+slug: fam_inst_room_phase
+source_file: 0725_fam_inst_room_phase.htm
+tags:
+- elements
+- family
+- python
+- revit-api
+- rooms
+- schedules
+title: Family Instance Room Phase
+word_count: 651
 ---
 
 ### Family Instance Room Phase

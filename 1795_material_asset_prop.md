@@ -1,11 +1,25 @@
 ---
-post_number: "1795"
-title: "Material Asset Prop"
-slug: "material_asset_prop"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1795_material_asset_prop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1795_material_asset_prop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.762373'
+original_url: https://thebuildingcoder.typepad.com/blog/1795_material_asset_prop.html
+post_number: '1795'
+reading_time_minutes: 5
+series: materials
+slug: material_asset_prop
+source_file: 1795_material_asset_prop.md
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+- materials
+title: Material Asset Prop
+word_count: 1034
 ---
 
 ### Material, Physical and Thermal Assets

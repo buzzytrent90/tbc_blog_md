@@ -1,11 +1,31 @@
 ---
-post_number: "1584"
-title: "Dim Inst Face"
-slug: "dim_inst_face"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1584_dim_inst_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1584_dim_inst_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.340707'
+original_url: https://thebuildingcoder.typepad.com/blog/1584_dim_inst_face.html
+post_number: '1584'
+reading_time_minutes: 7
+series: general
+slug: dim_inst_face
+source_file: 1584_dim_inst_face.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Dim Inst Face
+word_count: 1401
 ---
 
 ### ExtentElem and Square Face Dimensioning References

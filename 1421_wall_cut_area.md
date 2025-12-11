@@ -1,11 +1,32 @@
 ---
-post_number: "1421"
-title: "Wall Cut Area"
-slug: "wall_cut_area"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1421_wall_cut_area.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1421_wall_cut_area.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.980743'
+original_url: https://thebuildingcoder.typepad.com/blog/1421_wall_cut_area.html
+post_number: '1421'
+reading_time_minutes: 8
+series: general
+slug: wall_cut_area
+source_file: 1421_wall_cut_area.md
+tags:
+- doors
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Wall Cut Area
+word_count: 1646
 ---
 
 ### Determining Wall Cut Area for a Specific Room

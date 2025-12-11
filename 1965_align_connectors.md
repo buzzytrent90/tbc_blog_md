@@ -1,11 +1,26 @@
 ---
-post_number: "1965"
-title: "Align Connectors"
-slug: "align_connectors"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'python', 'revit-api', 'sheets']
-source_file: "1965_align_connectors.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1965_align_connectors.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.146541'
+original_url: https://thebuildingcoder.typepad.com/blog/1965_align_connectors.html
+post_number: '1965'
+reading_time_minutes: 10
+series: mep
+slug: align_connectors
+source_file: 1965_align_connectors.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- python
+- revit-api
+- sheets
+- mep
+title: Align Connectors
+word_count: 1943
 ---
 
 ### Aligning Connectors

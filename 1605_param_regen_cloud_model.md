@@ -1,11 +1,25 @@
 ---
-post_number: "1605"
-title: "Param Regen Cloud Model"
-slug: "param_regen_cloud_model"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "1605_param_regen_cloud_model.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1605_param_regen_cloud_model.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.378376'
+original_url: https://thebuildingcoder.typepad.com/blog/1605_param_regen_cloud_model.html
+post_number: '1605'
+reading_time_minutes: 4
+series: general
+slug: param_regen_cloud_model
+source_file: 1605_param_regen_cloud_model.md
+tags:
+- elements
+- levels
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+title: Param Regen Cloud Model
+word_count: 723
 ---
 
 ### Cloud Model Predicate, and Set Parameter Regenerates

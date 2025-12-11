@@ -1,11 +1,25 @@
 ---
-post_number: "0446"
-title: "Filter for View and Phase"
-slug: "filter_view_phase"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'python', 'revit-api', 'transactions', 'views']
-source_file: "0446_filter_view_phase.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0446_filter_view_phase.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.959075'
+original_url: https://thebuildingcoder.typepad.com/blog/0446_filter_view_phase.html
+post_number: '0446'
+reading_time_minutes: 2
+series: filtering
+slug: filter_view_phase
+source_file: 0446_filter_view_phase.htm
+tags:
+- elements
+- filtering
+- parameters
+- python
+- revit-api
+- transactions
+- views
+title: Filter for View and Phase
+word_count: 308
 ---
 
 ### Filter for View and Phase

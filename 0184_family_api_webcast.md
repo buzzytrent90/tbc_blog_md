@@ -1,11 +1,22 @@
 ---
-post_number: "0184"
-title: "Revit Family API Webcast"
-slug: "family_api_webcast"
-author: "Jeremy Tammik"
-tags: ['family', 'filtering', 'revit-api', 'schedules']
-source_file: "0184_family_api_webcast.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0184_family_api_webcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.506403'
+original_url: https://thebuildingcoder.typepad.com/blog/0184_family_api_webcast.html
+post_number: 0184
+reading_time_minutes: 1
+series: family
+slug: family_api_webcast
+source_file: 0184_family_api_webcast.htm
+tags:
+- family
+- filtering
+- revit-api
+- schedules
+title: Revit Family API Webcast
+word_count: 101
 ---
 
 ### Revit Family API Webcast

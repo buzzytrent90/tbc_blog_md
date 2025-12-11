@@ -1,11 +1,23 @@
 ---
-post_number: "1273"
-title: "Wall Elevation Profiles in The Building Coder Samples"
-slug: "wall_elevation_profile"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions', 'walls']
-source_file: "1273_wall_elevation_profile.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1273_wall_elevation_profile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.649586'
+original_url: https://thebuildingcoder.typepad.com/blog/1273_wall_elevation_profile.html
+post_number: '1273'
+reading_time_minutes: 3
+series: general
+slug: wall_elevation_profile
+source_file: 1273_wall_elevation_profile.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+- walls
+title: Wall Elevation Profiles in The Building Coder Samples
+word_count: 618
 ---
 
 ### Wall Elevation Profiles in The Building Coder Samples

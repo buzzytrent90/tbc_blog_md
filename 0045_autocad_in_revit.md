@@ -1,11 +1,20 @@
 ---
-post_number: "0045"
-title: "Running AutoCAD inside Revit"
-slug: "autocad_in_revit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api']
-source_file: "0045_autocad_in_revit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0045_autocad_in_revit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.280676'
+original_url: https://thebuildingcoder.typepad.com/blog/0045_autocad_in_revit.html
+post_number: '0045'
+reading_time_minutes: 3
+series: general
+slug: autocad_in_revit
+source_file: 0045_autocad_in_revit.htm
+tags:
+- csharp
+- revit-api
+title: Running AutoCAD inside Revit
+word_count: 506
 ---
 
 ### Running AutoCAD inside Revit

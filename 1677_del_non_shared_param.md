@@ -1,11 +1,26 @@
 ---
-post_number: "1677"
-title: "Del Non Shared Param"
-slug: "del_non_shared_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1677_del_non_shared_param.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1677_del_non_shared_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.506484'
+original_url: https://thebuildingcoder.typepad.com/blog/1677_del_non_shared_param.html
+post_number: '1677'
+reading_time_minutes: 8
+series: general
+slug: del_non_shared_param
+source_file: 1677_del_non_shared_param.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+title: Del Non Shared Param
+word_count: 1565
 ---
 
 ### Deleting a Non-Shared Project Parameter

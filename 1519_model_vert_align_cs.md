@@ -1,11 +1,33 @@
 ---
-post_number: "1519"
-title: "Model Vert Align Cs"
-slug: "model_vert_align_cs"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1519_model_vert_align_cs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1519_model_vert_align_cs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.205588'
+original_url: https://thebuildingcoder.typepad.com/blog/1519_model_vert_align_cs.html
+post_number: '1519'
+reading_time_minutes: 11
+series: general
+slug: model_vert_align_cs
+source_file: 1519_model_vert_align_cs.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Model Vert Align Cs
+word_count: 2172
 ---
 
 ### Dynamic Scripts, Model Elements and Vertical Alignment

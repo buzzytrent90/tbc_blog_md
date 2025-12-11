@@ -1,11 +1,26 @@
 ---
-post_number: "1757"
-title: "Lookup Types Names"
-slug: "lookup_types_names"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1757_lookup_types_names.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1757_lookup_types_names.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.682949'
+original_url: https://thebuildingcoder.typepad.com/blog/1757_lookup_types_names.html
+post_number: '1757'
+reading_time_minutes: 3
+series: elements
+slug: lookup_types_names
+source_file: 1757_lookup_types_names.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Lookup Types Names
+word_count: 562
 ---
 
 ### SketchIt, Lookup Family Types, Definition Names

@@ -1,11 +1,30 @@
 ---
-post_number: "1882"
-title: "Track Nw Api"
-slug: "track_nw_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'views']
-source_file: "1882_track_nw_api.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1882_track_nw_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.956500'
+original_url: https://thebuildingcoder.typepad.com/blog/1882_track_nw_api.html
+post_number: '1882'
+reading_time_minutes: 10
+series: general
+slug: track_nw_api
+source_file: 1882_track_nw_api.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+title: Track Nw Api
+word_count: 2061
 ---
 
 ### Line Subcategory Filter, Modification Tracker and NW

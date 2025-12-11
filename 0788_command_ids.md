@@ -1,11 +1,23 @@
 ---
-post_number: "0788"
-title: "Replacing Built-In Revit Commands and Their Ids"
-slug: "command_ids"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'revit-api', 'views']
-source_file: "0788_command_ids.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0788_command_ids.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.592950'
+original_url: https://thebuildingcoder.typepad.com/blog/0788_command_ids.html
+post_number: 0788
+reading_time_minutes: 3
+series: general
+slug: command_ids
+source_file: 0788_command_ids.htm
+tags:
+- csharp
+- family
+- python
+- revit-api
+- views
+title: Replacing Built-In Revit Commands and Their Ids
+word_count: 682
 ---
 
 ﻿

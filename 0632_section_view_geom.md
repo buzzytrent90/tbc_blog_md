@@ -1,11 +1,24 @@
 ---
-post_number: "0632"
-title: "Section View Geometry"
-slug: "section_view_geom"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'views']
-source_file: "0632_section_view_geom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0632_section_view_geom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.299204'
+original_url: https://thebuildingcoder.typepad.com/blog/0632_section_view_geom.html
+post_number: '0632'
+reading_time_minutes: 2
+series: views
+slug: section_view_geom
+source_file: 0632_section_view_geom.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- views
+title: Section View Geometry
+word_count: 335
 ---
 
 ### Section View Geometry

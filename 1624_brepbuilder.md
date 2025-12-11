@@ -1,11 +1,24 @@
 ---
-post_number: "1624"
-title: "Brepbuilder"
-slug: "brepbuilder"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1624_brepbuilder.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1624_brepbuilder.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.410962'
+original_url: https://thebuildingcoder.typepad.com/blog/1624_brepbuilder.html
+post_number: '1624'
+reading_time_minutes: 10
+series: general
+slug: brepbuilder
+source_file: 1624_brepbuilder.md
+tags:
+- elements
+- geometry
+- revit-api
+- sheets
+- transactions
+- views
+title: Brepbuilder
+word_count: 1917
 ---
 
 ### DirectShape from BrepBuilder and Boolean

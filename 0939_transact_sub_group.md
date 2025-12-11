@@ -1,11 +1,22 @@
 ---
-post_number: "0939"
-title: "Transactions, Sub-Transactions and Transaction Groups"
-slug: "transact_sub_group"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'transactions', 'views']
-source_file: "0939_transact_sub_group.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0939_transact_sub_group.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.950868'
+original_url: https://thebuildingcoder.typepad.com/blog/0939_transact_sub_group.html
+post_number: 0939
+reading_time_minutes: 3
+series: general
+slug: transact_sub_group
+source_file: 0939_transact_sub_group.htm
+tags:
+- python
+- revit-api
+- transactions
+- views
+title: Transactions, Sub-Transactions and Transaction Groups
+word_count: 580
 ---
 
 ### Transactions, Sub-Transactions and Transaction Groups

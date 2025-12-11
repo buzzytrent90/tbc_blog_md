@@ -1,11 +1,33 @@
 ---
-post_number: "1386"
-title: "Stacked Split Button"
-slug: "stacked_split_button"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1386_stacked_split_button.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1386_stacked_split_button.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.910313'
+original_url: https://thebuildingcoder.typepad.com/blog/1386_stacked_split_button.html
+post_number: '1386'
+reading_time_minutes: 2
+series: general
+slug: stacked_split_button
+source_file: 1386_stacked_split_button.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Stacked Split Button
+word_count: 346
 ---
 
 ### Adding a Stacked Split Button to the Ribbon

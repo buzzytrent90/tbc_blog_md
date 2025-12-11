@@ -1,11 +1,30 @@
 ---
-post_number: "0219"
-title: "The Revit MEP API"
-slug: "mep_api"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0219_mep_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0219_mep_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.571699'
+original_url: https://thebuildingcoder.typepad.com/blog/0219_mep_api.html
+post_number: 0219
+reading_time_minutes: 11
+series: mep
+slug: mep_api
+source_file: 0219_mep_api.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- views
+- mep
+title: The Revit MEP API
+word_count: 2137
 ---
 
 ### The Revit MEP API

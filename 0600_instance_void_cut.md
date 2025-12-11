@@ -1,11 +1,28 @@
 ---
-post_number: "0600"
-title: "Boolean Operations and InstanceVoidCutUtils"
-slug: "instance_void_cut"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0600_instance_void_cut.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0600_instance_void_cut.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.240073'
+original_url: https://thebuildingcoder.typepad.com/blog/0600_instance_void_cut.html
+post_number: '0600'
+reading_time_minutes: 5
+series: elements
+slug: instance_void_cut
+source_file: 0600_instance_void_cut.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+- walls
+- windows
+title: Boolean Operations and InstanceVoidCutUtils
+word_count: 957
 ---
 
 ### Boolean Operations and InstanceVoidCutUtils

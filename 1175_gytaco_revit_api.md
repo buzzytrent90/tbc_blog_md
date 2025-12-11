@@ -1,11 +1,22 @@
 ---
-post_number: "1175"
-title: "Write Revit Add-ins No Coding Experience Required"
-slug: "gytaco_revit_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets', 'views']
-source_file: "1175_gytaco_revit_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1175_gytaco_revit_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.456221'
+original_url: https://thebuildingcoder.typepad.com/blog/1175_gytaco_revit_api.html
+post_number: '1175'
+reading_time_minutes: 2
+series: general
+slug: gytaco_revit_api
+source_file: 1175_gytaco_revit_api.htm
+tags:
+- csharp
+- revit-api
+- sheets
+- views
+title: Write Revit Add-ins No Coding Experience Required
+word_count: 321
 ---
 
 ### Write Revit Add-ins No Coding Experience Required

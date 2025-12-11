@@ -1,11 +1,32 @@
 ---
-post_number: "1798"
-title: "Da4r Curve Project"
-slug: "da4r_curve_project"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'levels', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'windows']
-source_file: "1798_da4r_curve_project.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1798_da4r_curve_project.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.767998'
+original_url: https://thebuildingcoder.typepad.com/blog/1798_da4r_curve_project.html
+post_number: '1798'
+reading_time_minutes: 12
+series: geometry
+slug: da4r_curve_project
+source_file: 1798_da4r_curve_project.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- levels
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- windows
+title: Da4r Curve Project
+word_count: 2320
 ---
 
 ### Curve Projection, Detach and FBX in DA4R

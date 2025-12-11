@@ -1,11 +1,25 @@
 ---
-post_number: "0100"
-title: "Utilizing Revit API Resources"
-slug: "utilizing_resources"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "0100_utilizing_resources.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0100_utilizing_resources.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.359934'
+original_url: https://thebuildingcoder.typepad.com/blog/0100_utilizing_resources.html
+post_number: '0100'
+reading_time_minutes: 8
+series: general
+slug: utilizing_resources
+source_file: 0100_utilizing_resources.htm
+tags:
+- elements
+- levels
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+title: Utilizing Revit API Resources
+word_count: 1503
 ---
 
 ### Utilizing Revit API Resources

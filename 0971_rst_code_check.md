@@ -1,11 +1,22 @@
 ---
-post_number: "0971"
-title: "More on Structural Analysis Code Checking"
-slug: "rst_code_check"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'views']
-source_file: "0971_rst_code_check.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0971_rst_code_check.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.019558'
+original_url: https://thebuildingcoder.typepad.com/blog/0971_rst_code_check.html
+post_number: 0971
+reading_time_minutes: 2
+series: general
+slug: rst_code_check
+source_file: 0971_rst_code_check.htm
+tags:
+- elements
+- parameters
+- revit-api
+- views
+title: More on Structural Analysis Code Checking
+word_count: 482
 ---
 
 ### More on Structural Analysis Code Checking

@@ -1,11 +1,25 @@
 ---
-post_number: "0346"
-title: "Retrieve Stairs on Level"
-slug: "stairs_on_level"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api']
-source_file: "0346_stairs_on_level.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0346_stairs_on_level.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.783288'
+original_url: https://thebuildingcoder.typepad.com/blog/0346_stairs_on_level.html
+post_number: '0346'
+reading_time_minutes: 4
+series: general
+slug: stairs_on_level
+source_file: 0346_stairs_on_level.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+title: Retrieve Stairs on Level
+word_count: 815
 ---
 
 ### Retrieve Stairs on Level

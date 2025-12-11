@@ -1,11 +1,31 @@
 ---
-post_number: "0385"
-title: "DevCamp Session on What's New"
-slug: "devcamp_whats_new"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'schedules', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "0385_devcamp_whats_new.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0385_devcamp_whats_new.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.859023'
+original_url: https://thebuildingcoder.typepad.com/blog/0385_devcamp_whats_new.html
+post_number: 0385
+reading_time_minutes: 4
+series: whats_new
+slug: devcamp_whats_new
+source_file: 0385_devcamp_whats_new.htm
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- windows
+- whats_new
+title: DevCamp Session on What's New
+word_count: 729
 ---
 
 ### DevCamp Session on What's New

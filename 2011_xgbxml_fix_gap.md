@@ -1,11 +1,26 @@
 ---
-post_number: "2011"
-title: "Xgbxml Fix Gap"
-slug: "xgbxml_fix_gap"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'python', 'revit-api', 'sheets', 'views']
-source_file: "2011_xgbxml_fix_gap.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2011_xgbxml_fix_gap.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 12.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.266448'
+original_url: https://thebuildingcoder.typepad.com/blog/2011_xgbxml_fix_gap.html
+post_number: '2011'
+reading_time_minutes: 7
+series: general
+slug: xgbxml_fix_gap
+source_file: 2011_xgbxml_fix_gap.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- python
+- revit-api
+- sheets
+- views
+title: Xgbxml Fix Gap
+word_count: 1414
 ---
 
 ### Xgbxml Fixes Building Geometry Gaps

@@ -1,11 +1,23 @@
 ---
-post_number: "0848"
-title: "PowerPoint Slide Deck Text Extractor Ppt2txt"
-slug: "ppt2txt"
-author: "Jeremy Tammik"
-tags: ['python', 'references', 'revit-api', 'views', 'windows']
-source_file: "0848_ppt2txt.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0848_ppt2txt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.727959'
+original_url: https://thebuildingcoder.typepad.com/blog/0848_ppt2txt.html
+post_number: 0848
+reading_time_minutes: 11
+series: general
+slug: ppt2txt
+source_file: 0848_ppt2txt.htm
+tags:
+- python
+- references
+- revit-api
+- views
+- windows
+title: PowerPoint Slide Deck Text Extractor Ppt2txt
+word_count: 2164
 ---
 
 ### PowerPoint Slide Deck Text Extractor Ppt2txt

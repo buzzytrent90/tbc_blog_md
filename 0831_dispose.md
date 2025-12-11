@@ -1,11 +1,23 @@
 ---
-post_number: "0831"
-title: "Disposal of Revit API Objects"
-slug: "dispose"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'transactions']
-source_file: "0831_dispose.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0831_dispose.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.693667'
+original_url: https://thebuildingcoder.typepad.com/blog/0831_dispose.html
+post_number: 0831
+reading_time_minutes: 3
+series: general
+slug: dispose
+source_file: 0831_dispose.htm
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- transactions
+title: Disposal of Revit API Objects
+word_count: 534
 ---
 
 ﻿

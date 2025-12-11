@@ -1,11 +1,28 @@
 ---
-post_number: "2004"
-title: "Cmd Id Key Schedule"
-slug: "cmd_id_key_schedule"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'walls']
-source_file: "2004_cmd_id_key_schedule.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2004_cmd_id_key_schedule.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.248304'
+original_url: https://thebuildingcoder.typepad.com/blog/2004_cmd_id_key_schedule.html
+post_number: '2004'
+reading_time_minutes: 7
+series: general
+slug: cmd_id_key_schedule
+source_file: 2004_cmd_id_key_schedule.md
+tags:
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- walls
+title: Cmd Id Key Schedule
+word_count: 1374
 ---
 
 ### GasTools, Cmd Ids, Key Schedule et al

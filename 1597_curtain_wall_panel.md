@@ -1,11 +1,24 @@
 ---
-post_number: "1597"
-title: "Curtain Wall Panel"
-slug: "curtain_wall_panel"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'revit-api', 'sheets', 'walls']
-source_file: "1597_curtain_wall_panel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1597_curtain_wall_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.365070'
+original_url: https://thebuildingcoder.typepad.com/blog/1597_curtain_wall_panel.html
+post_number: '1597'
+reading_time_minutes: 2
+series: general
+slug: curtain_wall_panel
+source_file: 1597_curtain_wall_panel.md
+tags:
+- elements
+- filtering
+- geometry
+- revit-api
+- sheets
+- walls
+title: Curtain Wall Panel
+word_count: 317
 ---
 
 ### Curtain Wall Panel Geometry with Basic Wall Panel

@@ -1,11 +1,24 @@
 ---
-post_number: "1997"
-title: "Sdk Brep"
-slug: "sdk_brep"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1997_sdk_brep.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1997_sdk_brep.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.231097'
+original_url: https://thebuildingcoder.typepad.com/blog/1997_sdk_brep.html
+post_number: '1997'
+reading_time_minutes: 13
+series: general
+slug: sdk_brep
+source_file: 1997_sdk_brep.md
+tags:
+- elements
+- geometry
+- revit-api
+- sheets
+- transactions
+- views
+title: Sdk Brep
+word_count: 2671
 ---
 
 ### BRepBuilder and Toposurface Interior

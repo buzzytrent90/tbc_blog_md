@@ -1,11 +1,21 @@
 ---
-post_number: "0862"
-title: "Grand Canyon and AU Arrival"
-slug: "grand_canyon"
-author: "Jeremy Tammik"
-tags: ['doors', 'revit-api', 'rooms']
-source_file: "0862_grand_canyon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0862_grand_canyon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.753171'
+original_url: https://thebuildingcoder.typepad.com/blog/0862_grand_canyon.html
+post_number: 0862
+reading_time_minutes: 3
+series: general
+slug: grand_canyon
+source_file: 0862_grand_canyon.htm
+tags:
+- doors
+- revit-api
+- rooms
+title: Grand Canyon and AU Arrival
+word_count: 625
 ---
 
 ### Grand Canyon and AU Arrival

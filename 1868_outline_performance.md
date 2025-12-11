@@ -1,11 +1,27 @@
 ---
-post_number: "1868"
-title: "Outline Performance"
-slug: "outline_performance"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'sheets', 'walls']
-source_file: "1868_outline_performance.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1868_outline_performance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.926670'
+original_url: https://thebuildingcoder.typepad.com/blog/1868_outline_performance.html
+post_number: '1868'
+reading_time_minutes: 14
+series: general
+slug: outline_performance
+source_file: 1868_outline_performance.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- sheets
+- walls
+title: Outline Performance
+word_count: 2773
 ---
 
 ### High Performance Outline, Line-Plane Intersection

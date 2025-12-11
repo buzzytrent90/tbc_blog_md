@@ -1,11 +1,23 @@
 ---
-post_number: "1284"
-title: "View and Data API Sample in Swift and Mac OS Upgrade"
-slug: "adva_swift"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1284_adva_swift.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1284_adva_swift.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.677924'
+original_url: https://thebuildingcoder.typepad.com/blog/1284_adva_swift.html
+post_number: '1284'
+reading_time_minutes: 7
+series: general
+slug: adva_swift
+source_file: 1284_adva_swift.htm
+tags:
+- python
+- revit-api
+- transactions
+- views
+- windows
+title: View and Data API Sample in Swift and Mac OS Upgrade
+word_count: 1428
 ---
 
 ### View and Data API Sample in Swift and Mac OS Upgrade

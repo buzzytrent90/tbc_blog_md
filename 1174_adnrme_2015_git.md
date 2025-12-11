@@ -1,11 +1,22 @@
 ---
-post_number: "1174"
-title: "The ADN Sample AdnRme Migrated to Revit MEP 2015 and on GitHub"
-slug: "adnrme_2015_git"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'views']
-source_file: "1174_adnrme_2015_git.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1174_adnrme_2015_git.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.454873'
+original_url: https://thebuildingcoder.typepad.com/blog/1174_adnrme_2015_git.html
+post_number: '1174'
+reading_time_minutes: 2
+series: general
+slug: adnrme_2015_git
+source_file: 1174_adnrme_2015_git.htm
+tags:
+- elements
+- parameters
+- revit-api
+- views
+title: The ADN Sample AdnRme Migrated to Revit MEP 2015 and on GitHub
+word_count: 355
 ---
 
 ### The ADN Sample AdnRme Migrated to Revit MEP 2015 and on GitHub

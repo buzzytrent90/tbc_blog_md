@@ -1,11 +1,23 @@
 ---
-post_number: "0302"
-title: "IFamilyLoadOptions and GEMini"
-slug: "ifamilyloadoptions"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api']
-source_file: "0302_ifamilyloadoptions.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0302_ifamilyloadoptions.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.709858'
+original_url: https://thebuildingcoder.typepad.com/blog/0302_ifamilyloadoptions.html
+post_number: '0302'
+reading_time_minutes: 3
+series: structural
+slug: ifamilyloadoptions
+source_file: 0302_ifamilyloadoptions.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- structural
+title: IFamilyLoadOptions and GEMini
+word_count: 616
 ---
 
 ### IFamilyLoadOptions and GEMini

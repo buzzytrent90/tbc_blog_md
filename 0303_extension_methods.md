@@ -1,11 +1,28 @@
 ---
-post_number: "0303"
-title: "GetPolygon Extension Methods"
-slug: "extension_methods"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'python', 'references', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0303_extension_methods.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0303_extension_methods.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.711753'
+original_url: https://thebuildingcoder.typepad.com/blog/0303_extension_methods.html
+post_number: '0303'
+reading_time_minutes: 6
+series: general
+slug: extension_methods
+source_file: 0303_extension_methods.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- python
+- references
+- revit-api
+- rooms
+- views
+- walls
+title: GetPolygon Extension Methods
+word_count: 1176
 ---
 
 ### GetPolygon Extension Methods

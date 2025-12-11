@@ -1,11 +1,20 @@
 ---
-post_number: "0044"
-title: "RealDWG and Object Enablers"
-slug: "realdwg_object_enablers"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0044_realdwg_object_enablers.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0044_realdwg_object_enablers.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.279313'
+original_url: https://thebuildingcoder.typepad.com/blog/0044_realdwg_object_enablers.html
+post_number: '0044'
+reading_time_minutes: 4
+series: general
+slug: realdwg_object_enablers
+source_file: 0044_realdwg_object_enablers.htm
+tags:
+- revit-api
+- views
+title: RealDWG and Object Enablers
+word_count: 830
 ---
 
 ### RealDWG and Object Enablers

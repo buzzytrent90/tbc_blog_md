@@ -1,11 +1,27 @@
 ---
-post_number: "0633"
-title: "Reference to Analytical Curve"
-slug: "analytical_reference"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'views']
-source_file: "0633_analytical_reference.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0633_analytical_reference.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.300597'
+original_url: https://thebuildingcoder.typepad.com/blog/0633_analytical_reference.html
+post_number: '0633'
+reading_time_minutes: 3
+series: structural
+slug: analytical_reference
+source_file: 0633_analytical_reference.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- views
+- structural
+title: Reference to Analytical Curve
+word_count: 683
 ---
 
 ### Reference to Analytical Curve

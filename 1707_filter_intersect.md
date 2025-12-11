@@ -1,11 +1,27 @@
 ---
-post_number: "1707"
-title: "Filter Intersect"
-slug: "filter_intersect"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1707_filter_intersect.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1707_filter_intersect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.570048'
+original_url: https://thebuildingcoder.typepad.com/blog/1707_filter_intersect.html
+post_number: '1707'
+reading_time_minutes: 5
+series: filtering
+slug: filter_intersect
+source_file: 1707_filter_intersect.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- selection
+- sheets
+- views
+- walls
+title: Filter Intersect
+word_count: 1039
 ---
 
 ### Using an Intersection Filter for Linked Elements

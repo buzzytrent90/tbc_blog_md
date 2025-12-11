@@ -1,11 +1,25 @@
 ---
-post_number: "1077"
-title: "Saving a New Central File to Revit Server"
-slug: "save_central_to_server"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'filtering', 'levels', 'revit-api', 'transactions', 'windows']
-source_file: "1077_save_central_to_server.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1077_save_central_to_server.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.258269'
+original_url: https://thebuildingcoder.typepad.com/blog/1077_save_central_to_server.html
+post_number: '1077'
+reading_time_minutes: 5
+series: general
+slug: save_central_to_server
+source_file: 1077_save_central_to_server.htm
+tags:
+- csharp
+- family
+- filtering
+- levels
+- revit-api
+- transactions
+- windows
+title: Saving a New Central File to Revit Server
+word_count: 916
 ---
 
 ### Saving a New Central File to Revit Server

@@ -1,11 +1,24 @@
 ---
-post_number: "0189"
-title: "Porting from C# to VB.NET"
-slug: "porting_to_vb"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'vbnet', 'views', 'windows']
-source_file: "0189_porting_to_vb.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0189_porting_to_vb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.515574'
+original_url: https://thebuildingcoder.typepad.com/blog/0189_porting_to_vb.html
+post_number: 0189
+reading_time_minutes: 4
+series: general
+slug: porting_to_vb
+source_file: 0189_porting_to_vb.htm
+tags:
+- csharp
+- references
+- revit-api
+- vbnet
+- views
+- windows
+title: Porting from C# to VB.NET
+word_count: 885
 ---
 
 ### Porting from C# to VB.NET

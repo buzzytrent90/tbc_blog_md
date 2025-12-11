@@ -1,11 +1,28 @@
 ---
-post_number: "0886"
-title: "Delux Database Enabled Loading and Updating"
-slug: "delux_db"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "0886_delux_db.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0886_delux_db.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.796202'
+original_url: https://thebuildingcoder.typepad.com/blog/0886_delux_db.html
+post_number: 0886
+reading_time_minutes: 10
+series: general
+slug: delux_db
+source_file: 0886_delux_db.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: Delux Database Enabled Loading and Updating
+word_count: 2029
 ---
 
 ### Delux Database Enabled Loading and Updating

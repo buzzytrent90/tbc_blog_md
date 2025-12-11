@@ -1,11 +1,23 @@
 ---
-post_number: "1865"
-title: "Ren Param F1 Help"
-slug: "ren_param_f1_help"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'references', 'revit-api', 'sheets']
-source_file: "1865_ren_param_f1_help.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1865_ren_param_f1_help.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.921886'
+original_url: https://thebuildingcoder.typepad.com/blog/1865_ren_param_f1_help.html
+post_number: '1865'
+reading_time_minutes: 5
+series: general
+slug: ren_param_f1_help
+source_file: 1865_ren_param_f1_help.md
+tags:
+- family
+- parameters
+- references
+- revit-api
+- sheets
+title: Ren Param F1 Help
+word_count: 904
 ---
 
 ### On Spaces in Help and Renaming a Parameter

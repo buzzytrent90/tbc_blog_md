@@ -1,11 +1,26 @@
 ---
-post_number: "0259"
-title: "Crop 3D View to Room"
-slug: "crop_view_to_room"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'python', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0259_crop_view_to_room.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0259_crop_view_to_room.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.635870'
+original_url: https://thebuildingcoder.typepad.com/blog/0259_crop_view_to_room.html
+post_number: 0259
+reading_time_minutes: 7
+series: views
+slug: crop_view_to_room
+source_file: 0259_crop_view_to_room.htm
+tags:
+- csharp
+- elements
+- geometry
+- python
+- revit-api
+- rooms
+- views
+- walls
+title: Crop 3D View to Room
+word_count: 1341
 ---
 
 ### Crop 3D View to Room

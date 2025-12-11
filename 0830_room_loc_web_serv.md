@@ -1,11 +1,30 @@
 ---
-post_number: "0830"
-title: "Mobile Device Room Location"
-slug: "room_loc_web_serv"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'views', 'windows']
-source_file: "0830_room_loc_web_serv.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0830_room_loc_web_serv.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.690235'
+original_url: https://thebuildingcoder.typepad.com/blog/0830_room_loc_web_serv.html
+post_number: 0830
+reading_time_minutes: 22
+series: general
+slug: room_loc_web_serv
+source_file: 0830_room_loc_web_serv.htm
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- views
+- windows
+title: Mobile Device Room Location
+word_count: 4500
 ---
 
 ﻿

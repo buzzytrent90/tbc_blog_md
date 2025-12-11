@@ -1,11 +1,23 @@
 ---
-post_number: "1875"
-title: "Dotnet Template Prism"
-slug: "dotnet_template_prism"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1875_dotnet_template_prism.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1875_dotnet_template_prism.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.942220'
+original_url: https://thebuildingcoder.typepad.com/blog/1875_dotnet_template_prism.html
+post_number: '1875'
+reading_time_minutes: 4
+series: general
+slug: dotnet_template_prism
+source_file: 1875_dotnet_template_prism.md
+tags:
+- csharp
+- parameters
+- revit-api
+- sheets
+- views
+title: Dotnet Template Prism
+word_count: 830
 ---
 
 ### BIM360 Management, Dotnet Template and Prism Goodies

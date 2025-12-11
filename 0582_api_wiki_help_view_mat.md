@@ -1,11 +1,22 @@
 ---
-post_number: "0582"
-title: "Wiki API Help, View Event and Structural Material Type"
-slug: "api_wiki_help_view_mat"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'views']
-source_file: "0582_api_wiki_help_view_mat.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0582_api_wiki_help_view_mat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.211566'
+original_url: https://thebuildingcoder.typepad.com/blog/0582_api_wiki_help_view_mat.html
+post_number: 0582
+reading_time_minutes: 3
+series: views
+slug: api_wiki_help_view_mat
+source_file: 0582_api_wiki_help_view_mat.htm
+tags:
+- elements
+- parameters
+- revit-api
+- views
+title: Wiki API Help, View Event and Structural Material Type
+word_count: 561
 ---
 
 ### Wiki API Help, View Event and Structural Material Type

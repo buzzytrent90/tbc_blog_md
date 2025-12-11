@@ -1,11 +1,25 @@
 ---
-post_number: "0722"
-title: "Remove Imported JPG and BMP Images"
-slug: "remove_image_import"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'revit-api', 'transactions', 'windows']
-source_file: "0722_remove_image_import.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0722_remove_image_import.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.463922'
+original_url: https://thebuildingcoder.typepad.com/blog/0722_remove_image_import.html
+post_number: '0722'
+reading_time_minutes: 3
+series: general
+slug: remove_image_import
+source_file: 0722_remove_image_import.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- revit-api
+- transactions
+- windows
+title: Remove Imported JPG and BMP Images
+word_count: 583
 ---
 
 ### Remove Imported JPG and BMP Images

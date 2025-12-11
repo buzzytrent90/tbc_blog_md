@@ -1,11 +1,27 @@
 ---
-post_number: "0142"
-title: "Imports in Families"
-slug: "imports_in_families"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'python', 'revit-api', 'views', 'windows']
-source_file: "0142_imports_in_families.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0142_imports_in_families.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.434688'
+original_url: https://thebuildingcoder.typepad.com/blog/0142_imports_in_families.html
+post_number: '0142'
+reading_time_minutes: 8
+series: general
+slug: imports_in_families
+source_file: 0142_imports_in_families.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- python
+- revit-api
+- views
+- windows
+title: Imports in Families
+word_count: 1546
 ---
 
 ### Imports in Families

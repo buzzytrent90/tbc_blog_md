@@ -1,11 +1,22 @@
 ---
-post_number: "1681"
-title: "Addin Wizard 2019"
-slug: "addin_wizard_2019"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets', 'vbnet']
-source_file: "1681_addin_wizard_2019.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1681_addin_wizard_2019.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: news
+optimization_date: '2025-12-11T11:44:16.513196'
+original_url: https://thebuildingcoder.typepad.com/blog/1681_addin_wizard_2019.html
+post_number: '1681'
+reading_time_minutes: 3
+series: general
+slug: addin_wizard_2019
+source_file: 1681_addin_wizard_2019.md
+tags:
+- csharp
+- revit-api
+- sheets
+- vbnet
+title: Addin Wizard 2019
+word_count: 679
 ---
 
 ### Revit 2019 Visual Studio .NET Add-in Wizards

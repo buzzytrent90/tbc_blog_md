@@ -1,11 +1,27 @@
 ---
-post_number: "0825"
-title: "Apollonian Sphere Packing via Web Service and AVF"
-slug: "apollonian_packing"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'python', 'revit-api', 'transactions', 'views']
-source_file: "0825_apollonian_packing.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0825_apollonian_packing.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.677306'
+original_url: https://thebuildingcoder.typepad.com/blog/0825_apollonian_packing.html
+post_number: 0825
+reading_time_minutes: 9
+series: general
+slug: apollonian_packing
+source_file: 0825_apollonian_packing.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- python
+- revit-api
+- transactions
+- views
+title: Apollonian Sphere Packing via Web Service and AVF
+word_count: 1714
 ---
 
 ﻿

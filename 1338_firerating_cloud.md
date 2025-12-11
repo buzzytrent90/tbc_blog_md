@@ -1,11 +1,29 @@
 ---
-post_number: "1338"
-title: "FireRating and the Revit Python Shell in the Cloud as Web Servers"
-slug: "firerating_cloud"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'levels', 'parameters', 'python', 'revit-api', 'schedules', 'sheets', 'vbnet']
-source_file: "1338_firerating_cloud.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1338_firerating_cloud.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.801174'
+original_url: https://thebuildingcoder.typepad.com/blog/1338_firerating_cloud.html
+post_number: '1338'
+reading_time_minutes: 5
+series: general
+slug: firerating_cloud
+source_file: 1338_firerating_cloud.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- levels
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- vbnet
+title: FireRating and the Revit Python Shell in the Cloud as Web Servers
+word_count: 1006
 ---
 
 ### FireRating and the Revit Python Shell in the Cloud as Web Servers

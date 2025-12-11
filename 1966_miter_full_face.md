@@ -1,11 +1,28 @@
 ---
-post_number: "1966"
-title: "Miter Full Face"
-slug: "miter_full_face"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1966_miter_full_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1966_miter_full_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.149099'
+original_url: https://thebuildingcoder.typepad.com/blog/1966_miter_full_face.html
+post_number: '1966'
+reading_time_minutes: 6
+series: general
+slug: miter_full_face
+source_file: 1966_miter_full_face.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Miter Full Face
+word_count: 1261
 ---
 
 ### APS, AU, and Miter Wall Join for Full Face

@@ -1,11 +1,26 @@
 ---
-post_number: "1801"
-title: "Revit Batch Processor"
-slug: "revit_batch_processor"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'schedules', 'sheets', 'windows']
-source_file: "1801_revit_batch_processor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1801_revit_batch_processor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.773948'
+original_url: https://thebuildingcoder.typepad.com/blog/1801_revit_batch_processor.html
+post_number: '1801'
+reading_time_minutes: 5
+series: general
+slug: revit_batch_processor
+source_file: 1801_revit_batch_processor.md
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- schedules
+- sheets
+- windows
+title: Revit Batch Processor
+word_count: 902
 ---
 
 ### The Revit Batch Processor RBP

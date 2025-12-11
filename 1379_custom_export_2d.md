@@ -1,11 +1,28 @@
 ---
-post_number: "1379"
-title: "Custom Export 2d"
-slug: "custom_export_2d"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1379_custom_export_2d.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1379_custom_export_2d.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.893812'
+original_url: https://thebuildingcoder.typepad.com/blog/1379_custom_export_2d.html
+post_number: '1379'
+reading_time_minutes: 5
+series: general
+slug: custom_export_2d
+source_file: 1379_custom_export_2d.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- rooms
+- sheets
+- views
+title: Custom Export 2d
+word_count: 1039
 ---
 
 ### DevDay@AU and Using a Custom Exporter for 2D

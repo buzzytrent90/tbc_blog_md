@@ -1,11 +1,31 @@
 ---
-post_number: "0293"
-title: "Spot Elevation Creation on Top of Beam"
-slug: "spot_elevation_at_beam_top"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0293_spot_elevation_at_beam_top.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0293_spot_elevation_at_beam_top.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.693521'
+original_url: https://thebuildingcoder.typepad.com/blog/0293_spot_elevation_at_beam_top.html
+post_number: 0293
+reading_time_minutes: 5
+series: structural
+slug: spot_elevation_at_beam_top
+source_file: 0293_spot_elevation_at_beam_top.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- walls
+- structural
+title: Spot Elevation Creation on Top of Beam
+word_count: 994
 ---
 
 ### Spot Elevation Creation on Top of Beam

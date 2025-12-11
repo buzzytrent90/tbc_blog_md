@@ -1,11 +1,28 @@
 ---
-post_number: "0475"
-title: "Place Furniture Instance"
-slug: "place_furniture"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'walls', 'windows']
-source_file: "0475_place_furniture.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0475_place_furniture.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.010717'
+original_url: https://thebuildingcoder.typepad.com/blog/0475_place_furniture.html
+post_number: '0475'
+reading_time_minutes: 4
+series: general
+slug: place_furniture
+source_file: 0475_place_furniture.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- walls
+- windows
+title: Place Furniture Instance
+word_count: 882
 ---
 
 ### Place Furniture Instance

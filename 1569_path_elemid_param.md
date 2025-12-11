@@ -1,11 +1,33 @@
 ---
-post_number: "1569"
-title: "Path Elemid Param"
-slug: "path_elemid_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1569_path_elemid_param.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1569_path_elemid_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.306692'
+original_url: https://thebuildingcoder.typepad.com/blog/1569_path_elemid_param.html
+post_number: '1569'
+reading_time_minutes: 8
+series: general
+slug: path_elemid_param
+source_file: 1569_path_elemid_param.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Path Elemid Param
+word_count: 1676
 ---
 
 ### Finding an Exit Path and ElementId Parameter Values

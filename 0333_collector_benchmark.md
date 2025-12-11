@@ -1,11 +1,30 @@
 ---
-post_number: "0333"
-title: "Collector Benchmark"
-slug: "collector_benchmark"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0333_collector_benchmark.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0333_collector_benchmark.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 14.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.762114'
+original_url: https://thebuildingcoder.typepad.com/blog/0333_collector_benchmark.html
+post_number: '0333'
+reading_time_minutes: 14
+series: filtering
+slug: collector_benchmark
+source_file: 0333_collector_benchmark.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- views
+- walls
+- windows
+title: Collector Benchmark
+word_count: 2788
 ---
 
 ### Collector Benchmark

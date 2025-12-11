@@ -1,11 +1,28 @@
 ---
-post_number: "1148"
-title: "On Handling Warnings and Failures"
-slug: "handle_warning_failure"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'filtering', 'levels', 'revit-api', 'rooms', 'selection', 'views', 'windows']
-source_file: "1148_handle_warning_failure.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1148_handle_warning_failure.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.404853'
+original_url: https://thebuildingcoder.typepad.com/blog/1148_handle_warning_failure.html
+post_number: '1148'
+reading_time_minutes: 4
+series: general
+slug: handle_warning_failure
+source_file: 1148_handle_warning_failure.htm
+tags:
+- csharp
+- doors
+- family
+- filtering
+- levels
+- revit-api
+- rooms
+- selection
+- views
+- windows
+title: On Handling Warnings and Failures
+word_count: 820
 ---
 
 ### On Handling Warnings and Failures

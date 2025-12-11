@@ -1,11 +1,28 @@
 ---
-post_number: "1019"
-title: "Rotating a Plan View"
-slug: "rotate_plan_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views']
-source_file: "1019_rotate_plan_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1019_rotate_plan_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.134431'
+original_url: https://thebuildingcoder.typepad.com/blog/1019_rotate_plan_view.html
+post_number: '1019'
+reading_time_minutes: 4
+series: views
+slug: rotate_plan_view
+source_file: 1019_rotate_plan_view.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+title: Rotating a Plan View
+word_count: 887
 ---
 
 ### Rotating a Plan View

@@ -1,11 +1,25 @@
 ---
-post_number: "0454"
-title: "Model Elements Revisited"
-slug: "model_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0454_model_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0454_model_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.973167'
+original_url: https://thebuildingcoder.typepad.com/blog/0454_model_elements.html
+post_number: '0454'
+reading_time_minutes: 2
+series: elements
+slug: model_elements
+source_file: 0454_model_elements.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- selection
+- transactions
+- views
+title: Model Elements Revisited
+word_count: 328
 ---
 
 ### Model Elements Revisited

@@ -1,11 +1,28 @@
 ---
-post_number: "1396"
-title: "Devday Wpf Doevents"
-slug: "devday_wpf_doevents"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1396_devday_wpf_doevents.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1396_devday_wpf_doevents.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.932201'
+original_url: https://thebuildingcoder.typepad.com/blog/1396_devday_wpf_doevents.html
+post_number: '1396'
+reading_time_minutes: 7
+series: general
+slug: devday_wpf_doevents
+source_file: 1396_devday_wpf_doevents.md
+tags:
+- csharp
+- doors
+- elements
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Devday Wpf Doevents
+word_count: 1475
 ---
 
 ### DevDay Conference in Munich and WPF DoEvents

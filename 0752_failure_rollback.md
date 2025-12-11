@@ -1,11 +1,25 @@
 ---
-post_number: "0752"
-title: "Failure Rollback"
-slug: "failure_rollback"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'revit-api', 'schedules', 'transactions', 'windows']
-source_file: "0752_failure_rollback.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0752_failure_rollback.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.521885'
+original_url: https://thebuildingcoder.typepad.com/blog/0752_failure_rollback.html
+post_number: '0752'
+reading_time_minutes: 4
+series: transactions
+slug: failure_rollback
+source_file: 0752_failure_rollback.htm
+tags:
+- csharp
+- elements
+- levels
+- revit-api
+- schedules
+- transactions
+- windows
+title: Failure Rollback
+word_count: 750
 ---
 
 ### Failure Rollback

@@ -1,11 +1,28 @@
 ---
-post_number: "0237"
-title: "Revit Family Creation API Labs"
-slug: "rfa_labs"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'schedules', 'views']
-source_file: "0237_rfa_labs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0237_rfa_labs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.601912'
+original_url: https://thebuildingcoder.typepad.com/blog/0237_rfa_labs.html
+post_number: '0237'
+reading_time_minutes: 8
+series: family
+slug: rfa_labs
+source_file: 0237_rfa_labs.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- views
+title: Revit Family Creation API Labs
+word_count: 1669
 ---
 
 ### Revit Family Creation API Labs

@@ -1,11 +1,31 @@
 ---
-post_number: "2007"
-title: "Sys Fam Py Section"
-slug: "sys_fam_py_section"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'python', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "2007_sys_fam_py_section.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2007_sys_fam_py_section.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.257679'
+original_url: https://thebuildingcoder.typepad.com/blog/2007_sys_fam_py_section.html
+post_number: '2007'
+reading_time_minutes: 7
+series: general
+slug: sys_fam_py_section
+source_file: 2007_sys_fam_py_section.md
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Sys Fam Py Section
+word_count: 1486
 ---
 
 ### System Family Predicate and Python Section Creation

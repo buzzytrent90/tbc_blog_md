@@ -1,11 +1,22 @@
 ---
-post_number: "0126"
-title: "Access to Linked File Geometry"
-slug: "access_linked_file_geometry"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'walls']
-source_file: "0126_access_linked_file_geometry.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0126_access_linked_file_geometry.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.404456'
+original_url: https://thebuildingcoder.typepad.com/blog/0126_access_linked_file_geometry.html
+post_number: '0126'
+reading_time_minutes: 1
+series: geometry
+slug: access_linked_file_geometry
+source_file: 0126_access_linked_file_geometry.htm
+tags:
+- elements
+- geometry
+- revit-api
+- walls
+title: Access to Linked File Geometry
+word_count: 299
 ---
 
 ### Access to Linked File Geometry

@@ -1,11 +1,23 @@
 ---
-post_number: "1927"
-title: "Wallcrosssection"
-slug: "wallcrosssection"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'sheets', 'walls']
-source_file: "1927_wallcrosssection.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1927_wallcrosssection.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.061575'
+original_url: https://thebuildingcoder.typepad.com/blog/1927_wallcrosssection.html
+post_number: '1927'
+reading_time_minutes: 2
+series: general
+slug: wallcrosssection
+source_file: 1927_wallcrosssection.md
+tags:
+- csharp
+- parameters
+- revit-api
+- sheets
+- walls
+title: Wallcrosssection
+word_count: 363
 ---
 
 ### WallCrossSection Renaming in the Revit 2022.1 API

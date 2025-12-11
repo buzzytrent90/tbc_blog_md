@@ -1,11 +1,29 @@
 ---
-post_number: "0380"
-title: "Display Webcam Image on Building Element Face"
-slug: "revitwebcam"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "0380_revitwebcam.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0380_revitwebcam.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.849837'
+original_url: https://thebuildingcoder.typepad.com/blog/0380_revitwebcam.html
+post_number: 0380
+reading_time_minutes: 8
+series: general
+slug: revitwebcam
+source_file: 0380_revitwebcam.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Display Webcam Image on Building Element Face
+word_count: 1692
 ---
 
 ### Display Webcam Image on Building Element Face

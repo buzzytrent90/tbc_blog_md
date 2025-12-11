@@ -1,11 +1,27 @@
 ---
-post_number: "0461"
-title: "MeasurePanelArea Update"
-slug: "measurepanelarea"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0461_measurepanelarea.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0461_measurepanelarea.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.984011'
+original_url: https://thebuildingcoder.typepad.com/blog/0461_measurepanelarea.html
+post_number: '0461'
+reading_time_minutes: 2
+series: general
+slug: measurepanelarea
+source_file: 0461_measurepanelarea.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- revit-api
+- rooms
+- views
+- walls
+title: MeasurePanelArea Update
+word_count: 392
 ---
 
 ### MeasurePanelArea Update

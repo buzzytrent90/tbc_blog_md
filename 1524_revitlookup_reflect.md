@@ -1,11 +1,30 @@
 ---
-post_number: "1524"
-title: "Revitlookup Reflect"
-slug: "revitlookup_reflect"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1524_revitlookup_reflect.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1524_revitlookup_reflect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: news
+optimization_date: '2025-12-11T11:44:16.215712'
+original_url: https://thebuildingcoder.typepad.com/blog/1524_revitlookup_reflect.html
+post_number: '1524'
+reading_time_minutes: 10
+series: general
+slug: revitlookup_reflect
+source_file: 1524_revitlookup_reflect.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+title: Revitlookup Reflect
+word_count: 2083
 ---
 
 ### RevitLookup Reflection Cross-Version Compatibility

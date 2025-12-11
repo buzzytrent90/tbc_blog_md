@@ -1,11 +1,23 @@
 ---
-post_number: "0135"
-title: "Model Line Sketch Plane"
-slug: "model_line_sketch_plane"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api']
-source_file: "0135_model_line_sketch_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0135_model_line_sketch_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.419384'
+original_url: https://thebuildingcoder.typepad.com/blog/0135_model_line_sketch_plane.html
+post_number: '0135'
+reading_time_minutes: 6
+series: general
+slug: model_line_sketch_plane
+source_file: 0135_model_line_sketch_plane.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+title: Model Line Sketch Plane
+word_count: 1262
 ---
 
 ### Model Line Sketch Plane

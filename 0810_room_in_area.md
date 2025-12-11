@@ -1,11 +1,25 @@
 ---
-post_number: "0810"
-title: "Room in Area Predicate via Point in Polygon Test"
-slug: "room_in_area"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'rooms', 'windows']
-source_file: "0810_room_in_area.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0810_room_in_area.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.640495'
+original_url: https://thebuildingcoder.typepad.com/blog/0810_room_in_area.html
+post_number: 0810
+reading_time_minutes: 4
+series: general
+slug: room_in_area
+source_file: 0810_room_in_area.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- rooms
+- windows
+title: Room in Area Predicate via Point in Polygon Test
+word_count: 788
 ---
 
 ### Room in Area Predicate via Point in Polygon Test

@@ -1,11 +1,24 @@
 ---
-post_number: "0958"
-title: "Tech Summit and More AutoExport Considerations"
-slug: "auto_export"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'rooms', 'schedules', 'views', 'windows']
-source_file: "0958_auto_export.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0958_auto_export.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.989972'
+original_url: https://thebuildingcoder.typepad.com/blog/0958_auto_export.html
+post_number: 0958
+reading_time_minutes: 7
+series: general
+slug: auto_export
+source_file: 0958_auto_export.htm
+tags:
+- csharp
+- revit-api
+- rooms
+- schedules
+- views
+- windows
+title: Tech Summit and More AutoExport Considerations
+word_count: 1346
 ---
 
 ### Tech Summit and More AutoExport Considerations

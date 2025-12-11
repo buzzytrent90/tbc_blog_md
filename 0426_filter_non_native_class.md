@@ -1,11 +1,27 @@
 ---
-post_number: "0426"
-title: "Filtering for a Non-Native Class"
-slug: "filter_non_native_class"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "0426_filter_non_native_class.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0426_filter_non_native_class.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.927461'
+original_url: https://thebuildingcoder.typepad.com/blog/0426_filter_non_native_class.html
+post_number: '0426'
+reading_time_minutes: 8
+series: filtering
+slug: filter_non_native_class
+source_file: 0426_filter_non_native_class.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- views
+title: Filtering for a Non-Native Class
+word_count: 1557
 ---
 
 ### Filtering for a Non-Native Class

@@ -1,11 +1,30 @@
 ---
-post_number: "0113"
-title: "More Questions"
-slug: "more_questions"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'schedules', 'views', 'walls']
-source_file: "0113_more_questions.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0113_more_questions.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.385065'
+original_url: https://thebuildingcoder.typepad.com/blog/0113_more_questions.html
+post_number: '0113'
+reading_time_minutes: 7
+series: general
+slug: more_questions
+source_file: 0113_more_questions.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- schedules
+- views
+- walls
+title: More Questions
+word_count: 1414
 ---
 
 ### More Questions

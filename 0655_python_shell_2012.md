@@ -1,11 +1,23 @@
 ---
-post_number: "0655"
-title: "Python Shell for Revit 2012 and Vasari 2.1"
-slug: "python_shell_2012"
-author: "Jeremy Tammik"
-tags: ['geometry', 'python', 'references', 'revit-api', 'walls']
-source_file: "0655_python_shell_2012.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0655_python_shell_2012.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.339307'
+original_url: https://thebuildingcoder.typepad.com/blog/0655_python_shell_2012.html
+post_number: '0655'
+reading_time_minutes: 3
+series: general
+slug: python_shell_2012
+source_file: 0655_python_shell_2012.htm
+tags:
+- geometry
+- python
+- references
+- revit-api
+- walls
+title: Python Shell for Revit 2012 and Vasari 2.1
+word_count: 603
 ---
 
 ### Python Shell for Revit 2012 and Vasari 2.1

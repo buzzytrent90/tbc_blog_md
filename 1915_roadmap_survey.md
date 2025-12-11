@@ -1,11 +1,22 @@
 ---
-post_number: "1915"
-title: "Roadmap Survey"
-slug: "roadmap_survey"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets', 'views']
-source_file: "1915_roadmap_survey.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1915_roadmap_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: news
+optimization_date: '2025-12-11T11:44:17.034015'
+original_url: https://thebuildingcoder.typepad.com/blog/1915_roadmap_survey.html
+post_number: '1915'
+reading_time_minutes: 3
+series: general
+slug: roadmap_survey
+source_file: 1915_roadmap_survey.md
+tags:
+- references
+- revit-api
+- sheets
+- views
+title: Roadmap Survey
+word_count: 574
 ---
 
 ### Revit Roadmap, API and DA4R Survey

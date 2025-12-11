@@ -1,11 +1,22 @@
 ---
-post_number: "1613"
-title: "Project Id Fuzz"
-slug: "project_id_fuzz"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "1613_project_id_fuzz.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1613_project_id_fuzz.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.393592'
+original_url: https://thebuildingcoder.typepad.com/blog/1613_project_id_fuzz.html
+post_number: '1613'
+reading_time_minutes: 7
+series: general
+slug: project_id_fuzz
+source_file: 1613_project_id_fuzz.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Project Id Fuzz
+word_count: 1467
 ---
 
 ### Project Identifier and Fuzzy Comparison

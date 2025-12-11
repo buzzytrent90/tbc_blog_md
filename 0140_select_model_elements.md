@@ -1,11 +1,28 @@
 ---
-post_number: "0140"
-title: "Selecting Model Elements"
-slug: "select_model_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0140_select_model_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0140_select_model_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.429637'
+original_url: https://thebuildingcoder.typepad.com/blog/0140_select_model_elements.html
+post_number: '0140'
+reading_time_minutes: 8
+series: elements
+slug: select_model_elements
+source_file: 0140_select_model_elements.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- revit-api
+- rooms
+- views
+- walls
+title: Selecting Model Elements
+word_count: 1587
 ---
 
 ### Selecting Model Elements

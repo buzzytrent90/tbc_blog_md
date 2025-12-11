@@ -1,11 +1,27 @@
 ---
-post_number: "0981"
-title: "ADN Mesh Data Custom Exporter to JSON"
-slug: "custom_exporter_json"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0981_custom_exporter_json.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0981_custom_exporter_json.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.043234'
+original_url: https://thebuildingcoder.typepad.com/blog/0981_custom_exporter_json.html
+post_number: 0981
+reading_time_minutes: 18
+series: general
+slug: custom_exporter_json
+source_file: 0981_custom_exporter_json.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: ADN Mesh Data Custom Exporter to JSON
+word_count: 3548
 ---
 
 ### ADN Mesh Data Custom Exporter to JSON

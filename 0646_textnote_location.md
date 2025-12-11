@@ -1,11 +1,23 @@
 ---
-post_number: "0646"
-title: "TextNote Lost in Space?"
-slug: "textnote_location"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'rooms', 'views']
-source_file: "0646_textnote_location.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0646_textnote_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.324249'
+original_url: https://thebuildingcoder.typepad.com/blog/0646_textnote_location.html
+post_number: '0646'
+reading_time_minutes: 2
+series: general
+slug: textnote_location
+source_file: 0646_textnote_location.htm
+tags:
+- elements
+- levels
+- revit-api
+- rooms
+- views
+title: TextNote Lost in Space?
+word_count: 432
 ---
 
 ### TextNote Lost in Space?

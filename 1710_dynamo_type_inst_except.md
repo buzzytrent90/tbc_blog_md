@@ -1,11 +1,31 @@
 ---
-post_number: "1710"
-title: "Dynamo Type Inst Except"
-slug: "dynamo_type_inst_except"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'vbnet', 'views']
-source_file: "1710_dynamo_type_inst_except.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1710_dynamo_type_inst_except.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.579977'
+original_url: https://thebuildingcoder.typepad.com/blog/1710_dynamo_type_inst_except.html
+post_number: '1710'
+reading_time_minutes: 13
+series: elements
+slug: dynamo_type_inst_except
+source_file: 1710_dynamo_type_inst_except.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- vbnet
+- views
+title: Dynamo Type Inst Except
+word_count: 2564
 ---
 
 ### Dynamo, Symbol vs Type and Exporter Exception

@@ -1,11 +1,24 @@
 ---
-post_number: "0118"
-title: "Deeper Parameter Exploration"
-slug: "deeper_param_exploration"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'windows']
-source_file: "0118_deeper_param_exploration.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0118_deeper_param_exploration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.394267'
+original_url: https://thebuildingcoder.typepad.com/blog/0118_deeper_param_exploration.html
+post_number: 0118
+reading_time_minutes: 4
+series: general
+slug: deeper_param_exploration
+source_file: 0118_deeper_param_exploration.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- windows
+title: Deeper Parameter Exploration
+word_count: 728
 ---
 
 ### Deeper Parameter Exploration

@@ -1,11 +1,24 @@
 ---
-post_number: "0482"
-title: "Connector Direction and CreateAirHandler Sample"
-slug: "createairhandler_connector"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'references', 'revit-api']
-source_file: "0482_createairhandler_connector.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0482_createairhandler_connector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.022882'
+original_url: https://thebuildingcoder.typepad.com/blog/0482_createairhandler_connector.html
+post_number: 0482
+reading_time_minutes: 4
+series: mep
+slug: createairhandler_connector
+source_file: 0482_createairhandler_connector.htm
+tags:
+- csharp
+- elements
+- family
+- references
+- revit-api
+- mep
+title: Connector Direction and CreateAirHandler Sample
+word_count: 782
 ---
 
 ### Connector Direction and CreateAirHandler Sample

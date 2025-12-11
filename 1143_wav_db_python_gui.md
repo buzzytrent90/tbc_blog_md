@@ -1,11 +1,21 @@
 ---
-post_number: "1143"
-title: "WAV Database, Python and GUI Tutorials"
-slug: "wav_db_python_gui"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'views']
-source_file: "1143_wav_db_python_gui.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1143_wav_db_python_gui.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.393768'
+original_url: https://thebuildingcoder.typepad.com/blog/1143_wav_db_python_gui.html
+post_number: '1143'
+reading_time_minutes: 4
+series: general
+slug: wav_db_python_gui
+source_file: 1143_wav_db_python_gui.htm
+tags:
+- python
+- revit-api
+- views
+title: WAV Database, Python and GUI Tutorials
+word_count: 727
 ---
 
 ### WAV Database, Python and GUI Tutorials

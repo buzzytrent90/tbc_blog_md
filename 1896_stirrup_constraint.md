@@ -1,11 +1,31 @@
 ---
-post_number: "1896"
-title: "Stirrup Constraint"
-slug: "stirrup_constraint"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1896_stirrup_constraint.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1896_stirrup_constraint.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.989615'
+original_url: https://thebuildingcoder.typepad.com/blog/1896_stirrup_constraint.html
+post_number: '1896'
+reading_time_minutes: 18
+series: general
+slug: stirrup_constraint
+source_file: 1896_stirrup_constraint.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Stirrup Constraint
+word_count: 3507
 ---
 
 ### Boundary Elements and Stirrup Constraints

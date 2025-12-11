@@ -1,11 +1,22 @@
 ---
-post_number: "0329"
-title: "DevCamp, Devlabs and Updated API Training Schedule"
-slug: "devcamp_training"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api', 'rooms', 'schedules']
-source_file: "0329_devcamp_training.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0329_devcamp_training.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.752705'
+original_url: https://thebuildingcoder.typepad.com/blog/0329_devcamp_training.html
+post_number: 0329
+reading_time_minutes: 4
+series: general
+slug: devcamp_training
+source_file: 0329_devcamp_training.htm
+tags:
+- geometry
+- revit-api
+- rooms
+- schedules
+title: DevCamp, Devlabs and Updated API Training Schedule
+word_count: 848
 ---
 
 ### DevCamp, Devlabs and Updated API Training Schedule

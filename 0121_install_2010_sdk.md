@@ -1,11 +1,20 @@
 ---
-post_number: "0121"
-title: "Installing the Revit 2010 SDK"
-slug: "install_2010_sdk"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0121_install_2010_sdk.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0121_install_2010_sdk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.399347'
+original_url: https://thebuildingcoder.typepad.com/blog/0121_install_2010_sdk.html
+post_number: '0121'
+reading_time_minutes: 3
+series: general
+slug: install_2010_sdk
+source_file: 0121_install_2010_sdk.htm
+tags:
+- family
+- revit-api
+title: Installing the Revit 2010 SDK
+word_count: 599
 ---
 
 ### Installing the Revit 2010 SDK

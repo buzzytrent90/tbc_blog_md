@@ -1,11 +1,23 @@
 ---
-post_number: "1059"
-title: "Multi-Version Visual Studio Revit Add-In Wizard"
-slug: "multi_version_wizard"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'views', 'windows']
-source_file: "1059_multi_version_wizard.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1059_multi_version_wizard.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.215727'
+original_url: https://thebuildingcoder.typepad.com/blog/1059_multi_version_wizard.html
+post_number: '1059'
+reading_time_minutes: 4
+series: general
+slug: multi_version_wizard
+source_file: 1059_multi_version_wizard.htm
+tags:
+- csharp
+- references
+- revit-api
+- views
+- windows
+title: Multi-Version Visual Studio Revit Add-In Wizard
+word_count: 786
 ---
 
 ### Multi-Version Visual Studio Revit Add-In Wizard

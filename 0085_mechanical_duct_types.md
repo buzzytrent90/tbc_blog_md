@@ -1,11 +1,22 @@
 ---
-post_number: "0085"
-title: "Mechanical Duct Types"
-slug: "mechanical_duct_types"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api']
-source_file: "0085_mechanical_duct_types.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0085_mechanical_duct_types.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.335952'
+original_url: https://thebuildingcoder.typepad.com/blog/0085_mechanical_duct_types.html
+post_number: 0085
+reading_time_minutes: 1
+series: elements
+slug: mechanical_duct_types
+source_file: 0085_mechanical_duct_types.htm
+tags:
+- family
+- parameters
+- revit-api
+- elements
+title: Mechanical Duct Types
+word_count: 192
 ---
 
 ### Mechanical Duct Types

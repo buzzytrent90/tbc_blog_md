@@ -1,11 +1,27 @@
 ---
-post_number: "0443"
-title: "Selection Watcher Using Idling Event"
-slug: "idling_selection_watcher"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'references', 'revit-api', 'rooms', 'selection', 'transactions']
-source_file: "0443_idling_selection_watcher.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0443_idling_selection_watcher.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.953816'
+original_url: https://thebuildingcoder.typepad.com/blog/0443_idling_selection_watcher.html
+post_number: '0443'
+reading_time_minutes: 6
+series: filtering
+slug: idling_selection_watcher
+source_file: 0443_idling_selection_watcher.htm
+tags:
+- csharp
+- elements
+- levels
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- filtering
+title: Selection Watcher Using Idling Event
+word_count: 1217
 ---
 
 ### Selection Watcher Using Idling Event

@@ -1,11 +1,22 @@
 ---
-post_number: "0955"
-title: "RevitRubyShell for Revit 2014"
-slug: "revitrubyshell"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'rooms', 'views']
-source_file: "0955_revitrubyshell.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0955_revitrubyshell.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.983414'
+original_url: https://thebuildingcoder.typepad.com/blog/0955_revitrubyshell.html
+post_number: 0955
+reading_time_minutes: 2
+series: general
+slug: revitrubyshell
+source_file: 0955_revitrubyshell.htm
+tags:
+- python
+- revit-api
+- rooms
+- views
+title: RevitRubyShell for Revit 2014
+word_count: 491
 ---
 
 ### RevitRubyShell for Revit 2014

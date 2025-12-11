@@ -1,11 +1,24 @@
 ---
-post_number: "1768"
-title: "Pipe Direction"
-slug: "pipe_direction"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'revit-api', 'sheets']
-source_file: "1768_pipe_direction.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1768_pipe_direction.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.707008'
+original_url: https://thebuildingcoder.typepad.com/blog/1768_pipe_direction.html
+post_number: '1768'
+reading_time_minutes: 6
+series: mep
+slug: pipe_direction
+source_file: 1768_pipe_direction.md
+tags:
+- elements
+- family
+- levels
+- revit-api
+- sheets
+- mep
+title: Pipe Direction
+word_count: 1120
 ---
 
 ### MEP Ductwork and Changing Pipe Direction

@@ -1,11 +1,30 @@
 ---
-post_number: "1809"
-title: "Element Outline"
-slug: "element_outline"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'levels', 'python', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1809_element_outline.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1809_element_outline.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.789386'
+original_url: https://thebuildingcoder.typepad.com/blog/1809_element_outline.html
+post_number: '1809'
+reading_time_minutes: 13
+series: elements
+slug: element_outline
+source_file: 1809_element_outline.md
+tags:
+- doors
+- elements
+- family
+- geometry
+- levels
+- python
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Element Outline
+word_count: 2512
 ---
 
 ### Extrusion Analyser and 2D Boolean Element Outline

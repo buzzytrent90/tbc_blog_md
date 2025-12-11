@@ -1,11 +1,25 @@
 ---
-post_number: "0139"
-title: "Revit 2010 Ribbon API"
-slug: "ribbon_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0139_ribbon_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0139_ribbon_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.427305'
+original_url: https://thebuildingcoder.typepad.com/blog/0139_ribbon_api.html
+post_number: 0139
+reading_time_minutes: 7
+series: general
+slug: ribbon_api
+source_file: 0139_ribbon_api.htm
+tags:
+- csharp
+- elements
+- levels
+- revit-api
+- views
+- walls
+- windows
+title: Revit 2010 Ribbon API
+word_count: 1332
 ---
 
 ### Revit 2010 Ribbon API

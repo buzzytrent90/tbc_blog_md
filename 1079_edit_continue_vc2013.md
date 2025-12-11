@@ -1,11 +1,21 @@
 ---
-post_number: "1079"
-title: "Visual Studio 2013 May Partially Support Edit and Continue"
-slug: "edit_continue_vc2013"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'views']
-source_file: "1079_edit_continue_vc2013.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1079_edit_continue_vc2013.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.262613'
+original_url: https://thebuildingcoder.typepad.com/blog/1079_edit_continue_vc2013.html
+post_number: '1079'
+reading_time_minutes: 1
+series: general
+slug: edit_continue_vc2013
+source_file: 1079_edit_continue_vc2013.htm
+tags:
+- revit-api
+- schedules
+- views
+title: Visual Studio 2013 May Partially Support Edit and Continue
+word_count: 279
 ---
 
 ### Visual Studio 2013 May Partially Support Edit and Continue

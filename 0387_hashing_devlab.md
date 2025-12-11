@@ -1,11 +1,20 @@
 ---
-post_number: "0387"
-title: "Hashing and DevLabs"
-slug: "hashing_devlab"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules']
-source_file: "0387_hashing_devlab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0387_hashing_devlab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:13.862765'
+original_url: https://thebuildingcoder.typepad.com/blog/0387_hashing_devlab.html
+post_number: 0387
+reading_time_minutes: 1
+series: general
+slug: hashing_devlab
+source_file: 0387_hashing_devlab.htm
+tags:
+- revit-api
+- schedules
+title: Hashing and DevLabs
+word_count: 296
 ---
 
 ### Hashing and DevLabs

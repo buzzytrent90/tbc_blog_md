@@ -1,11 +1,25 @@
 ---
-post_number: "0628"
-title: "Polylines in Imported DWG Files"
-slug: "polyline_in_dwg_import"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'references', 'revit-api', 'selection', 'views']
-source_file: "0628_polyline_in_dwg_import.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0628_polyline_in_dwg_import.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.292900'
+original_url: https://thebuildingcoder.typepad.com/blog/0628_polyline_in_dwg_import.html
+post_number: 0628
+reading_time_minutes: 3
+series: general
+slug: polyline_in_dwg_import
+source_file: 0628_polyline_in_dwg_import.htm
+tags:
+- csharp
+- elements
+- geometry
+- references
+- revit-api
+- selection
+- views
+title: Polylines in Imported DWG Files
+word_count: 614
 ---
 
 ### Polylines in Imported DWG Files

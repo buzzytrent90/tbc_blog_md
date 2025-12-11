@@ -1,11 +1,23 @@
 ---
-post_number: "1322"
-title: "A360 Viewer Widget and Selecting a DWG Export Setup"
-slug: "a360_widget_dwg_export"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'views']
-source_file: "1322_a360_widget_dwg_export.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1322_a360_widget_dwg_export.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.768647'
+original_url: https://thebuildingcoder.typepad.com/blog/1322_a360_widget_dwg_export.html
+post_number: '1322'
+reading_time_minutes: 3
+series: general
+slug: a360_widget_dwg_export
+source_file: 1322_a360_widget_dwg_export.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- views
+title: A360 Viewer Widget and Selecting a DWG Export Setup
+word_count: 692
 ---
 
 ### A360 Viewer Widget and Selecting a DWG Export Setup

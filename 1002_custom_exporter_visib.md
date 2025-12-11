@@ -1,11 +1,23 @@
 ---
-post_number: "1002"
-title: "Determining Absolutely All Visible Elements"
-slug: "custom_exporter_visib"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'vbnet', 'views']
-source_file: "1002_custom_exporter_visib.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1002_custom_exporter_visib.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.096458'
+original_url: https://thebuildingcoder.typepad.com/blog/1002_custom_exporter_visib.html
+post_number: '1002'
+reading_time_minutes: 7
+series: general
+slug: custom_exporter_visib
+source_file: 1002_custom_exporter_visib.htm
+tags:
+- elements
+- filtering
+- revit-api
+- vbnet
+- views
+title: Determining Absolutely All Visible Elements
+word_count: 1478
 ---
 
 ### Determining Absolutely All Visible Elements

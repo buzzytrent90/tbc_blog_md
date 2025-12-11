@@ -1,11 +1,28 @@
 ---
-post_number: "0935"
-title: "Migrating a Built-in Category and Other Things"
-slug: "migrate_category"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'views', 'windows']
-source_file: "0935_migrate_category.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0935_migrate_category.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.930029'
+original_url: https://thebuildingcoder.typepad.com/blog/0935_migrate_category.html
+post_number: 0935
+reading_time_minutes: 5
+series: elements
+slug: migrate_category
+source_file: 0935_migrate_category.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- views
+- windows
+title: Migrating a Built-in Category and Other Things
+word_count: 1081
 ---
 
 ### Migrating a Built-in Category and Other Things

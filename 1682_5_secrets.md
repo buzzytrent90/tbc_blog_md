@@ -1,11 +1,24 @@
 ---
-post_number: "1682"
-title: "5 Secrets"
-slug: "5_secrets"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1682_5_secrets.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1682_5_secrets.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.514624'
+original_url: https://thebuildingcoder.typepad.com/blog/1682_5_secrets.html
+post_number: '1682'
+reading_time_minutes: 2
+series: general
+slug: 5_secrets
+source_file: 1682_5_secrets.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: 5 Secrets
+word_count: 453
 ---
 
 ### Five Secrets of Revit API Coding

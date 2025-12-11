@@ -1,11 +1,31 @@
 ---
-post_number: "1343"
-title: "Clicks, DMU, Surfaces, FireRating Feedback, Vacation"
-slug: "vacation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "1343_vacation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1343_vacation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.811896'
+original_url: https://thebuildingcoder.typepad.com/blog/1343_vacation.html
+post_number: '1343'
+reading_time_minutes: 7
+series: general
+slug: vacation
+source_file: 1343_vacation.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Clicks, DMU, Surfaces, FireRating Feedback, Vacation
+word_count: 1427
 ---
 
 ### Clicks, DMU, Surfaces, FireRating Feedback, Vacation

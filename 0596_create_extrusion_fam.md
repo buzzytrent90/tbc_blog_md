@@ -1,11 +1,29 @@
 ---
-post_number: "0596"
-title: "Creating and Inserting an Extrusion Family"
-slug: "create_extrusion_fam"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0596_create_extrusion_fam.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0596_create_extrusion_fam.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.232186'
+original_url: https://thebuildingcoder.typepad.com/blog/0596_create_extrusion_fam.html
+post_number: 0596
+reading_time_minutes: 8
+series: general
+slug: create_extrusion_fam
+source_file: 0596_create_extrusion_fam.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+- views
+title: Creating and Inserting an Extrusion Family
+word_count: 1668
 ---
 
 ### Creating and Inserting an Extrusion Family

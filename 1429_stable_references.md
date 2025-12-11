@@ -1,11 +1,28 @@
 ---
-post_number: "1429"
-title: "Stable References"
-slug: "stable_references"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'python', 'references', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1429_stable_references.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1429_stable_references.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.002879'
+original_url: https://thebuildingcoder.typepad.com/blog/1429_stable_references.html
+post_number: '1429'
+reading_time_minutes: 13
+series: general
+slug: stable_references
+source_file: 1429_stable_references.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- python
+- references
+- revit-api
+- selection
+- sheets
+- views
+title: Stable References
+word_count: 2578
 ---
 
 ### Reference Stable Representation Magic Voodoo

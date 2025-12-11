@@ -1,11 +1,27 @@
 ---
-post_number: "1880"
-title: "Texture Uv Coord"
-slug: "texture_uv_coord"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1880_texture_uv_coord.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1880_texture_uv_coord.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.951732'
+original_url: https://thebuildingcoder.typepad.com/blog/1880_texture_uv_coord.html
+post_number: '1880'
+reading_time_minutes: 10
+series: geometry
+slug: texture_uv_coord
+source_file: 1880_texture_uv_coord.md
+tags:
+- elements
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Texture Uv Coord
+word_count: 2050
 ---
 
 ### Dynamo Book and Texture Bitmap UV Coordinates

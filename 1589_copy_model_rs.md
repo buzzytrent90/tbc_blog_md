@@ -1,11 +1,22 @@
 ---
-post_number: "1589"
-title: "Copy Model Rs"
-slug: "copy_model_rs"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "1589_copy_model_rs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1589_copy_model_rs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.349013'
+original_url: https://thebuildingcoder.typepad.com/blog/1589_copy_model_rs.html
+post_number: '1589'
+reading_time_minutes: 5
+series: general
+slug: copy_model_rs
+source_file: 1589_copy_model_rs.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Copy Model Rs
+word_count: 914
 ---
 
 ### Revit Server Download and Hiding Point Cloud Scan

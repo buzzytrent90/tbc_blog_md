@@ -1,11 +1,20 @@
 ---
-post_number: "0108"
-title: "Real Break"
-slug: "real_break"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api']
-source_file: "0108_real_break.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0108_real_break.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.376961'
+original_url: https://thebuildingcoder.typepad.com/blog/0108_real_break.html
+post_number: 0108
+reading_time_minutes: 2
+series: general
+slug: real_break
+source_file: 0108_real_break.htm
+tags:
+- elements
+- revit-api
+title: Real Break
+word_count: 305
 ---
 
 ### Real Break

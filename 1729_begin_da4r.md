@@ -1,11 +1,25 @@
 ---
-post_number: "1729"
-title: "Begin Da4r"
-slug: "begin_da4r"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1729_begin_da4r.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1729_begin_da4r.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.620275'
+original_url: https://thebuildingcoder.typepad.com/blog/1729_begin_da4r.html
+post_number: '1729'
+reading_time_minutes: 6
+series: general
+slug: begin_da4r
+source_file: 1729_begin_da4r.md
+tags:
+- elements
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Begin Da4r
+word_count: 1259
 ---
 
 ### Before Getting Started with Design Automation

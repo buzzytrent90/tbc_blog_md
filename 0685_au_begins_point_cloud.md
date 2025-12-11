@@ -1,11 +1,26 @@
 ---
-post_number: "0685"
-title: "AU Begins and Point Cloud Overview"
-slug: "au_begins_point_cloud"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'selection', 'views', 'walls']
-source_file: "0685_au_begins_point_cloud.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0685_au_begins_point_cloud.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.392446'
+original_url: https://thebuildingcoder.typepad.com/blog/0685_au_begins_point_cloud.html
+post_number: 0685
+reading_time_minutes: 8
+series: geometry
+slug: au_begins_point_cloud
+source_file: 0685_au_begins_point_cloud.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- selection
+- views
+- walls
+- geometry
+title: AU Begins and Point Cloud Overview
+word_count: 1567
 ---
 
 ### AU Begins and Point Cloud Overview

@@ -1,11 +1,23 @@
 ---
-post_number: "1590"
-title: "License"
-slug: "license"
-author: "Jeremy Tammik"
-tags: ['geometry', 'references', 'revit-api', 'sheets', 'walls']
-source_file: "1590_license.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1590_license.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.350394'
+original_url: https://thebuildingcoder.typepad.com/blog/1590_license.html
+post_number: '1590'
+reading_time_minutes: 1
+series: general
+slug: license
+source_file: 1590_license.md
+tags:
+- geometry
+- references
+- revit-api
+- sheets
+- walls
+title: License
+word_count: 293
 ---
 
 ### Vacation and Open Source Code Licenses, Again

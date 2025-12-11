@@ -1,11 +1,22 @@
 ---
-post_number: "1438"
-title: "Addin Wizard 2017"
-slug: "addin_wizard_2017"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets', 'vbnet']
-source_file: "1438_addin_wizard_2017.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1438_addin_wizard_2017.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: news
+optimization_date: '2025-12-11T11:44:16.027020'
+original_url: https://thebuildingcoder.typepad.com/blog/1438_addin_wizard_2017.html
+post_number: '1438'
+reading_time_minutes: 4
+series: general
+slug: addin_wizard_2017
+source_file: 1438_addin_wizard_2017.md
+tags:
+- csharp
+- revit-api
+- sheets
+- vbnet
+title: Addin Wizard 2017
+word_count: 820
 ---
 
 ### Visual Studio 2015 Revit 2017 Add-in Wizards

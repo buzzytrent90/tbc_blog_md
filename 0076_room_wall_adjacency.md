@@ -1,11 +1,27 @@
 ---
-post_number: "0076"
-title: "Room and Wall Adjacency"
-slug: "room_wall_adjacency"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'revit-api', 'rooms', 'selection', 'views', 'walls']
-source_file: "0076_room_wall_adjacency.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0076_room_wall_adjacency.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.322462'
+original_url: https://thebuildingcoder.typepad.com/blog/0076_room_wall_adjacency.html
+post_number: '0076'
+reading_time_minutes: 6
+series: general
+slug: room_wall_adjacency
+source_file: 0076_room_wall_adjacency.htm
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- revit-api
+- rooms
+- selection
+- views
+- walls
+title: Room and Wall Adjacency
+word_count: 1128
 ---
 
 ### Room and Wall Adjacency

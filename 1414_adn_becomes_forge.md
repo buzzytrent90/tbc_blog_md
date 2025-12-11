@@ -1,11 +1,24 @@
 ---
-post_number: "1414"
-title: "Adn Becomes Forge"
-slug: "adn_becomes_forge"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1414_adn_becomes_forge.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1414_adn_becomes_forge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.968203'
+original_url: https://thebuildingcoder.typepad.com/blog/1414_adn_becomes_forge.html
+post_number: '1414'
+reading_time_minutes: 3
+series: general
+slug: adn_becomes_forge
+source_file: 1414_adn_becomes_forge.md
+tags:
+- elements
+- geometry
+- revit-api
+- rooms
+- sheets
+- views
+title: Adn Becomes Forge
+word_count: 681
 ---
 
 ### ADN Becomes Forge and Barcelona Accelerator

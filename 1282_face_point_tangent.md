@@ -1,11 +1,26 @@
 ---
-post_number: "1282"
-title: "Determining the Face Tangent at a Picked Point"
-slug: "face_point_tangent"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'selection']
-source_file: "1282_face_point_tangent.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1282_face_point_tangent.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.670194'
+original_url: https://thebuildingcoder.typepad.com/blog/1282_face_point_tangent.html
+post_number: '1282'
+reading_time_minutes: 8
+series: geometry
+slug: face_point_tangent
+source_file: 1282_face_point_tangent.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- selection
+title: Determining the Face Tangent at a Picked Point
+word_count: 1588
 ---
 
 ### Determining the Face Tangent at a Picked Point

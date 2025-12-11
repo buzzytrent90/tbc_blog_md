@@ -1,11 +1,25 @@
 ---
-post_number: "0301"
-title: "Detail Curve on Level"
-slug: "detail_curve_level"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'revit-api', 'views']
-source_file: "0301_detail_curve_level.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0301_detail_curve_level.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.708187'
+original_url: https://thebuildingcoder.typepad.com/blog/0301_detail_curve_level.html
+post_number: '0301'
+reading_time_minutes: 3
+series: geometry
+slug: detail_curve_level
+source_file: 0301_detail_curve_level.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+title: Detail Curve on Level
+word_count: 623
 ---
 
 ### Detail Curve on Level

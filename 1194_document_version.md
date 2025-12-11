@@ -1,11 +1,26 @@
 ---
-post_number: "1194"
-title: "Document Version, GUID and Number of Saves"
-slug: "document_version"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1194_document_version.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1194_document_version.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.487965'
+original_url: https://thebuildingcoder.typepad.com/blog/1194_document_version.html
+post_number: '1194'
+reading_time_minutes: 3
+series: general
+slug: document_version
+source_file: 1194_document_version.htm
+tags:
+- elements
+- family
+- parameters
+- python
+- revit-api
+- transactions
+- views
+- windows
+title: Document Version, GUID and Number of Saves
+word_count: 610
 ---
 
 ### Document Version, GUID and Number of Saves

@@ -1,11 +1,29 @@
 ---
-post_number: "1038"
-title: "Text File Driven Automatic Placement of Family Instances"
-slug: "place_family_inst"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'python', 'revit-api', 'selection', 'transactions', 'views', 'windows']
-source_file: "1038_place_family_inst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1038_place_family_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.172953'
+original_url: https://thebuildingcoder.typepad.com/blog/1038_place_family_inst.html
+post_number: '1038'
+reading_time_minutes: 10
+series: family
+slug: place_family_inst
+source_file: 1038_place_family_inst.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- python
+- revit-api
+- selection
+- transactions
+- views
+- windows
+title: Text File Driven Automatic Placement of Family Instances
+word_count: 1975
 ---
 
 ### Text File Driven Automatic Placement of Family Instances

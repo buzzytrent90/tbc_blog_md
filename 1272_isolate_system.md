@@ -1,11 +1,27 @@
 ---
-post_number: "1272"
-title: "Isolating Elements of a Given System"
-slug: "isolate_system"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1272_isolate_system.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1272_isolate_system.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.647099'
+original_url: https://thebuildingcoder.typepad.com/blog/1272_isolate_system.html
+post_number: '1272'
+reading_time_minutes: 6
+series: general
+slug: isolate_system
+source_file: 1272_isolate_system.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Isolating Elements of a Given System
+word_count: 1250
 ---
 
 ### Isolating Elements of a Given System

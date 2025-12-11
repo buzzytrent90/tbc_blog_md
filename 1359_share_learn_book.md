@@ -1,11 +1,36 @@
 ---
-post_number: "1359"
-title: "Share Learn Book"
-slug: "share_learn_book"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'transactions', 'vbnet', 'views', 'walls', 'windows']
-source_file: "1359_share_learn_book.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1359_share_learn_book.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.844926'
+original_url: https://thebuildingcoder.typepad.com/blog/1359_share_learn_book.html
+post_number: '1359'
+reading_time_minutes: 6
+series: general
+slug: share_learn_book
+source_file: 1359_share_learn_book.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- transactions
+- vbnet
+- views
+- walls
+- windows
+title: Share Learn Book
+word_count: 1177
 ---
 
 ### Sharing, Dynamo and a Chinese Book

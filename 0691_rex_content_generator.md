@@ -1,11 +1,23 @@
 ---
-post_number: "0691"
-title: "REX Content Generator"
-slug: "rex_content_generator"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'views']
-source_file: "0691_rex_content_generator.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0691_rex_content_generator.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.404636'
+original_url: https://thebuildingcoder.typepad.com/blog/0691_rex_content_generator.html
+post_number: 0691
+reading_time_minutes: 6
+series: general
+slug: rex_content_generator
+source_file: 0691_rex_content_generator.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- views
+title: REX Content Generator
+word_count: 1202
 ---
 
 ### REX Content Generator

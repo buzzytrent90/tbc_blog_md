@@ -1,11 +1,21 @@
 ---
-post_number: "0206"
-title: "Library Paths"
-slug: "library_paths"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "0206_library_paths.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0206_library_paths.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.550184'
+original_url: https://thebuildingcoder.typepad.com/blog/0206_library_paths.html
+post_number: '0206'
+reading_time_minutes: 4
+series: general
+slug: library_paths
+source_file: 0206_library_paths.htm
+tags:
+- csharp
+- revit-api
+- windows
+title: Library Paths
+word_count: 818
 ---
 
 ### Library Paths

@@ -1,11 +1,28 @@
 ---
-post_number: "1820"
-title: "Sheet From View"
-slug: "sheet_from_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'schedules', 'selection', 'sheets', 'views']
-source_file: "1820_sheet_from_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1820_sheet_from_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.811630'
+original_url: https://thebuildingcoder.typepad.com/blog/1820_sheet_from_view.html
+post_number: '1820'
+reading_time_minutes: 7
+series: views
+slug: sheet_from_view
+source_file: 1820_sheet_from_view.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- schedules
+- selection
+- sheets
+- views
+title: Sheet From View
+word_count: 1450
 ---
 
 ### Getting Title Block Data and ViewSheet from View

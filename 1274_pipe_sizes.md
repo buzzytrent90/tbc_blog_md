@@ -1,11 +1,23 @@
 ---
-post_number: "1274"
-title: "List Pipe Sizes and More Obsolete API Usage Removal"
-slug: "pipe_sizes"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api']
-source_file: "1274_pipe_sizes.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1274_pipe_sizes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.651515'
+original_url: https://thebuildingcoder.typepad.com/blog/1274_pipe_sizes.html
+post_number: '1274'
+reading_time_minutes: 2
+series: mep
+slug: pipe_sizes
+source_file: 1274_pipe_sizes.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- mep
+title: List Pipe Sizes and More Obsolete API Usage Removal
+word_count: 438
 ---
 
 ### List Pipe Sizes and More Obsolete API Usage Removal

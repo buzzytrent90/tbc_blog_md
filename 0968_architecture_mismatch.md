@@ -1,11 +1,22 @@
 ---
-post_number: "0968"
-title: "Processor Architecture Mismatch Warning and Key Hook"
-slug: "architecture_mismatch"
-author: "Jeremy Tammik"
-tags: ['levels', 'references', 'revit-api', 'windows']
-source_file: "0968_architecture_mismatch.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0968_architecture_mismatch.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.013047'
+original_url: https://thebuildingcoder.typepad.com/blog/0968_architecture_mismatch.html
+post_number: 0968
+reading_time_minutes: 4
+series: general
+slug: architecture_mismatch
+source_file: 0968_architecture_mismatch.htm
+tags:
+- levels
+- references
+- revit-api
+- windows
+title: Processor Architecture Mismatch Warning and Key Hook
+word_count: 745
 ---
 
 ### Processor Architecture Mismatch Warning and Key Hook

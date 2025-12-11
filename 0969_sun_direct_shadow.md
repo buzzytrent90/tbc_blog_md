@@ -1,11 +1,24 @@
 ---
-post_number: "0969"
-title: "Sun Direction, Shadow Calculation and Wizard Update"
-slug: "sun_direct_shadow"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'vbnet', 'views']
-source_file: "0969_sun_direct_shadow.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0969_sun_direct_shadow.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.015387'
+original_url: https://thebuildingcoder.typepad.com/blog/0969_sun_direct_shadow.html
+post_number: 0969
+reading_time_minutes: 4
+series: general
+slug: sun_direct_shadow
+source_file: 0969_sun_direct_shadow.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- vbnet
+- views
+title: Sun Direction, Shadow Calculation and Wizard Update
+word_count: 708
 ---
 
 ### Sun Direction, Shadow Calculation and Wizard Update

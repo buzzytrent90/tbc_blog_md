@@ -1,11 +1,32 @@
 ---
-post_number: "1994"
-title: "Wire Align"
-slug: "wire_align"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1994_wire_align.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1994_wire_align.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.224218'
+original_url: https://thebuildingcoder.typepad.com/blog/1994_wire_align.html
+post_number: '1994'
+reading_time_minutes: 20
+series: geometry
+slug: wire_align
+source_file: 1994_wire_align.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+title: Wire Align
+word_count: 4100
 ---
 
 ### Aligning Elements, Finding and Visualising Wires

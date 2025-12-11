@@ -1,11 +1,27 @@
 ---
-post_number: "1116"
-title: "Adding New Materials from List Updated"
-slug: "add_materials"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'windows']
-source_file: "1116_add_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1116_add_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.334515'
+original_url: https://thebuildingcoder.typepad.com/blog/1116_add_materials.html
+post_number: '1116'
+reading_time_minutes: 4
+series: materials
+slug: add_materials
+source_file: 1116_add_materials.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- windows
+- materials
+title: Adding New Materials from List Updated
+word_count: 799
 ---
 
 ### Adding New Materials from List Updated

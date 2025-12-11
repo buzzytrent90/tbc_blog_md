@@ -1,11 +1,23 @@
 ---
-post_number: "2051"
-title: "Modeless"
-slug: "modeless"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "2051_modeless.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2051_modeless.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.367113'
+original_url: https://thebuildingcoder.typepad.com/blog/2051_modeless.html
+post_number: '2051'
+reading_time_minutes: 9
+series: general
+slug: modeless
+source_file: 2051_modeless.md
+tags:
+- elements
+- revit-api
+- rooms
+- sheets
+- views
+title: Modeless
+word_count: 1797
 ---
 
 ### API Context, Background Process, PostCommand

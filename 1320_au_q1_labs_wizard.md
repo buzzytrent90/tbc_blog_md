@@ -1,11 +1,26 @@
 ---
-post_number: "1320"
-title: "Autodesk University, Q1 Report, ADN Labs and Wizard Update"
-slug: "au_q1_labs_wizard"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'references', 'revit-api', 'vbnet', 'views']
-source_file: "1320_au_q1_labs_wizard.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1320_au_q1_labs_wizard.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.764424'
+original_url: https://thebuildingcoder.typepad.com/blog/1320_au_q1_labs_wizard.html
+post_number: '1320'
+reading_time_minutes: 5
+series: general
+slug: au_q1_labs_wizard
+source_file: 1320_au_q1_labs_wizard.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- references
+- revit-api
+- vbnet
+- views
+title: Autodesk University, Q1 Report, ADN Labs and Wizard Update
+word_count: 1030
 ---
 
 ### Autodesk University, Q1 Report, ADN Labs and Wizard Update

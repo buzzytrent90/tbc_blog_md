@@ -1,11 +1,28 @@
 ---
-post_number: "1918"
-title: "Avf Design Option"
-slug: "avf_design_option"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'schedules', 'sheets', 'transactions', 'views']
-source_file: "1918_avf_design_option.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1918_avf_design_option.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.040166'
+original_url: https://thebuildingcoder.typepad.com/blog/1918_avf_design_option.html
+post_number: '1918'
+reading_time_minutes: 6
+series: general
+slug: avf_design_option
+source_file: 1918_avf_design_option.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+title: Avf Design Option
+word_count: 1241
 ---
 
 ### Kfpopeye Open Source, AVF and Other Cleanup

@@ -1,11 +1,26 @@
 ---
-post_number: "0430"
-title: "Suppress Unwanted Dialogue"
-slug: "unwanted_dialogue"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0430_unwanted_dialogue.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0430_unwanted_dialogue.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.933679'
+original_url: https://thebuildingcoder.typepad.com/blog/0430_unwanted_dialogue.html
+post_number: '0430'
+reading_time_minutes: 4
+series: general
+slug: unwanted_dialogue
+source_file: 0430_unwanted_dialogue.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- transactions
+- walls
+- windows
+title: Suppress Unwanted Dialogue
+word_count: 849
 ---
 
 ### Suppress Unwanted Dialogue

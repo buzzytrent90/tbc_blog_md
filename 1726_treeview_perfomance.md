@@ -1,11 +1,28 @@
 ---
-post_number: "1726"
-title: "Treeview Perfomance"
-slug: "treeview_perfomance"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1726_treeview_perfomance.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1726_treeview_perfomance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.614345'
+original_url: https://thebuildingcoder.typepad.com/blog/1726_treeview_perfomance.html
+post_number: '1726'
+reading_time_minutes: 6
+series: views
+slug: treeview_perfomance
+source_file: 1726_treeview_perfomance.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Treeview Perfomance
+word_count: 1176
 ---
 
 ### Forum Français and Treeview Performance

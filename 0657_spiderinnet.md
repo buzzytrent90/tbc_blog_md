@@ -1,11 +1,26 @@
 ---
-post_number: "0657"
-title: "Spiderinnet"
-slug: "spiderinnet"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'vbnet', 'windows']
-source_file: "0657_spiderinnet.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0657_spiderinnet.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.343198'
+original_url: https://thebuildingcoder.typepad.com/blog/0657_spiderinnet.html
+post_number: '0657'
+reading_time_minutes: 1
+series: general
+slug: spiderinnet
+source_file: 0657_spiderinnet.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- vbnet
+- windows
+title: Spiderinnet
+word_count: 201
 ---
 
 ﻿

@@ -1,11 +1,28 @@
 ---
-post_number: "2012"
-title: "Dll Paradise"
-slug: "dll_paradise"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "2012_dll_paradise.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2012_dll_paradise.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 22.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.270660'
+original_url: https://thebuildingcoder.typepad.com/blog/2012_dll_paradise.html
+post_number: '2012'
+reading_time_minutes: 27
+series: general
+slug: dll_paradise
+source_file: 2012_dll_paradise.md
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Dll Paradise
+word_count: 5441
 ---
 
 ### DLL Paradise and a Fall

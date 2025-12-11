@@ -1,11 +1,23 @@
 ---
-post_number: "1465"
-title: "The Building Coder"
-slug: "trust_sign_fish"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'vbnet', 'views', 'windows']
-source_file: "1465_trust_sign_fish.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1465_trust_sign_fish.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.085428'
+original_url: https://thebuildingcoder.typepad.com/blog/1465_trust_sign_fish.html
+post_number: '1465'
+reading_time_minutes: 8
+series: general
+slug: trust_sign_fish
+source_file: 1465_trust_sign_fish.md
+tags:
+- revit-api
+- sheets
+- vbnet
+- views
+- windows
+title: The Building Coder
+word_count: 1564
 ---
 
 ### Trusted Signature Motivation and Fishing

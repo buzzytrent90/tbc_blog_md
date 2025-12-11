@@ -1,11 +1,22 @@
 ---
-post_number: "0490"
-title: "The Revit API Track at AU 2010"
-slug: "au_2010_revit_api_track"
-author: "Jeremy Tammik"
-tags: ['filtering', 'geometry', 'parameters', 'revit-api']
-source_file: "0490_au_2010_revit_api_track.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0490_au_2010_revit_api_track.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: news
+optimization_date: '2025-12-11T11:44:14.042083'
+original_url: https://thebuildingcoder.typepad.com/blog/0490_au_2010_revit_api_track.html
+post_number: 0490
+reading_time_minutes: 5
+series: general
+slug: au_2010_revit_api_track
+source_file: 0490_au_2010_revit_api_track.htm
+tags:
+- filtering
+- geometry
+- parameters
+- revit-api
+title: The Revit API Track at AU 2010
+word_count: 1012
 ---
 
 ### The Revit API Track at AU 2010

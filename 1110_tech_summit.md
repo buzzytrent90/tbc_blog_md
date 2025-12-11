@@ -1,11 +1,27 @@
 ---
-post_number: "1110"
-title: "Back from Desert and Two Happy Events"
-slug: "tech_summit"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'parameters', 'revit-api', 'rooms', 'schedules', 'views', 'walls', 'windows']
-source_file: "1110_tech_summit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1110_tech_summit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: news
+optimization_date: '2025-12-11T11:44:15.324063'
+original_url: https://thebuildingcoder.typepad.com/blog/1110_tech_summit.html
+post_number: '1110'
+reading_time_minutes: 4
+series: general
+slug: tech_summit
+source_file: 1110_tech_summit.htm
+tags:
+- doors
+- elements
+- parameters
+- revit-api
+- rooms
+- schedules
+- views
+- walls
+- windows
+title: Back from Desert and Two Happy Events
+word_count: 861
 ---
 
 ### Back from Desert and Two Happy Events

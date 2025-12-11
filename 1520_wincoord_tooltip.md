@@ -1,11 +1,24 @@
 ---
-post_number: "1520"
-title: "Wincoord Tooltip"
-slug: "wincoord_tooltip"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1520_wincoord_tooltip.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1520_wincoord_tooltip.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: news
+optimization_date: '2025-12-11T11:44:16.207595'
+original_url: https://thebuildingcoder.typepad.com/blog/1520_wincoord_tooltip.html
+post_number: '1520'
+reading_time_minutes: 3
+series: general
+slug: wincoord_tooltip
+source_file: 1520_wincoord_tooltip.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Wincoord Tooltip
+word_count: 504
 ---
 
 ### UIView Windows Coordinate Ray Casting Tooltip

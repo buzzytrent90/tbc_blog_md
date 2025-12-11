@@ -1,11 +1,23 @@
 ---
-post_number: "0268"
-title: "Custom Ribbon Tab"
-slug: "custom_ribbon_tab"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'windows']
-source_file: "0268_custom_ribbon_tab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0268_custom_ribbon_tab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.649986'
+original_url: https://thebuildingcoder.typepad.com/blog/0268_custom_ribbon_tab.html
+post_number: 0268
+reading_time_minutes: 5
+series: general
+slug: custom_ribbon_tab
+source_file: 0268_custom_ribbon_tab.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- windows
+title: Custom Ribbon Tab
+word_count: 1027
 ---
 
 ### Custom Ribbon Tab

@@ -1,11 +1,26 @@
 ---
-post_number: "0311"
-title: "Ensure Valid Material is Set"
-slug: "ensure_material"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'python', 'revit-api', 'walls']
-source_file: "0311_ensure_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0311_ensure_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.725495'
+original_url: https://thebuildingcoder.typepad.com/blog/0311_ensure_material.html
+post_number: '0311'
+reading_time_minutes: 4
+series: materials
+slug: ensure_material
+source_file: 0311_ensure_material.htm
+tags:
+- elements
+- family
+- levels
+- parameters
+- python
+- revit-api
+- walls
+- materials
+title: Ensure Valid Material is Set
+word_count: 752
 ---
 
 ### Ensure Valid Material is Set

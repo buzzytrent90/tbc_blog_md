@@ -1,11 +1,29 @@
 ---
-post_number: "0179"
-title: "The Revit Form Creation API"
-slug: "form_creation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0179_form_creation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0179_form_creation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.496596'
+original_url: https://thebuildingcoder.typepad.com/blog/0179_form_creation.html
+post_number: 0179
+reading_time_minutes: 8
+series: general
+slug: form_creation
+source_file: 0179_form_creation.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- views
+- walls
+- windows
+title: The Revit Form Creation API
+word_count: 1650
 ---
 
 ### The Revit Form Creation API

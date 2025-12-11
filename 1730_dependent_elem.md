@@ -1,11 +1,30 @@
 ---
-post_number: "1730"
-title: "Dependent Elem"
-slug: "dependent_elem"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1730_dependent_elem.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1730_dependent_elem.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: news
+optimization_date: '2025-12-11T11:44:16.622128'
+original_url: https://thebuildingcoder.typepad.com/blog/1730_dependent_elem.html
+post_number: '1730'
+reading_time_minutes: 4
+series: general
+slug: dependent_elem
+source_file: 1730_dependent_elem.md
+tags:
+- doors
+- elements
+- filtering
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Dependent Elem
+word_count: 774
 ---
 
 ### Retrieving and Snooping Dependent Elements

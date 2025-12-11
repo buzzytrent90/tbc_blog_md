@@ -1,11 +1,26 @@
 ---
-post_number: "0405"
-title: "Populating a Data Grid View"
-slug: "data_grid_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'python', 'revit-api', 'views', 'windows']
-source_file: "0405_data_grid_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0405_data_grid_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.895376'
+original_url: https://thebuildingcoder.typepad.com/blog/0405_data_grid_view.html
+post_number: '0405'
+reading_time_minutes: 10
+series: views
+slug: data_grid_view
+source_file: 0405_data_grid_view.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- python
+- revit-api
+- views
+- windows
+title: Populating a Data Grid View
+word_count: 2010
 ---
 
 ### Populating a Data Grid View

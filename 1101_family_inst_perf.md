@@ -1,11 +1,33 @@
 ---
-post_number: "1101"
-title: "View and Family Implementation, Booleans and Performance"
-slug: "family_inst_perf"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1101_family_inst_perf.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1101_family_inst_perf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.306556'
+original_url: https://thebuildingcoder.typepad.com/blog/1101_family_inst_perf.html
+post_number: '1101'
+reading_time_minutes: 13
+series: family
+slug: family_inst_perf
+source_file: 1101_family_inst_perf.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: View and Family Implementation, Booleans and Performance
+word_count: 2673
 ---
 
 ### View and Family Implementation, Booleans and Performance

@@ -1,11 +1,26 @@
 ---
-post_number: "1619"
-title: "Momentum"
-slug: "momentum"
-author: "Jeremy Tammik"
-tags: ['doors', 'geometry', 'levels', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1619_momentum.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1619_momentum.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.402542'
+original_url: https://thebuildingcoder.typepad.com/blog/1619_momentum.html
+post_number: '1619'
+reading_time_minutes: 6
+series: general
+slug: momentum
+source_file: 1619_momentum.md
+tags:
+- doors
+- geometry
+- levels
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Momentum
+word_count: 1197
 ---
 
 ### Revit Tools for MomenTUM Pedestrian Simulation

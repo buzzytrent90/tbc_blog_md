@@ -1,11 +1,20 @@
 ---
-post_number: "1190"
-title: "Accessing a Revit Server Central Model Path"
-slug: "rvt_server_central"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1190_rvt_server_central.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1190_rvt_server_central.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.482136'
+original_url: https://thebuildingcoder.typepad.com/blog/1190_rvt_server_central.html
+post_number: '1190'
+reading_time_minutes: 4
+series: general
+slug: rvt_server_central
+source_file: 1190_rvt_server_central.htm
+tags:
+- revit-api
+- views
+title: Accessing a Revit Server Central Model Path
+word_count: 728
 ---
 
 ### Accessing a Revit Server Central Model Path

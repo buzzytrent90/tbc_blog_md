@@ -1,11 +1,22 @@
 ---
-post_number: "0882"
-title: "Unit Conversion Utility Update"
-slug: "unit_conversion"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api']
-source_file: "0882_unit_conversion.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0882_unit_conversion.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: news
+optimization_date: '2025-12-11T11:44:14.790504'
+original_url: https://thebuildingcoder.typepad.com/blog/0882_unit_conversion.html
+post_number: 0882
+reading_time_minutes: 2
+series: general
+slug: unit_conversion
+source_file: 0882_unit_conversion.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+title: Unit Conversion Utility Update
+word_count: 344
 ---
 
 ### Unit Conversion Utility Update

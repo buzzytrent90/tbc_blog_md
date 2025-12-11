@@ -1,11 +1,29 @@
 ---
-post_number: "1211"
-title: "A Couple of Recent Issues"
-slug: "various"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'views', 'walls', 'windows']
-source_file: "1211_various.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1211_various.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.518451'
+original_url: https://thebuildingcoder.typepad.com/blog/1211_various.html
+post_number: '1211'
+reading_time_minutes: 5
+series: general
+slug: various
+source_file: 1211_various.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- views
+- walls
+- windows
+title: A Couple of Recent Issues
+word_count: 963
 ---
 
 ### A Couple of Recent Issues

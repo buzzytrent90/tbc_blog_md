@@ -1,11 +1,30 @@
 ---
-post_number: "1894"
-title: "Naughty Updater"
-slug: "naughty_updater"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'python', 'revit-api', 'schedules', 'sheets', 'views', 'walls', 'windows']
-source_file: "1894_naughty_updater.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1894_naughty_updater.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.983996'
+original_url: https://thebuildingcoder.typepad.com/blog/1894_naughty_updater.html
+post_number: '1894'
+reading_time_minutes: 10
+series: general
+slug: naughty_updater
+source_file: 1894_naughty_updater.md
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- views
+- walls
+- windows
+title: Naughty Updater
+word_count: 1900
 ---
 
 ### Naughty Updaters, DIY Add-In Manifest, GD, AI, etc.

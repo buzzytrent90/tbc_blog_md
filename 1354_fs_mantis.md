@@ -1,11 +1,27 @@
 ---
-post_number: "1354"
-title: "Fs Mantis"
-slug: "fs_mantis"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1354_fs_mantis.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1354_fs_mantis.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.831224'
+original_url: https://thebuildingcoder.typepad.com/blog/1354_fs_mantis.html
+post_number: '1354'
+reading_time_minutes: 4
+series: general
+slug: fs_mantis
+source_file: 1354_fs_mantis.md
+tags:
+- csharp
+- doors
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Fs Mantis
+word_count: 893
 ---
 
 ### F# Procedural Modelling and Z3 Constraint Solving

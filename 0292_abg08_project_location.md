@@ -1,11 +1,26 @@
 ---
-post_number: "0292"
-title: "Project Location"
-slug: "abg08_project_location"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'python', 'references', 'revit-api', 'walls', 'windows']
-source_file: "0292_abg08_project_location.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0292_abg08_project_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.691674'
+original_url: https://thebuildingcoder.typepad.com/blog/0292_abg08_project_location.html
+post_number: 0292
+reading_time_minutes: 2
+series: general
+slug: abg08_project_location
+source_file: 0292_abg08_project_location.htm
+tags:
+- csharp
+- elements
+- geometry
+- python
+- references
+- revit-api
+- walls
+- windows
+title: Project Location
+word_count: 500
 ---
 
 ### Project Location

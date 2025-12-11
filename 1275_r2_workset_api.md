@@ -1,11 +1,25 @@
 ---
-post_number: "1275"
-title: "Revit 2015 R2 and the Read-Write Workset API"
-slug: "r2_workset_api"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'schedules', 'transactions', 'views', 'walls']
-source_file: "1275_r2_workset_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1275_r2_workset_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: news
+optimization_date: '2025-12-11T11:44:15.653474'
+original_url: https://thebuildingcoder.typepad.com/blog/1275_r2_workset_api.html
+post_number: '1275'
+reading_time_minutes: 2
+series: general
+slug: r2_workset_api
+source_file: 1275_r2_workset_api.htm
+tags:
+- elements
+- references
+- revit-api
+- schedules
+- transactions
+- views
+- walls
+title: Revit 2015 R2 and the Read-Write Workset API
+word_count: 447
 ---
 
 ### Revit 2015 R2 and the Read-Write Workset API

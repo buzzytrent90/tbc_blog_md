@@ -1,11 +1,24 @@
 ---
-post_number: "1580"
-title: "Bday Xyz Point Vector"
-slug: "bday_xyz_point_vector"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1580_bday_xyz_point_vector.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1580_bday_xyz_point_vector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.332363'
+original_url: https://thebuildingcoder.typepad.com/blog/1580_bday_xyz_point_vector.html
+post_number: '1580'
+reading_time_minutes: 7
+series: geometry
+slug: bday_xyz_point_vector
+source_file: 1580_bday_xyz_point_vector.md
+tags:
+- elements
+- geometry
+- references
+- revit-api
+- sheets
+- views
+title: Bday Xyz Point Vector
+word_count: 1317
 ---
 
 ### Birthday Post on the XYZ Class

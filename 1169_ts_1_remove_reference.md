@@ -1,11 +1,25 @@
 ---
-post_number: "1169"
-title: "Technical Summit Day 1 and Removing References"
-slug: "ts_1_remove_reference"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'references', 'revit-api', 'views']
-source_file: "1169_ts_1_remove_reference.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1169_ts_1_remove_reference.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.442910'
+original_url: https://thebuildingcoder.typepad.com/blog/1169_ts_1_remove_reference.html
+post_number: '1169'
+reading_time_minutes: 5
+series: general
+slug: ts_1_remove_reference
+source_file: 1169_ts_1_remove_reference.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- references
+- revit-api
+- views
+title: Technical Summit Day 1 and Removing References
+word_count: 918
 ---
 
 ### Technical Summit Day 1 and Removing References

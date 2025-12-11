@@ -1,11 +1,24 @@
 ---
-post_number: "0015"
-title: "RoomsRoofs Sample"
-slug: "roofsrooms"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'rooms', 'views']
-source_file: "0015_roofsrooms.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0015_roofsrooms.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.233153'
+original_url: https://thebuildingcoder.typepad.com/blog/0015_roofsrooms.html
+post_number: '0015'
+reading_time_minutes: 2
+series: general
+slug: roofsrooms
+source_file: 0015_roofsrooms.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- rooms
+- views
+title: RoomsRoofs Sample
+word_count: 394
 ---
 
 ### RoomsRoofs Sample

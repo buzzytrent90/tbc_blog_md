@@ -1,11 +1,22 @@
 ---
-post_number: "1853"
-title: "Au Hack"
-slug: "au_hack"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets', 'windows']
-source_file: "1853_au_hack.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1853_au_hack.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.896959'
+original_url: https://thebuildingcoder.typepad.com/blog/1853_au_hack.html
+post_number: '1853'
+reading_time_minutes: 5
+series: general
+slug: au_hack
+source_file: 1853_au_hack.md
+tags:
+- csharp
+- revit-api
+- sheets
+- windows
+title: Au Hack
+word_count: 920
 ---
 
 ### Virtual AU and AEC Hackathon, Units and DAS Job

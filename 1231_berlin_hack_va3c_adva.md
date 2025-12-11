@@ -1,11 +1,27 @@
 ---
-post_number: "1231"
-title: "Berlin Hackathon Results, 3D Viewer and Web News"
-slug: "berlin_hack_va3c_adva"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "1231_berlin_hack_va3c_adva.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1231_berlin_hack_va3c_adva.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.563844'
+original_url: https://thebuildingcoder.typepad.com/blog/1231_berlin_hack_va3c_adva.html
+post_number: '1231'
+reading_time_minutes: 12
+series: general
+slug: berlin_hack_va3c_adva
+source_file: 1231_berlin_hack_va3c_adva.htm
+tags:
+- csharp
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- views
+title: Berlin Hackathon Results, 3D Viewer and Web News
+word_count: 2372
 ---
 
 ### Berlin Hackathon Results, 3D Viewer and Web News

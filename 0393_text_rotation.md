@@ -1,11 +1,24 @@
 ---
-post_number: "0393"
-title: "TextNote Rotation"
-slug: "text_rotation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'python', 'revit-api', 'transactions', 'views']
-source_file: "0393_text_rotation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0393_text_rotation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.872915'
+original_url: https://thebuildingcoder.typepad.com/blog/0393_text_rotation.html
+post_number: 0393
+reading_time_minutes: 4
+series: general
+slug: text_rotation
+source_file: 0393_text_rotation.htm
+tags:
+- elements
+- family
+- python
+- revit-api
+- transactions
+- views
+title: TextNote Rotation
+word_count: 770
 ---
 
 ### TextNote Rotation

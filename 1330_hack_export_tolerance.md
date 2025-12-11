@@ -1,11 +1,23 @@
 ---
-post_number: "1330"
-title: "AngelHack Athens, Sustainability and Precision versus Tolerance"
-slug: "hack_export_tolerance"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'views']
-source_file: "1330_hack_export_tolerance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1330_hack_export_tolerance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.785535'
+original_url: https://thebuildingcoder.typepad.com/blog/1330_hack_export_tolerance.html
+post_number: '1330'
+reading_time_minutes: 5
+series: general
+slug: hack_export_tolerance
+source_file: 1330_hack_export_tolerance.htm
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- views
+title: AngelHack Athens, Sustainability and Precision versus Tolerance
+word_count: 971
 ---
 
 ### AngelHack Athens, Sustainability and Precision versus Tolerance

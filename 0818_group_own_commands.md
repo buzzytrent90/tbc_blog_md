@@ -1,11 +1,23 @@
 ---
-post_number: "0818"
-title: "Group My Own Commands in the Ribbon"
-slug: "group_own_commands"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api', 'views']
-source_file: "0818_group_own_commands.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0818_group_own_commands.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.657484'
+original_url: https://thebuildingcoder.typepad.com/blog/0818_group_own_commands.html
+post_number: 0818
+reading_time_minutes: 3
+series: general
+slug: group_own_commands
+source_file: 0818_group_own_commands.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- views
+title: Group My Own Commands in the Ribbon
+word_count: 574
 ---
 
 ﻿

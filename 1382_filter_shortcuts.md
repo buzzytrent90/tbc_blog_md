@@ -1,11 +1,31 @@
 ---
-post_number: "1382"
-title: "Filter Shortcuts"
-slug: "filter_shortcuts"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1382_filter_shortcuts.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1382_filter_shortcuts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.902058'
+original_url: https://thebuildingcoder.typepad.com/blog/1382_filter_shortcuts.html
+post_number: '1382'
+reading_time_minutes: 8
+series: filtering
+slug: filter_shortcuts
+source_file: 1382_filter_shortcuts.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Filter Shortcuts
+word_count: 1623
 ---
 
 ### Quick, Slow and LINQ Element Filtering

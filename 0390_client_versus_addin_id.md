@@ -1,11 +1,19 @@
 ---
-post_number: "0390"
-title: "ClientId Versus AddInId"
-slug: "client_versus_addin_id"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0390_client_versus_addin_id.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0390_client_versus_addin_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.866920'
+original_url: https://thebuildingcoder.typepad.com/blog/0390_client_versus_addin_id.html
+post_number: 0390
+reading_time_minutes: 1
+series: general
+slug: client_versus_addin_id
+source_file: 0390_client_versus_addin_id.htm
+tags:
+- revit-api
+title: ClientId Versus AddInId
+word_count: 151
 ---
 
 ### ClientId Versus AddInId

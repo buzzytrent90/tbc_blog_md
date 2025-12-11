@@ -1,11 +1,21 @@
 ---
-post_number: "1877"
-title: "Au Roundtable"
-slug: "au_roundtable"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'sheets']
-source_file: "1877_au_roundtable.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1877_au_roundtable.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.945726'
+original_url: https://thebuildingcoder.typepad.com/blog/1877_au_roundtable.html
+post_number: '1877'
+reading_time_minutes: 2
+series: general
+slug: au_roundtable
+source_file: 1877_au_roundtable.md
+tags:
+- revit-api
+- schedules
+- sheets
+title: Au Roundtable
+word_count: 322
 ---
 
 ### Join the Revit API Expert and Feedback Roundtable

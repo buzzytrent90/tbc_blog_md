@@ -1,11 +1,26 @@
 ---
-post_number: "1633"
-title: "Show Elements"
-slug: "show_elements"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1633_show_elements.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1633_show_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.430367'
+original_url: https://thebuildingcoder.typepad.com/blog/1633_show_elements.html
+post_number: '1633'
+reading_time_minutes: 5
+series: elements
+slug: show_elements
+source_file: 1633_show_elements.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Show Elements
+word_count: 1047
 ---
 
 ### Switch View or Document by Showing Elements

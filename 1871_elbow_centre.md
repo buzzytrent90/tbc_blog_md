@@ -1,11 +1,25 @@
 ---
-post_number: "1871"
-title: "Elbow Centre"
-slug: "elbow_centre"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets']
-source_file: "1871_elbow_centre.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1871_elbow_centre.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.934036'
+original_url: https://thebuildingcoder.typepad.com/blog/1871_elbow_centre.html
+post_number: '1871'
+reading_time_minutes: 7
+series: general
+slug: elbow_centre
+source_file: 1871_elbow_centre.md
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+title: Elbow Centre
+word_count: 1468
 ---
 
 ### FireRevit, Deprecated API and Elbow Centre Point

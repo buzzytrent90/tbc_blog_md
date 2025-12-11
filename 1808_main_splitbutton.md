@@ -1,11 +1,28 @@
 ---
-post_number: "1808"
-title: "Main Splitbutton"
-slug: "main_splitbutton"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'python', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1808_main_splitbutton.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1808_main_splitbutton.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.787221'
+original_url: https://thebuildingcoder.typepad.com/blog/1808_main_splitbutton.html
+post_number: '1808'
+reading_time_minutes: 9
+series: general
+slug: main_splitbutton
+source_file: 1808_main_splitbutton.md
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- python
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Main Splitbutton
+word_count: 1856
 ---
 
 ### DA4R, FindInserts, Deployment and SplitButton

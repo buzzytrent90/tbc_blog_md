@@ -1,11 +1,28 @@
 ---
-post_number: "0464"
-title: "Level Filter Benchmark"
-slug: "level_filter_benchmark"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'transactions']
-source_file: "0464_level_filter_benchmark.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0464_level_filter_benchmark.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.992791'
+original_url: https://thebuildingcoder.typepad.com/blog/0464_level_filter_benchmark.html
+post_number: '0464'
+reading_time_minutes: 6
+series: filtering
+slug: level_filter_benchmark
+source_file: 0464_level_filter_benchmark.htm
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- transactions
+title: Level Filter Benchmark
+word_count: 1204
 ---
 
 ### Level Filter Benchmark

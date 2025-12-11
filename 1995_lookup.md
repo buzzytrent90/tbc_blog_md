@@ -1,11 +1,27 @@
 ---
-post_number: "1995"
-title: "Lookup"
-slug: "lookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1995_lookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1995_lookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: news
+optimization_date: '2025-12-11T11:44:17.226868'
+original_url: https://thebuildingcoder.typepad.com/blog/1995_lookup.html
+post_number: '1995'
+reading_time_minutes: 5
+series: general
+slug: lookup
+source_file: 1995_lookup.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Lookup
+word_count: 922
 ---
 
 ### 64 Bit Ids, Revit and RevitLookup Updates

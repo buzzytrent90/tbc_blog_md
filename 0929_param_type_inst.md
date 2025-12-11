@@ -1,11 +1,23 @@
 ---
-post_number: "0929"
-title: "Changing a Family Parameter from Type to Instance"
-slug: "param_type_inst"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'references', 'revit-api']
-source_file: "0929_param_type_inst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0929_param_type_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.916394'
+original_url: https://thebuildingcoder.typepad.com/blog/0929_param_type_inst.html
+post_number: 0929
+reading_time_minutes: 1
+series: elements
+slug: param_type_inst
+source_file: 0929_param_type_inst.htm
+tags:
+- family
+- parameters
+- references
+- revit-api
+- elements
+title: Changing a Family Parameter from Type to Instance
+word_count: 245
 ---
 
 ### Changing a Family Parameter from Type to Instance

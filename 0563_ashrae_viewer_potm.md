@@ -1,11 +1,21 @@
 ---
-post_number: "0563"
-title: "ASHRAE Viewer Plugin of the Month"
-slug: "ashrae_viewer_potm"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'views']
-source_file: "0563_ashrae_viewer_potm.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0563_ashrae_viewer_potm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.182450'
+original_url: https://thebuildingcoder.typepad.com/blog/0563_ashrae_viewer_potm.html
+post_number: '0563'
+reading_time_minutes: 1
+series: views
+slug: ashrae_viewer_potm
+source_file: 0563_ashrae_viewer_potm.htm
+tags:
+- revit-api
+- rooms
+- views
+title: ASHRAE Viewer Plugin of the Month
+word_count: 144
 ---
 
 ### ASHRAE Viewer Plugin of the Month

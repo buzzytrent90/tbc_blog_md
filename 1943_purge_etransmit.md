@@ -1,11 +1,23 @@
 ---
-post_number: "1943"
-title: "Purge Etransmit"
-slug: "purge_etransmit"
-author: "Jeremy Tammik"
-tags: ['family', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1943_purge_etransmit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1943_purge_etransmit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: news
+optimization_date: '2025-12-11T11:44:17.096285'
+original_url: https://thebuildingcoder.typepad.com/blog/1943_purge_etransmit.html
+post_number: '1943'
+reading_time_minutes: 6
+series: general
+slug: purge_etransmit
+source_file: 1943_purge_etransmit.md
+tags:
+- family
+- references
+- revit-api
+- sheets
+- views
+title: Purge Etransmit
+word_count: 1191
 ---
 
 ### Purge Unused and the Autodesk Camel

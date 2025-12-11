@@ -1,11 +1,28 @@
 ---
-post_number: "0323"
-title: "Duplicate Mark Values"
-slug: "duplicate_mark_values"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'parameters', 'revit-api', 'schedules', 'transactions', 'views', 'windows']
-source_file: "0323_duplicate_mark_values.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0323_duplicate_mark_values.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.743256'
+original_url: https://thebuildingcoder.typepad.com/blog/0323_duplicate_mark_values.html
+post_number: '0323'
+reading_time_minutes: 5
+series: parameters
+slug: duplicate_mark_values
+source_file: 0323_duplicate_mark_values.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- parameters
+- revit-api
+- schedules
+- transactions
+- views
+- windows
+title: Duplicate Mark Values
+word_count: 1077
 ---
 
 ### Duplicate Mark Values

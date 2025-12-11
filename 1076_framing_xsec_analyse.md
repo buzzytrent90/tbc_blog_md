@@ -1,11 +1,32 @@
 ---
-post_number: "1076"
-title: "Security, Framing Cross Section Analyser and REX"
-slug: "framing_xsec_analyse"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'views', 'walls', 'windows']
-source_file: "1076_framing_xsec_analyse.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1076_framing_xsec_analyse.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.255366'
+original_url: https://thebuildingcoder.typepad.com/blog/1076_framing_xsec_analyse.html
+post_number: '1076'
+reading_time_minutes: 16
+series: general
+slug: framing_xsec_analyse
+source_file: 1076_framing_xsec_analyse.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- views
+- walls
+- windows
+title: Security, Framing Cross Section Analyser and REX
+word_count: 3239
 ---
 
 ### Security, Framing Cross Section Analyser and REX

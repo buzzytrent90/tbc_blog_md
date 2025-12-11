@@ -1,11 +1,27 @@
 ---
-post_number: "0379"
-title: "Grabbing an Internet Webcam Image"
-slug: "webcam_image"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'python', 'revit-api', 'schedules', 'views', 'windows']
-source_file: "0379_webcam_image.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0379_webcam_image.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.847186'
+original_url: https://thebuildingcoder.typepad.com/blog/0379_webcam_image.html
+post_number: 0379
+reading_time_minutes: 8
+series: geometry
+slug: webcam_image
+source_file: 0379_webcam_image.htm
+tags:
+- csharp
+- elements
+- levels
+- python
+- revit-api
+- schedules
+- views
+- windows
+- geometry
+title: Grabbing an Internet Webcam Image
+word_count: 1528
 ---
 
 ### Grabbing an Internet Webcam Image

@@ -1,11 +1,24 @@
 ---
-post_number: "2058"
-title: "Rvt File Version"
-slug: "rvt_file_version"
-author: "Jeremy Tammik"
-tags: ['family', 'filtering', 'python', 'revit-api', 'sheets', 'views']
-source_file: "2058_rvt_file_version.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2058_rvt_file_version.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.383725'
+original_url: https://thebuildingcoder.typepad.com/blog/2058_rvt_file_version.html
+post_number: '2058'
+reading_time_minutes: 9
+series: general
+slug: rvt_file_version
+source_file: 2058_rvt_file_version.md
+tags:
+- family
+- filtering
+- python
+- revit-api
+- sheets
+- views
+title: Rvt File Version
+word_count: 1759
 ---
 
 ### Determine RVT Version and Add Data from EXE

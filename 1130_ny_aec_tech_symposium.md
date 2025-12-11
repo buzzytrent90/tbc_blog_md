@@ -1,11 +1,20 @@
 ---
-post_number: "1130"
-title: "No DevCamp – Better – NY AEC Technology Symposium"
-slug: "ny_aec_tech_symposium"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "1130_ny_aec_tech_symposium.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1130_ny_aec_tech_symposium.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:15.359566'
+original_url: https://thebuildingcoder.typepad.com/blog/1130_ny_aec_tech_symposium.html
+post_number: '1130'
+reading_time_minutes: 2
+series: general
+slug: ny_aec_tech_symposium
+source_file: 1130_ny_aec_tech_symposium.htm
+tags:
+- family
+- revit-api
+title: "No DevCamp \u2013 Better \u2013 NY AEC Technology Symposium"
+word_count: 344
 ---
 
 ﻿

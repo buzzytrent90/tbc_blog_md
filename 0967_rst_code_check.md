@@ -1,11 +1,22 @@
 ---
-post_number: "0967"
-title: "Structural Analytical Code Checking and Results Builder"
-slug: "rst_code_check"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'views']
-source_file: "0967_rst_code_check.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0967_rst_code_check.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.011338'
+original_url: https://thebuildingcoder.typepad.com/blog/0967_rst_code_check.html
+post_number: 0967
+reading_time_minutes: 2
+series: general
+slug: rst_code_check
+source_file: 0967_rst_code_check.htm
+tags:
+- elements
+- levels
+- revit-api
+- views
+title: Structural Analytical Code Checking and Results Builder
+word_count: 371
 ---
 
 ### Structural Analytical Code Checking and Results Builder

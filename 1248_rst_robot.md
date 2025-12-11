@@ -1,11 +1,22 @@
 ---
-post_number: "1248"
-title: "Robot Structural Analysis and Mac App Tabbing"
-slug: "rst_robot"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'views', 'windows']
-source_file: "1248_rst_robot.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1248_rst_robot.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.602343'
+original_url: https://thebuildingcoder.typepad.com/blog/1248_rst_robot.html
+post_number: '1248'
+reading_time_minutes: 3
+series: general
+slug: rst_robot
+source_file: 1248_rst_robot.htm
+tags:
+- references
+- revit-api
+- views
+- windows
+title: Robot Structural Analysis and Mac App Tabbing
+word_count: 512
 ---
 
 ### Robot Structural Analysis and Mac App Tabbing

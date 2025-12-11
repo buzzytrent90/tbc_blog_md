@@ -1,11 +1,29 @@
 ---
-post_number: "0694"
-title: "Using AVF to Display Intersections and Highlight Rooms"
-slug: "avf_hilite_rooms"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'references', 'revit-api', 'rooms', 'selection', 'transactions', 'views', 'walls']
-source_file: "0694_avf_hilite_rooms.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0694_avf_hilite_rooms.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.410777'
+original_url: https://thebuildingcoder.typepad.com/blog/0694_avf_hilite_rooms.html
+post_number: 0694
+reading_time_minutes: 7
+series: general
+slug: avf_hilite_rooms
+source_file: 0694_avf_hilite_rooms.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+- walls
+title: Using AVF to Display Intersections and Highlight Rooms
+word_count: 1353
 ---
 
 ### Using AVF to Display Intersections and Highlight Rooms

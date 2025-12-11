@@ -1,11 +1,25 @@
 ---
-post_number: "2035"
-title: "Migrating from .NET 4.8 to .NET 8"
-slug: "net_core_8"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "2035_net_core_8.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2035_net_core_8.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.326829'
+original_url: https://thebuildingcoder.typepad.com/blog/2035_net_core_8.html
+post_number: '2035'
+reading_time_minutes: 11
+series: general
+slug: net_core_8
+source_file: 2035_net_core_8.md
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Migrating from .NET 4.8 to .NET 8
+word_count: 2290
 ---
 
 ### Migrating from .NET 4.8 to .NET Core 8

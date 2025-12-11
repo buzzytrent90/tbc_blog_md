@@ -1,11 +1,24 @@
 ---
-post_number: "1659"
-title: "Param Filter"
-slug: "param_filter"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets']
-source_file: "1659_param_filter.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1659_param_filter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.479318'
+original_url: https://thebuildingcoder.typepad.com/blog/1659_param_filter.html
+post_number: '1659'
+reading_time_minutes: 5
+series: filtering
+slug: param_filter
+source_file: 1659_param_filter.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+title: Param Filter
+word_count: 1010
 ---
 
 ### Forge Tutorials and Filtering for a Parameter Value

@@ -1,11 +1,26 @@
 ---
-post_number: "1525"
-title: "Move Section View"
-slug: "move_section_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1525_move_section_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1525_move_section_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.218486'
+original_url: https://thebuildingcoder.typepad.com/blog/1525_move_section_view.html
+post_number: '1525'
+reading_time_minutes: 4
+series: views
+slug: move_section_view
+source_file: 1525_move_section_view.md
+tags:
+- elements
+- family
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Move Section View
+word_count: 776
 ---
 
 ### Moving the Section View Location

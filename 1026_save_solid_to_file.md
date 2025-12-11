@@ -1,11 +1,28 @@
 ---
-post_number: "1026"
-title: "Saving a Solid to a SAT File Implementation"
-slug: "save_solid_to_file"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1026_save_solid_to_file.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1026_save_solid_to_file.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.151028'
+original_url: https://thebuildingcoder.typepad.com/blog/1026_save_solid_to_file.html
+post_number: '1026'
+reading_time_minutes: 4
+series: general
+slug: save_solid_to_file
+source_file: 1026_save_solid_to_file.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- selection
+- transactions
+- views
+title: Saving a Solid to a SAT File Implementation
+word_count: 792
 ---
 
 ### Saving a Solid to a SAT File Implementation

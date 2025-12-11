@@ -1,11 +1,31 @@
 ---
-post_number: "1909"
-title: "Paint Stair Col Beam"
-slug: "paint_stair_col_beam"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1909_paint_stair_col_beam.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1909_paint_stair_col_beam.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.021561'
+original_url: https://thebuildingcoder.typepad.com/blog/1909_paint_stair_col_beam.html
+post_number: '1909'
+reading_time_minutes: 12
+series: structural
+slug: paint_stair_col_beam
+source_file: 1909_paint_stair_col_beam.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- structural
+title: Paint Stair Col Beam
+word_count: 2303
 ---
 
 ### Painting Stairs and Shooting for the Beams

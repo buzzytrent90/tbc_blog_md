@@ -1,11 +1,21 @@
 ---
-post_number: "1020"
-title: "Registration Open for Autodesk University 2013"
-slug: "au_registration_open"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'views']
-source_file: "1020_au_registration_open.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1020_au_registration_open.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:15.136447'
+original_url: https://thebuildingcoder.typepad.com/blog/1020_au_registration_open.html
+post_number: '1020'
+reading_time_minutes: 1
+series: general
+slug: au_registration_open
+source_file: 1020_au_registration_open.htm
+tags:
+- revit-api
+- schedules
+- views
+title: Registration Open for Autodesk University 2013
+word_count: 216
 ---
 
 ### Registration Open for Autodesk University 2013

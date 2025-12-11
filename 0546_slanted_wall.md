@@ -1,11 +1,25 @@
 ---
-post_number: "0546"
-title: "The FaceWall Class and Slanted Walls"
-slug: "slanted_wall"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'revit-api', 'transactions', 'walls']
-source_file: "0546_slanted_wall.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0546_slanted_wall.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.145931'
+original_url: https://thebuildingcoder.typepad.com/blog/0546_slanted_wall.html
+post_number: '0546'
+reading_time_minutes: 3
+series: general
+slug: slanted_wall
+source_file: 0546_slanted_wall.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- revit-api
+- transactions
+- walls
+title: The FaceWall Class and Slanted Walls
+word_count: 678
 ---
 
 ### The FaceWall Class and Slanted Walls

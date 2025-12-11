@@ -1,0 +1,35 @@
+# What's New in Revit API - Complete Series
+
+## Revit 0938
+0938-01_whats_new_in_the_revit_2014_api.md
+
+## Revit 1141
+1141-01_whats_new_in_the_revit_2015_api.md
+
+## Revit 1311
+1311-01_whats_new_in_the_revit_2016_api.md
+
+## Revit 1428
+1428-01_whats_new_in_the_revit_2017_api.md
+
+## Revit 1551
+1551-01_whats_new_in_the_revit_2018_api.md
+
+## Revit 1647
+1647-01_whats_new_in_the_revit_2019_api.md
+
+## Revit 1676
+1676-01_whats_new_in_the_revit_20191_api.md
+
+## Revit 1740
+1740-01_whats_new_in_the_revit_2020_api.md
+
+## Revit 1903
+1903-01_whats_new_in_the_revit_2022_api.md
+
+## Revit 1947
+1947-01_whats_new_in_the_revit_2023_api.md
+
+## Revit 2036
+2036-01_whats_new_in_the_revit_2025_api.md
+

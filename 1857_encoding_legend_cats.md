@@ -1,11 +1,28 @@
 ---
-post_number: "1857"
-title: "Encoding Legend Cats"
-slug: "encoding_legend_cats"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'parameters', 'revit-api', 'schedules', 'sheets', 'views', 'walls', 'windows']
-source_file: "1857_encoding_legend_cats.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1857_encoding_legend_cats.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.904612'
+original_url: https://thebuildingcoder.typepad.com/blog/1857_encoding_legend_cats.html
+post_number: '1857'
+reading_time_minutes: 7
+series: general
+slug: encoding_legend_cats
+source_file: 1857_encoding_legend_cats.md
+tags:
+- doors
+- elements
+- family
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+- walls
+- windows
+title: Encoding Legend Cats
+word_count: 1402
 ---
 
 ### Cyrillic Encoding and Categories for Legends

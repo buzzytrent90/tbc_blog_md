@@ -1,11 +1,32 @@
 ---
-post_number: "1362"
-title: "Answer Day Create Roof"
-slug: "answer_day_create_roof"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1362_answer_day_create_roof.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1362_answer_day_create_roof.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.853208'
+original_url: https://thebuildingcoder.typepad.com/blog/1362_answer_day_create_roof.html
+post_number: '1362'
+reading_time_minutes: 5
+series: general
+slug: answer_day_create_roof
+source_file: 1362_answer_day_create_roof.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Answer Day Create Roof
+word_count: 935
 ---
 
 ### Revit Answer Day and Creating a Roof

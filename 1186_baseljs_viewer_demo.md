@@ -1,11 +1,21 @@
 ---
-post_number: "1186"
-title: "Basel.js Meetup View and Data API Demo"
-slug: "baseljs_viewer_demo"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'views']
-source_file: "1186_baseljs_viewer_demo.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1186_baseljs_viewer_demo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.474832'
+original_url: https://thebuildingcoder.typepad.com/blog/1186_baseljs_viewer_demo.html
+post_number: '1186'
+reading_time_minutes: 3
+series: views
+slug: baseljs_viewer_demo
+source_file: 1186_baseljs_viewer_demo.htm
+tags:
+- revit-api
+- schedules
+- views
+title: Basel.js Meetup View and Data API Demo
+word_count: 513
 ---
 
 ### Basel.js Meetup View and Data API Demo

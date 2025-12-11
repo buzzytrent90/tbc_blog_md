@@ -1,11 +1,29 @@
 ---
-post_number: "0911"
-title: "Parameter DisplayUnitType Enhancement, Bretagne and Decompilers"
-slug: "displayunittype"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'views', 'windows']
-source_file: "0911_displayunittype.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0911_displayunittype.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.871520'
+original_url: https://thebuildingcoder.typepad.com/blog/0911_displayunittype.html
+post_number: 0911
+reading_time_minutes: 7
+series: elements
+slug: displayunittype
+source_file: 0911_displayunittype.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- views
+- windows
+title: Parameter DisplayUnitType Enhancement, Bretagne and Decompilers
+word_count: 1335
 ---
 
 ### Parameter DisplayUnitType Enhancement, Bretagne and Decompilers

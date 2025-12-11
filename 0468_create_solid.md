@@ -1,11 +1,22 @@
 ---
-post_number: "0468"
-title: "Creating a Solid"
-slug: "create_solid"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'revit-api', 'views']
-source_file: "0468_create_solid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0468_create_solid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.999120'
+original_url: https://thebuildingcoder.typepad.com/blog/0468_create_solid.html
+post_number: 0468
+reading_time_minutes: 2
+series: general
+slug: create_solid
+source_file: 0468_create_solid.htm
+tags:
+- family
+- geometry
+- revit-api
+- views
+title: Creating a Solid
+word_count: 429
 ---
 
 ### Creating a Solid

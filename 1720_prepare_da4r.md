@@ -1,11 +1,25 @@
 ---
-post_number: "1720"
-title: "Prepare Da4r"
-slug: "prepare_da4r"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'sheets']
-source_file: "1720_prepare_da4r.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1720_prepare_da4r.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.601993'
+original_url: https://thebuildingcoder.typepad.com/blog/1720_prepare_da4r.html
+post_number: '1720'
+reading_time_minutes: 6
+series: general
+slug: prepare_da4r
+source_file: 1720_prepare_da4r.md
+tags:
+- elements
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- sheets
+title: Prepare Da4r
+word_count: 1103
 ---
 
 ### Preparing a Revit Add-in for Design Automation

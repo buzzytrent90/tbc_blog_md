@@ -1,11 +1,28 @@
 ---
-post_number: "1254"
-title: "The Revit API Panel at Autodesk University"
-slug: "au_revit_api_panel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'levels', 'parameters', 'python', 'revit-api', 'selection', 'views', 'walls']
-source_file: "1254_au_revit_api_panel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1254_au_revit_api_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.615207'
+original_url: https://thebuildingcoder.typepad.com/blog/1254_au_revit_api_panel.html
+post_number: '1254'
+reading_time_minutes: 12
+series: general
+slug: au_revit_api_panel
+source_file: 1254_au_revit_api_panel.htm
+tags:
+- csharp
+- doors
+- elements
+- levels
+- parameters
+- python
+- revit-api
+- selection
+- views
+- walls
+title: The Revit API Panel at Autodesk University
+word_count: 2307
 ---
 
 ### The Revit API Panel at Autodesk University

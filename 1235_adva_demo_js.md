@@ -1,11 +1,20 @@
 ---
-post_number: "1235"
-title: "Functional Programming, View and Data API Demos"
-slug: "adva_demo_js"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1235_adva_demo_js.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1235_adva_demo_js.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.573110'
+original_url: https://thebuildingcoder.typepad.com/blog/1235_adva_demo_js.html
+post_number: '1235'
+reading_time_minutes: 5
+series: general
+slug: adva_demo_js
+source_file: 1235_adva_demo_js.htm
+tags:
+- revit-api
+- views
+title: Functional Programming, View and Data API Demos
+word_count: 917
 ---
 
 ### Functional Programming, View and Data API Demos

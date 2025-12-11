@@ -1,11 +1,30 @@
 ---
-post_number: "1461"
-title: "The Building Coder"
-slug: "place_tap_on_face"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1461_place_tap_on_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1461_place_tap_on_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.075311'
+original_url: https://thebuildingcoder.typepad.com/blog/1461_place_tap_on_face.html
+post_number: '1461'
+reading_time_minutes: 13
+series: general
+slug: place_tap_on_face
+source_file: 1461_place_tap_on_face.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: The Building Coder
+word_count: 2508
 ---
 
 ### Using Routing Preferences to Select and Place a Tap

@@ -1,11 +1,25 @@
 ---
-post_number: "0616"
-title: "Create Gable Wall"
-slug: "create_gable_wall"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'python', 'revit-api', 'transactions', 'walls']
-source_file: "0616_create_gable_wall.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0616_create_gable_wall.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.271984'
+original_url: https://thebuildingcoder.typepad.com/blog/0616_create_gable_wall.html
+post_number: '0616'
+reading_time_minutes: 2
+series: general
+slug: create_gable_wall
+source_file: 0616_create_gable_wall.htm
+tags:
+- elements
+- filtering
+- levels
+- python
+- revit-api
+- transactions
+- walls
+title: Create Gable Wall
+word_count: 407
 ---
 
 ### Create Gable Wall

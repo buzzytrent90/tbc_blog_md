@@ -1,11 +1,26 @@
 ---
-post_number: "0953"
-title: "Reloading and Debugging External Commands on the Fly"
-slug: "reload_debug_cmd"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0953_reload_debug_cmd.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0953_reload_debug_cmd.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.980899'
+original_url: https://thebuildingcoder.typepad.com/blog/0953_reload_debug_cmd.html
+post_number: 0953
+reading_time_minutes: 7
+series: structural
+slug: reload_debug_cmd
+source_file: 0953_reload_debug_cmd.htm
+tags:
+- elements
+- filtering
+- python
+- revit-api
+- transactions
+- views
+- windows
+- structural
+title: Reloading and Debugging External Commands on the Fly
+word_count: 1377
 ---
 
 ﻿

@@ -1,11 +1,26 @@
 ---
-post_number: "1792"
-title: "Dynamo Infrastructure"
-slug: "dynamo_infrastructure"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1792_dynamo_infrastructure.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1792_dynamo_infrastructure.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.754414'
+original_url: https://thebuildingcoder.typepad.com/blog/1792_dynamo_infrastructure.html
+post_number: '1792'
+reading_time_minutes: 8
+series: general
+slug: dynamo_infrastructure
+source_file: 1792_dynamo_infrastructure.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- sheets
+- views
+title: Dynamo Infrastructure
+word_count: 1593
 ---
 
 ### DevCon Invitation and Dynamo for Infrastructure

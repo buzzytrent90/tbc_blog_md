@@ -1,11 +1,22 @@
 ---
-post_number: "1328"
-title: "Create Duct, Pipe and Point Transform"
-slug: "transform_point"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'revit-api']
-source_file: "1328_transform_point.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1328_transform_point.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.782551'
+original_url: https://thebuildingcoder.typepad.com/blog/1328_transform_point.html
+post_number: '1328'
+reading_time_minutes: 4
+series: geometry
+slug: transform_point
+source_file: 1328_transform_point.htm
+tags:
+- csharp
+- family
+- geometry
+- revit-api
+title: Create Duct, Pipe and Point Transform
+word_count: 885
 ---
 
 ### Create Duct, Pipe and Point Transform

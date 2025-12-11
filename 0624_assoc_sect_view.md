@@ -1,11 +1,21 @@
 ---
-post_number: "0624"
-title: "Associative Section View Fix and Greece"
-slug: "assoc_sect_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'views']
-source_file: "0624_assoc_sect_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0624_assoc_sect_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: news
+optimization_date: '2025-12-11T11:44:14.287107'
+original_url: https://thebuildingcoder.typepad.com/blog/0624_assoc_sect_view.html
+post_number: '0624'
+reading_time_minutes: 3
+series: views
+slug: assoc_sect_view
+source_file: 0624_assoc_sect_view.htm
+tags:
+- csharp
+- revit-api
+- views
+title: Associative Section View Fix and Greece
+word_count: 645
 ---
 
 ### Associative Section View Fix and Greece

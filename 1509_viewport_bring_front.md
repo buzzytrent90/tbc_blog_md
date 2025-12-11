@@ -1,11 +1,27 @@
 ---
-post_number: "1509"
-title: "Viewport Bring Front"
-slug: "viewport_bring_front"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1509_viewport_bring_front.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1509_viewport_bring_front.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.185829'
+original_url: https://thebuildingcoder.typepad.com/blog/1509_viewport_bring_front.html
+post_number: '1509'
+reading_time_minutes: 6
+series: views
+slug: viewport_bring_front
+source_file: 1509_viewport_bring_front.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Viewport Bring Front
+word_count: 1294
 ---
 
 ### Viewport Bring to Front and C++ Revit Add-In

@@ -1,11 +1,26 @@
 ---
-post_number: "1040"
-title: "Programmatic Custom Add-In External Command Launch"
-slug: "postcommand"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'parameters', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1040_postcommand.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1040_postcommand.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.176995'
+original_url: https://thebuildingcoder.typepad.com/blog/1040_postcommand.html
+post_number: '1040'
+reading_time_minutes: 11
+series: general
+slug: postcommand
+source_file: 1040_postcommand.htm
+tags:
+- csharp
+- doors
+- parameters
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Programmatic Custom Add-In External Command Launch
+word_count: 2109
 ---
 
 ### Programmatic Custom Add-In External Command Launch

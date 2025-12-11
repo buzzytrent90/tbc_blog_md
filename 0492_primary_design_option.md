@@ -1,11 +1,21 @@
 ---
-post_number: "0492"
-title: "Primary Design Option"
-slug: "primary_design_option"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api']
-source_file: "0492_primary_design_option.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0492_primary_design_option.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.047264'
+original_url: https://thebuildingcoder.typepad.com/blog/0492_primary_design_option.html
+post_number: 0492
+reading_time_minutes: 1
+series: general
+slug: primary_design_option
+source_file: 0492_primary_design_option.htm
+tags:
+- csharp
+- elements
+- revit-api
+title: Primary Design Option
+word_count: 153
 ---
 
 ### Primary Design Option

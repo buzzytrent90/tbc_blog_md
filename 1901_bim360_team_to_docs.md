@@ -1,11 +1,22 @@
 ---
-post_number: "1901"
-title: "Bim360 Team To Docs"
-slug: "bim360_team_to_docs"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'sheets', 'views']
-source_file: "1901_bim360_team_to_docs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1901_bim360_team_to_docs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:17.000520'
+original_url: https://thebuildingcoder.typepad.com/blog/1901_bim360_team_to_docs.html
+post_number: '1901'
+reading_time_minutes: 3
+series: general
+slug: bim360_team_to_docs
+source_file: 1901_bim360_team_to_docs.md
+tags:
+- parameters
+- revit-api
+- sheets
+- views
+title: Bim360 Team To Docs
+word_count: 615
 ---
 
 ### Revit 2022 Migrates BIM360 Team to Docs

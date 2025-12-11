@@ -1,11 +1,25 @@
 ---
-post_number: "0852"
-title: "Display a Geometry Debugging Point in the Model"
-slug: "create_marker"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'references', 'revit-api', 'transactions', 'views']
-source_file: "0852_create_marker.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0852_create_marker.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.737057'
+original_url: https://thebuildingcoder.typepad.com/blog/0852_create_marker.html
+post_number: 0852
+reading_time_minutes: 2
+series: general
+slug: create_marker
+source_file: 0852_create_marker.htm
+tags:
+- csharp
+- geometry
+- python
+- references
+- revit-api
+- transactions
+- views
+title: Display a Geometry Debugging Point in the Model
+word_count: 378
 ---
 
 ### Display a Geometry Debugging Point in the Model

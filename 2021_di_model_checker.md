@@ -1,11 +1,24 @@
 ---
-post_number: "2021"
-title: "Di Model Checker"
-slug: "di_model_checker"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "2021_di_model_checker.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2021_di_model_checker.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.291663'
+original_url: https://thebuildingcoder.typepad.com/blog/2021_di_model_checker.html
+post_number: '2021'
+reading_time_minutes: 5
+series: general
+slug: di_model_checker
+source_file: 2021_di_model_checker.md
+tags:
+- csharp
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Di Model Checker
+word_count: 1099
 ---
 
 ### Dependency Injection and Model Checker API

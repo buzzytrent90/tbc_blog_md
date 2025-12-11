@@ -1,11 +1,22 @@
 ---
-post_number: "0626"
-title: "Built-in Parameter Name and LabelUtils"
-slug: "label_utils"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api']
-source_file: "0626_label_utils.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0626_label_utils.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.290027'
+original_url: https://thebuildingcoder.typepad.com/blog/0626_label_utils.html
+post_number: '0626'
+reading_time_minutes: 2
+series: general
+slug: label_utils
+source_file: 0626_label_utils.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+title: Built-in Parameter Name and LabelUtils
+word_count: 392
 ---
 
 ### Built-in Parameter Name and LabelUtils

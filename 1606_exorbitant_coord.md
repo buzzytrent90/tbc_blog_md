@@ -1,11 +1,26 @@
 ---
-post_number: "1606"
-title: "Exorbitant Coord"
-slug: "exorbitant_coord"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1606_exorbitant_coord.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1606_exorbitant_coord.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.380044'
+original_url: https://thebuildingcoder.typepad.com/blog/1606_exorbitant_coord.html
+post_number: '1606'
+reading_time_minutes: 6
+series: general
+slug: exorbitant_coord
+source_file: 1606_exorbitant_coord.md
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- selection
+- sheets
+- views
+title: Exorbitant Coord
+word_count: 1123
 ---
 
 ### Avoid Exorbitant Coordinates

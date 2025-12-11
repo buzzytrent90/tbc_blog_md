@@ -1,11 +1,26 @@
 ---
-post_number: "1571"
-title: "Void Inst Cut Floor"
-slug: "void_inst_cut_floor"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'sheets']
-source_file: "1571_void_inst_cut_floor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1571_void_inst_cut_floor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.311400'
+original_url: https://thebuildingcoder.typepad.com/blog/1571_void_inst_cut_floor.html
+post_number: '1571'
+reading_time_minutes: 3
+series: general
+slug: void_inst_cut_floor
+source_file: 1571_void_inst_cut_floor.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- sheets
+title: Void Inst Cut Floor
+word_count: 539
 ---
 
 ### FindInserts Determines Void Instances Cutting Floor

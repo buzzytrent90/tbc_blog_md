@@ -1,11 +1,21 @@
 ---
-post_number: "1258"
-title: "DevDays, GitHub, STL and OBJ Model Import"
-slug: "devday_git_stl_obj"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'views']
-source_file: "1258_devday_git_stl_obj.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1258_devday_git_stl_obj.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.625750'
+original_url: https://thebuildingcoder.typepad.com/blog/1258_devday_git_stl_obj.html
+post_number: '1258'
+reading_time_minutes: 5
+series: general
+slug: devday_git_stl_obj
+source_file: 1258_devday_git_stl_obj.htm
+tags:
+- elements
+- revit-api
+- views
+title: DevDays, GitHub, STL and OBJ Model Import
+word_count: 940
 ---
 
 ### DevDays, GitHub, STL and OBJ Model Import

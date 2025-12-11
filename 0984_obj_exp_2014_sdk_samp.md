@@ -1,11 +1,25 @@
 ---
-post_number: "0984"
-title: "Revit 2014 OBJ Exporter and New SDK Samples"
-slug: "obj_exp_2014_sdk_samp"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0984_obj_exp_2014_sdk_samp.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0984_obj_exp_2014_sdk_samp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.051432'
+original_url: https://thebuildingcoder.typepad.com/blog/0984_obj_exp_2014_sdk_samp.html
+post_number: 0984
+reading_time_minutes: 5
+series: general
+slug: obj_exp_2014_sdk_samp
+source_file: 0984_obj_exp_2014_sdk_samp.htm
+tags:
+- elements
+- family
+- geometry
+- revit-api
+- rooms
+- schedules
+- views
+title: Revit 2014 OBJ Exporter and New SDK Samples
+word_count: 1097
 ---
 
 ### Revit 2014 OBJ Exporter and New SDK Samples

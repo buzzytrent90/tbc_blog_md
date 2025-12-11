@@ -1,11 +1,23 @@
 ---
-post_number: "0515"
-title: "Access to Family Parameter GUID"
-slug: "fam_param_guid"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api']
-source_file: "0515_fam_param_guid.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0515_fam_param_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.085908'
+original_url: https://thebuildingcoder.typepad.com/blog/0515_fam_param_guid.html
+post_number: '0515'
+reading_time_minutes: 3
+series: general
+slug: fam_param_guid
+source_file: 0515_fam_param_guid.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+title: Access to Family Parameter GUID
+word_count: 555
 ---
 
 ### Access to Family Parameter GUID

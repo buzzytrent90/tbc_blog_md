@@ -1,11 +1,25 @@
 ---
-post_number: "0241"
-title: "Model Review"
-slug: "model_review"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'revit-api', 'vbnet', 'views', 'walls']
-source_file: "0241_model_review.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0241_model_review.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.607492'
+original_url: https://thebuildingcoder.typepad.com/blog/0241_model_review.html
+post_number: '0241'
+reading_time_minutes: 3
+series: views
+slug: model_review
+source_file: 0241_model_review.htm
+tags:
+- csharp
+- doors
+- family
+- revit-api
+- vbnet
+- views
+- walls
+title: Model Review
+word_count: 600
 ---
 
 ### Model Review

@@ -1,11 +1,25 @@
 ---
-post_number: "1603"
-title: "The Basics"
-slug: "material_visual_app"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1603_material_visual_app.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1603_material_visual_app.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.374540'
+original_url: https://thebuildingcoder.typepad.com/blog/1603_material_visual_app.html
+post_number: '1603'
+reading_time_minutes: 5
+series: materials
+slug: material_visual_app
+source_file: 1603_material_visual_app.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- views
+- walls
+- materials
+title: The Basics
+word_count: 936
 ---
 
 ### Modifying Material Visual Appearance

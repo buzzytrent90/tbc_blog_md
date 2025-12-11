@@ -1,11 +1,20 @@
 ---
-post_number: "0378"
-title: "Add-In Applications for Multiple Revit Products"
-slug: "multi_flavour_apps"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api']
-source_file: "0378_multi_flavour_apps.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0378_multi_flavour_apps.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.845574'
+original_url: https://thebuildingcoder.typepad.com/blog/0378_multi_flavour_apps.html
+post_number: 0378
+reading_time_minutes: 4
+series: general
+slug: multi_flavour_apps
+source_file: 0378_multi_flavour_apps.htm
+tags:
+- csharp
+- revit-api
+title: Add-In Applications for Multiple Revit Products
+word_count: 849
 ---
 
 ### Add-In Applications for Multiple Revit Products

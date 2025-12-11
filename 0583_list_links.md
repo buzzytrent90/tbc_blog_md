@@ -1,11 +1,26 @@
 ---
-post_number: "0583"
-title: "List Linked Files and TransmissionData"
-slug: "list_links"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "0583_list_links.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0583_list_links.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.213040'
+original_url: https://thebuildingcoder.typepad.com/blog/0583_list_links.html
+post_number: 0583
+reading_time_minutes: 4
+series: general
+slug: list_links
+source_file: 0583_list_links.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: List Linked Files and TransmissionData
+word_count: 831
 ---
 
 ### List Linked Files and TransmissionData

@@ -1,11 +1,23 @@
 ---
-post_number: "1089"
-title: "Connecting the Rolling Offset Pipe to its Neighbour Pipes"
-slug: "rolling_offset_connect"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'rooms']
-source_file: "1089_rolling_offset_connect.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1089_rolling_offset_connect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.282125'
+original_url: https://thebuildingcoder.typepad.com/blog/1089_rolling_offset_connect.html
+post_number: '1089'
+reading_time_minutes: 5
+series: general
+slug: rolling_offset_connect
+source_file: 1089_rolling_offset_connect.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- rooms
+title: Connecting the Rolling Offset Pipe to its Neighbour Pipes
+word_count: 901
 ---
 
 ### Connecting the Rolling Offset Pipe to its Neighbour Pipes

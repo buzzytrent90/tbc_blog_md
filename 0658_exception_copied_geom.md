@@ -1,11 +1,29 @@
 ---
-post_number: "0658"
-title: "Exception on Copied Geometry"
-slug: "exception_copied_geom"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0658_exception_copied_geom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0658_exception_copied_geom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.344810'
+original_url: https://thebuildingcoder.typepad.com/blog/0658_exception_copied_geom.html
+post_number: 0658
+reading_time_minutes: 6
+series: general
+slug: exception_copied_geom
+source_file: 0658_exception_copied_geom.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- transactions
+- views
+- walls
+title: Exception on Copied Geometry
+word_count: 1131
 ---
 
 ﻿

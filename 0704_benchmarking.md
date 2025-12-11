@@ -1,11 +1,26 @@
 ---
-post_number: "0704"
-title: "Timer Code for Benchmarking"
-slug: "benchmarking"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'schedules']
-source_file: "0704_benchmarking.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0704_benchmarking.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.431847'
+original_url: https://thebuildingcoder.typepad.com/blog/0704_benchmarking.html
+post_number: '0704'
+reading_time_minutes: 3
+series: general
+slug: benchmarking
+source_file: 0704_benchmarking.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- schedules
+title: Timer Code for Benchmarking
+word_count: 535
 ---
 
 ### Timer Code for Benchmarking

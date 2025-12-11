@@ -1,11 +1,20 @@
 ---
-post_number: "0123"
-title: "Add-In Keyboard Shortcut"
-slug: "add_in_keyboard_shortcut"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'walls']
-source_file: "0123_add_in_keyboard_shortcut.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0123_add_in_keyboard_shortcut.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.400564'
+original_url: https://thebuildingcoder.typepad.com/blog/0123_add_in_keyboard_shortcut.html
+post_number: '0123'
+reading_time_minutes: 1
+series: general
+slug: add_in_keyboard_shortcut
+source_file: 0123_add_in_keyboard_shortcut.htm
+tags:
+- revit-api
+- walls
+title: Add-In Keyboard Shortcut
+word_count: 241
 ---
 
 ### Add-In Keyboard Shortcut

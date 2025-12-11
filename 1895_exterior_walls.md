@@ -1,11 +1,27 @@
 ---
-post_number: "1895"
-title: "Exterior Walls"
-slug: "exterior_walls"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'schedules', 'sheets', 'walls']
-source_file: "1895_exterior_walls.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1895_exterior_walls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.986630'
+original_url: https://thebuildingcoder.typepad.com/blog/1895_exterior_walls.html
+post_number: '1895'
+reading_time_minutes: 8
+series: general
+slug: exterior_walls
+source_file: 1895_exterior_walls.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- schedules
+- sheets
+- walls
+title: Exterior Walls
+word_count: 1606
 ---
 
 ### Exterior Walls and Room Bounding Elements

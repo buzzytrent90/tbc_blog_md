@@ -1,11 +1,31 @@
 ---
-post_number: "0452"
-title: "Subscription Release and Updated SDK"
-slug: "2011_subscription"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'vbnet', 'views']
-source_file: "0452_2011_subscription.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0452_2011_subscription.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.969737'
+original_url: https://thebuildingcoder.typepad.com/blog/0452_2011_subscription.html
+post_number: '0452'
+reading_time_minutes: 5
+series: general
+slug: 2011_subscription
+source_file: 0452_2011_subscription.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- vbnet
+- views
+title: Subscription Release and Updated SDK
+word_count: 993
 ---
 
 ### Subscription Release and Updated SDK

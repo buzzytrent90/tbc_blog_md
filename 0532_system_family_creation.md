@@ -1,11 +1,23 @@
 ---
-post_number: "0532"
-title: "System Family Creation"
-slug: "system_family_creation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'walls']
-source_file: "0532_system_family_creation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0532_system_family_creation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.117529'
+original_url: https://thebuildingcoder.typepad.com/blog/0532_system_family_creation.html
+post_number: '0532'
+reading_time_minutes: 2
+series: family
+slug: system_family_creation
+source_file: 0532_system_family_creation.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- walls
+title: System Family Creation
+word_count: 442
 ---
 
 ### System Family Creation

@@ -1,11 +1,22 @@
 ---
-post_number: "0248"
-title: "Extract Part Atoms"
-slug: "extract_part_atoms"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api']
-source_file: "0248_extract_part_atoms.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0248_extract_part_atoms.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.619170'
+original_url: https://thebuildingcoder.typepad.com/blog/0248_extract_part_atoms.html
+post_number: 0248
+reading_time_minutes: 3
+series: general
+slug: extract_part_atoms
+source_file: 0248_extract_part_atoms.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+title: Extract Part Atoms
+word_count: 557
 ---
 
 ### Extract Part Atoms

@@ -1,11 +1,27 @@
 ---
-post_number: "0682"
-title: "Accessing Room Data"
-slug: "accessing_room_data"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "0682_accessing_room_data.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0682_accessing_room_data.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.388339'
+original_url: https://thebuildingcoder.typepad.com/blog/0682_accessing_room_data.html
+post_number: 0682
+reading_time_minutes: 5
+series: general
+slug: accessing_room_data
+source_file: 0682_accessing_room_data.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: Accessing Room Data
+word_count: 1094
 ---
 
 ### Accessing Room Data

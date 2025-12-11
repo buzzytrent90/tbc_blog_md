@@ -1,11 +1,28 @@
 ---
-post_number: "0171"
-title: "View Sketch Plane"
-slug: "view_sketch_plane"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'python', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "0171_view_sketch_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0171_view_sketch_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.482523'
+original_url: https://thebuildingcoder.typepad.com/blog/0171_view_sketch_plane.html
+post_number: '0171'
+reading_time_minutes: 4
+series: views
+slug: view_sketch_plane
+source_file: 0171_view_sketch_plane.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- python
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: View Sketch Plane
+word_count: 892
 ---
 
 ### View Sketch Plane

@@ -1,11 +1,24 @@
 ---
-post_number: "0805"
-title: "Vacation Time and Various Notes"
-slug: "vacation_news"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "0805_vacation_news.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0805_vacation_news.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.628432'
+original_url: https://thebuildingcoder.typepad.com/blog/0805_vacation_news.html
+post_number: 0805
+reading_time_minutes: 7
+series: general
+slug: vacation_news
+source_file: 0805_vacation_news.htm
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- views
+- walls
+title: Vacation Time and Various Notes
+word_count: 1302
 ---
 
 ### Vacation Time and Various Notes

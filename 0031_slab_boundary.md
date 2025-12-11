@@ -1,11 +1,23 @@
 ---
-post_number: "0031"
-title: "Slab Boundary"
-slug: "slab_boundary"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'selection']
-source_file: "0031_slab_boundary.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0031_slab_boundary.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.260805'
+original_url: https://thebuildingcoder.typepad.com/blog/0031_slab_boundary.html
+post_number: '0031'
+reading_time_minutes: 4
+series: general
+slug: slab_boundary
+source_file: 0031_slab_boundary.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- selection
+title: Slab Boundary
+word_count: 827
 ---
 
 ### Slab Boundary

@@ -1,11 +1,25 @@
 ---
-post_number: "0822"
-title: "Sphere Creation for AVF and Filtering"
-slug: "create_sphere"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'revit-api', 'rooms', 'views']
-source_file: "0822_create_sphere.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0822_create_sphere.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.668438'
+original_url: https://thebuildingcoder.typepad.com/blog/0822_create_sphere.html
+post_number: 0822
+reading_time_minutes: 5
+series: general
+slug: create_sphere
+source_file: 0822_create_sphere.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- revit-api
+- rooms
+- views
+title: Sphere Creation for AVF and Filtering
+word_count: 945
 ---
 
 ### Sphere Creation for AVF and Filtering

@@ -1,11 +1,26 @@
 ---
-post_number: "0060"
-title: "Linked Files"
-slug: "linked_files"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "0060_linked_files.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0060_linked_files.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.301385'
+original_url: https://thebuildingcoder.typepad.com/blog/0060_linked_files.html
+post_number: '0060'
+reading_time_minutes: 5
+series: general
+slug: linked_files
+source_file: 0060_linked_files.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- rooms
+- views
+title: Linked Files
+word_count: 1055
 ---
 
 ### Linked Files

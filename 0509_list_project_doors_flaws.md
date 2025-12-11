@@ -1,11 +1,24 @@
 ---
-post_number: "0509"
-title: "Modeless Door Lister Flaws"
-slug: "list_project_doors_flaws"
-author: "Jeremy Tammik"
-tags: ['doors', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0509_list_project_doors_flaws.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0509_list_project_doors_flaws.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: news
+optimization_date: '2025-12-11T11:44:14.074141'
+original_url: https://thebuildingcoder.typepad.com/blog/0509_list_project_doors_flaws.html
+post_number: 0509
+reading_time_minutes: 6
+series: general
+slug: list_project_doors_flaws
+source_file: 0509_list_project_doors_flaws.htm
+tags:
+- doors
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Modeless Door Lister Flaws
+word_count: 1197
 ---
 
 ### Modeless Door Lister Flaws

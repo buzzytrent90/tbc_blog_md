@@ -1,11 +1,29 @@
 ---
-post_number: "0808"
-title: "Graphically Display Area Boundary Loops"
-slug: "display_area_boundary"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'python', 'revit-api', 'rooms', 'schedules', 'selection', 'transactions', 'views', 'walls']
-source_file: "0808_display_area_boundary.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0808_display_area_boundary.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.636564'
+original_url: https://thebuildingcoder.typepad.com/blog/0808_display_area_boundary.html
+post_number: 0808
+reading_time_minutes: 4
+series: general
+slug: display_area_boundary
+source_file: 0808_display_area_boundary.htm
+tags:
+- elements
+- filtering
+- levels
+- python
+- revit-api
+- rooms
+- schedules
+- selection
+- transactions
+- views
+- walls
+title: Graphically Display Area Boundary Loops
+word_count: 775
 ---
 
 ### Graphically Display Area Boundary Loops

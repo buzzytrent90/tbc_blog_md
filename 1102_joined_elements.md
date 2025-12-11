@@ -1,11 +1,27 @@
 ---
-post_number: "1102"
-title: "Getting Two Different Kinds of Joined Elements"
-slug: "joined_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'references', 'revit-api', 'selection', 'walls', 'windows']
-source_file: "1102_joined_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1102_joined_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.308556'
+original_url: https://thebuildingcoder.typepad.com/blog/1102_joined_elements.html
+post_number: '1102'
+reading_time_minutes: 3
+series: elements
+slug: joined_elements
+source_file: 1102_joined_elements.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- references
+- revit-api
+- selection
+- walls
+- windows
+title: Getting Two Different Kinds of Joined Elements
+word_count: 553
 ---
 
 ### Getting Two Different Kinds of Joined Elements

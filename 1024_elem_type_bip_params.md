@@ -1,11 +1,26 @@
 ---
-post_number: "1024"
-title: "10.000.000.000th Post and Element Type Parameters"
-slug: "elem_type_bip_params"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'selection', 'views', 'walls']
-source_file: "1024_elem_type_bip_params.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1024_elem_type_bip_params.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.146977'
+original_url: https://thebuildingcoder.typepad.com/blog/1024_elem_type_bip_params.html
+post_number: '1024'
+reading_time_minutes: 5
+series: elements
+slug: elem_type_bip_params
+source_file: 1024_elem_type_bip_params.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- selection
+- views
+- walls
+title: 10.000.000.000th Post and Element Type Parameters
+word_count: 962
 ---
 
 ### 10.000.000.000th Post and Element Type Parameters

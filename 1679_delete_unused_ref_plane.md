@@ -1,11 +1,30 @@
 ---
-post_number: "1679"
-title: "Delete Unused Ref Plane"
-slug: "delete_unused_ref_plane"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1679_delete_unused_ref_plane.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1679_delete_unused_ref_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.509953'
+original_url: https://thebuildingcoder.typepad.com/blog/1679_delete_unused_ref_plane.html
+post_number: '1679'
+reading_time_minutes: 7
+series: general
+slug: delete_unused_ref_plane
+source_file: 1679_delete_unused_ref_plane.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Delete Unused Ref Plane
+word_count: 1382
 ---
 
 ### Reference Intersector and Deleting Reference Planes

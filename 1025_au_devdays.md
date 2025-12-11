@@ -1,11 +1,21 @@
 ---
-post_number: "1025"
-title: "Back and Preparing for AU and DevDays Conferences"
-slug: "au_devdays"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'views']
-source_file: "1025_au_devdays.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1025_au_devdays.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.149277'
+original_url: https://thebuildingcoder.typepad.com/blog/1025_au_devdays.html
+post_number: '1025'
+reading_time_minutes: 6
+series: general
+slug: au_devdays
+source_file: 1025_au_devdays.htm
+tags:
+- revit-api
+- schedules
+- views
+title: Back and Preparing for AU and DevDays Conferences
+word_count: 1162
 ---
 
 ### Back and Preparing for AU and DevDays Conferences

@@ -1,11 +1,21 @@
 ---
-post_number: "1289"
-title: "Open and Activate Document in Event Handler"
-slug: "activate_doc_event"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'vbnet']
-source_file: "1289_activate_doc_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1289_activate_doc_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.689924'
+original_url: https://thebuildingcoder.typepad.com/blog/1289_activate_doc_event.html
+post_number: '1289'
+reading_time_minutes: 5
+series: general
+slug: activate_doc_event
+source_file: 1289_activate_doc_event.htm
+tags:
+- references
+- revit-api
+- vbnet
+title: Open and Activate Document in Event Handler
+word_count: 1009
 ---
 
 ### Open and Activate Document in Event Handler

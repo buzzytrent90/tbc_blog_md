@@ -1,11 +1,28 @@
 ---
-post_number: "0776"
-title: "Create Structural Plan View"
-slug: "struct_plan_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'python', 'revit-api', 'schedules', 'transactions', 'views']
-source_file: "0776_struct_plan_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0776_struct_plan_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.569413'
+original_url: https://thebuildingcoder.typepad.com/blog/0776_struct_plan_view.html
+post_number: '0776'
+reading_time_minutes: 4
+series: views
+slug: struct_plan_view
+source_file: 0776_struct_plan_view.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- python
+- revit-api
+- schedules
+- transactions
+- views
+title: Create Structural Plan View
+word_count: 847
 ---
 
 ### Create Structural Plan View

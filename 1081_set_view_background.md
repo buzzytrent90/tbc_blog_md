@@ -1,11 +1,23 @@
 ---
-post_number: "1081"
-title: "Setting the View Display Background"
-slug: "set_view_background"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'revit-api', 'views']
-source_file: "1081_set_view_background.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1081_set_view_background.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.268022'
+original_url: https://thebuildingcoder.typepad.com/blog/1081_set_view_background.html
+post_number: '1081'
+reading_time_minutes: 3
+series: views
+slug: set_view_background
+source_file: 1081_set_view_background.htm
+tags:
+- csharp
+- family
+- geometry
+- revit-api
+- views
+title: Setting the View Display Background
+word_count: 612
 ---
 
 ### Setting the View Display Background

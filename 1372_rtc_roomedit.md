@@ -1,11 +1,29 @@
 ---
-post_number: "1372"
-title: "Rtc Roomedit"
-slug: "rtc_roomedit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1372_rtc_roomedit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1372_rtc_roomedit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: news
+optimization_date: '2025-12-11T11:44:15.876390'
+original_url: https://thebuildingcoder.typepad.com/blog/1372_rtc_roomedit.html
+post_number: '1372'
+reading_time_minutes: 11
+series: general
+slug: rtc_roomedit
+source_file: 1372_rtc_roomedit.md
+tags:
+- csharp
+- doors
+- family
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- sheets
+- views
+title: Rtc Roomedit
+word_count: 2122
 ---
 
 ### Connecting Desktop and Cloud, Room Editor Update

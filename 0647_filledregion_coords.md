@@ -1,11 +1,21 @@
 ---
-post_number: "0647"
-title: "FilledRegion Coordinates"
-slug: "filledregion_coords"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api']
-source_file: "0647_filledregion_coords.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0647_filledregion_coords.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.325953'
+original_url: https://thebuildingcoder.typepad.com/blog/0647_filledregion_coords.html
+post_number: '0647'
+reading_time_minutes: 4
+series: general
+slug: filledregion_coords
+source_file: 0647_filledregion_coords.htm
+tags:
+- csharp
+- elements
+- revit-api
+title: FilledRegion Coordinates
+word_count: 724
 ---
 
 ### FilledRegion Coordinates

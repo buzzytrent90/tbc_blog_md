@@ -1,11 +1,31 @@
 ---
-post_number: "2026"
-title: "Reload Core Publ"
-slug: "reload_core_publ"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views']
-source_file: "2026_reload_core_publ.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2026_reload_core_publ.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.305017'
+original_url: https://thebuildingcoder.typepad.com/blog/2026_reload_core_publ.html
+post_number: '2026'
+reading_time_minutes: 15
+series: structural
+slug: reload_core_publ
+source_file: 2026_reload_core_publ.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- structural
+title: Reload Core Publ
+word_count: 3096
 ---
 
 ### .NET Core, C4R Views and Interactive Hot Reloading

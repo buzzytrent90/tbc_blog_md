@@ -1,11 +1,25 @@
 ---
-post_number: "1843"
-title: "Compile 2021 Sdk"
-slug: "compile_2021_sdk"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1843_compile_2021_sdk.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1843_compile_2021_sdk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.873805'
+original_url: https://thebuildingcoder.typepad.com/blog/1843_compile_2021_sdk.html
+post_number: '1843'
+reading_time_minutes: 4
+series: general
+slug: compile_2021_sdk
+source_file: 1843_compile_2021_sdk.md
+tags:
+- elements
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Compile 2021 Sdk
+word_count: 864
 ---
 
 ### Compiling the Revit 2021 SDK Samples

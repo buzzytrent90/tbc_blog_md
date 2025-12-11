@@ -1,11 +1,27 @@
 ---
-post_number: "0068"
-title: "PlanTopology Class"
-slug: "plan_topology"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0068_plan_topology.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0068_plan_topology.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.309531'
+original_url: https://thebuildingcoder.typepad.com/blog/0068_plan_topology.html
+post_number: 0068
+reading_time_minutes: 3
+series: general
+slug: plan_topology
+source_file: 0068_plan_topology.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- revit-api
+- rooms
+- views
+- walls
+title: PlanTopology Class
+word_count: 661
 ---
 
 ### PlanTopology Class

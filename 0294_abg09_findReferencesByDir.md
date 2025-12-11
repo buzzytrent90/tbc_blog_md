@@ -1,11 +1,25 @@
 ---
-post_number: "0294"
-title: "FindReferencesByDirection"
-slug: "abg09_findReferencesByDir"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'references', 'revit-api', 'views', 'walls']
-source_file: "0294_abg09_findReferencesByDir.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0294_abg09_findReferencesByDir.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.695931'
+original_url: https://thebuildingcoder.typepad.com/blog/0294_abg09_findReferencesByDir.html
+post_number: 0294
+reading_time_minutes: 4
+series: general
+slug: abg09_findReferencesByDir
+source_file: 0294_abg09_findReferencesByDir.htm
+tags:
+- elements
+- geometry
+- parameters
+- references
+- revit-api
+- views
+- walls
+title: FindReferencesByDirection
+word_count: 896
 ---
 
 ### FindReferencesByDirection

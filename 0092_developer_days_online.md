@@ -1,11 +1,20 @@
 ---
-post_number: "0092"
-title: "Developer Days Online"
-slug: "developer_days_online"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0092_developer_days_online.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0092_developer_days_online.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:13.346353'
+original_url: https://thebuildingcoder.typepad.com/blog/0092_developer_days_online.html
+post_number: 0092
+reading_time_minutes: 1
+series: general
+slug: developer_days_online
+source_file: 0092_developer_days_online.htm
+tags:
+- revit-api
+- views
+title: Developer Days Online
+word_count: 180
 ---
 
 ### Developer Days Online

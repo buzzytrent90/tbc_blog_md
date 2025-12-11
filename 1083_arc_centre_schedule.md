@@ -1,11 +1,28 @@
 ---
-post_number: "1083"
-title: "Happy New Year!"
-slug: "arc_centre_schedule"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1083_arc_centre_schedule.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1083_arc_centre_schedule.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.272296'
+original_url: https://thebuildingcoder.typepad.com/blog/1083_arc_centre_schedule.html
+post_number: '1083'
+reading_time_minutes: 5
+series: general
+slug: arc_centre_schedule
+source_file: 1083_arc_centre_schedule.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Happy New Year!
+word_count: 907
 ---
 
 ### Happy New Year!

@@ -1,11 +1,25 @@
 ---
-post_number: "0542"
-title: "Pimp my AutoCAD or Revit Ribbon"
-slug: "pimp_my_ribbon"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'references', 'revit-api', 'windows']
-source_file: "0542_pimp_my_ribbon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0542_pimp_my_ribbon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 12.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.138921'
+original_url: https://thebuildingcoder.typepad.com/blog/0542_pimp_my_ribbon.html
+post_number: '0542'
+reading_time_minutes: 9
+series: general
+slug: pimp_my_ribbon
+source_file: 0542_pimp_my_ribbon.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- references
+- revit-api
+- windows
+title: Pimp my AutoCAD or Revit Ribbon
+word_count: 1852
 ---
 
 ### Pimp my AutoCAD or Revit Ribbon

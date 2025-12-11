@@ -1,11 +1,22 @@
 ---
-post_number: "0438"
-title: "Ribbon Icon Resolution"
-slug: "ribbon_icon_resolution"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views', 'walls', 'windows']
-source_file: "0438_ribbon_icon_resolution.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0438_ribbon_icon_resolution.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.946731'
+original_url: https://thebuildingcoder.typepad.com/blog/0438_ribbon_icon_resolution.html
+post_number: 0438
+reading_time_minutes: 5
+series: general
+slug: ribbon_icon_resolution
+source_file: 0438_ribbon_icon_resolution.htm
+tags:
+- revit-api
+- views
+- walls
+- windows
+title: Ribbon Icon Resolution
+word_count: 1001
 ---
 
 ### Ribbon Icon Resolution

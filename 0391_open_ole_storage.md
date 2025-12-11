@@ -1,11 +1,23 @@
 ---
-post_number: "0391"
-title: "Open Revit OLE Storage"
-slug: "open_ole_storage"
-author: "Jeremy Tammik"
-tags: ['levels', 'python', 'references', 'revit-api', 'views']
-source_file: "0391_open_ole_storage.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0391_open_ole_storage.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.868752'
+original_url: https://thebuildingcoder.typepad.com/blog/0391_open_ole_storage.html
+post_number: 0391
+reading_time_minutes: 3
+series: general
+slug: open_ole_storage
+source_file: 0391_open_ole_storage.htm
+tags:
+- levels
+- python
+- references
+- revit-api
+- views
+title: Open Revit OLE Storage
+word_count: 665
 ---
 
 ### Open Revit OLE Storage

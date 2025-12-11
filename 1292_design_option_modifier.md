@@ -1,11 +1,25 @@
 ---
-post_number: "1292"
-title: "List and Switch Design Options Using UI Automation"
-slug: "design_option_modifier"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'selection', 'views', 'windows']
-source_file: "1292_design_option_modifier.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1292_design_option_modifier.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.697749'
+original_url: https://thebuildingcoder.typepad.com/blog/1292_design_option_modifier.html
+post_number: '1292'
+reading_time_minutes: 7
+series: general
+slug: design_option_modifier
+source_file: 1292_design_option_modifier.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- selection
+- views
+- windows
+title: List and Switch Design Options Using UI Automation
+word_count: 1439
 ---
 
 ### List and Switch Design Options Using UI Automation

@@ -1,11 +1,23 @@
 ---
-post_number: "0774"
-title: "Family Instance Element Coordinate System"
-slug: "family_inst_ecs"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api']
-source_file: "0774_family_inst_ecs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0774_family_inst_ecs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.565978'
+original_url: https://thebuildingcoder.typepad.com/blog/0774_family_inst_ecs.html
+post_number: '0774'
+reading_time_minutes: 2
+series: family
+slug: family_inst_ecs
+source_file: 0774_family_inst_ecs.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+title: Family Instance Element Coordinate System
+word_count: 462
 ---
 
 ### Family Instance Element Coordinate System

@@ -1,11 +1,29 @@
 ---
-post_number: "1378"
-title: "Dropdown Param Combo"
-slug: "dropdown_param_combo"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'schedules', 'selection', 'sheets', 'views']
-source_file: "1378_dropdown_param_combo.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1378_dropdown_param_combo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.891455'
+original_url: https://thebuildingcoder.typepad.com/blog/1378_dropdown_param_combo.html
+post_number: '1378'
+reading_time_minutes: 3
+series: general
+slug: dropdown_param_combo
+source_file: 1378_dropdown_param_combo.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- schedules
+- selection
+- sheets
+- views
+title: Dropdown Param Combo
+word_count: 625
 ---
 
 ### Drop-down Enumerated Parameter Values

@@ -1,11 +1,28 @@
 ---
-post_number: "1799"
-title: "Dll Hell Schedule Sort"
-slug: "dll_hell_schedule_sort"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "1799_dll_hell_schedule_sort.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1799_dll_hell_schedule_sort.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.770146'
+original_url: https://thebuildingcoder.typepad.com/blog/1799_dll_hell_schedule_sort.html
+post_number: '1799'
+reading_time_minutes: 7
+series: general
+slug: dll_hell_schedule_sort
+source_file: 1799_dll_hell_schedule_sort.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+title: Dll Hell Schedule Sort
+word_count: 1415
 ---
 
 ### DLL Conflicts and Replicating Schedule Sort Order

@@ -1,11 +1,22 @@
 ---
-post_number: "1637"
-title: "Align Plan View"
-slug: "align_plan_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "1637_align_plan_view.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1637_align_plan_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.438177'
+original_url: https://thebuildingcoder.typepad.com/blog/1637_align_plan_view.html
+post_number: '1637'
+reading_time_minutes: 6
+series: views
+slug: align_plan_view
+source_file: 1637_align_plan_view.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Align Plan View
+word_count: 1178
 ---
 
 ### Boston Forge Accelerator and Aligning Plan Views

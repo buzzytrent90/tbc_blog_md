@@ -1,11 +1,21 @@
 ---
-post_number: "0533"
-title: "Iterating Over an Unordered Set Property"
-slug: "iterating_unordered_set"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api']
-source_file: "0533_iterating_unordered_set.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0533_iterating_unordered_set.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.119135'
+original_url: https://thebuildingcoder.typepad.com/blog/0533_iterating_unordered_set.html
+post_number: '0533'
+reading_time_minutes: 3
+series: general
+slug: iterating_unordered_set
+source_file: 0533_iterating_unordered_set.htm
+tags:
+- elements
+- references
+- revit-api
+title: Iterating Over an Unordered Set Property
+word_count: 619
 ---
 
 ### Iterating Over an Unordered Set Property

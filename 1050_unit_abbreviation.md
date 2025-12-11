@@ -1,11 +1,26 @@
 ---
-post_number: "1050"
-title: "Unit Abbreviations"
-slug: "unit_abbreviation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'transactions', 'views']
-source_file: "1050_unit_abbreviation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1050_unit_abbreviation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.198109'
+original_url: https://thebuildingcoder.typepad.com/blog/1050_unit_abbreviation.html
+post_number: '1050'
+reading_time_minutes: 10
+series: general
+slug: unit_abbreviation
+source_file: 1050_unit_abbreviation.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- transactions
+- views
+title: Unit Abbreviations
+word_count: 1990
 ---
 
 ### Unit Abbreviations

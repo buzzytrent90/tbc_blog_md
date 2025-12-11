@@ -1,11 +1,28 @@
 ---
-post_number: "1363"
-title: "Custom File Prop"
-slug: "custom_file_prop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'python', 'revit-api', 'sheets', 'vbnet', 'views', 'windows']
-source_file: "1363_custom_file_prop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1363_custom_file_prop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.854845'
+original_url: https://thebuildingcoder.typepad.com/blog/1363_custom_file_prop.html
+post_number: '1363'
+reading_time_minutes: 2
+series: general
+slug: custom_file_prop
+source_file: 1363_custom_file_prop.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- python
+- revit-api
+- sheets
+- vbnet
+- views
+- windows
+title: Custom File Prop
+word_count: 472
 ---
 
 ### Lunar Eclipse and Custom File Properties

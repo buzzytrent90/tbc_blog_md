@@ -1,11 +1,24 @@
 ---
-post_number: "0654"
-title: "Analytical Model IsEnabled Method and Parameter"
-slug: "analytical_model_is_enabled"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'references', 'revit-api', 'walls']
-source_file: "0654_analytical_model_is_enabled.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0654_analytical_model_is_enabled.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.337941'
+original_url: https://thebuildingcoder.typepad.com/blog/0654_analytical_model_is_enabled.html
+post_number: '0654'
+reading_time_minutes: 1
+series: structural
+slug: analytical_model_is_enabled
+source_file: 0654_analytical_model_is_enabled.htm
+tags:
+- elements
+- parameters
+- references
+- revit-api
+- walls
+- structural
+title: Analytical Model IsEnabled Method and Parameter
+word_count: 156
 ---
 
 ### Analytical Model IsEnabled Method and Parameter

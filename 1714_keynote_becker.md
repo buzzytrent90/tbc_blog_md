@@ -1,11 +1,26 @@
 ---
-post_number: "1714"
-title: "Keynote Becker"
-slug: "keynote_becker"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1714_keynote_becker.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1714_keynote_becker.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.588323'
+original_url: https://thebuildingcoder.typepad.com/blog/1714_keynote_becker.html
+post_number: '1714'
+reading_time_minutes: 4
+series: general
+slug: keynote_becker
+source_file: 1714_keynote_becker.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- sheets
+- views
+- walls
+title: Keynote Becker
+word_count: 705
 ---
 
 ### pyRevit Keynote Manager and Becker Forge Blog

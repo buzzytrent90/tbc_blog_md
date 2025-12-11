@@ -1,11 +1,24 @@
 ---
-post_number: "1872"
-title: "Rect Jig"
-slug: "rect_jig"
-author: "Jeremy Tammik"
-tags: ['levels', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1872_rect_jig.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1872_rect_jig.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.936241'
+original_url: https://thebuildingcoder.typepad.com/blog/1872_rect_jig.html
+post_number: '1872'
+reading_time_minutes: 9
+series: general
+slug: rect_jig
+source_file: 1872_rect_jig.md
+tags:
+- levels
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Rect Jig
+word_count: 1818
 ---
 
 ### Onbox, DirectContext Jig and No CDN

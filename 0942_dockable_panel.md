@@ -1,11 +1,25 @@
 ---
-post_number: "0942"
-title: "A Simpler Dockable Panel Sample"
-slug: "dockable_panel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0942_dockable_panel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0942_dockable_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.957489'
+original_url: https://thebuildingcoder.typepad.com/blog/0942_dockable_panel.html
+post_number: 0942
+reading_time_minutes: 5
+series: general
+slug: dockable_panel
+source_file: 0942_dockable_panel.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- transactions
+- views
+- windows
+title: A Simpler Dockable Panel Sample
+word_count: 1076
 ---
 
 ### A Simpler Dockable Panel Sample

@@ -1,11 +1,27 @@
 ---
-post_number: "2017"
-title: "Os Projects"
-slug: "os_projects"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "2017_os_projects.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2017_os_projects.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.282940'
+original_url: https://thebuildingcoder.typepad.com/blog/2017_os_projects.html
+post_number: '2017'
+reading_time_minutes: 7
+series: general
+slug: os_projects
+source_file: 2017_os_projects.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Os Projects
+word_count: 1305
 ---
 
 ### .NET Core Preview and Open Source Add-In Projects

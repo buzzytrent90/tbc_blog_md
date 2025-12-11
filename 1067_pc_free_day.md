@@ -1,11 +1,19 @@
 ---
-post_number: "1067"
-title: "A Pee Cee Free Day"
-slug: "pc_free_day"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1067_pc_free_day.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1067_pc_free_day.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.232810'
+original_url: https://thebuildingcoder.typepad.com/blog/1067_pc_free_day.html
+post_number: '1067'
+reading_time_minutes: 1
+series: general
+slug: pc_free_day
+source_file: 1067_pc_free_day.htm
+tags:
+- revit-api
+title: A Pee Cee Free Day
+word_count: 140
 ---
 
 ### A Pee Cee Free Day

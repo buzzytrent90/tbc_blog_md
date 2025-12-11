@@ -1,11 +1,24 @@
 ---
-post_number: "1185"
-title: "Teaching a Man How To Fish and Schedule Creation"
-slug: "teach_how_to_fish"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1185_teach_how_to_fish.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1185_teach_how_to_fish.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.473376'
+original_url: https://thebuildingcoder.typepad.com/blog/1185_teach_how_to_fish.html
+post_number: '1185'
+reading_time_minutes: 5
+series: general
+slug: teach_how_to_fish
+source_file: 1185_teach_how_to_fish.htm
+tags:
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Teaching a Man How To Fish and Schedule Creation
+word_count: 1010
 ---
 
 ### Teaching a Man How To Fish and Schedule Creation

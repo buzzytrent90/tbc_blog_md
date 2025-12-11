@@ -1,11 +1,20 @@
 ---
-post_number: "0557"
-title: "Khan Academy"
-slug: "khan_academy"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api']
-source_file: "0557_khan_academy.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0557_khan_academy.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.169397'
+original_url: https://thebuildingcoder.typepad.com/blog/0557_khan_academy.html
+post_number: '0557'
+reading_time_minutes: 2
+series: general
+slug: khan_academy
+source_file: 0557_khan_academy.htm
+tags:
+- geometry
+- revit-api
+title: Khan Academy
+word_count: 410
 ---
 
 ### Khan Academy

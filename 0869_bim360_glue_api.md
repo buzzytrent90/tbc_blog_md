@@ -1,11 +1,24 @@
 ---
-post_number: "0869"
-title: "The BIM 360 Glue Viewer and REST API"
-slug: "bim360_glue_api"
-author: "Jeremy Tammik"
-tags: ['levels', 'parameters', 'references', 'revit-api', 'views', 'windows']
-source_file: "0869_bim360_glue_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0869_bim360_glue_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.765278'
+original_url: https://thebuildingcoder.typepad.com/blog/0869_bim360_glue_api.html
+post_number: 0869
+reading_time_minutes: 5
+series: general
+slug: bim360_glue_api
+source_file: 0869_bim360_glue_api.htm
+tags:
+- levels
+- parameters
+- references
+- revit-api
+- views
+- windows
+title: The BIM 360 Glue Viewer and REST API
+word_count: 919
 ---
 
 ### The BIM 360 Glue Viewer and REST API

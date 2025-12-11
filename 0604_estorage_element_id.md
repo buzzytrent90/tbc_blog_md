@@ -1,11 +1,26 @@
 ---
-post_number: "0604"
-title: "Extensible Storage Features"
-slug: "estorage_element_id"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'revit-api', 'transactions', 'walls']
-source_file: "0604_estorage_element_id.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0604_estorage_element_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.246486'
+original_url: https://thebuildingcoder.typepad.com/blog/0604_estorage_element_id.html
+post_number: '0604'
+reading_time_minutes: 7
+series: elements
+slug: estorage_element_id
+source_file: 0604_estorage_element_id.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- transactions
+- walls
+title: Extensible Storage Features
+word_count: 1384
 ---
 
 ### Extensible Storage Features

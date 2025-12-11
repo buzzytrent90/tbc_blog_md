@@ -1,11 +1,29 @@
 ---
-post_number: "2010"
-title: "No Geo Adjacent"
-slug: "no_geo_adjacent"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "2010_no_geo_adjacent.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2010_no_geo_adjacent.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.264166'
+original_url: https://thebuildingcoder.typepad.com/blog/2010_no_geo_adjacent.html
+post_number: '2010'
+reading_time_minutes: 8
+series: general
+slug: no_geo_adjacent
+source_file: 2010_no_geo_adjacent.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: No Geo Adjacent
+word_count: 1526
 ---
 
 ### No Geometry, Touching Geometry and Cut Geometry

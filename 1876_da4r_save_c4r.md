@@ -1,11 +1,24 @@
 ---
-post_number: "1876"
-title: "Da4r Save C4r"
-slug: "da4r_save_c4r"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1876_da4r_save_c4r.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1876_da4r_save_c4r.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.943960'
+original_url: https://thebuildingcoder.typepad.com/blog/1876_da4r_save_c4r.html
+post_number: '1876'
+reading_time_minutes: 8
+series: general
+slug: da4r_save_c4r
+source_file: 1876_da4r_save_c4r.md
+tags:
+- elements
+- levels
+- parameters
+- revit-api
+- sheets
+- views
+title: Da4r Save C4r
+word_count: 1608
 ---
 
 ### DA4R Cannot Save Directly to Cloud

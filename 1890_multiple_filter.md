@@ -1,11 +1,28 @@
 ---
-post_number: "1890"
-title: "Multiple Filter"
-slug: "multiple_filter"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1890_multiple_filter.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1890_multiple_filter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.973686'
+original_url: https://thebuildingcoder.typepad.com/blog/1890_multiple_filter.html
+post_number: '1890'
+reading_time_minutes: 7
+series: filtering
+slug: multiple_filter
+source_file: 1890_multiple_filter.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: Multiple Filter
+word_count: 1499
 ---
 
 ### Splits: Persona, Collector, Region, Tag, Modification

@@ -1,11 +1,30 @@
 ---
-post_number: "0445"
-title: "View Location on Sheet"
-slug: "view_location_on_sheet"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views']
-source_file: "0445_view_location_on_sheet.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0445_view_location_on_sheet.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.956949'
+original_url: https://thebuildingcoder.typepad.com/blog/0445_view_location_on_sheet.html
+post_number: '0445'
+reading_time_minutes: 9
+series: views
+slug: view_location_on_sheet
+source_file: 0445_view_location_on_sheet.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+title: View Location on Sheet
+word_count: 1828
 ---
 
 ### View Location on Sheet

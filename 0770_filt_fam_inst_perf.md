@@ -1,11 +1,25 @@
 ---
-post_number: "0770"
-title: "Family Usage Filtered Element Collector Performance"
-slug: "filt_fam_inst_perf"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'vbnet', 'views']
-source_file: "0770_filt_fam_inst_perf.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0770_filt_fam_inst_perf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.557278'
+original_url: https://thebuildingcoder.typepad.com/blog/0770_filt_fam_inst_perf.html
+post_number: '0770'
+reading_time_minutes: 8
+series: general
+slug: filt_fam_inst_perf
+source_file: 0770_filt_fam_inst_perf.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- vbnet
+- views
+title: Family Usage Filtered Element Collector Performance
+word_count: 1509
 ---
 
 ### Family Usage Filtered Element Collector Performance

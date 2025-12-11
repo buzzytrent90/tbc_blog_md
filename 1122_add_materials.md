@@ -1,11 +1,28 @@
 ---
-post_number: "1122"
-title: "Adding New Materials from List Enhancements"
-slug: "add_materials"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1122_add_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1122_add_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.345758'
+original_url: https://thebuildingcoder.typepad.com/blog/1122_add_materials.html
+post_number: '1122'
+reading_time_minutes: 7
+series: materials
+slug: add_materials
+source_file: 1122_add_materials.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+- materials
+title: Adding New Materials from List Enhancements
+word_count: 1359
 ---
 
 ### Adding New Materials from List Enhancements

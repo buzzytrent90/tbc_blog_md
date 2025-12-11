@@ -1,11 +1,26 @@
 ---
-post_number: "1651"
-title: "Filtercategoryrule"
-slug: "filtercategoryrule"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1651_filtercategoryrule.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1651_filtercategoryrule.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.463347'
+original_url: https://thebuildingcoder.typepad.com/blog/1651_filtercategoryrule.html
+post_number: '1651'
+reading_time_minutes: 4
+series: filtering
+slug: filtercategoryrule
+source_file: 1651_filtercategoryrule.md
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Filtercategoryrule
+word_count: 720
 ---
 
 ### How to use FilterCategoryRule

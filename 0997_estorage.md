@@ -1,11 +1,20 @@
 ---
-post_number: "0997"
-title: "Deleting and Updating Extensible Storage Schema"
-slug: "estorage"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api']
-source_file: "0997_estorage.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0997_estorage.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.084812'
+original_url: https://thebuildingcoder.typepad.com/blog/0997_estorage.html
+post_number: 0997
+reading_time_minutes: 3
+series: general
+slug: estorage
+source_file: 0997_estorage.htm
+tags:
+- elements
+- revit-api
+title: Deleting and Updating Extensible Storage Schema
+word_count: 612
 ---
 
 ### Deleting and Updating Extensible Storage Schema

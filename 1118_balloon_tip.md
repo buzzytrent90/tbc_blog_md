@@ -1,11 +1,25 @@
 ---
-post_number: "1118"
-title: "Another Balloon Tip Implementation"
-slug: "balloon_tip"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1118_balloon_tip.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1118_balloon_tip.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.337959'
+original_url: https://thebuildingcoder.typepad.com/blog/1118_balloon_tip.html
+post_number: '1118'
+reading_time_minutes: 2
+series: general
+slug: balloon_tip
+source_file: 1118_balloon_tip.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- transactions
+- views
+- windows
+title: Another Balloon Tip Implementation
+word_count: 321
 ---
 
 ### Another Balloon Tip Implementation

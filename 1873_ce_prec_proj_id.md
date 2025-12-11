@@ -1,11 +1,28 @@
 ---
-post_number: "1873"
-title: "Ce Prec Proj Id"
-slug: "ce_prec_proj_id"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1873_ce_prec_proj_id.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1873_ce_prec_proj_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.938385'
+original_url: https://thebuildingcoder.typepad.com/blog/1873_ce_prec_proj_id.html
+post_number: '1873'
+reading_time_minutes: 10
+series: general
+slug: ce_prec_proj_id
+source_file: 1873_ce_prec_proj_id.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Ce Prec Proj Id
+word_count: 2040
 ---
 
 ### Custom Export Precision, Sheet Metadata, Project Id

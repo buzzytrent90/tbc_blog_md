@@ -1,11 +1,20 @@
 ---
-post_number: "1439"
-title: "Accel Answer Day"
-slug: "accel_answer_day"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1439_accel_answer_day.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1439_accel_answer_day.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.028756'
+original_url: https://thebuildingcoder.typepad.com/blog/1439_accel_answer_day.html
+post_number: '1439'
+reading_time_minutes: 1
+series: general
+slug: accel_answer_day
+source_file: 1439_accel_answer_day.md
+tags:
+- revit-api
+- sheets
+title: Accel Answer Day
+word_count: 201
 ---
 
 ### Forge Accelerator, DevCon and Answer Day

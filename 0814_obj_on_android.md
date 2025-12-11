@@ -1,11 +1,27 @@
 ---
-post_number: "0814"
-title: "Validate Roof Type and View OBJ on Android"
-slug: "obj_on_android"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'revit-api', 'rooms', 'selection', 'views']
-source_file: "0814_obj_on_android.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0814_obj_on_android.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.649286'
+original_url: https://thebuildingcoder.typepad.com/blog/0814_obj_on_android.html
+post_number: 0814
+reading_time_minutes: 4
+series: general
+slug: obj_on_android
+source_file: 0814_obj_on_android.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- revit-api
+- rooms
+- selection
+- views
+title: Validate Roof Type and View OBJ on Android
+word_count: 835
 ---
 
 ### Validate Roof Type and View OBJ on Android

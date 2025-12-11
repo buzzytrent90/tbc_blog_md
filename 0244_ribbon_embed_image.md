@@ -1,11 +1,23 @@
 ---
-post_number: "0244"
-title: "Ribbon Embed Image"
-slug: "ribbon_embed_image"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'windows']
-source_file: "0244_ribbon_embed_image.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0244_ribbon_embed_image.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.612040'
+original_url: https://thebuildingcoder.typepad.com/blog/0244_ribbon_embed_image.html
+post_number: '0244'
+reading_time_minutes: 4
+series: general
+slug: ribbon_embed_image
+source_file: 0244_ribbon_embed_image.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- windows
+title: Ribbon Embed Image
+word_count: 741
 ---
 
 ### Ribbon Embed Image

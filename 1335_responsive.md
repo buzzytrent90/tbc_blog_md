@@ -1,11 +1,21 @@
 ---
-post_number: "1335"
-title: "The Responsive Building Coder"
-slug: "responsive"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets']
-source_file: "1335_responsive.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1335_responsive.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.794654'
+original_url: https://thebuildingcoder.typepad.com/blog/1335_responsive.html
+post_number: '1335'
+reading_time_minutes: 2
+series: general
+slug: responsive
+source_file: 1335_responsive.htm
+tags:
+- references
+- revit-api
+- sheets
+title: The Responsive Building Coder
+word_count: 339
 ---
 
 ### The Responsive Building Coder

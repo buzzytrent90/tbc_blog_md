@@ -1,11 +1,20 @@
 ---
-post_number: "0466"
-title: "RevitToday Add-Ins Import and Export Coordinates"
-slug: "revittoday_addins"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0466_revittoday_addins.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0466_revittoday_addins.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.996477'
+original_url: https://thebuildingcoder.typepad.com/blog/0466_revittoday_addins.html
+post_number: '0466'
+reading_time_minutes: 1
+series: general
+slug: revittoday_addins
+source_file: 0466_revittoday_addins.htm
+tags:
+- family
+- revit-api
+title: RevitToday Add-Ins Import and Export Coordinates
+word_count: 143
 ---
 
 ### RevitToday Add-Ins Import and Export Coordinates

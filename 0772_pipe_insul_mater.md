@@ -1,11 +1,28 @@
 ---
-post_number: "0772"
-title: "Pipe Insulation and Insulation Material"
-slug: "pipe_insul_mater"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'selection', 'walls']
-source_file: "0772_pipe_insul_mater.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0772_pipe_insul_mater.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.561627'
+original_url: https://thebuildingcoder.typepad.com/blog/0772_pipe_insul_mater.html
+post_number: '0772'
+reading_time_minutes: 6
+series: mep
+slug: pipe_insul_mater
+source_file: 0772_pipe_insul_mater.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- selection
+- walls
+- mep
+title: Pipe Insulation and Insulation Material
+word_count: 1262
 ---
 
 ### Pipe Insulation and Insulation Material

@@ -1,11 +1,26 @@
 ---
-post_number: "1735"
-title: "Editscope Texture"
-slug: "editscope_texture"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1735_editscope_texture.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1735_editscope_texture.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.633372'
+original_url: https://thebuildingcoder.typepad.com/blog/1735_editscope_texture.html
+post_number: '1735'
+reading_time_minutes: 5
+series: materials
+slug: editscope_texture
+source_file: 1735_editscope_texture.md
+tags:
+- elements
+- filtering
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- materials
+title: Editscope Texture
+word_count: 1090
 ---
 
 ### Set Material Texture Path in EditScope

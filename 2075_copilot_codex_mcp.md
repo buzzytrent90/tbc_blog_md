@@ -1,11 +1,29 @@
 ---
-post_number: "2075"
-title: "Copilot Codex Mcp"
-slug: "copilot_codex_mcp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'sheets', 'transactions', 'walls']
-source_file: "2075_copilot_codex_mcp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2075_copilot_codex_mcp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.428979'
+original_url: https://thebuildingcoder.typepad.com/blog/2075_copilot_codex_mcp.html
+post_number: '2075'
+reading_time_minutes: 12
+series: general
+slug: copilot_codex_mcp
+source_file: 2075_copilot_codex_mcp.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- sheets
+- transactions
+- walls
+title: Copilot Codex Mcp
+word_count: 2323
 ---
 
 ### Revit API Agents, MCP, Copilot and Codex

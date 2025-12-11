@@ -1,11 +1,31 @@
 ---
-post_number: "1125"
-title: "Selecting Sheets instead of Views for the Simplified BIM Editor"
-slug: "select_sheets"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'levels', 'python', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1125_select_sheets.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1125_select_sheets.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.351178'
+original_url: https://thebuildingcoder.typepad.com/blog/1125_select_sheets.html
+post_number: '1125'
+reading_time_minutes: 7
+series: views
+slug: select_sheets
+source_file: 1125_select_sheets.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- levels
+- python
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Selecting Sheets instead of Views for the Simplified BIM Editor
+word_count: 1469
 ---
 
 ### Selecting Sheets instead of Views for the Simplified BIM Editor

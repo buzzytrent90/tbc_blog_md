@@ -1,11 +1,25 @@
 ---
-post_number: "0707"
-title: "Curved Analytical Model Approximation and Etabs Structural Link"
-slug: "etabs_rst_link"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'revit-api', 'walls']
-source_file: "0707_etabs_rst_link.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0707_etabs_rst_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.437619'
+original_url: https://thebuildingcoder.typepad.com/blog/0707_etabs_rst_link.html
+post_number: '0707'
+reading_time_minutes: 2
+series: general
+slug: etabs_rst_link
+source_file: 0707_etabs_rst_link.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- revit-api
+- walls
+title: Curved Analytical Model Approximation and Etabs Structural Link
+word_count: 462
 ---
 
 ### Curved Analytical Model Approximation and Etabs Structural Link

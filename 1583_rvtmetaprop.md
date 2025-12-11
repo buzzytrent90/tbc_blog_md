@@ -1,11 +1,27 @@
 ---
-post_number: "1583"
-title: "Rvtmetaprop"
-slug: "rvtmetaprop"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1583_rvtmetaprop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1583_rvtmetaprop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.338538'
+original_url: https://thebuildingcoder.typepad.com/blog/1583_rvtmetaprop.html
+post_number: '1583'
+reading_time_minutes: 8
+series: general
+slug: rvtmetaprop
+source_file: 1583_rvtmetaprop.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Rvtmetaprop
+word_count: 1692
 ---
 
 ### Use Forge or Spreadsheet to Create Shared Parameters

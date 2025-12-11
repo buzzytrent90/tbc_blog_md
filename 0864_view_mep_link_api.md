@@ -1,11 +1,24 @@
 ---
-post_number: "0864"
-title: "AU Classes on the View, MEP and Link APIs"
-slug: "view_mep_link_api"
-author: "Jeremy Tammik"
-tags: ['parameters', 'references', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0864_view_mep_link_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0864_view_mep_link_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.757191'
+original_url: https://thebuildingcoder.typepad.com/blog/0864_view_mep_link_api.html
+post_number: 0864
+reading_time_minutes: 3
+series: views
+slug: view_mep_link_api
+source_file: 0864_view_mep_link_api.htm
+tags:
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- views
+title: AU Classes on the View, MEP and Link APIs
+word_count: 521
 ---
 
 ### AU Classes on the View, MEP and Link APIs

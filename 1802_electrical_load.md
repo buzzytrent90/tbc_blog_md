@@ -1,11 +1,29 @@
 ---
-post_number: "1802"
-title: "Electrical Load"
-slug: "electrical_load"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1802_electrical_load.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1802_electrical_load.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.775557'
+original_url: https://thebuildingcoder.typepad.com/blog/1802_electrical_load.html
+post_number: '1802'
+reading_time_minutes: 3
+series: mep
+slug: electrical_load
+source_file: 1802_electrical_load.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- mep
+title: Electrical Load
+word_count: 598
 ---
 
 ### Retrieving the Electrical Load from a Fixture

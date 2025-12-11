@@ -1,11 +1,22 @@
 ---
-post_number: "0742"
-title: "New Revit 2013 SDK Samples"
-slug: "new_sdk_samples"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'transactions', 'views']
-source_file: "0742_new_sdk_samples.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0742_new_sdk_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.500944'
+original_url: https://thebuildingcoder.typepad.com/blog/0742_new_sdk_samples.html
+post_number: '0742'
+reading_time_minutes: 3
+series: general
+slug: new_sdk_samples
+source_file: 0742_new_sdk_samples.htm
+tags:
+- references
+- revit-api
+- transactions
+- views
+title: New Revit 2013 SDK Samples
+word_count: 609
 ---
 
 ### New Revit 2013 SDK Samples

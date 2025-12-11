@@ -1,11 +1,27 @@
 ---
-post_number: "1171"
-title: "Back from Sweden"
-slug: "back_sweden"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'parameters', 'python', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1171_back_sweden.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1171_back_sweden.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.448672'
+original_url: https://thebuildingcoder.typepad.com/blog/1171_back_sweden.html
+post_number: '1171'
+reading_time_minutes: 4
+series: general
+slug: back_sweden
+source_file: 1171_back_sweden.htm
+tags:
+- doors
+- elements
+- family
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- walls
+title: Back from Sweden
+word_count: 726
 ---
 
 ### Back from Sweden

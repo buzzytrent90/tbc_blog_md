@@ -1,11 +1,28 @@
 ---
-post_number: "0795"
-title: "OBJ Model Exporter with Multiple Solid Support"
-slug: "obj_export_solids"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'selection', 'walls', 'windows']
-source_file: "0795_obj_export_solids.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0795_obj_export_solids.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.608704'
+original_url: https://thebuildingcoder.typepad.com/blog/0795_obj_export_solids.html
+post_number: 0795
+reading_time_minutes: 6
+series: general
+slug: obj_export_solids
+source_file: 0795_obj_export_solids.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- selection
+- walls
+- windows
+title: OBJ Model Exporter with Multiple Solid Support
+word_count: 1110
 ---
 
 ### OBJ Model Exporter with Multiple Solid Support

@@ -1,11 +1,20 @@
 ---
-post_number: "0299"
-title: "Kean on Reflector"
-slug: "kean_on_reflector"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api']
-source_file: "0299_kean_on_reflector.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0299_kean_on_reflector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.705547'
+original_url: https://thebuildingcoder.typepad.com/blog/0299_kean_on_reflector.html
+post_number: 0299
+reading_time_minutes: 1
+series: general
+slug: kean_on_reflector
+source_file: 0299_kean_on_reflector.htm
+tags:
+- csharp
+- revit-api
+title: Kean on Reflector
+word_count: 116
 ---
 
 ### Kean on Reflector

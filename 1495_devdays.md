@@ -1,11 +1,25 @@
 ---
-post_number: "1495"
-title: "The Building Coder"
-slug: "devdays"
-author: "Jeremy Tammik"
-tags: ['filtering', 'geometry', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1495_devdays.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1495_devdays.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.156976'
+original_url: https://thebuildingcoder.typepad.com/blog/1495_devdays.html
+post_number: '1495'
+reading_time_minutes: 6
+series: general
+slug: devdays
+source_file: 1495_devdays.md
+tags:
+- filtering
+- geometry
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: The Building Coder
+word_count: 1184
 ---
 
 ### BIM@TuDa, DevDays, Forge News and More Events

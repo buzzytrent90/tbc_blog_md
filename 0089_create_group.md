@@ -1,11 +1,23 @@
 ---
-post_number: "0089"
-title: "Creating a Group and How to Fish"
-slug: "create_group"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'views']
-source_file: "0089_create_group.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0089_create_group.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.342129'
+original_url: https://thebuildingcoder.typepad.com/blog/0089_create_group.html
+post_number: 0089
+reading_time_minutes: 4
+series: general
+slug: create_group
+source_file: 0089_create_group.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- views
+title: Creating a Group and How to Fish
+word_count: 729
 ---
 
 ### Creating a Group and How to Fish

@@ -1,11 +1,24 @@
 ---
-post_number: "0771"
-title: "Change Section View Type and Hide Cut Line"
-slug: "sect_view_type_hide"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'views']
-source_file: "0771_sect_view_type_hide.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0771_sect_view_type_hide.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.559446'
+original_url: https://thebuildingcoder.typepad.com/blog/0771_sect_view_type_hide.html
+post_number: '0771'
+reading_time_minutes: 1
+series: elements
+slug: sect_view_type_hide
+source_file: 0771_sect_view_type_hide.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- views
+title: Change Section View Type and Hide Cut Line
+word_count: 222
 ---
 
 ### Change Section View Type and Hide Cut Line

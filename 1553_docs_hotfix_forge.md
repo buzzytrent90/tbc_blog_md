@@ -1,11 +1,21 @@
 ---
-post_number: "1553"
-title: "Docs Hotfix Forge"
-slug: "docs_hotfix_forge"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "1553_docs_hotfix_forge.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1553_docs_hotfix_forge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: news
+optimization_date: '2025-12-11T11:44:16.277297'
+original_url: https://thebuildingcoder.typepad.com/blog/1553_docs_hotfix_forge.html
+post_number: '1553'
+reading_time_minutes: 4
+series: general
+slug: docs_hotfix_forge
+source_file: 1553_docs_hotfix_forge.md
+tags:
+- revit-api
+- sheets
+- views
+title: Docs Hotfix Forge
+word_count: 884
 ---
 
 ### Women Coders, Forge and Revit API Docs Updates

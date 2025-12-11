@@ -1,11 +1,30 @@
 ---
-post_number: "1981"
-title: "Chatgpt Basics"
-slug: "chatgpt_basics"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'walls']
-source_file: "1981_chatgpt_basics.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1981_chatgpt_basics.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.181521'
+original_url: https://thebuildingcoder.typepad.com/blog/1981_chatgpt_basics.html
+post_number: '1981'
+reading_time_minutes: 21
+series: general
+slug: chatgpt_basics
+source_file: 1981_chatgpt_basics.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- walls
+title: Chatgpt Basics
+word_count: 4149
 ---
 
 ### Back to Basics and ChatGPT

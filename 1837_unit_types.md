@@ -1,11 +1,26 @@
 ---
-post_number: "1837"
-title: "Unit Types"
-slug: "unit_types"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1837_unit_types.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1837_unit_types.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.859098'
+original_url: https://thebuildingcoder.typepad.com/blog/1837_unit_types.html
+post_number: '1837'
+reading_time_minutes: 3
+series: elements
+slug: unit_types
+source_file: 1837_unit_types.md
+tags:
+- family
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+- elements
+title: Unit Types
+word_count: 584
 ---
 
 ### Revit 2021 Unit Types in Family Type Catalogues

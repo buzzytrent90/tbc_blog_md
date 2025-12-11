@@ -1,11 +1,21 @@
 ---
-post_number: "0703"
-title: "Preparing for a Hands-on Revit API Training"
-slug: "training_prep"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'views']
-source_file: "0703_training_prep.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0703_training_prep.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.430420'
+original_url: https://thebuildingcoder.typepad.com/blog/0703_training_prep.html
+post_number: '0703'
+reading_time_minutes: 4
+series: general
+slug: training_prep
+source_file: 0703_training_prep.htm
+tags:
+- csharp
+- revit-api
+- views
+title: Preparing for a Hands-on Revit API Training
+word_count: 775
 ---
 
 ### Preparing for a Hands-on Revit API Training

@@ -1,11 +1,32 @@
 ---
-post_number: "2072"
-title: "Empty Asset"
-slug: "empty_asset"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'transactions', 'views']
-source_file: "2072_empty_asset.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2072_empty_asset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 12.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.422241'
+original_url: https://thebuildingcoder.typepad.com/blog/2072_empty_asset.html
+post_number: '2072'
+reading_time_minutes: 20
+series: materials
+slug: empty_asset
+source_file: 2072_empty_asset.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- materials
+title: Empty Asset
+word_count: 3926
 ---
 
 ### Revit 2026, Empty Assets and Demolished Stuff

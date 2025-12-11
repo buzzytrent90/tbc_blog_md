@@ -1,11 +1,21 @@
 ---
-post_number: "0223"
-title: "Revit Install Location"
-slug: "install_location"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "0223_install_location.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0223_install_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.578225'
+original_url: https://thebuildingcoder.typepad.com/blog/0223_install_location.html
+post_number: '0223'
+reading_time_minutes: 5
+series: general
+slug: install_location
+source_file: 0223_install_location.htm
+tags:
+- csharp
+- revit-api
+- windows
+title: Revit Install Location
+word_count: 901
 ---
 
 ### Revit Install Location

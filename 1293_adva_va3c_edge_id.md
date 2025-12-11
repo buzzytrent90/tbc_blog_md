@@ -1,11 +1,26 @@
 ---
-post_number: "1293"
-title: "State of the View and Data API, vA3C and Edge Ids"
-slug: "adva_va3c_edge_id"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'selection', 'views']
-source_file: "1293_adva_va3c_edge_id.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1293_adva_va3c_edge_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.700409'
+original_url: https://thebuildingcoder.typepad.com/blog/1293_adva_va3c_edge_id.html
+post_number: '1293'
+reading_time_minutes: 7
+series: general
+slug: adva_va3c_edge_id
+source_file: 1293_adva_va3c_edge_id.htm
+tags:
+- elements
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- selection
+- views
+title: State of the View and Data API, vA3C and Edge Ids
+word_count: 1314
 ---
 
 ### State of the View and Data API, vA3C and Edge Ids

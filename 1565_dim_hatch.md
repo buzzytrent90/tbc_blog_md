@@ -1,11 +1,27 @@
 ---
-post_number: "1565"
-title: "Dim Hatch"
-slug: "dim_hatch"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1565_dim_hatch.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1565_dim_hatch.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.299960'
+original_url: https://thebuildingcoder.typepad.com/blog/1565_dim_hatch.html
+post_number: '1565'
+reading_time_minutes: 6
+series: general
+slug: dim_hatch
+source_file: 1565_dim_hatch.md
+tags:
+- elements
+- geometry
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Dim Hatch
+word_count: 1122
 ---
 
 ### Hatch Line Dimensioning Voodoo

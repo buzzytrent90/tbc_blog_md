@@ -1,11 +1,21 @@
 ---
-post_number: "1044"
-title: "ExportCncFab on GitHub and RevitLookup Update"
-slug: "exportcncfab"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'walls']
-source_file: "1044_exportcncfab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1044_exportcncfab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:15.183493'
+original_url: https://thebuildingcoder.typepad.com/blog/1044_exportcncfab.html
+post_number: '1044'
+reading_time_minutes: 2
+series: general
+slug: exportcncfab
+source_file: 1044_exportcncfab.htm
+tags:
+- parameters
+- revit-api
+- walls
+title: ExportCncFab on GitHub and RevitLookup Update
+word_count: 339
 ---
 
 ### ExportCncFab on GitHub and RevitLookup Update

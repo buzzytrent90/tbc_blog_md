@@ -1,11 +1,22 @@
 ---
-post_number: "1437"
-title: "Bcf Manual Addin"
-slug: "bcf_manual_addin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets']
-source_file: "1437_bcf_manual_addin.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1437_bcf_manual_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.024789'
+original_url: https://thebuildingcoder.typepad.com/blog/1437_bcf_manual_addin.html
+post_number: '1437'
+reading_time_minutes: 5
+series: general
+slug: bcf_manual_addin
+source_file: 1437_bcf_manual_addin.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+title: Bcf Manual Addin
+word_count: 1098
 ---
 
 ### BCF API and Manually Setting Up an Add-In

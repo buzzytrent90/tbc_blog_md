@@ -1,11 +1,22 @@
 ---
-post_number: "0683"
-title: "My First Revit Plug-in in VB"
-slug: "my_first_revit_plug-in_vb"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'vbnet']
-source_file: "0683_my_first_revit_plug-in_vb.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0683_my_first_revit_plug-in_vb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.389673'
+original_url: https://thebuildingcoder.typepad.com/blog/0683_my_first_revit_plug-in_vb.html
+post_number: 0683
+reading_time_minutes: 1
+series: general
+slug: my_first_revit_plug-in_vb
+source_file: 0683_my_first_revit_plug-in_vb.htm
+tags:
+- csharp
+- references
+- revit-api
+- vbnet
+title: My First Revit Plug-in in VB
+word_count: 144
 ---
 
 ### My First Revit Plug-in in VB

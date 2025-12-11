@@ -1,11 +1,22 @@
 ---
-post_number: "0215"
-title: "Elevation and Section Views"
-slug: "elevation_section_view"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "0215_elevation_section_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0215_elevation_section_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.565273'
+original_url: https://thebuildingcoder.typepad.com/blog/0215_elevation_section_view.html
+post_number: '0215'
+reading_time_minutes: 2
+series: views
+slug: elevation_section_view
+source_file: 0215_elevation_section_view.htm
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Elevation and Section Views
+word_count: 373
 ---
 
 ### Elevation and Section Views

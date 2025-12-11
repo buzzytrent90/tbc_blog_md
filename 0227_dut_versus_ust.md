@@ -1,11 +1,19 @@
 ---
-post_number: "0227"
-title: "DUT versus UST"
-slug: "dut_versus_ust"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0227_dut_versus_ust.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0227_dut_versus_ust.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.584680'
+original_url: https://thebuildingcoder.typepad.com/blog/0227_dut_versus_ust.html
+post_number: '0227'
+reading_time_minutes: 2
+series: general
+slug: dut_versus_ust
+source_file: 0227_dut_versus_ust.htm
+tags:
+- revit-api
+title: DUT versus UST
+word_count: 309
 ---
 
 ### DUT versus UST

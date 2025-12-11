@@ -1,11 +1,21 @@
 ---
-post_number: "0256"
-title: "AU Virtual free for ADN Members"
-slug: "auv_for_free_for_adn"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0256_auv_for_free_for_adn.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0256_auv_for_free_for_adn.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:13.631889'
+original_url: https://thebuildingcoder.typepad.com/blog/0256_auv_for_free_for_adn.html
+post_number: '0256'
+reading_time_minutes: 1
+series: geometry
+slug: auv_for_free_for_adn
+source_file: 0256_auv_for_free_for_adn.htm
+tags:
+- family
+- revit-api
+- geometry
+title: AU Virtual free for ADN Members
+word_count: 141
 ---
 
 ### AU Virtual free for ADN Members

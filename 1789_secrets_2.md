@@ -1,11 +1,30 @@
 ---
-post_number: "1789"
-title: "Secrets 2"
-slug: "secrets_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets']
-source_file: "1789_secrets_2.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1789_secrets_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.749212'
+original_url: https://thebuildingcoder.typepad.com/blog/1789_secrets_2.html
+post_number: '1789'
+reading_time_minutes: 8
+series: general
+slug: secrets_2
+source_file: 1789_secrets_2.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+title: Secrets 2
+word_count: 1586
 ---
 
 ### Secret Series 2, CAD Link Status and DWG Blocks

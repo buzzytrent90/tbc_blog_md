@@ -1,11 +1,22 @@
 ---
-post_number: "1453"
-title: "The Building Coder"
-slug: "exportviewselector"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'selection', 'sheets', 'views']
-source_file: "1453_exportviewselector.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1453_exportviewselector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.055795'
+original_url: https://thebuildingcoder.typepad.com/blog/1453_exportviewselector.html
+post_number: '1453'
+reading_time_minutes: 1
+series: views
+slug: exportviewselector
+source_file: 1453_exportviewselector.md
+tags:
+- revit-api
+- selection
+- sheets
+- views
+title: The Building Coder
+word_count: 282
 ---
 
 ### Selecting Views for Forge Translation

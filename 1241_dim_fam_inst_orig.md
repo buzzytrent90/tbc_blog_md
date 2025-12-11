@@ -1,11 +1,30 @@
 ---
-post_number: "1241"
-title: "Picking Pairs and Dimensioning Family Instance Origin"
-slug: "dim_fam_inst_orig"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "1241_dim_fam_inst_orig.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1241_dim_fam_inst_orig.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.587980'
+original_url: https://thebuildingcoder.typepad.com/blog/1241_dim_fam_inst_orig.html
+post_number: '1241'
+reading_time_minutes: 7
+series: general
+slug: dim_fam_inst_orig
+source_file: 1241_dim_fam_inst_orig.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Picking Pairs and Dimensioning Family Instance Origin
+word_count: 1474
 ---
 
 ### Picking Pairs and Dimensioning Family Instance Origin

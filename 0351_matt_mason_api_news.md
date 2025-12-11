@@ -1,11 +1,22 @@
 ---
-post_number: "0351"
-title: "Matt Mason's API News"
-slug: "matt_mason_api_news"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'selection']
-source_file: "0351_matt_mason_api_news.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0351_matt_mason_api_news.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: news
+optimization_date: '2025-12-11T11:44:13.791954'
+original_url: https://thebuildingcoder.typepad.com/blog/0351_matt_mason_api_news.html
+post_number: '0351'
+reading_time_minutes: 1
+series: general
+slug: matt_mason_api_news
+source_file: 0351_matt_mason_api_news.htm
+tags:
+- csharp
+- elements
+- revit-api
+- selection
+title: Matt Mason's API News
+word_count: 206
 ---
 
 ### Matt Mason's API News

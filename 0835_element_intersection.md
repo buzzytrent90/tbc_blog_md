@@ -1,11 +1,25 @@
 ---
-post_number: "0835"
-title: "Element Intersection"
-slug: "element_intersection"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'walls']
-source_file: "0835_element_intersection.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0835_element_intersection.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.700604'
+original_url: https://thebuildingcoder.typepad.com/blog/0835_element_intersection.html
+post_number: 0835
+reading_time_minutes: 2
+series: elements
+slug: element_intersection
+source_file: 0835_element_intersection.htm
+tags:
+- elements
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- walls
+title: Element Intersection
+word_count: 465
 ---
 
 ﻿

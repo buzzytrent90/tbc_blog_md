@@ -1,11 +1,29 @@
 ---
-post_number: "0273"
-title: "RayTraceBounce Pool Table"
-slug: "raytracebounce_pool_table"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'views', 'walls']
-source_file: "0273_raytracebounce_pool_table.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0273_raytracebounce_pool_table.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.660257'
+original_url: https://thebuildingcoder.typepad.com/blog/0273_raytracebounce_pool_table.html
+post_number: '0273'
+reading_time_minutes: 6
+series: general
+slug: raytracebounce_pool_table
+source_file: 0273_raytracebounce_pool_table.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- views
+- walls
+title: RayTraceBounce Pool Table
+word_count: 1290
 ---
 
 ### RayTraceBounce Pool Table

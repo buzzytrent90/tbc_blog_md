@@ -1,11 +1,21 @@
 ---
-post_number: "0186"
-title: "Debug Geometric Form Creation"
-slug: "debug_form_creation"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'revit-api']
-source_file: "0186_debug_form_creation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0186_debug_form_creation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.510272'
+original_url: https://thebuildingcoder.typepad.com/blog/0186_debug_form_creation.html
+post_number: 0186
+reading_time_minutes: 1
+series: general
+slug: debug_form_creation
+source_file: 0186_debug_form_creation.htm
+tags:
+- family
+- geometry
+- revit-api
+title: Debug Geometric Form Creation
+word_count: 217
 ---
 
 ### Debug Geometric Form Creation

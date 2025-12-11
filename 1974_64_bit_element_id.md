@@ -1,11 +1,28 @@
 ---
-post_number: "1974"
-title: "64 Bit Element Id"
-slug: "64_bit_element_id"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1974_64_bit_element_id.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1974_64_bit_element_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.169100'
+original_url: https://thebuildingcoder.typepad.com/blog/1974_64_bit_element_id.html
+post_number: '1974'
+reading_time_minutes: 7
+series: elements
+slug: 64_bit_element_id
+source_file: 1974_64_bit_element_id.md
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: 64 Bit Element Id
+word_count: 1355
 ---
 
 ### 64-Bit Element Ids, Maybe?

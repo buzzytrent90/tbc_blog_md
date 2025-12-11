@@ -1,11 +1,23 @@
 ---
-post_number: "0072"
-title: "Hello F# via C#"
-slug: "hello_f_sharp_via_c_sharp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'windows']
-source_file: "0072_hello_f_sharp_via_c_sharp.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0072_hello_f_sharp_via_c_sharp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.315472'
+original_url: https://thebuildingcoder.typepad.com/blog/0072_hello_f_sharp_via_c_sharp.html
+post_number: '0072'
+reading_time_minutes: 4
+series: general
+slug: hello_f_sharp_via_c_sharp
+source_file: 0072_hello_f_sharp_via_c_sharp.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- windows
+title: Hello F# via C#
+word_count: 710
 ---
 
 ### Hello F# via C#

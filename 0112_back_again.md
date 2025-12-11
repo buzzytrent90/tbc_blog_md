@@ -1,11 +1,23 @@
 ---
-post_number: "0112"
-title: "Back Again"
-slug: "back_again"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'references', 'revit-api', 'rooms']
-source_file: "0112_back_again.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0112_back_again.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.383499'
+original_url: https://thebuildingcoder.typepad.com/blog/0112_back_again.html
+post_number: '0112'
+reading_time_minutes: 5
+series: general
+slug: back_again
+source_file: 0112_back_again.htm
+tags:
+- csharp
+- parameters
+- references
+- revit-api
+- rooms
+title: Back Again
+word_count: 1008
 ---
 
 ### Back Again

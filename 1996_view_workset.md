@@ -1,11 +1,29 @@
 ---
-post_number: "1996"
-title: "View Workset"
-slug: "view_workset"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1996_view_workset.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1996_view_workset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.228997'
+original_url: https://thebuildingcoder.typepad.com/blog/1996_view_workset.html
+post_number: '1996'
+reading_time_minutes: 10
+series: views
+slug: view_workset
+source_file: 1996_view_workset.md
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: View Workset
+word_count: 1956
 ---
 
 ### Sustainability, Lookup, Sub-Elements and Wall Types

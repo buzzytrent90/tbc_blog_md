@@ -1,11 +1,31 @@
 ---
-post_number: "0737"
-title: "Melbourne Day Two"
-slug: "melbourne_day_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "0737_melbourne_day_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0737_melbourne_day_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.488337'
+original_url: https://thebuildingcoder.typepad.com/blog/0737_melbourne_day_2.html
+post_number: '0737'
+reading_time_minutes: 7
+series: general
+slug: melbourne_day_2
+source_file: 0737_melbourne_day_2.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Melbourne Day Two
+word_count: 1438
 ---
 
 ﻿

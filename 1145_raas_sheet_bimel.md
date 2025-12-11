@@ -1,11 +1,32 @@
 ---
-post_number: "1145"
-title: "Revit as a Service and Sheet-View-Element Transforms"
-slug: "raas_sheet_bimel"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1145_raas_sheet_bimel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1145_raas_sheet_bimel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.398232'
+original_url: https://thebuildingcoder.typepad.com/blog/1145_raas_sheet_bimel.html
+post_number: '1145'
+reading_time_minutes: 9
+series: views
+slug: raas_sheet_bimel
+source_file: 1145_raas_sheet_bimel.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Revit as a Service and Sheet-View-Element Transforms
+word_count: 1713
 ---
 
 ### Revit as a Service and Sheet-View-Element Transforms

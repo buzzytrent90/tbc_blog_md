@@ -1,11 +1,26 @@
 ---
-post_number: "0396"
-title: "IFC GUID Algorithm in C#"
-slug: "ifc_guid_cs"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'revit-api', 'rooms', 'schedules']
-source_file: "0396_ifc_guid_cs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0396_ifc_guid_cs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.879195'
+original_url: https://thebuildingcoder.typepad.com/blog/0396_ifc_guid_cs.html
+post_number: 0396
+reading_time_minutes: 4
+series: general
+slug: ifc_guid_cs
+source_file: 0396_ifc_guid_cs.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- revit-api
+- rooms
+- schedules
+title: IFC GUID Algorithm in C#
+word_count: 841
 ---
 
 ### IFC GUID Algorithm in C#

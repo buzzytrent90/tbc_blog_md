@@ -1,11 +1,26 @@
 ---
-post_number: "1290"
-title: "Automatically Open a Project on Startup"
-slug: "auto_open_project"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'vbnet', 'walls']
-source_file: "1290_auto_open_project.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1290_auto_open_project.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.692127'
+original_url: https://thebuildingcoder.typepad.com/blog/1290_auto_open_project.html
+post_number: '1290'
+reading_time_minutes: 10
+series: general
+slug: auto_open_project
+source_file: 1290_auto_open_project.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- vbnet
+- walls
+title: Automatically Open a Project on Startup
+word_count: 1980
 ---
 
 ### Automatically Open a Project on Startup

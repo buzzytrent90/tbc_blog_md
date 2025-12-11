@@ -1,11 +1,25 @@
 ---
-post_number: "1204"
-title: "AdnRme Update to Eliminate Obsolete API Usage"
-slug: "adnrme_update"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'views']
-source_file: "1204_adnrme_update.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1204_adnrme_update.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.505129'
+original_url: https://thebuildingcoder.typepad.com/blog/1204_adnrme_update.html
+post_number: '1204'
+reading_time_minutes: 2
+series: general
+slug: adnrme_update
+source_file: 1204_adnrme_update.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- views
+title: AdnRme Update to Eliminate Obsolete API Usage
+word_count: 480
 ---
 
 ### AdnRme Update to Eliminate Obsolete API Usage

@@ -1,11 +1,23 @@
 ---
-post_number: "0338"
-title: "User Visible Enumeration Value Labels"
-slug: "label_utils"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'windows']
-source_file: "0338_label_utils.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0338_label_utils.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.770632'
+original_url: https://thebuildingcoder.typepad.com/blog/0338_label_utils.html
+post_number: 0338
+reading_time_minutes: 1
+series: general
+slug: label_utils
+source_file: 0338_label_utils.htm
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- windows
+title: User Visible Enumeration Value Labels
+word_count: 288
 ---
 
 ### User Visible Enumeration Value Labels

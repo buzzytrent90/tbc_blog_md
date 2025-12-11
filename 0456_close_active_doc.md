@@ -1,11 +1,25 @@
 ---
-post_number: "0456"
-title: "Closing the Active Document and Why Not To"
-slug: "close_active_doc"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0456_close_active_doc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0456_close_active_doc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.976084'
+original_url: https://thebuildingcoder.typepad.com/blog/0456_close_active_doc.html
+post_number: '0456'
+reading_time_minutes: 8
+series: general
+slug: close_active_doc
+source_file: 0456_close_active_doc.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- transactions
+- views
+- windows
+title: Closing the Active Document and Why Not To
+word_count: 1536
 ---
 
 ### Closing the Active Document and Why Not To

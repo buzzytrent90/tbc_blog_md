@@ -1,11 +1,27 @@
 ---
-post_number: "1149"
-title: "Multithreading Throws Exceptions in Revit 2015"
-slug: "exception_in_2015"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1149_exception_in_2015.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1149_exception_in_2015.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.407650'
+original_url: https://thebuildingcoder.typepad.com/blog/1149_exception_in_2015.html
+post_number: '1149'
+reading_time_minutes: 6
+series: general
+slug: exception_in_2015
+source_file: 1149_exception_in_2015.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- windows
+title: Multithreading Throws Exceptions in Revit 2015
+word_count: 1189
 ---
 
 ### Multithreading Throws Exceptions in Revit 2015

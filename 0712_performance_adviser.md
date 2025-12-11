@@ -1,11 +1,26 @@
 ---
-post_number: "0712"
-title: "The Performance Adviser API"
-slug: "performance_adviser"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0712_performance_adviser.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0712_performance_adviser.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.445016'
+original_url: https://thebuildingcoder.typepad.com/blog/0712_performance_adviser.html
+post_number: '0712'
+reading_time_minutes: 8
+series: general
+slug: performance_adviser
+source_file: 0712_performance_adviser.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- revit-api
+- transactions
+- views
+- walls
+title: The Performance Adviser API
+word_count: 1633
 ---
 
 ### The Performance Adviser API

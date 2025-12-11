@@ -1,11 +1,29 @@
 ---
-post_number: "1367"
-title: "Sheet To Model Coord"
-slug: "sheet_to_model_coord"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1367_sheet_to_model_coord.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1367_sheet_to_model_coord.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.862824'
+original_url: https://thebuildingcoder.typepad.com/blog/1367_sheet_to_model_coord.html
+post_number: '1367'
+reading_time_minutes: 8
+series: views
+slug: sheet_to_model_coord
+source_file: 1367_sheet_to_model_coord.md
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Sheet To Model Coord
+word_count: 1578
 ---
 
 ### Sheet to Model Coordinate Conversion

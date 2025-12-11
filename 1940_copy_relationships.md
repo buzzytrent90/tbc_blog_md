@@ -1,11 +1,27 @@
 ---
-post_number: "1940"
-title: "Copy Relationships"
-slug: "copy_relationships"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1940_copy_relationships.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1940_copy_relationships.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.090184'
+original_url: https://thebuildingcoder.typepad.com/blog/1940_copy_relationships.html
+post_number: '1940'
+reading_time_minutes: 6
+series: general
+slug: copy_relationships
+source_file: 1940_copy_relationships.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Copy Relationships
+word_count: 1269
 ---
 
 ### ACC Summit, Model Properties, Copy Relationships

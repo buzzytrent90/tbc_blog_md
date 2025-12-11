@@ -1,11 +1,24 @@
 ---
-post_number: "0419"
-title: "Transaction Migration Errors"
-slug: "transaction_migration"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'transactions', 'walls']
-source_file: "0419_transaction_migration.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0419_transaction_migration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.918447'
+original_url: https://thebuildingcoder.typepad.com/blog/0419_transaction_migration.html
+post_number: 0419
+reading_time_minutes: 2
+series: transactions
+slug: transaction_migration
+source_file: 0419_transaction_migration.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- transactions
+- walls
+title: Transaction Migration Errors
+word_count: 331
 ---
 
 ### Transaction Migration Errors

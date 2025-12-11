@@ -1,11 +1,23 @@
 ---
-post_number: "0817"
-title: "Video Animated Ribbon Item Tooltip"
-slug: "tooltip_video"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'references', 'revit-api', 'windows']
-source_file: "0817_tooltip_video.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0817_tooltip_video.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.655341'
+original_url: https://thebuildingcoder.typepad.com/blog/0817_tooltip_video.html
+post_number: 0817
+reading_time_minutes: 4
+series: general
+slug: tooltip_video
+source_file: 0817_tooltip_video.htm
+tags:
+- csharp
+- family
+- references
+- revit-api
+- windows
+title: Video Animated Ribbon Item Tooltip
+word_count: 828
 ---
 
 ﻿

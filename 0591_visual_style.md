@@ -1,11 +1,23 @@
 ---
-post_number: "0591"
-title: "Set the Visual Style of a View"
-slug: "visual_style"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api', 'views']
-source_file: "0591_visual_style.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0591_visual_style.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.224667'
+original_url: https://thebuildingcoder.typepad.com/blog/0591_visual_style.html
+post_number: 0591
+reading_time_minutes: 2
+series: general
+slug: visual_style
+source_file: 0591_visual_style.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- views
+title: Set the Visual Style of a View
+word_count: 327
 ---
 
 ### Set the Visual Style of a View

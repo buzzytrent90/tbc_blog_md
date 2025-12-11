@@ -1,11 +1,24 @@
 ---
-post_number: "1921"
-title: "Vasa Roadmap"
-slug: "vasa_roadmap"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1921_vasa_roadmap.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1921_vasa_roadmap.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.046798'
+original_url: https://thebuildingcoder.typepad.com/blog/1921_vasa_roadmap.html
+post_number: '1921'
+reading_time_minutes: 6
+series: general
+slug: vasa_roadmap
+source_file: 1921_vasa_roadmap.md
+tags:
+- elements
+- geometry
+- revit-api
+- sheets
+- transactions
+- views
+title: Vasa Roadmap
+word_count: 1173
 ---
 
 ### Hiding Edges, AU, Roadmaps and Vasa

@@ -1,11 +1,26 @@
 ---
-post_number: "0158"
-title: "Model Group Shared Parameter"
-slug: "model_group_shared_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'parameters', 'references', 'revit-api', 'walls']
-source_file: "0158_model_group_shared_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0158_model_group_shared_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.459347'
+original_url: https://thebuildingcoder.typepad.com/blog/0158_model_group_shared_param.html
+post_number: 0158
+reading_time_minutes: 10
+series: general
+slug: model_group_shared_param
+source_file: 0158_model_group_shared_param.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- walls
+title: Model Group Shared Parameter
+word_count: 1938
 ---
 
 ### Model Group Shared Parameter

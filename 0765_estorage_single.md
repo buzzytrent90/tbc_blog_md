@@ -1,11 +1,26 @@
 ---
-post_number: "0765"
-title: "DevBlog, DevCamp, Element and Project Wide Data"
-slug: "estorage_single"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'transactions']
-source_file: "0765_estorage_single.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0765_estorage_single.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.547724'
+original_url: https://thebuildingcoder.typepad.com/blog/0765_estorage_single.html
+post_number: '0765'
+reading_time_minutes: 10
+series: general
+slug: estorage_single
+source_file: 0765_estorage_single.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- transactions
+title: DevBlog, DevCamp, Element and Project Wide Data
+word_count: 1994
 ---
 
 ﻿

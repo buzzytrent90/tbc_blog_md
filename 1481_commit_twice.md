@@ -1,11 +1,30 @@
 ---
-post_number: "1481"
-title: "The Building Coder"
-slug: "commit_twice"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1481_commit_twice.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1481_commit_twice.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.124424'
+original_url: https://thebuildingcoder.typepad.com/blog/1481_commit_twice.html
+post_number: '1481'
+reading_time_minutes: 13
+series: transactions
+slug: commit_twice
+source_file: 1481_commit_twice.md
+tags:
+- elements
+- family
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: The Building Coder
+word_count: 2673
 ---
 
 ### Need to Commit Twice, Roomedit3dv3 and Forge

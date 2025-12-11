@@ -1,11 +1,23 @@
 ---
-post_number: "0796"
-title: "OBJ Model Exporter with Transparency Support"
-slug: "obj_export_transparent"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'views']
-source_file: "0796_obj_export_transparent.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0796_obj_export_transparent.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.610765'
+original_url: https://thebuildingcoder.typepad.com/blog/0796_obj_export_transparent.html
+post_number: 0796
+reading_time_minutes: 6
+series: general
+slug: obj_export_transparent
+source_file: 0796_obj_export_transparent.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- views
+title: OBJ Model Exporter with Transparency Support
+word_count: 1228
 ---
 
 ### OBJ Model Exporter with Transparency Support

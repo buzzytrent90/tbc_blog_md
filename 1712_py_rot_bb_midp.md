@@ -1,11 +1,28 @@
 ---
-post_number: "1712"
-title: "Py Rot Bb Midp"
-slug: "py_rot_bb_midp"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1712_py_rot_bb_midp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1712_py_rot_bb_midp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.584739'
+original_url: https://thebuildingcoder.typepad.com/blog/1712_py_rot_bb_midp.html
+post_number: '1712'
+reading_time_minutes: 8
+series: general
+slug: py_rot_bb_midp
+source_file: 1712_py_rot_bb_midp.md
+tags:
+- elements
+- filtering
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Py Rot Bb Midp
+word_count: 1574
 ---
 
 ### Python Rotate Picked Around Bounding Box Centre

@@ -1,11 +1,21 @@
 ---
-post_number: "0260"
-title: "AU and Automated Testing"
-slug: "automated_testing"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api', 'windows']
-source_file: "0260_automated_testing.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0260_automated_testing.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.637316'
+original_url: https://thebuildingcoder.typepad.com/blog/0260_automated_testing.html
+post_number: '0260'
+reading_time_minutes: 2
+series: general
+slug: automated_testing
+source_file: 0260_automated_testing.htm
+tags:
+- geometry
+- revit-api
+- windows
+title: AU and Automated Testing
+word_count: 423
 ---
 
 ### AU and Automated Testing

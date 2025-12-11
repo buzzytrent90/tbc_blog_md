@@ -1,11 +1,23 @@
 ---
-post_number: "1834"
-title: "2021 Cloud Model Api"
-slug: "2021_cloud_model_api"
-author: "Jeremy Tammik"
-tags: ['filtering', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1834_2021_cloud_model_api.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1834_2021_cloud_model_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.8
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.843411'
+original_url: https://thebuildingcoder.typepad.com/blog/1834_2021_cloud_model_api.html
+post_number: '1834'
+reading_time_minutes: 7
+series: general
+slug: 2021_cloud_model_api
+source_file: 1834_2021_cloud_model_api.md
+tags:
+- filtering
+- references
+- revit-api
+- sheets
+- views
+title: 2021 Cloud Model Api
+word_count: 1426
 ---
 
 ### Revit 2021 Cloud Model API

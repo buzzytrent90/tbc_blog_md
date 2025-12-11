@@ -1,11 +1,26 @@
 ---
-post_number: "1545"
-title: "Forge Raycast"
-slug: "forge_raycast"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'levels', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1545_forge_raycast.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1545_forge_raycast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.260092'
+original_url: https://thebuildingcoder.typepad.com/blog/1545_forge_raycast.html
+post_number: '1545'
+reading_time_minutes: 7
+series: general
+slug: forge_raycast
+source_file: 1545_forge_raycast.md
+tags:
+- csharp
+- geometry
+- levels
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Forge Raycast
+word_count: 1398
 ---
 
 ### Three.js Raytracing in the Forge Viewer

@@ -1,11 +1,27 @@
 ---
-post_number: "1239"
-title: "DirectShape versus Families, Category and Texture"
-slug: "directshape"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'schedules']
-source_file: "1239_directshape.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1239_directshape.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.582813'
+original_url: https://thebuildingcoder.typepad.com/blog/1239_directshape.html
+post_number: '1239'
+reading_time_minutes: 5
+series: general
+slug: directshape
+source_file: 1239_directshape.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- schedules
+title: DirectShape versus Families, Category and Texture
+word_count: 992
 ---
 
 ### DirectShape versus Families, Category and Texture

@@ -1,11 +1,23 @@
 ---
-post_number: "0914"
-title: "Relax – Simple Free Cloud Based Data Repository with NoSQL, CouchDB, and IrisCouch"
-slug: "nosql_couchdb_iris"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'schedules']
-source_file: "0914_nosql_couchdb_iris.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0914_nosql_couchdb_iris.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.878018'
+original_url: https://thebuildingcoder.typepad.com/blog/0914_nosql_couchdb_iris.html
+post_number: 0914
+reading_time_minutes: 7
+series: general
+slug: nosql_couchdb_iris
+source_file: 0914_nosql_couchdb_iris.htm
+tags:
+- elements
+- geometry
+- revit-api
+- schedules
+title: "Relax \u2013 Simple Free Cloud Based Data Repository with NoSQL, CouchDB,\
+  \ and IrisCouch"
+word_count: 1396
 ---
 
 ### Relax – Simple Free Cloud Based Data Repository with NoSQL, CouchDB, and IrisCouch

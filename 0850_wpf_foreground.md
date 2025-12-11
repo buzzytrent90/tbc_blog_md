@@ -1,11 +1,27 @@
 ---
-post_number: "0850"
-title: "Ensure WPF Add-in Remains in Foreground"
-slug: "wpf_foreground"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0850_wpf_foreground.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0850_wpf_foreground.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.733081'
+original_url: https://thebuildingcoder.typepad.com/blog/0850_wpf_foreground.html
+post_number: 0850
+reading_time_minutes: 5
+series: general
+slug: wpf_foreground
+source_file: 0850_wpf_foreground.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- revit-api
+- views
+- walls
+- windows
+title: Ensure WPF Add-in Remains in Foreground
+word_count: 905
 ---
 
 ﻿

@@ -1,11 +1,30 @@
 ---
-post_number: "1654"
-title: "Get All Param Val"
-slug: "get_all_param_val"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1654_get_all_param_val.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1654_get_all_param_val.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.469880'
+original_url: https://thebuildingcoder.typepad.com/blog/1654_get_all_param_val.html
+post_number: '1654'
+reading_time_minutes: 10
+series: general
+slug: get_all_param_val
+source_file: 1654_get_all_param_val.md
+tags:
+- doors
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Get All Param Val
+word_count: 2071
 ---
 
 ### Getting All Parameter Values

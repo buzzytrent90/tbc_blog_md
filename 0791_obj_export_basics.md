@@ -1,11 +1,30 @@
 ---
-post_number: "0791"
-title: "OBJ Model Export Considerations"
-slug: "obj_export_basics"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0791_obj_export_basics.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0791_obj_export_basics.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.599283'
+original_url: https://thebuildingcoder.typepad.com/blog/0791_obj_export_basics.html
+post_number: 0791
+reading_time_minutes: 7
+series: general
+slug: obj_export_basics
+source_file: 0791_obj_export_basics.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: OBJ Model Export Considerations
+word_count: 1466
 ---
 
 ### OBJ Model Export Considerations

@@ -1,11 +1,27 @@
 ---
-post_number: "1596"
-title: "Texture Path"
-slug: "texture_path"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'sheets']
-source_file: "1596_texture_path.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1596_texture_path.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.363703'
+original_url: https://thebuildingcoder.typepad.com/blog/1596_texture_path.html
+post_number: '1596'
+reading_time_minutes: 4
+series: materials
+slug: texture_path
+source_file: 1596_texture_path.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- sheets
+- materials
+title: Texture Path
+word_count: 881
 ---
 
 ### Material Texture Path

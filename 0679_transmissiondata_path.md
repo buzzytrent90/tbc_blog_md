@@ -1,11 +1,23 @@
 ---
-post_number: "0679"
-title: "Access Central File TransmissionData on Revit Server"
-slug: "transmissiondata_path"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'python', 'revit-api', 'transactions']
-source_file: "0679_transmissiondata_path.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0679_transmissiondata_path.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.384389'
+original_url: https://thebuildingcoder.typepad.com/blog/0679_transmissiondata_path.html
+post_number: 0679
+reading_time_minutes: 3
+series: general
+slug: transmissiondata_path
+source_file: 0679_transmissiondata_path.htm
+tags:
+- elements
+- parameters
+- python
+- revit-api
+- transactions
+title: Access Central File TransmissionData on Revit Server
+word_count: 586
 ---
 
 ### Access Central File TransmissionData on Revit Server

@@ -1,11 +1,20 @@
 ---
-post_number: "0002"
-title: "Introduction to DevTech"
-slug: "devtech"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0002_devtech.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0002_devtech.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.210022'
+original_url: https://thebuildingcoder.typepad.com/blog/0002_devtech.html
+post_number: '0002'
+reading_time_minutes: 1
+series: getting_started
+slug: devtech
+source_file: 0002_devtech.htm
+tags:
+- revit-api
+- getting_started
+title: Introduction to DevTech
+word_count: 218
 ---
 
 ### Introduction to DevTech

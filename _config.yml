@@ -1,0 +1,23 @@
+# GitHub Pages configuration for serving raw files
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Don't process markdown files with frontmatter
+# This will serve them as raw files instead
+# Keep plugin list minimal to avoid issues
+plugins: []
+
+# Exclude Jekyll processing for large directories
+exclude: []
+
+# Important: Set future to false to avoid date-based processing
+future: false
+
+# Set timezone
+timezone: UTC
+
+# Site settings (minimal)
+title: TBC Blog Posts
+description: The Building Coder blog posts

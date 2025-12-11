@@ -1,11 +1,27 @@
 ---
-post_number: "0565"
-title: "Nested Lighting Fixture Instances"
-slug: "nested_instances"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'selection', 'views']
-source_file: "0565_nested_instances.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0565_nested_instances.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.185444'
+original_url: https://thebuildingcoder.typepad.com/blog/0565_nested_instances.html
+post_number: '0565'
+reading_time_minutes: 4
+series: elements
+slug: nested_instances
+source_file: 0565_nested_instances.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- selection
+- views
+title: Nested Lighting Fixture Instances
+word_count: 781
 ---
 
 ### Nested Lighting Fixture Instances

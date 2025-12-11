@@ -1,11 +1,25 @@
 ---
-post_number: "0218"
-title: "Room Boundary Location"
-slug: "room_boundary_location"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'rooms', 'selection', 'vbnet', 'walls']
-source_file: "0218_room_boundary_location.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0218_room_boundary_location.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.569589'
+original_url: https://thebuildingcoder.typepad.com/blog/0218_room_boundary_location.html
+post_number: 0218
+reading_time_minutes: 2
+series: general
+slug: room_boundary_location
+source_file: 0218_room_boundary_location.htm
+tags:
+- csharp
+- elements
+- revit-api
+- rooms
+- selection
+- vbnet
+- walls
+title: Room Boundary Location
+word_count: 339
 ---
 
 ### Room Boundary Location

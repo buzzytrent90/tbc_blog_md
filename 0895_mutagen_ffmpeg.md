@@ -1,11 +1,25 @@
 ---
-post_number: "0895"
-title: "MP3 Manipulation Using Python, Mutagen and Ffmpeg"
-slug: "mutagen_ffmpeg"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'python', 'revit-api', 'rooms', 'views']
-source_file: "0895_mutagen_ffmpeg.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0895_mutagen_ffmpeg.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.815167'
+original_url: https://thebuildingcoder.typepad.com/blog/0895_mutagen_ffmpeg.html
+post_number: 0895
+reading_time_minutes: 11
+series: general
+slug: mutagen_ffmpeg
+source_file: 0895_mutagen_ffmpeg.htm
+tags:
+- elements
+- family
+- levels
+- python
+- revit-api
+- rooms
+- views
+title: MP3 Manipulation Using Python, Mutagen and Ffmpeg
+word_count: 2226
 ---
 
 ### MP3 Manipulation Using Python, Mutagen and Ffmpeg

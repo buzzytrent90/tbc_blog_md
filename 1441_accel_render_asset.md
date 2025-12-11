@@ -1,11 +1,29 @@
 ---
-post_number: "1441"
-title: "Accel Render Asset"
-slug: "accel_render_asset"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1441_accel_render_asset.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1441_accel_render_asset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.032498'
+original_url: https://thebuildingcoder.typepad.com/blog/1441_accel_render_asset.html
+post_number: '1441'
+reading_time_minutes: 8
+series: materials
+slug: accel_render_asset
+source_file: 1441_accel_render_asset.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+- materials
+title: Accel Render Asset
+word_count: 1682
 ---
 
 ### Roomedit3d Console Test and Rendering Assets

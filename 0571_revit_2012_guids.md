@@ -1,11 +1,21 @@
 ---
-post_number: "0571"
-title: "Product GUIDs for Revit 2012 and Forever More"
-slug: "revit_2012_guids"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "0571_revit_2012_guids.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0571_revit_2012_guids.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.194203'
+original_url: https://thebuildingcoder.typepad.com/blog/0571_revit_2012_guids.html
+post_number: '0571'
+reading_time_minutes: 5
+series: general
+slug: revit_2012_guids
+source_file: 0571_revit_2012_guids.htm
+tags:
+- csharp
+- revit-api
+- windows
+title: Product GUIDs for Revit 2012 and Forever More
+word_count: 986
 ---
 
 ### Product GUIDs for Revit 2012 and Forever More

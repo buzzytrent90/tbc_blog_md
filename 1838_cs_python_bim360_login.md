@@ -1,11 +1,28 @@
 ---
-post_number: "1838"
-title: "Cs Python Bim360 Login"
-slug: "cs_python_bim360_login"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'references', 'revit-api', 'selection', 'sheets', 'vbnet', 'views', 'windows']
-source_file: "1838_cs_python_bim360_login.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1838_cs_python_bim360_login.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.861065'
+original_url: https://thebuildingcoder.typepad.com/blog/1838_cs_python_bim360_login.html
+post_number: '1838'
+reading_time_minutes: 7
+series: general
+slug: cs_python_bim360_login
+source_file: 1838_cs_python_bim360_login.md
+tags:
+- csharp
+- geometry
+- python
+- references
+- revit-api
+- selection
+- sheets
+- vbnet
+- views
+- windows
+title: Cs Python Bim360 Login
+word_count: 1380
 ---
 
 ### 2021 Migration, Add-In Language, BIM360 Research

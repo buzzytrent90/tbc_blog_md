@@ -1,11 +1,32 @@
 ---
-post_number: "0906"
-title: "Export Wall Parts Individually to DXF"
-slug: "export_wall_part_dxf"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'schedules', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "0906_export_wall_part_dxf.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0906_export_wall_part_dxf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.858496'
+original_url: https://thebuildingcoder.typepad.com/blog/0906_export_wall_part_dxf.html
+post_number: 0906
+reading_time_minutes: 11
+series: general
+slug: export_wall_part_dxf
+source_file: 0906_export_wall_part_dxf.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Export Wall Parts Individually to DXF
+word_count: 2265
 ---
 
 ﻿

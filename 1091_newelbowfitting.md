@@ -1,11 +1,24 @@
 ---
-post_number: "1091"
-title: "Simpler Rolling Offset Using NewElbowFitting"
-slug: "newelbowfitting"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'references', 'revit-api', 'selection']
-source_file: "1091_newelbowfitting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1091_newelbowfitting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.286651'
+original_url: https://thebuildingcoder.typepad.com/blog/1091_newelbowfitting.html
+post_number: '1091'
+reading_time_minutes: 4
+series: general
+slug: newelbowfitting
+source_file: 1091_newelbowfitting.htm
+tags:
+- csharp
+- family
+- parameters
+- references
+- revit-api
+- selection
+title: Simpler Rolling Offset Using NewElbowFitting
+word_count: 762
 ---
 
 ### Simpler Rolling Offset Using NewElbowFitting

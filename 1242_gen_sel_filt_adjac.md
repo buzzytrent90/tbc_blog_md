@@ -1,11 +1,29 @@
 ---
-post_number: "1242"
-title: "Selection Filters, Adjacency and the Good Universe"
-slug: "gen_sel_filt_adjac"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'python', 'references', 'revit-api', 'rooms', 'selection', 'views', 'walls']
-source_file: "1242_gen_sel_filt_adjac.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1242_gen_sel_filt_adjac.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.590119'
+original_url: https://thebuildingcoder.typepad.com/blog/1242_gen_sel_filt_adjac.html
+post_number: '1242'
+reading_time_minutes: 4
+series: general
+slug: gen_sel_filt_adjac
+source_file: 1242_gen_sel_filt_adjac.htm
+tags:
+- elements
+- family
+- filtering
+- levels
+- python
+- references
+- revit-api
+- rooms
+- selection
+- views
+- walls
+title: Selection Filters, Adjacency and the Good Universe
+word_count: 805
 ---
 
 ### Selection Filters, Adjacency and the Good Universe

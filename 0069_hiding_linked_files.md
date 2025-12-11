@@ -1,11 +1,23 @@
 ---
-post_number: "0069"
-title: "Hiding Linked Files"
-slug: "hiding_linked_files"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'views']
-source_file: "0069_hiding_linked_files.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0069_hiding_linked_files.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.311303'
+original_url: https://thebuildingcoder.typepad.com/blog/0069_hiding_linked_files.html
+post_number: 0069
+reading_time_minutes: 3
+series: general
+slug: hiding_linked_files
+source_file: 0069_hiding_linked_files.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- views
+title: Hiding Linked Files
+word_count: 614
 ---
 
 ### Hiding Linked Files

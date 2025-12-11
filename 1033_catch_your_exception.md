@@ -1,11 +1,25 @@
 ---
-post_number: "1033"
-title: "Handle Your Own Exceptions"
-slug: "catch_your_exception"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "1033_catch_your_exception.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1033_catch_your_exception.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.162940'
+original_url: https://thebuildingcoder.typepad.com/blog/1033_catch_your_exception.html
+post_number: '1033'
+reading_time_minutes: 3
+series: general
+slug: catch_your_exception
+source_file: 1033_catch_your_exception.htm
+tags:
+- elements
+- references
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Handle Your Own Exceptions
+word_count: 699
 ---
 
 ### Handle Your Own Exceptions

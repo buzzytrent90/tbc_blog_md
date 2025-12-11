@@ -1,11 +1,28 @@
 ---
-post_number: "0834"
-title: "Create Dimension between Two Lines"
-slug: "create_dimension"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'references', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0834_create_dimension.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0834_create_dimension.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.699006'
+original_url: https://thebuildingcoder.typepad.com/blog/0834_create_dimension.html
+post_number: 0834
+reading_time_minutes: 5
+series: general
+slug: create_dimension
+source_file: 0834_create_dimension.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- references
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Create Dimension between Two Lines
+word_count: 933
 ---
 
 ﻿

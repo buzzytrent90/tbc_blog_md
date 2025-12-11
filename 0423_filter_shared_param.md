@@ -1,11 +1,26 @@
 ---
-post_number: "0423"
-title: "ElementParameterFilter with a Shared Parameter"
-slug: "filter_shared_param"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'python', 'revit-api', 'rooms', 'selection', 'walls']
-source_file: "0423_filter_shared_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0423_filter_shared_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.923987'
+original_url: https://thebuildingcoder.typepad.com/blog/0423_filter_shared_param.html
+post_number: '0423'
+reading_time_minutes: 2
+series: filtering
+slug: filter_shared_param
+source_file: 0423_filter_shared_param.htm
+tags:
+- elements
+- filtering
+- parameters
+- python
+- revit-api
+- rooms
+- selection
+- walls
+title: ElementParameterFilter with a Shared Parameter
+word_count: 473
 ---
 
 ### ElementParameterFilter with a Shared Parameter

@@ -1,11 +1,26 @@
 ---
-post_number: "1176"
-title: "Referenced Files as a Service"
-slug: "extern_resource_serv"
-author: "Jeremy Tammik"
-tags: ['doors', 'parameters', 'references', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "1176_extern_resource_serv.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1176_extern_resource_serv.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.458010'
+original_url: https://thebuildingcoder.typepad.com/blog/1176_extern_resource_serv.html
+post_number: '1176'
+reading_time_minutes: 12
+series: general
+slug: extern_resource_serv
+source_file: 1176_extern_resource_serv.htm
+tags:
+- doors
+- parameters
+- references
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: Referenced Files as a Service
+word_count: 2352
 ---
 
 ### Referenced Files as a Service

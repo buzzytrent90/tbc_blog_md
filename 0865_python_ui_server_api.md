@@ -1,11 +1,25 @@
 ---
-post_number: "0865"
-title: "AU Classes on Python, UI, Server and Framework APIs"
-slug: "python_ui_server_api"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0865_python_ui_server_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0865_python_ui_server_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.758726'
+original_url: https://thebuildingcoder.typepad.com/blog/0865_python_ui_server_api.html
+post_number: 0865
+reading_time_minutes: 5
+series: general
+slug: python_ui_server_api
+source_file: 0865_python_ui_server_api.htm
+tags:
+- elements
+- python
+- references
+- revit-api
+- transactions
+- views
+- windows
+title: AU Classes on Python, UI, Server and Framework APIs
+word_count: 1049
 ---
 
 ### AU Classes on Python, UI, Server and Framework APIs

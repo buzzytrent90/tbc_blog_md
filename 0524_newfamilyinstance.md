@@ -1,11 +1,24 @@
 ---
-post_number: "0524"
-title: "NewFamilyInstance Overloads"
-slug: "newfamilyinstance"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'parameters', 'revit-api']
-source_file: "0524_newfamilyinstance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0524_newfamilyinstance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.102073'
+original_url: https://thebuildingcoder.typepad.com/blog/0524_newfamilyinstance.html
+post_number: '0524'
+reading_time_minutes: 3
+series: elements
+slug: newfamilyinstance
+source_file: 0524_newfamilyinstance.htm
+tags:
+- csharp
+- doors
+- family
+- parameters
+- revit-api
+- elements
+title: NewFamilyInstance Overloads
+word_count: 535
 ---
 
 ### NewFamilyInstance Overloads

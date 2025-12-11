@@ -1,11 +1,25 @@
 ---
-post_number: "1506"
-title: "Need For Regen"
-slug: "need_for_regen"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'python', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1506_need_for_regen.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1506_need_for_regen.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.180569'
+original_url: https://thebuildingcoder.typepad.com/blog/1506_need_for_regen.html
+post_number: '1506'
+reading_time_minutes: 6
+series: general
+slug: need_for_regen
+source_file: 1506_need_for_regen.md
+tags:
+- elements
+- parameters
+- python
+- revit-api
+- sheets
+- transactions
+- views
+title: Need For Regen
+word_count: 1135
 ---
 
 ### Need for Regen and Duplicate Parameter Access

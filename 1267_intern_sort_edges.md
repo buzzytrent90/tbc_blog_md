@@ -1,11 +1,21 @@
 ---
-post_number: "1267"
-title: "Autodesk Internship in California and Sorting Edges"
-slug: "intern_sort_edges"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'rooms']
-source_file: "1267_intern_sort_edges.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1267_intern_sort_edges.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.639609'
+original_url: https://thebuildingcoder.typepad.com/blog/1267_intern_sort_edges.html
+post_number: '1267'
+reading_time_minutes: 3
+series: general
+slug: intern_sort_edges
+source_file: 1267_intern_sort_edges.htm
+tags:
+- elements
+- revit-api
+- rooms
+title: Autodesk Internship in California and Sorting Edges
+word_count: 561
 ---
 
 ### Autodesk Internship in California and Sorting Edges

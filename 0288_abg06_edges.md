@@ -1,11 +1,23 @@
 ---
-post_number: "0288"
-title: "Face Edges"
-slug: "abg06_edges"
-author: "Jeremy Tammik"
-tags: ['geometry', 'levels', 'parameters', 'references', 'revit-api']
-source_file: "0288_abg06_edges.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0288_abg06_edges.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.685284'
+original_url: https://thebuildingcoder.typepad.com/blog/0288_abg06_edges.html
+post_number: 0288
+reading_time_minutes: 2
+series: general
+slug: abg06_edges
+source_file: 0288_abg06_edges.htm
+tags:
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+title: Face Edges
+word_count: 345
 ---
 
 ### Face Edges

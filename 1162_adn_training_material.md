@@ -1,11 +1,22 @@
 ---
-post_number: "1162"
-title: "ADN Revit 2015 API Training Material"
-slug: "adn_training_material"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'views']
-source_file: "1162_adn_training_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1162_adn_training_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: news
+optimization_date: '2025-12-11T11:44:15.429110'
+original_url: https://thebuildingcoder.typepad.com/blog/1162_adn_training_material.html
+post_number: '1162'
+reading_time_minutes: 1
+series: materials
+slug: adn_training_material
+source_file: 1162_adn_training_material.htm
+tags:
+- revit-api
+- rooms
+- views
+- materials
+title: ADN Revit 2015 API Training Material
+word_count: 231
 ---
 
 ### ADN Revit 2015 API Training Material

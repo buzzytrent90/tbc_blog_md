@@ -1,11 +1,23 @@
 ---
-post_number: "0618"
-title: "Translate Revit Tooltips"
-slug: "translate_tooltips"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions', 'windows']
-source_file: "0618_translate_tooltips.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0618_translate_tooltips.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.275033'
+original_url: https://thebuildingcoder.typepad.com/blog/0618_translate_tooltips.html
+post_number: 0618
+reading_time_minutes: 5
+series: general
+slug: translate_tooltips
+source_file: 0618_translate_tooltips.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+- windows
+title: Translate Revit Tooltips
+word_count: 954
 ---
 
 ### Translate Revit Tooltips

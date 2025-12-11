@@ -1,11 +1,26 @@
 ---
-post_number: "1908"
-title: "Forgetypeid"
-slug: "forgetypeid"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'parameters', 'python', 'revit-api', 'rooms', 'sheets', 'walls']
-source_file: "1908_forgetypeid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1908_forgetypeid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.019623'
+original_url: https://thebuildingcoder.typepad.com/blog/1908_forgetypeid.html
+post_number: '1908'
+reading_time_minutes: 5
+series: elements
+slug: forgetypeid
+source_file: 1908_forgetypeid.md
+tags:
+- doors
+- elements
+- parameters
+- python
+- revit-api
+- rooms
+- sheets
+- walls
+title: Forgetypeid
+word_count: 958
 ---
 
 ### ForgeTypeId and Units Revisited

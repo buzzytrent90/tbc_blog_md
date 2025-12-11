@@ -1,11 +1,24 @@
 ---
-post_number: "0269"
-title: "Vertical Projection of Beam Analytical Model"
-slug: "vertical_projection"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'schedules', 'views']
-source_file: "0269_vertical_projection.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0269_vertical_projection.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.652088'
+original_url: https://thebuildingcoder.typepad.com/blog/0269_vertical_projection.html
+post_number: 0269
+reading_time_minutes: 3
+series: views
+slug: vertical_projection
+source_file: 0269_vertical_projection.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- schedules
+- views
+title: Vertical Projection of Beam Analytical Model
+word_count: 548
 ---
 
 ### Vertical Projection of Beam Analytical Model

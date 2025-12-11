@@ -1,11 +1,19 @@
 ---
-post_number: "0993"
-title: "The Revit Server REST API"
-slug: "revit_server_rest_api"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0993_revit_server_rest_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0993_revit_server_rest_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.075311'
+original_url: https://thebuildingcoder.typepad.com/blog/0993_revit_server_rest_api.html
+post_number: 0993
+reading_time_minutes: 3
+series: general
+slug: revit_server_rest_api
+source_file: 0993_revit_server_rest_api.htm
+tags:
+- revit-api
+title: The Revit Server REST API
+word_count: 690
 ---
 
 ### The Revit Server REST API

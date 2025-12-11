@@ -1,11 +1,22 @@
 ---
-post_number: "0145"
-title: "Core Structural Layer"
-slug: "core_structural_layer"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'walls']
-source_file: "0145_core_structural_layer.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0145_core_structural_layer.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.439576'
+original_url: https://thebuildingcoder.typepad.com/blog/0145_core_structural_layer.html
+post_number: '0145'
+reading_time_minutes: 1
+series: structural
+slug: core_structural_layer
+source_file: 0145_core_structural_layer.htm
+tags:
+- elements
+- revit-api
+- walls
+- structural
+title: Core Structural Layer
+word_count: 194
 ---
 
 ### Core Structural Layer

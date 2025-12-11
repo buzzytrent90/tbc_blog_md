@@ -1,11 +1,30 @@
 ---
-post_number: "2054"
-title: "Boolean Alternative"
-slug: "boolean_alternative"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "2054_boolean_alternative.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2054_boolean_alternative.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.376108'
+original_url: https://thebuildingcoder.typepad.com/blog/2054_boolean_alternative.html
+post_number: '2054'
+reading_time_minutes: 5
+series: general
+slug: boolean_alternative
+source_file: 2054_boolean_alternative.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Boolean Alternative
+word_count: 1089
 ---
 
 ### Solid Boolean Operation Alternatives

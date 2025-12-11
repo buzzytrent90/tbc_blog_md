@@ -1,11 +1,30 @@
 ---
-post_number: "1423"
-title: "Wall Opening Areas"
-slug: "wall_opening_areas"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1423_wall_opening_areas.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1423_wall_opening_areas.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.985252'
+original_url: https://thebuildingcoder.typepad.com/blog/1423_wall_opening_areas.html
+post_number: '1423'
+reading_time_minutes: 11
+series: general
+slug: wall_opening_areas
+source_file: 1423_wall_opening_areas.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Wall Opening Areas
+word_count: 2115
 ---
 
 ### Determining Wall Opening Areas per Room

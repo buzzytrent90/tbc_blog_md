@@ -1,11 +1,24 @@
 ---
-post_number: "0486"
-title: "Ray Tracing to Place Family Instance"
-slug: "ray_trace_place_inst"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'references', 'revit-api', 'views']
-source_file: "0486_ray_trace_place_inst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0486_ray_trace_place_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.032590'
+original_url: https://thebuildingcoder.typepad.com/blog/0486_ray_trace_place_inst.html
+post_number: 0486
+reading_time_minutes: 2
+series: general
+slug: ray_trace_place_inst
+source_file: 0486_ray_trace_place_inst.htm
+tags:
+- elements
+- family
+- filtering
+- references
+- revit-api
+- views
+title: Ray Tracing to Place Family Instance
+word_count: 427
 ---
 
 ### Ray Tracing to Place Family Instance

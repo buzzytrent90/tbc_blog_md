@@ -1,11 +1,27 @@
 ---
-post_number: "1007"
-title: "Determining Maximal Flow in HVAC Duct Connectors"
-slug: "determine_max_flow"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'transactions']
-source_file: "1007_determine_max_flow.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1007_determine_max_flow.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.106687'
+original_url: https://thebuildingcoder.typepad.com/blog/1007_determine_max_flow.html
+post_number: '1007'
+reading_time_minutes: 5
+series: general
+slug: determine_max_flow
+source_file: 1007_determine_max_flow.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- transactions
+title: Determining Maximal Flow in HVAC Duct Connectors
+word_count: 1093
 ---
 
 ### Determining Maximal Flow in HVAC Duct Connectors

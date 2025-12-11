@@ -1,11 +1,23 @@
 ---
-post_number: "1189"
-title: "Autodesk Exchange Apps Hackathon"
-slug: "hackathon"
-author: "Jeremy Tammik"
-tags: ['doors', 'references', 'revit-api', 'schedules', 'views']
-source_file: "1189_hackathon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1189_hackathon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.480322'
+original_url: https://thebuildingcoder.typepad.com/blog/1189_hackathon.html
+post_number: '1189'
+reading_time_minutes: 5
+series: general
+slug: hackathon
+source_file: 1189_hackathon.htm
+tags:
+- doors
+- references
+- revit-api
+- schedules
+- views
+title: Autodesk Exchange Apps Hackathon
+word_count: 1071
 ---
 
 ### Autodesk Exchange Apps Hackathon

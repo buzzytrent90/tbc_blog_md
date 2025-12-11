@@ -1,11 +1,30 @@
 ---
-post_number: "2050"
-title: "Modeless"
-slug: "modeless"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "2050_modeless.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2050_modeless.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.364302'
+original_url: https://thebuildingcoder.typepad.com/blog/2050_modeless.html
+post_number: '2050'
+reading_time_minutes: 7
+series: general
+slug: modeless
+source_file: 2050_modeless.md
+tags:
+- doors
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Modeless
+word_count: 1308
 ---
 
 ### Modeless Add-Ins and PDF Printing Speed

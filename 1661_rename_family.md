@@ -1,11 +1,27 @@
 ---
-post_number: "1661"
-title: "Rename Family"
-slug: "rename_family"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'python', 'revit-api', 'sheets', 'vbnet', 'views']
-source_file: "1661_rename_family.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1661_rename_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.483382'
+original_url: https://thebuildingcoder.typepad.com/blog/1661_rename_family.html
+post_number: '1661'
+reading_time_minutes: 10
+series: family
+slug: rename_family
+source_file: 1661_rename_family.md
+tags:
+- csharp
+- elements
+- family
+- levels
+- python
+- revit-api
+- sheets
+- vbnet
+- views
+title: Rename Family
+word_count: 2015
 ---
 
 ### Renaming a Family in a Project

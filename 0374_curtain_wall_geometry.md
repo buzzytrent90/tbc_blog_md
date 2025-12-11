@@ -1,11 +1,29 @@
 ---
-post_number: "0374"
-title: "Curtain Wall Geometry"
-slug: "curtain_wall_geometry"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0374_curtain_wall_geometry.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0374_curtain_wall_geometry.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.839487'
+original_url: https://thebuildingcoder.typepad.com/blog/0374_curtain_wall_geometry.html
+post_number: '0374'
+reading_time_minutes: 8
+series: geometry
+slug: curtain_wall_geometry
+source_file: 0374_curtain_wall_geometry.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- transactions
+- views
+- walls
+title: Curtain Wall Geometry
+word_count: 1671
 ---
 
 ### Curtain Wall Geometry

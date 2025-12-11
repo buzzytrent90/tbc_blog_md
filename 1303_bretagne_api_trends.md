@@ -1,11 +1,26 @@
 ---
-post_number: "1303"
-title: "Revit API Trends and Team Meeting in Bretagne"
-slug: "bretagne_api_trends"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1303_bretagne_api_trends.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1303_bretagne_api_trends.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.723208'
+original_url: https://thebuildingcoder.typepad.com/blog/1303_bretagne_api_trends.html
+post_number: '1303'
+reading_time_minutes: 7
+series: general
+slug: bretagne_api_trends
+source_file: 1303_bretagne_api_trends.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- sheets
+- views
+- walls
+title: Revit API Trends and Team Meeting in Bretagne
+word_count: 1460
 ---
 
 ### Revit API Trends and Team Meeting in Bretagne

@@ -1,11 +1,29 @@
 ---
-post_number: "1954"
-title: "Batch Snip Selfsign"
-slug: "batch_snip_selfsign"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1954_batch_snip_selfsign.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1954_batch_snip_selfsign.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.122841'
+original_url: https://thebuildingcoder.typepad.com/blog/1954_batch_snip_selfsign.html
+post_number: '1954'
+reading_time_minutes: 12
+series: general
+slug: batch_snip_selfsign
+source_file: 1954_batch_snip_selfsign.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Batch Snip Selfsign
+word_count: 2440
 ---
 
 ### Parameters, Snippets, Batch Mode and Self-Signing

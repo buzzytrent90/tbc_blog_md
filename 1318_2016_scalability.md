@@ -1,11 +1,30 @@
 ---
-post_number: "1318"
-title: "CopyElements, Revit 2016 Scalability, Python and Ruby"
-slug: "2016_scalability"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1318_2016_scalability.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1318_2016_scalability.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.758876'
+original_url: https://thebuildingcoder.typepad.com/blog/1318_2016_scalability.html
+post_number: '1318'
+reading_time_minutes: 7
+series: general
+slug: 2016_scalability
+source_file: 1318_2016_scalability.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- windows
+title: CopyElements, Revit 2016 Scalability, Python and Ruby
+word_count: 1366
 ---
 
 ### CopyElements, Revit 2016 Scalability, Python and Ruby

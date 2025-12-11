@@ -1,11 +1,20 @@
 ---
-post_number: "1300"
-title: "First Cloud Accelerator Success – Second Coming Up"
-slug: "cloud_accelerator_2"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1300_cloud_accelerator_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1300_cloud_accelerator_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:15.714838'
+original_url: https://thebuildingcoder.typepad.com/blog/1300_cloud_accelerator_2.html
+post_number: '1300'
+reading_time_minutes: 2
+series: general
+slug: cloud_accelerator_2
+source_file: 1300_cloud_accelerator_2.htm
+tags:
+- revit-api
+- views
+title: "First Cloud Accelerator Success \u2013 Second Coming Up"
+word_count: 354
 ---
 
 ### First Cloud Accelerator Success – Second Coming Up

@@ -1,11 +1,29 @@
 ---
-post_number: "2027"
-title: "Refresh"
-slug: "refresh"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views']
-source_file: "2027_refresh.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2027_refresh.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.307500'
+original_url: https://thebuildingcoder.typepad.com/blog/2027_refresh.html
+post_number: '2027'
+reading_time_minutes: 7
+series: general
+slug: refresh
+source_file: 2027_refresh.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+title: Refresh
+word_count: 1413
 ---
 
 ### Refresh Graphics, Start View and Excel

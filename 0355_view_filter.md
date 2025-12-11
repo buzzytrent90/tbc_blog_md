@@ -1,11 +1,25 @@
 ---
-post_number: "0355"
-title: "Filter for Views and the IsTemplate Predicate"
-slug: "view_filter"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'sheets', 'views']
-source_file: "0355_view_filter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0355_view_filter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.799363'
+original_url: https://thebuildingcoder.typepad.com/blog/0355_view_filter.html
+post_number: '0355'
+reading_time_minutes: 4
+series: filtering
+slug: view_filter
+source_file: 0355_view_filter.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- sheets
+- views
+title: Filter for Views and the IsTemplate Predicate
+word_count: 743
 ---
 
 ### Filter for Views and the IsTemplate Predicate

@@ -1,11 +1,31 @@
 ---
-post_number: "1985"
-title: "Refinters Link"
-slug: "refinters_link"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1985_refinters_link.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1985_refinters_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.195143'
+original_url: https://thebuildingcoder.typepad.com/blog/1985_refinters_link.html
+post_number: '1985'
+reading_time_minutes: 21
+series: general
+slug: refinters_link
+source_file: 1985_refinters_link.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+- walls
+title: Refinters Link
+word_count: 4245
 ---
 
 ### IFC, Dimension and Reference Intersector with Links

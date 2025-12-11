@@ -1,11 +1,25 @@
 ---
-post_number: "0878"
-title: "URL and Other Buttons, XYZ Points and Vectors"
-slug: "button_cmd_url_xyz"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'views', 'windows']
-source_file: "0878_button_cmd_url_xyz.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0878_button_cmd_url_xyz.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.785695'
+original_url: https://thebuildingcoder.typepad.com/blog/0878_button_cmd_url_xyz.html
+post_number: 0878
+reading_time_minutes: 8
+series: geometry
+slug: button_cmd_url_xyz
+source_file: 0878_button_cmd_url_xyz.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- views
+- windows
+- geometry
+title: URL and Other Buttons, XYZ Points and Vectors
+word_count: 1512
 ---
 
 ### URL and Other Buttons, XYZ Points and Vectors

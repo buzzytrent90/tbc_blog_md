@@ -1,11 +1,24 @@
 ---
-post_number: "0097"
-title: "List Railing Types"
-slug: "list_railing_types"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'python', 'revit-api']
-source_file: "0097_list_railing_types.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0097_list_railing_types.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.353494'
+original_url: https://thebuildingcoder.typepad.com/blog/0097_list_railing_types.html
+post_number: 0097
+reading_time_minutes: 3
+series: elements
+slug: list_railing_types
+source_file: 0097_list_railing_types.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- python
+- revit-api
+title: List Railing Types
+word_count: 606
 ---
 
 ### List Railing Types

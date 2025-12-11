@@ -1,11 +1,23 @@
 ---
-post_number: "0678"
-title: "Read-only Workset API"
-slug: "workset_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api']
-source_file: "0678_workset_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0678_workset_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.382735'
+original_url: https://thebuildingcoder.typepad.com/blog/0678_workset_api.html
+post_number: 0678
+reading_time_minutes: 2
+series: general
+slug: workset_api
+source_file: 0678_workset_api.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+title: Read-only Workset API
+word_count: 394
 ---
 
 ### Read-only Workset API

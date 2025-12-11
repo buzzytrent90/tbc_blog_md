@@ -1,11 +1,20 @@
 ---
-post_number: "0143"
-title: "New Material"
-slug: "new_material"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0143_new_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0143_new_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.436612'
+original_url: https://thebuildingcoder.typepad.com/blog/0143_new_material.html
+post_number: '0143'
+reading_time_minutes: 1
+series: materials
+slug: new_material
+source_file: 0143_new_material.htm
+tags:
+- revit-api
+- materials
+title: New Material
+word_count: 205
 ---
 
 ### New Material

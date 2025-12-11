@@ -1,11 +1,28 @@
 ---
-post_number: "0395"
-title: "Set Tag Type"
-slug: "set_tag_type"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "0395_set_tag_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0395_set_tag_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.877072'
+original_url: https://thebuildingcoder.typepad.com/blog/0395_set_tag_type.html
+post_number: 0395
+reading_time_minutes: 7
+series: elements
+slug: set_tag_type
+source_file: 0395_set_tag_type.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- views
+- walls
+title: Set Tag Type
+word_count: 1305
 ---
 
 ### Set Tag Type

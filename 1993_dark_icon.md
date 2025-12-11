@@ -1,11 +1,23 @@
 ---
-post_number: "1993"
-title: "Dark Icon"
-slug: "dark_icon"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'levels', 'revit-api', 'sheets']
-source_file: "1993_dark_icon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1993_dark_icon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.221748'
+original_url: https://thebuildingcoder.typepad.com/blog/1993_dark_icon.html
+post_number: '1993'
+reading_time_minutes: 8
+series: general
+slug: dark_icon
+source_file: 1993_dark_icon.md
+tags:
+- csharp
+- family
+- levels
+- revit-api
+- sheets
+title: Dark Icon
+word_count: 1599
 ---
 
 ### Dark Icons, NewFamilyInstance and AI News

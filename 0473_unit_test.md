@@ -1,11 +1,21 @@
 ---
-post_number: "0473"
-title: "Unit Testing in Revit"
-slug: "unit_test"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api', 'views']
-source_file: "0473_unit_test.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0473_unit_test.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.007704'
+original_url: https://thebuildingcoder.typepad.com/blog/0473_unit_test.html
+post_number: '0473'
+reading_time_minutes: 1
+series: general
+slug: unit_test
+source_file: 0473_unit_test.htm
+tags:
+- python
+- revit-api
+- views
+title: Unit Testing in Revit
+word_count: 86
 ---
 
 ### Unit Testing in Revit

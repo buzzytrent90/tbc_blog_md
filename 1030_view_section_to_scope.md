@@ -1,11 +1,27 @@
 ---
-post_number: "1030"
-title: "Set View Section Box to Match Scope Box Updated for Revit 2014"
-slug: "view_section_to_scope"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1030_view_section_to_scope.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1030_view_section_to_scope.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.157383'
+original_url: https://thebuildingcoder.typepad.com/blog/1030_view_section_to_scope.html
+post_number: '1030'
+reading_time_minutes: 5
+series: geometry
+slug: view_section_to_scope
+source_file: 1030_view_section_to_scope.htm
+tags:
+- csharp
+- elements
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Set View Section Box to Match Scope Box Updated for Revit 2014
+word_count: 1008
 ---
 
 ### Set View Section Box to Match Scope Box Updated for Revit 2014

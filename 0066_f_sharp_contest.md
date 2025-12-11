@@ -1,11 +1,19 @@
 ---
-post_number: "0066"
-title: "F# Programming Contest"
-slug: "f_sharp_contest"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0066_f_sharp_contest.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0066_f_sharp_contest.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.306840'
+original_url: https://thebuildingcoder.typepad.com/blog/0066_f_sharp_contest.html
+post_number: '0066'
+reading_time_minutes: 1
+series: general
+slug: f_sharp_contest
+source_file: 0066_f_sharp_contest.htm
+tags:
+- revit-api
+title: F# Programming Contest
+word_count: 116
 ---
 
 ### F# Programming Contest

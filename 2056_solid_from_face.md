@@ -1,11 +1,28 @@
 ---
-post_number: "2056"
-title: "Solid From Face"
-slug: "solid_from_face"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "2056_solid_from_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2056_solid_from_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.379524'
+original_url: https://thebuildingcoder.typepad.com/blog/2056_solid_from_face.html
+post_number: '2056'
+reading_time_minutes: 4
+series: general
+slug: solid_from_face
+source_file: 2056_solid_from_face.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+title: Solid From Face
+word_count: 852
 ---
 
 ### Join Beams and Solid from Face

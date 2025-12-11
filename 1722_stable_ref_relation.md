@@ -1,11 +1,23 @@
 ---
-post_number: "1722"
-title: "Stable Ref Relation"
-slug: "stable_ref_relation"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'walls']
-source_file: "1722_stable_ref_relation.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1722_stable_ref_relation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.606522'
+original_url: https://thebuildingcoder.typepad.com/blog/1722_stable_ref_relation.html
+post_number: '1722'
+reading_time_minutes: 3
+series: general
+slug: stable_ref_relation
+source_file: 1722_stable_ref_relation.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- walls
+title: Stable Ref Relation
+word_count: 636
 ---
 
 ### Stable Reference Relationships

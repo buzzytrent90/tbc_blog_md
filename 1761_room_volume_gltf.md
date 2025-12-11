@@ -1,11 +1,23 @@
 ---
-post_number: "1761"
-title: "Room Volume Gltf"
-slug: "room_volume_gltf"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1761_room_volume_gltf.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1761_room_volume_gltf.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.692784'
+original_url: https://thebuildingcoder.typepad.com/blog/1761_room_volume_gltf.html
+post_number: '1761'
+reading_time_minutes: 1
+series: general
+slug: room_volume_gltf
+source_file: 1761_room_volume_gltf.md
+tags:
+- elements
+- revit-api
+- rooms
+- sheets
+- views
+title: Room Volume Gltf
+word_count: 273
 ---
 
 ### Room Volume glTF Generator

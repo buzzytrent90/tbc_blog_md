@@ -1,11 +1,22 @@
 ---
-post_number: "0055"
-title: "3D Polygon Areas"
-slug: "3d_polygon_area"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'walls', 'windows']
-source_file: "0055_3d_polygon_area.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0055_3d_polygon_area.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.294800'
+original_url: https://thebuildingcoder.typepad.com/blog/0055_3d_polygon_area.html
+post_number: '0055'
+reading_time_minutes: 6
+series: general
+slug: 3d_polygon_area
+source_file: 0055_3d_polygon_area.htm
+tags:
+- csharp
+- revit-api
+- walls
+- windows
+title: 3D Polygon Areas
+word_count: 1119
 ---
 
 ### 3D Polygon Areas

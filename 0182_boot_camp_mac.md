@@ -1,11 +1,20 @@
 ---
-post_number: "0182"
-title: "Revit Boot Camp on Mac"
-slug: "boot_camp_mac"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'windows']
-source_file: "0182_boot_camp_mac.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0182_boot_camp_mac.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.503061'
+original_url: https://thebuildingcoder.typepad.com/blog/0182_boot_camp_mac.html
+post_number: 0182
+reading_time_minutes: 1
+series: general
+slug: boot_camp_mac
+source_file: 0182_boot_camp_mac.htm
+tags:
+- revit-api
+- windows
+title: Revit Boot Camp on Mac
+word_count: 123
 ---
 
 ### Revit Boot Camp on Mac

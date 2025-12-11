@@ -1,11 +1,25 @@
 ---
-post_number: "0899"
-title: "Retrieving Schedules on a Sheet"
-slug: "schedules_on_sheet"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "0899_schedules_on_sheet.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0899_schedules_on_sheet.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.823381'
+original_url: https://thebuildingcoder.typepad.com/blog/0899_schedules_on_sheet.html
+post_number: 0899
+reading_time_minutes: 2
+series: views
+slug: schedules_on_sheet
+source_file: 0899_schedules_on_sheet.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- schedules
+- sheets
+- views
+title: Retrieving Schedules on a Sheet
+word_count: 463
 ---
 
 ### Retrieving Schedules on a Sheet

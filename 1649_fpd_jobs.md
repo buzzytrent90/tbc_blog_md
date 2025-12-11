@@ -1,11 +1,21 @@
 ---
-post_number: "1649"
-title: "Fpd Jobs"
-slug: "fpd_jobs"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views']
-source_file: "1649_fpd_jobs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1649_fpd_jobs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: news
+optimization_date: '2025-12-11T11:44:16.459179'
+original_url: https://thebuildingcoder.typepad.com/blog/1649_fpd_jobs.html
+post_number: '1649'
+reading_time_minutes: 4
+series: general
+slug: fpd_jobs
+source_file: 1649_fpd_jobs.md
+tags:
+- revit-api
+- sheets
+- views
+title: Fpd Jobs
+word_count: 700
 ---
 
 ### New Opportunities in the Forge Evangelist Team

@@ -1,11 +1,27 @@
 ---
-post_number: "1778"
-title: "Cylinder Inters"
-slug: "cylinder_inters"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1778_cylinder_inters.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1778_cylinder_inters.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.727572'
+original_url: https://thebuildingcoder.typepad.com/blog/1778_cylinder_inters.html
+post_number: '1778'
+reading_time_minutes: 7
+series: general
+slug: cylinder_inters
+source_file: 1778_cylinder_inters.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Cylinder Inters
+word_count: 1485
 ---
 
 ### Cylinder Intersection and Vision of Online Assets

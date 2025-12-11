@@ -1,11 +1,23 @@
 ---
-post_number: "0162"
-title: "RVT and RFA Thumbnail Image"
-slug: "rfa_thumbnail"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'revit-api', 'views', 'windows']
-source_file: "0162_rfa_thumbnail.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0162_rfa_thumbnail.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.465492'
+original_url: https://thebuildingcoder.typepad.com/blog/0162_rfa_thumbnail.html
+post_number: '0162'
+reading_time_minutes: 2
+series: family
+slug: rfa_thumbnail
+source_file: 0162_rfa_thumbnail.htm
+tags:
+- csharp
+- family
+- revit-api
+- views
+- windows
+title: RVT and RFA Thumbnail Image
+word_count: 377
 ---
 
 ### RVT and RFA Thumbnail Image

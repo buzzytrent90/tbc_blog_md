@@ -1,11 +1,26 @@
 ---
-post_number: "1508"
-title: "Forge Py Script Ifc"
-slug: "forge_py_script_ifc"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1508_forge_py_script_ifc.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1508_forge_py_script_ifc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.184097'
+original_url: https://thebuildingcoder.typepad.com/blog/1508_forge_py_script_ifc.html
+post_number: '1508'
+reading_time_minutes: 7
+series: general
+slug: forge_py_script_ifc
+source_file: 1508_forge_py_script_ifc.md
+tags:
+- elements
+- geometry
+- levels
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Forge Py Script Ifc
+word_count: 1402
 ---
 
 ### Forge Formats Python Script and IFC Open Shell

@@ -1,11 +1,25 @@
 ---
-post_number: "0937"
-title: "Compiling the Revit 2014 SDK"
-slug: "compile_2014_sdk"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'selection', 'sheets', 'vbnet', 'views']
-source_file: "0937_compile_2014_sdk.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0937_compile_2014_sdk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.934922'
+original_url: https://thebuildingcoder.typepad.com/blog/0937_compile_2014_sdk.html
+post_number: 0937
+reading_time_minutes: 6
+series: general
+slug: compile_2014_sdk
+source_file: 0937_compile_2014_sdk.htm
+tags:
+- elements
+- references
+- revit-api
+- selection
+- sheets
+- vbnet
+- views
+title: Compiling the Revit 2014 SDK
+word_count: 1235
 ---
 
 ### Compiling the Revit 2014 SDK

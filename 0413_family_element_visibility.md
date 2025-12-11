@@ -1,11 +1,24 @@
 ---
-post_number: "0413"
-title: "Family Element Visibility"
-slug: "family_element_visibility"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'revit-api', 'selection']
-source_file: "0413_family_element_visibility.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0413_family_element_visibility.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.908692'
+original_url: https://thebuildingcoder.typepad.com/blog/0413_family_element_visibility.html
+post_number: '0413'
+reading_time_minutes: 2
+series: elements
+slug: family_element_visibility
+source_file: 0413_family_element_visibility.htm
+tags:
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- selection
+title: Family Element Visibility
+word_count: 371
 ---
 
 ### Family Element Visibility

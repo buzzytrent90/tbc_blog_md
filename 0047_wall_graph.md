@@ -1,11 +1,25 @@
 ---
-post_number: "0047"
-title: "Wall Graph"
-slug: "wall_graph"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'selection', 'walls']
-source_file: "0047_wall_graph.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0047_wall_graph.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.283286'
+original_url: https://thebuildingcoder.typepad.com/blog/0047_wall_graph.html
+post_number: '0047'
+reading_time_minutes: 4
+series: general
+slug: wall_graph
+source_file: 0047_wall_graph.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- selection
+- walls
+title: Wall Graph
+word_count: 762
 ---
 
 ### Wall Graph

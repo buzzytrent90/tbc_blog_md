@@ -1,11 +1,28 @@
 ---
-post_number: "0779"
-title: "DevCamp Day Two"
-slug: "devcamp_day_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'python', 'revit-api', 'selection', 'transactions', 'views', 'windows']
-source_file: "0779_devcamp_day_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0779_devcamp_day_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 12.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.575610'
+original_url: https://thebuildingcoder.typepad.com/blog/0779_devcamp_day_2.html
+post_number: 0779
+reading_time_minutes: 13
+series: general
+slug: devcamp_day_2
+source_file: 0779_devcamp_day_2.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- python
+- revit-api
+- selection
+- transactions
+- views
+- windows
+title: DevCamp Day Two
+word_count: 2694
 ---
 
 ### DevCamp Day Two

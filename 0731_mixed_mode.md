@@ -1,11 +1,19 @@
 ---
-post_number: "0731"
-title: "Mixed Mode C++ in Revit 2012"
-slug: "mixed_mode"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0731_mixed_mode.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0731_mixed_mode.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.477184'
+original_url: https://thebuildingcoder.typepad.com/blog/0731_mixed_mode.html
+post_number: '0731'
+reading_time_minutes: 1
+series: general
+slug: mixed_mode
+source_file: 0731_mixed_mode.htm
+tags:
+- revit-api
+title: Mixed Mode C++ in Revit 2012
+word_count: 255
 ---
 
 ### Mixed Mode C++ in Revit 2012

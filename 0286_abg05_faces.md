@@ -1,11 +1,21 @@
 ---
-post_number: "0286"
-title: "Faces"
-slug: "abg05_faces"
-author: "Jeremy Tammik"
-tags: ['geometry', 'parameters', 'revit-api']
-source_file: "0286_abg05_faces.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0286_abg05_faces.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.682009'
+original_url: https://thebuildingcoder.typepad.com/blog/0286_abg05_faces.html
+post_number: 0286
+reading_time_minutes: 6
+series: general
+slug: abg05_faces
+source_file: 0286_abg05_faces.htm
+tags:
+- geometry
+- parameters
+- revit-api
+title: Faces
+word_count: 1193
 ---
 
 ### Faces

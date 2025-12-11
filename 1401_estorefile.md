@@ -1,11 +1,30 @@
 ---
-post_number: "1401"
-title: "Estorefile"
-slug: "estorefile"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1401_estorefile.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1401_estorefile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.942860'
+original_url: https://thebuildingcoder.typepad.com/blog/1401_estorefile.html
+post_number: '1401'
+reading_time_minutes: 11
+series: general
+slug: estorefile
+source_file: 1401_estorefile.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Estorefile
+word_count: 2116
 ---
 
 ### EstoreFile, Group Preview and RoomScheduleCloud

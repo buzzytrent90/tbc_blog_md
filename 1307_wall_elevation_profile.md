@@ -1,11 +1,30 @@
 ---
-post_number: "1307"
-title: "Curved Wall Elevation Profile and Creator Class Update"
-slug: "wall_elevation_profile"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1307_wall_elevation_profile.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1307_wall_elevation_profile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.734413'
+original_url: https://thebuildingcoder.typepad.com/blog/1307_wall_elevation_profile.html
+post_number: '1307'
+reading_time_minutes: 10
+series: general
+slug: wall_elevation_profile
+source_file: 1307_wall_elevation_profile.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Curved Wall Elevation Profile and Creator Class Update
+word_count: 2033
 ---
 
 ### Curved Wall Elevation Profile and Creator Class Update

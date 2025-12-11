@@ -1,11 +1,29 @@
 ---
-post_number: "1793"
-title: "Generating Graphics"
-slug: "generating_graphics"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'views']
-source_file: "1793_generating_graphics.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1793_generating_graphics.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.757584'
+original_url: https://thebuildingcoder.typepad.com/blog/1793_generating_graphics.html
+post_number: '1793'
+reading_time_minutes: 14
+series: general
+slug: generating_graphics
+source_file: 1793_generating_graphics.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+title: Generating Graphics
+word_count: 2838
 ---
 
 ### Generating Graphics and Collecting Assets

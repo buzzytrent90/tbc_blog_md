@@ -1,11 +1,24 @@
 ---
-post_number: "0483"
-title: "Project Vasari API"
-slug: "project_vasari_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'views', 'walls']
-source_file: "0483_project_vasari_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0483_project_vasari_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.025941'
+original_url: https://thebuildingcoder.typepad.com/blog/0483_project_vasari_api.html
+post_number: 0483
+reading_time_minutes: 4
+series: general
+slug: project_vasari_api
+source_file: 0483_project_vasari_api.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- views
+- walls
+title: Project Vasari API
+word_count: 709
 ---
 
 ### Project Vasari API

@@ -1,11 +1,26 @@
 ---
-post_number: "0713"
-title: "Eliminating Compiler Warnings and Deprecated Calls"
-slug: "compiler_warnings"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'references', 'revit-api', 'views', 'walls']
-source_file: "0713_compiler_warnings.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0713_compiler_warnings.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.447828'
+original_url: https://thebuildingcoder.typepad.com/blog/0713_compiler_warnings.html
+post_number: '0713'
+reading_time_minutes: 4
+series: general
+slug: compiler_warnings
+source_file: 0713_compiler_warnings.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- views
+- walls
+title: Eliminating Compiler Warnings and Deprecated Calls
+word_count: 890
 ---
 
 ### Eliminating Compiler Warnings and Deprecated Calls

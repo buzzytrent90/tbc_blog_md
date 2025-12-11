@@ -1,11 +1,23 @@
 ---
-post_number: "0837"
-title: "Detach Workset and Task Dialogue Command Link Order"
-slug: "detach_workset"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api']
-source_file: "0837_detach_workset.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0837_detach_workset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.703918'
+original_url: https://thebuildingcoder.typepad.com/blog/0837_detach_workset.html
+post_number: 0837
+reading_time_minutes: 4
+series: general
+slug: detach_workset
+source_file: 0837_detach_workset.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+title: Detach Workset and Task Dialogue Command Link Order
+word_count: 792
 ---
 
 ﻿

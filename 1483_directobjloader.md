@@ -1,11 +1,23 @@
 ---
-post_number: "1483"
-title: "The Building Coder"
-slug: "directobjloader"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets']
-source_file: "1483_directobjloader.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1483_directobjloader.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.130551'
+original_url: https://thebuildingcoder.typepad.com/blog/1483_directobjloader.html
+post_number: '1483'
+reading_time_minutes: 2
+series: structural
+slug: directobjloader
+source_file: 1483_directobjloader.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- structural
+title: The Building Coder
+word_count: 378
 ---
 
 ### DirectObjLoader for Revit 2017

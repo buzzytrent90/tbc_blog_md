@@ -1,11 +1,28 @@
 ---
-post_number: "1240"
-title: "Rotation by π and NewSweptBlend Using Arcs"
-slug: "newsweptblend_arc"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'revit-api', 'transactions', 'views']
-source_file: "1240_newsweptblend_arc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1240_newsweptblend_arc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.585149'
+original_url: https://thebuildingcoder.typepad.com/blog/1240_newsweptblend_arc.html
+post_number: '1240'
+reading_time_minutes: 8
+series: general
+slug: newsweptblend_arc
+source_file: 1240_newsweptblend_arc.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- revit-api
+- transactions
+- views
+title: "Rotation by \u03C0 and NewSweptBlend Using Arcs"
+word_count: 1550
 ---
 
 ### Rotation by π and NewSweptBlend Using Arcs

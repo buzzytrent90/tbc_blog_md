@@ -1,11 +1,33 @@
 ---
-post_number: "1014"
-title: "Room Neighbours"
-slug: "room_neighbours"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'transactions', 'walls', 'windows']
-source_file: "1014_room_neighbours.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1014_room_neighbours.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.122012'
+original_url: https://thebuildingcoder.typepad.com/blog/1014_room_neighbours.html
+post_number: '1014'
+reading_time_minutes: 11
+series: general
+slug: room_neighbours
+source_file: 1014_room_neighbours.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- walls
+- windows
+title: Room Neighbours
+word_count: 2189
 ---
 
 ### Room Neighbours

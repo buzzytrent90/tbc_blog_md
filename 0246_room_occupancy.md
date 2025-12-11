@@ -1,11 +1,26 @@
 ---
-post_number: "0246"
-title: "Room Occupancy"
-slug: "room_occupancy"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'rooms', 'selection']
-source_file: "0246_room_occupancy.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0246_room_occupancy.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.615778'
+original_url: https://thebuildingcoder.typepad.com/blog/0246_room_occupancy.html
+post_number: '0246'
+reading_time_minutes: 6
+series: general
+slug: room_occupancy
+source_file: 0246_room_occupancy.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- rooms
+- selection
+title: Room Occupancy
+word_count: 1113
 ---
 
 ### Room Occupancy

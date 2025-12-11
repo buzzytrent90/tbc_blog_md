@@ -1,11 +1,28 @@
 ---
-post_number: "1154"
-title: "DirectShape Performance and Minimum Size"
-slug: "directshape_min_size"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'rooms', 'selection', 'transactions', 'windows']
-source_file: "1154_directshape_min_size.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1154_directshape_min_size.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.416094'
+original_url: https://thebuildingcoder.typepad.com/blog/1154_directshape_min_size.html
+post_number: '1154'
+reading_time_minutes: 5
+series: general
+slug: directshape_min_size
+source_file: 1154_directshape_min_size.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- rooms
+- selection
+- transactions
+- windows
+title: DirectShape Performance and Minimum Size
+word_count: 1031
 ---
 
 ### DirectShape Performance and Minimum Size

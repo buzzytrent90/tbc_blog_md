@@ -1,11 +1,24 @@
 ---
-post_number: "1742"
-title: "Asstringvalue Batch"
-slug: "asstringvalue_batch"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "1742_asstringvalue_batch.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1742_asstringvalue_batch.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.651664'
+original_url: https://thebuildingcoder.typepad.com/blog/1742_asstringvalue_batch.html
+post_number: '1742'
+reading_time_minutes: 4
+series: parameters
+slug: asstringvalue_batch
+source_file: 1742_asstringvalue_batch.md
+tags:
+- elements
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+title: Asstringvalue Batch
+word_count: 746
 ---
 
 ### Batch Processing and Aspects of AsStringValue

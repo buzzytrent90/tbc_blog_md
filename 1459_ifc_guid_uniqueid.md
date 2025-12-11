@@ -1,11 +1,23 @@
 ---
-post_number: "1459"
-title: "The Building Coder"
-slug: "ifc_guid_uniqueid"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'sheets']
-source_file: "1459_ifc_guid_uniqueid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1459_ifc_guid_uniqueid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.071097'
+original_url: https://thebuildingcoder.typepad.com/blog/1459_ifc_guid_uniqueid.html
+post_number: '1459'
+reading_time_minutes: 3
+series: general
+slug: ifc_guid_uniqueid
+source_file: 1459_ifc_guid_uniqueid.md
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- sheets
+title: The Building Coder
+word_count: 579
 ---
 
 ### Consistency of IFC GUID and UniqueId

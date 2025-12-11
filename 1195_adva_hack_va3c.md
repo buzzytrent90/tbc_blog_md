@@ -1,11 +1,23 @@
 ---
-post_number: "1195"
-title: "Three.js AEC Viewer Progress on Two Fronts"
-slug: "adva_hack_va3c"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'revit-api', 'views']
-source_file: "1195_adva_hack_va3c.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1195_adva_hack_va3c.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.489469'
+original_url: https://thebuildingcoder.typepad.com/blog/1195_adva_hack_va3c.html
+post_number: '1195'
+reading_time_minutes: 5
+series: general
+slug: adva_hack_va3c
+source_file: 1195_adva_hack_va3c.htm
+tags:
+- elements
+- geometry
+- levels
+- revit-api
+- views
+title: Three.js AEC Viewer Progress on Two Fronts
+word_count: 1032
 ---
 
 ### Three.js AEC Viewer Progress on Two Fronts

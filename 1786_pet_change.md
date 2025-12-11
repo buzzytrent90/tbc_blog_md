@@ -1,11 +1,31 @@
 ---
-post_number: "1786"
-title: "Pet Change"
-slug: "pet_change"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1786_pet_change.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1786_pet_change.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.743920'
+original_url: https://thebuildingcoder.typepad.com/blog/1786_pet_change.html
+post_number: '1786'
+reading_time_minutes: 8
+series: transactions
+slug: pet_change
+source_file: 1786_pet_change.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Pet Change
+word_count: 1607
 ---
 
 ### Pet Change – Python + Dynamo Swap Nested Family

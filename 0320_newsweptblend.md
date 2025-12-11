@@ -1,11 +1,21 @@
 ---
-post_number: "0320"
-title: "NewSweptBlend"
-slug: "newsweptblend"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'revit-api']
-source_file: "0320_newsweptblend.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0320_newsweptblend.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.739314'
+original_url: https://thebuildingcoder.typepad.com/blog/0320_newsweptblend.html
+post_number: '0320'
+reading_time_minutes: 4
+series: general
+slug: newsweptblend
+source_file: 0320_newsweptblend.htm
+tags:
+- csharp
+- family
+- revit-api
+title: NewSweptBlend
+word_count: 740
 ---
 
 ### NewSweptBlend

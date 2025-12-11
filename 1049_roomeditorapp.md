@@ -1,11 +1,26 @@
 ---
-post_number: "1049"
-title: "RoomEditorApp Architecture and External Application"
-slug: "roomeditorapp"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'references', 'revit-api', 'rooms', 'views', 'windows']
-source_file: "1049_roomeditorapp.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1049_roomeditorapp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.195285'
+original_url: https://thebuildingcoder.typepad.com/blog/1049_roomeditorapp.html
+post_number: '1049'
+reading_time_minutes: 9
+series: general
+slug: roomeditorapp
+source_file: 1049_roomeditorapp.htm
+tags:
+- csharp
+- family
+- python
+- references
+- revit-api
+- rooms
+- views
+- windows
+title: RoomEditorApp Architecture and External Application
+word_count: 1863
 ---
 
 ### RoomEditorApp Architecture and External Application

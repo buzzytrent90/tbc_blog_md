@@ -1,11 +1,24 @@
 ---
-post_number: "1209"
-title: "Unique Names and the NamingUtils Class"
-slug: "namingutils"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'transactions']
-source_file: "1209_namingutils.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1209_namingutils.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.513650'
+original_url: https://thebuildingcoder.typepad.com/blog/1209_namingutils.html
+post_number: '1209'
+reading_time_minutes: 2
+series: general
+slug: namingutils
+source_file: 1209_namingutils.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- transactions
+title: Unique Names and the NamingUtils Class
+word_count: 326
 ---
 
 ### Unique Names and the NamingUtils Class

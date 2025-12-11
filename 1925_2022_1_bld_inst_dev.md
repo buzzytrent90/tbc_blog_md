@@ -1,11 +1,25 @@
 ---
-post_number: "1925"
-title: "2022 1 Bld Inst Dev"
-slug: "2022_1_bld_inst_dev"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'revit-api', 'rooms', 'sheets', 'walls', 'windows']
-source_file: "1925_2022_1_bld_inst_dev.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1925_2022_1_bld_inst_dev.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.056768'
+original_url: https://thebuildingcoder.typepad.com/blog/1925_2022_1_bld_inst_dev.html
+post_number: '1925'
+reading_time_minutes: 9
+series: general
+slug: 2022_1_bld_inst_dev
+source_file: 1925_2022_1_bld_inst_dev.md
+tags:
+- csharp
+- parameters
+- revit-api
+- rooms
+- sheets
+- walls
+- windows
+title: 2022 1 Bld Inst Dev
+word_count: 1886
 ---
 
 ### Revit 2022.1 SDK, RevitLookup Build and Install

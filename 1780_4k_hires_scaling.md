@@ -1,11 +1,24 @@
 ---
-post_number: "1780"
-title: "4k Hires Scaling"
-slug: "4k_hires_scaling"
-author: "Jeremy Tammik"
-tags: ['geometry', 'levels', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1780_4k_hires_scaling.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1780_4k_hires_scaling.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.731634'
+original_url: https://thebuildingcoder.typepad.com/blog/1780_4k_hires_scaling.html
+post_number: '1780'
+reading_time_minutes: 12
+series: general
+slug: 4k_hires_scaling
+source_file: 1780_4k_hires_scaling.md
+tags:
+- geometry
+- levels
+- revit-api
+- sheets
+- views
+- windows
+title: 4k Hires Scaling
+word_count: 2466
 ---
 
 ### Scaling an Add-In for a 4K High Resolution Screen

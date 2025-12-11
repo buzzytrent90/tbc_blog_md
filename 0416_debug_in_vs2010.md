@@ -1,11 +1,21 @@
 ---
-post_number: "0416"
-title: "Debugging in Visual Studio 2010 Express"
-slug: "debug_in_vs2010"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api']
-source_file: "0416_debug_in_vs2010.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0416_debug_in_vs2010.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.913046'
+original_url: https://thebuildingcoder.typepad.com/blog/0416_debug_in_vs2010.html
+post_number: '0416'
+reading_time_minutes: 2
+series: general
+slug: debug_in_vs2010
+source_file: 0416_debug_in_vs2010.htm
+tags:
+- csharp
+- levels
+- revit-api
+title: Debugging in Visual Studio 2010 Express
+word_count: 430
 ---
 
 ### Debugging in Visual Studio 2010 Express

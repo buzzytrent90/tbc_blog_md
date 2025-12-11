@@ -1,11 +1,28 @@
 ---
-post_number: "0134"
-title: "Nested Instance Geometry"
-slug: "nested_instance_geo"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'python', 'revit-api', 'selection', 'views', 'windows']
-source_file: "0134_nested_instance_geo.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0134_nested_instance_geo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.416880'
+original_url: https://thebuildingcoder.typepad.com/blog/0134_nested_instance_geo.html
+post_number: '0134'
+reading_time_minutes: 11
+series: elements
+slug: nested_instance_geo
+source_file: 0134_nested_instance_geo.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- python
+- revit-api
+- selection
+- views
+- windows
+title: Nested Instance Geometry
+word_count: 2134
 ---
 
 ### Nested Instance Geometry

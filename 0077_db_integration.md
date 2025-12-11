@@ -1,11 +1,28 @@
 ---
-post_number: "0077"
-title: "Database Integration"
-slug: "db_integration"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'schedules', 'selection', 'views', 'walls']
-source_file: "0077_db_integration.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0077_db_integration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.325090'
+original_url: https://thebuildingcoder.typepad.com/blog/0077_db_integration.html
+post_number: '0077'
+reading_time_minutes: 12
+series: general
+slug: db_integration
+source_file: 0077_db_integration.htm
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- schedules
+- selection
+- views
+- walls
+title: Database Integration
+word_count: 2302
 ---
 
 ### Database Integration

@@ -1,11 +1,28 @@
 ---
-post_number: "2001"
-title: "Boundingbox"
-slug: "boundingbox"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "2001_boundingbox.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2001_boundingbox.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.240172'
+original_url: https://thebuildingcoder.typepad.com/blog/2001_boundingbox.html
+post_number: '2001'
+reading_time_minutes: 5
+series: geometry
+slug: boundingbox
+source_file: 2001_boundingbox.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- geometry
+title: Boundingbox
+word_count: 1006
 ---
 
 ### Bounding Boxes Axis Alignment and Transformation

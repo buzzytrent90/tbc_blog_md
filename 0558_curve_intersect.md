@@ -1,11 +1,21 @@
 ---
-post_number: "0558"
-title: "Curve.Intersect Return Values"
-slug: "curve_intersect"
-author: "Jeremy Tammik"
-tags: ['geometry', 'references', 'revit-api']
-source_file: "0558_curve_intersect.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0558_curve_intersect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.171243'
+original_url: https://thebuildingcoder.typepad.com/blog/0558_curve_intersect.html
+post_number: 0558
+reading_time_minutes: 3
+series: geometry
+slug: curve_intersect
+source_file: 0558_curve_intersect.htm
+tags:
+- geometry
+- references
+- revit-api
+title: Curve.Intersect Return Values
+word_count: 526
 ---
 
 ### Curve.Intersect Return Values

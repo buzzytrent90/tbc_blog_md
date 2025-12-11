@@ -1,11 +1,22 @@
 ---
-post_number: "0733"
-title: "Connecting Pieces, Like Navisworks"
-slug: "connecting_pieces"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'walls', 'windows']
-source_file: "0733_connecting_pieces.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0733_connecting_pieces.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.480442'
+original_url: https://thebuildingcoder.typepad.com/blog/0733_connecting_pieces.html
+post_number: '0733'
+reading_time_minutes: 2
+series: general
+slug: connecting_pieces
+source_file: 0733_connecting_pieces.htm
+tags:
+- parameters
+- revit-api
+- walls
+- windows
+title: Connecting Pieces, Like Navisworks
+word_count: 434
 ---
 
 ### Connecting Pieces, Like Navisworks

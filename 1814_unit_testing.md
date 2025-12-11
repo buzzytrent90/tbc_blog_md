@@ -1,11 +1,22 @@
 ---
-post_number: "1814"
-title: "Unit Testing"
-slug: "unit_testing"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'revit-api', 'sheets']
-source_file: "1814_unit_testing.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1814_unit_testing.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.798987'
+original_url: https://thebuildingcoder.typepad.com/blog/1814_unit_testing.html
+post_number: '1814'
+reading_time_minutes: 2
+series: general
+slug: unit_testing
+source_file: 1814_unit_testing.md
+tags:
+- family
+- geometry
+- revit-api
+- sheets
+title: Unit Testing
+word_count: 472
 ---
 
 ### Unit Testing and the UsesInstanceGeometry Method

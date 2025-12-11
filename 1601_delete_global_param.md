@@ -1,11 +1,25 @@
 ---
-post_number: "1601"
-title: "Delete Global Param"
-slug: "delete_global_param"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'python', 'revit-api', 'schedules', 'sheets', 'transactions']
-source_file: "1601_delete_global_param.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1601_delete_global_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.371592'
+original_url: https://thebuildingcoder.typepad.com/blog/1601_delete_global_param.html
+post_number: '1601'
+reading_time_minutes: 3
+series: general
+slug: delete_global_param
+source_file: 1601_delete_global_param.md
+tags:
+- elements
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- transactions
+title: Delete Global Param
+word_count: 534
 ---
 
 ### Deleting a Global Parameter and RevitPythonShell

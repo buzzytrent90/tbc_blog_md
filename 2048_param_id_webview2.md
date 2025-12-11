@@ -1,11 +1,25 @@
 ---
-post_number: "2048"
-title: "Param Id Webview2"
-slug: "param_id_webview2"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api', 'schedules', 'sheets', 'views', 'windows']
-source_file: "2048_param_id_webview2.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2048_param_id_webview2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.358741'
+original_url: https://thebuildingcoder.typepad.com/blog/2048_param_id_webview2.html
+post_number: '2048'
+reading_time_minutes: 4
+series: views
+slug: param_id_webview2
+source_file: 2048_param_id_webview2.md
+tags:
+- family
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+- windows
+title: Param Id Webview2
+word_count: 700
 ---
 
 ### Stable Parameter Identifier and WebView2 Plans

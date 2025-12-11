@@ -1,11 +1,23 @@
 ---
-post_number: "1249"
-title: "Traditional, 3D Printed, Vertical Compound Structures"
-slug: "vertical_compound"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'views', 'walls']
-source_file: "1249_vertical_compound.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1249_vertical_compound.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.603757'
+original_url: https://thebuildingcoder.typepad.com/blog/1249_vertical_compound.html
+post_number: '1249'
+reading_time_minutes: 5
+series: general
+slug: vertical_compound
+source_file: 1249_vertical_compound.htm
+tags:
+- elements
+- references
+- revit-api
+- views
+- walls
+title: Traditional, 3D Printed, Vertical Compound Structures
+word_count: 1033
 ---
 
 ### Traditional, 3D Printed, Vertical Compound Structures

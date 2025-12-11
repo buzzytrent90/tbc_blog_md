@@ -1,11 +1,22 @@
 ---
-post_number: "1501"
-title: "App Dlg Events"
-slug: "app_dlg_events"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'sheets']
-source_file: "1501_app_dlg_events.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1501_app_dlg_events.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.170620'
+original_url: https://thebuildingcoder.typepad.com/blog/1501_app_dlg_events.html
+post_number: '1501'
+reading_time_minutes: 7
+series: general
+slug: app_dlg_events
+source_file: 1501_app_dlg_events.md
+tags:
+- elements
+- parameters
+- revit-api
+- sheets
+title: App Dlg Events
+word_count: 1371
 ---
 
 ### Using Other Events to Execute Add-In Code

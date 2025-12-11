@@ -1,11 +1,22 @@
 ---
-post_number: "0710"
-title: "Synchronize with Central"
-slug: "sync_with_central"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'windows']
-source_file: "0710_sync_with_central.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0710_sync_with_central.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.442341'
+original_url: https://thebuildingcoder.typepad.com/blog/0710_sync_with_central.html
+post_number: '0710'
+reading_time_minutes: 4
+series: general
+slug: sync_with_central
+source_file: 0710_sync_with_central.htm
+tags:
+- csharp
+- elements
+- revit-api
+- windows
+title: Synchronize with Central
+word_count: 813
 ---
 
 ### Synchronize with Central

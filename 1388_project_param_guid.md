@@ -1,11 +1,34 @@
 ---
-post_number: "1388"
-title: "Project Param Guid"
-slug: "project_param_guid"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1388_project_param_guid.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1388_project_param_guid.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.915956'
+original_url: https://thebuildingcoder.typepad.com/blog/1388_project_param_guid.html
+post_number: '1388'
+reading_time_minutes: 29
+series: general
+slug: project_param_guid
+source_file: 1388_project_param_guid.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Project Param Guid
+word_count: 5817
 ---
 
 ### Shared Project Parameter GUID Reporter

@@ -1,11 +1,24 @@
 ---
-post_number: "0559"
-title: "Slanted Column Cross Section Rotation"
-slug: "column_xsec_rotation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api']
-source_file: "0559_column_xsec_rotation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0559_column_xsec_rotation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.173743'
+original_url: https://thebuildingcoder.typepad.com/blog/0559_column_xsec_rotation.html
+post_number: 0559
+reading_time_minutes: 5
+series: structural
+slug: column_xsec_rotation
+source_file: 0559_column_xsec_rotation.htm
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- structural
+title: Slanted Column Cross Section Rotation
+word_count: 902
 ---
 
 ### Slanted Column Cross Section Rotation

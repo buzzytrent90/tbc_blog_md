@@ -1,11 +1,29 @@
 ---
-post_number: "0111"
-title: "Transform Instance Coordinates"
-slug: "transform_instance_coords"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'python', 'references', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0111_transform_instance_coords.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0111_transform_instance_coords.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.381825'
+original_url: https://thebuildingcoder.typepad.com/blog/0111_transform_instance_coords.html
+post_number: '0111'
+reading_time_minutes: 11
+series: geometry
+slug: transform_instance_coords
+source_file: 0111_transform_instance_coords.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- python
+- references
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: Transform Instance Coordinates
+word_count: 2257
 ---
 
 ### Transform Instance Coordinates

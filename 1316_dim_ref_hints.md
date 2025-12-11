@@ -1,11 +1,29 @@
 ---
-post_number: "1316"
-title: "How to Retrieve Dimensioning References"
-slug: "dim_ref_hints"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "1316_dim_ref_hints.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1316_dim_ref_hints.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.754148'
+original_url: https://thebuildingcoder.typepad.com/blog/1316_dim_ref_hints.html
+post_number: '1316'
+reading_time_minutes: 5
+series: general
+slug: dim_ref_hints
+source_file: 1316_dim_ref_hints.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: How to Retrieve Dimensioning References
+word_count: 1063
 ---
 
 ### How to Retrieve Dimensioning References

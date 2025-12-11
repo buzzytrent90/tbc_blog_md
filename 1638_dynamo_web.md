@@ -1,11 +1,22 @@
 ---
-post_number: "1638"
-title: "Dynamo Web"
-slug: "dynamo_web"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'sheets', 'views']
-source_file: "1638_dynamo_web.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1638_dynamo_web.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.439777'
+original_url: https://thebuildingcoder.typepad.com/blog/1638_dynamo_web.html
+post_number: '1638'
+reading_time_minutes: 5
+series: general
+slug: dynamo_web
+source_file: 1638_dynamo_web.md
+tags:
+- parameters
+- revit-api
+- sheets
+- views
+title: Dynamo Web
+word_count: 914
 ---
 
 ### Dynamo on the Web?

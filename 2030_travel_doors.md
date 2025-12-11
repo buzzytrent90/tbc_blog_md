@@ -1,11 +1,28 @@
 ---
-post_number: "2030"
-title: "Travel Doors"
-slug: "travel_doors"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'geometry', 'levels', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "2030_travel_doors.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2030_travel_doors.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.314598'
+original_url: https://thebuildingcoder.typepad.com/blog/2030_travel_doors.html
+post_number: '2030'
+reading_time_minutes: 7
+series: general
+slug: travel_doors
+source_file: 2030_travel_doors.md
+tags:
+- csharp
+- doors
+- family
+- geometry
+- levels
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Travel Doors
+word_count: 1324
 ---
 
 ### Camera Settings, Doors Traversed, Script on the Fly

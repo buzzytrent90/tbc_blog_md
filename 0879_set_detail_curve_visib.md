@@ -1,11 +1,31 @@
 ---
-post_number: "0879"
-title: "Set Detail Curve Visibility"
-slug: "set_detail_curve_visib"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0879_set_detail_curve_visib.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0879_set_detail_curve_visib.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.787753'
+original_url: https://thebuildingcoder.typepad.com/blog/0879_set_detail_curve_visib.html
+post_number: 0879
+reading_time_minutes: 2
+series: geometry
+slug: set_detail_curve_visib
+source_file: 0879_set_detail_curve_visib.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- geometry
+title: Set Detail Curve Visibility
+word_count: 425
 ---
 
 ### Set Detail Curve Visibility

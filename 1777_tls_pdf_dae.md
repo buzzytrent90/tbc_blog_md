@@ -1,11 +1,23 @@
 ---
-post_number: "1777"
-title: "Tls Pdf Dae"
-slug: "tls_pdf_dae"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1777_tls_pdf_dae.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1777_tls_pdf_dae.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.725261'
+original_url: https://thebuildingcoder.typepad.com/blog/1777_tls_pdf_dae.html
+post_number: '1777'
+reading_time_minutes: 8
+series: general
+slug: tls_pdf_dae
+source_file: 1777_tls_pdf_dae.md
+tags:
+- geometry
+- revit-api
+- rooms
+- sheets
+- views
+title: Tls Pdf Dae
+word_count: 1667
 ---
 
 ### TLS Requirement, PDF Data and Collada DAE Exporter

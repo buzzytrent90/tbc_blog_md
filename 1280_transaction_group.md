@@ -1,11 +1,26 @@
 ---
-post_number: "1280"
-title: "Using Transaction Groups"
-slug: "transaction_group"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1280_transaction_group.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1280_transaction_group.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.665838'
+original_url: https://thebuildingcoder.typepad.com/blog/1280_transaction_group.html
+post_number: '1280'
+reading_time_minutes: 8
+series: transactions
+slug: transaction_group
+source_file: 1280_transaction_group.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Using Transaction Groups
+word_count: 1575
 ---
 
 ### Using Transaction Groups

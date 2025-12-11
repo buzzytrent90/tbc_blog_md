@@ -1,11 +1,26 @@
 ---
-post_number: "0315"
-title: "NewWall with Opening"
-slug: "newwall_with_opening"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'selection', 'walls', 'windows']
-source_file: "0315_newwall_with_opening.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0315_newwall_with_opening.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.732973'
+original_url: https://thebuildingcoder.typepad.com/blog/0315_newwall_with_opening.html
+post_number: '0315'
+reading_time_minutes: 4
+series: general
+slug: newwall_with_opening
+source_file: 0315_newwall_with_opening.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- selection
+- walls
+- windows
+title: NewWall with Opening
+word_count: 700
 ---
 
 ### NewWall with Opening

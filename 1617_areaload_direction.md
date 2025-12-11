@@ -1,11 +1,24 @@
 ---
-post_number: "1617"
-title: "Areaload Direction"
-slug: "areaload_direction"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1617_areaload_direction.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1617_areaload_direction.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.399471'
+original_url: https://thebuildingcoder.typepad.com/blog/1617_areaload_direction.html
+post_number: '1617'
+reading_time_minutes: 4
+series: structural
+slug: areaload_direction
+source_file: 1617_areaload_direction.md
+tags:
+- revit-api
+- sheets
+- views
+- walls
+- windows
+- structural
+title: Areaload Direction
+word_count: 734
 ---
 
 ### AreaLoad Force Direction, CMake, SDK Access

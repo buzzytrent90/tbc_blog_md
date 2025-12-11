@@ -1,11 +1,26 @@
 ---
-post_number: "0034"
-title: "Creating a new Family Symbol"
-slug: "creating_family_symbol"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'selection', 'walls']
-source_file: "0034_creating_family_symbol.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0034_creating_family_symbol.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.265185'
+original_url: https://thebuildingcoder.typepad.com/blog/0034_creating_family_symbol.html
+post_number: '0034'
+reading_time_minutes: 2
+series: elements
+slug: creating_family_symbol
+source_file: 0034_creating_family_symbol.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- selection
+- walls
+title: Creating a new Family Symbol
+word_count: 463
 ---
 
 ### Creating a new Family Symbol

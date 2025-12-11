@@ -1,11 +1,20 @@
 ---
-post_number: "0642"
-title: "Autodesk Lab Projects Spark and Storm"
-slug: "proj_spark_storm"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0642_proj_spark_storm.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0642_proj_spark_storm.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.316802'
+original_url: https://thebuildingcoder.typepad.com/blog/0642_proj_spark_storm.html
+post_number: '0642'
+reading_time_minutes: 1
+series: general
+slug: proj_spark_storm
+source_file: 0642_proj_spark_storm.htm
+tags:
+- revit-api
+- views
+title: Autodesk Lab Projects Spark and Storm
+word_count: 233
 ---
 
 ### Autodesk Lab Projects Spark and Storm

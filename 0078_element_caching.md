@@ -1,11 +1,22 @@
 ---
-post_number: "0078"
-title: "Element Caching"
-slug: "element_caching"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'revit-api']
-source_file: "0078_element_caching.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0078_element_caching.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.327391'
+original_url: https://thebuildingcoder.typepad.com/blog/0078_element_caching.html
+post_number: 0078
+reading_time_minutes: 2
+series: elements
+slug: element_caching
+source_file: 0078_element_caching.htm
+tags:
+- elements
+- filtering
+- levels
+- revit-api
+title: Element Caching
+word_count: 365
 ---
 
 ### Element Caching

@@ -1,11 +1,28 @@
 ---
-post_number: "2046"
-title: "Mat Asset"
-slug: "mat_asset"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'parameters', 'revit-api', 'schedules', 'sheets', 'views', 'windows']
-source_file: "2046_mat_asset.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2046_mat_asset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.355474'
+original_url: https://thebuildingcoder.typepad.com/blog/2046_mat_asset.html
+post_number: '2046'
+reading_time_minutes: 6
+series: materials
+slug: mat_asset
+source_file: 2046_mat_asset.md
+tags:
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- schedules
+- sheets
+- views
+- windows
+- materials
+title: Mat Asset
+word_count: 1255
 ---
 
 ### Material Assets, Chromium and Sorting Schedules

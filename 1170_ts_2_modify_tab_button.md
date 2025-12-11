@@ -1,11 +1,27 @@
 ---
-post_number: "1170"
-title: "Room Editor Live and Unofficial Custom Ribbon Button"
-slug: "ts_2_modify_tab_button"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'rooms', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1170_ts_2_modify_tab_button.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1170_ts_2_modify_tab_button.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.445846'
+original_url: https://thebuildingcoder.typepad.com/blog/1170_ts_2_modify_tab_button.html
+post_number: '1170'
+reading_time_minutes: 12
+series: transactions
+slug: ts_2_modify_tab_button
+source_file: 1170_ts_2_modify_tab_button.htm
+tags:
+- csharp
+- elements
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Room Editor Live and Unofficial Custom Ribbon Button
+word_count: 2324
 ---
 
 ### Room Editor Live and Unofficial Custom Ribbon Button

@@ -1,11 +1,25 @@
 ---
-post_number: "1178"
-title: "Moving an External Command Button"
-slug: "move_command_button"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'rooms', 'transactions', 'windows']
-source_file: "1178_move_command_button.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1178_move_command_button.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.9
+content_type: news
+optimization_date: '2025-12-11T11:44:15.461701'
+original_url: https://thebuildingcoder.typepad.com/blog/1178_move_command_button.html
+post_number: '1178'
+reading_time_minutes: 8
+series: general
+slug: move_command_button
+source_file: 1178_move_command_button.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- rooms
+- transactions
+- windows
+title: Moving an External Command Button
+word_count: 1652
 ---
 
 ### Moving an External Command Button

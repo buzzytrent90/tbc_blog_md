@@ -1,11 +1,30 @@
 ---
-post_number: "0983"
-title: "Football and Space Adjacency for Heat Load Calculation"
-slug: "space_adjacency"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0983_space_adjacency.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0983_space_adjacency.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.049027'
+original_url: https://thebuildingcoder.typepad.com/blog/0983_space_adjacency.html
+post_number: 0983
+reading_time_minutes: 15
+series: general
+slug: space_adjacency
+source_file: 0983_space_adjacency.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- views
+- walls
+title: Football and Space Adjacency for Heat Load Calculation
+word_count: 3010
 ---
 
 ### Football and Space Adjacency for Heat Load Calculation

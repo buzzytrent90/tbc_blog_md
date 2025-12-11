@@ -1,11 +1,24 @@
 ---
-post_number: "0739"
-title: "Great Ocean Road and Creating Your Own Key"
-slug: "create_own_key"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'revit-api', 'sheets', 'views']
-source_file: "0739_create_own_key.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0739_create_own_key.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.493498'
+original_url: https://thebuildingcoder.typepad.com/blog/0739_create_own_key.html
+post_number: 0739
+reading_time_minutes: 6
+series: general
+slug: create_own_key
+source_file: 0739_create_own_key.htm
+tags:
+- elements
+- family
+- geometry
+- revit-api
+- sheets
+- views
+title: Great Ocean Road and Creating Your Own Key
+word_count: 1269
 ---
 
 ### Great Ocean Road and Creating Your Own Key

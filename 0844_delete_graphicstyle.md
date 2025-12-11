@@ -1,11 +1,24 @@
 ---
-post_number: "0844"
-title: "Deleting a GraphicStyle Element"
-slug: "delete_graphicstyle"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'transactions']
-source_file: "0844_delete_graphicstyle.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0844_delete_graphicstyle.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.718723'
+original_url: https://thebuildingcoder.typepad.com/blog/0844_delete_graphicstyle.html
+post_number: 0844
+reading_time_minutes: 1
+series: general
+slug: delete_graphicstyle
+source_file: 0844_delete_graphicstyle.htm
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- transactions
+title: Deleting a GraphicStyle Element
+word_count: 251
 ---
 
 ### Deleting a GraphicStyle Element

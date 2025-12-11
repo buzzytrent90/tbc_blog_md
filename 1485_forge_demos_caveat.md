@@ -1,11 +1,22 @@
 ---
-post_number: "1485"
-title: "The Building Coder"
-slug: "forge_demos_caveat"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'rooms', 'sheets', 'views']
-source_file: "1485_forge_demos_caveat.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1485_forge_demos_caveat.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.133843'
+original_url: https://thebuildingcoder.typepad.com/blog/1485_forge_demos_caveat.html
+post_number: '1485'
+reading_time_minutes: 4
+series: general
+slug: forge_demos_caveat
+source_file: 1485_forge_demos_caveat.md
+tags:
+- revit-api
+- rooms
+- sheets
+- views
+title: The Building Coder
+word_count: 743
 ---
 
 ### Cool Forge Demos and Roomedit Caveat

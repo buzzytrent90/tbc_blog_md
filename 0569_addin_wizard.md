@@ -1,11 +1,22 @@
 ---
-post_number: "0569"
-title: "Visual Studio Add-In Wizards for Revit 2012"
-slug: "addin_wizard"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'transactions', 'vbnet']
-source_file: "0569_addin_wizard.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0569_addin_wizard.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: news
+optimization_date: '2025-12-11T11:44:14.190922'
+original_url: https://thebuildingcoder.typepad.com/blog/0569_addin_wizard.html
+post_number: 0569
+reading_time_minutes: 3
+series: general
+slug: addin_wizard
+source_file: 0569_addin_wizard.htm
+tags:
+- csharp
+- revit-api
+- transactions
+- vbnet
+title: Visual Studio Add-In Wizards for Revit 2012
+word_count: 525
 ---
 
 ### Visual Studio Add-In Wizards for Revit 2012

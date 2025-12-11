@@ -1,11 +1,32 @@
 ---
-post_number: "1358"
-title: "Firerating Revitlookup"
-slug: "firerating_revitlookup"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1358_firerating_revitlookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1358_firerating_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.842714'
+original_url: https://thebuildingcoder.typepad.com/blog/1358_firerating_revitlookup.html
+post_number: '1358'
+reading_time_minutes: 5
+series: general
+slug: firerating_revitlookup
+source_file: 1358_firerating_revitlookup.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Firerating Revitlookup
+word_count: 956
 ---
 
 ### FireRating in the Cloud and RevitLookup Update

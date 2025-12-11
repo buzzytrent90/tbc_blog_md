@@ -1,11 +1,23 @@
 ---
-post_number: "1699"
-title: "View Template Include"
-slug: "view_template_include"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1699_view_template_include.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1699_view_template_include.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.550631'
+original_url: https://thebuildingcoder.typepad.com/blog/1699_view_template_include.html
+post_number: '1699'
+reading_time_minutes: 1
+series: views
+slug: view_template_include
+source_file: 1699_view_template_include.md
+tags:
+- elements
+- parameters
+- revit-api
+- sheets
+- views
+title: View Template Include
+word_count: 193
 ---
 
 ### View Template Include Setting

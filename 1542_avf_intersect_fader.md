@@ -1,11 +1,27 @@
 ---
-post_number: "1542"
-title: "Avf Intersect Fader"
-slug: "avf_intersect_fader"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'references', 'revit-api', 'sheets', 'walls', 'windows']
-source_file: "1542_avf_intersect_fader.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1542_avf_intersect_fader.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: news
+optimization_date: '2025-12-11T11:44:16.252965'
+original_url: https://thebuildingcoder.typepad.com/blog/1542_avf_intersect_fader.html
+post_number: '1542'
+reading_time_minutes: 4
+series: general
+slug: avf_intersect_fader
+source_file: 1542_avf_intersect_fader.md
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- references
+- revit-api
+- sheets
+- walls
+- windows
+title: Avf Intersect Fader
+word_count: 879
 ---
 
 ### AVF, Ray Tracing and Signal Attenuation

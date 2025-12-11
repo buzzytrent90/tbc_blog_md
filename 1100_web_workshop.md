@@ -1,11 +1,28 @@
 ---
-post_number: "1100"
-title: "Web Workshop, Tech Summit Plans and Security"
-slug: "web_workshop"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'views', 'walls', 'windows']
-source_file: "1100_web_workshop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1100_web_workshop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.304328'
+original_url: https://thebuildingcoder.typepad.com/blog/1100_web_workshop.html
+post_number: '1100'
+reading_time_minutes: 9
+series: general
+slug: web_workshop
+source_file: 1100_web_workshop.htm
+tags:
+- elements
+- family
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- views
+- walls
+- windows
+title: Web Workshop, Tech Summit Plans and Security
+word_count: 1822
 ---
 
 ### Web Workshop, Tech Summit Plans and Security

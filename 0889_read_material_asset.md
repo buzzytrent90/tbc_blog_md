@@ -1,11 +1,25 @@
 ---
-post_number: "0889"
-title: "Read Material Asset Parameter"
-slug: "read_material_asset"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'selection']
-source_file: "0889_read_material_asset.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0889_read_material_asset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.802837'
+original_url: https://thebuildingcoder.typepad.com/blog/0889_read_material_asset.html
+post_number: 0889
+reading_time_minutes: 3
+series: materials
+slug: read_material_asset
+source_file: 0889_read_material_asset.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- selection
+- materials
+title: Read Material Asset Parameter
+word_count: 535
 ---
 
 ### Read Material Asset Parameter

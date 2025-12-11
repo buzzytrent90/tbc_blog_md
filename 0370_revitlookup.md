@@ -1,11 +1,23 @@
 ---
-post_number: "0370"
-title: "RevitLookup Update"
-slug: "revitlookup"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api']
-source_file: "0370_revitlookup.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0370_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.832188'
+original_url: https://thebuildingcoder.typepad.com/blog/0370_revitlookup.html
+post_number: '0370'
+reading_time_minutes: 1
+series: general
+slug: revitlookup
+source_file: 0370_revitlookup.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+title: RevitLookup Update
+word_count: 268
 ---
 
 ### RevitLookup Update

@@ -1,11 +1,22 @@
 ---
-post_number: "0324"
-title: "Using Process.Start to Open a Project or Family"
-slug: "process_start"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'revit-api', 'walls']
-source_file: "0324_process_start.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0324_process_start.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.744980'
+original_url: https://thebuildingcoder.typepad.com/blog/0324_process_start.html
+post_number: '0324'
+reading_time_minutes: 2
+series: general
+slug: process_start
+source_file: 0324_process_start.htm
+tags:
+- csharp
+- family
+- revit-api
+- walls
+title: Using Process.Start to Open a Project or Family
+word_count: 375
 ---
 
 ### Using Process.Start to Open a Project or Family

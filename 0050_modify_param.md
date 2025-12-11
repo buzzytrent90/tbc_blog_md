@@ -1,11 +1,23 @@
 ---
-post_number: "0050"
-title: "Parameter Modification Performance"
-slug: "modify_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api']
-source_file: "0050_modify_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0050_modify_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: news
+optimization_date: '2025-12-11T11:44:13.287351'
+original_url: https://thebuildingcoder.typepad.com/blog/0050_modify_param.html
+post_number: '0050'
+reading_time_minutes: 3
+series: transactions
+slug: modify_param
+source_file: 0050_modify_param.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- transactions
+title: Parameter Modification Performance
+word_count: 535
 ---
 
 ### Parameter Modification Performance

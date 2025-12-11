@@ -1,11 +1,24 @@
 ---
-post_number: "1333"
-title: "Revit API Task Solving, Success, AppStore etc."
-slug: "task_approach_store"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'python', 'revit-api', 'views']
-source_file: "1333_task_approach_store.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1333_task_approach_store.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.791227'
+original_url: https://thebuildingcoder.typepad.com/blog/1333_task_approach_store.html
+post_number: '1333'
+reading_time_minutes: 4
+series: general
+slug: task_approach_store
+source_file: 1333_task_approach_store.htm
+tags:
+- elements
+- family
+- levels
+- python
+- revit-api
+- views
+title: Revit API Task Solving, Success, AppStore etc.
+word_count: 786
 ---
 
 ### Revit API Task Solving, Success, AppStore etc.

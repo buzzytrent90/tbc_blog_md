@@ -1,11 +1,24 @@
 ---
-post_number: "0627"
-title: "MEP Sample Code for Revit 2012"
-slug: "mep_2012_material"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'rooms', 'schedules']
-source_file: "0627_mep_2012_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0627_mep_2012_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.291363'
+original_url: https://thebuildingcoder.typepad.com/blog/0627_mep_2012_material.html
+post_number: '0627'
+reading_time_minutes: 2
+series: materials
+slug: mep_2012_material
+source_file: 0627_mep_2012_material.htm
+tags:
+- elements
+- filtering
+- revit-api
+- rooms
+- schedules
+- materials
+title: MEP Sample Code for Revit 2012
+word_count: 350
 ---
 
 ### MEP Sample Code for Revit 2012

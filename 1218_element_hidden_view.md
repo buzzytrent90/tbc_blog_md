@@ -1,11 +1,22 @@
 ---
-post_number: "1218"
-title: "Is a Given Element Hidden in a View?"
-slug: "element_hidden_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'views']
-source_file: "1218_element_hidden_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1218_element_hidden_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.533579'
+original_url: https://thebuildingcoder.typepad.com/blog/1218_element_hidden_view.html
+post_number: '1218'
+reading_time_minutes: 3
+series: elements
+slug: element_hidden_view
+source_file: 1218_element_hidden_view.htm
+tags:
+- csharp
+- elements
+- revit-api
+- views
+title: Is a Given Element Hidden in a View?
+word_count: 586
 ---
 
 ### Is a Given Element Hidden in a View?

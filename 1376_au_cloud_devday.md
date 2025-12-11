@@ -1,11 +1,32 @@
 ---
-post_number: "1376"
-title: "Au Cloud Devday"
-slug: "au_cloud_devday"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1376_au_cloud_devday.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1376_au_cloud_devday.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.885722'
+original_url: https://thebuildingcoder.typepad.com/blog/1376_au_cloud_devday.html
+post_number: '1376'
+reading_time_minutes: 8
+series: general
+slug: au_cloud_devday
+source_file: 1376_au_cloud_devday.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- transactions
+- views
+- walls
+title: Au Cloud Devday
+word_count: 1566
 ---
 
 ### Connecting Desktop and Cloud at AU and DevDays

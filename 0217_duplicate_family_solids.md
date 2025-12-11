@@ -1,11 +1,21 @@
 ---
-post_number: "0217"
-title: "Duplicate Family Solids"
-slug: "duplicate_family_solids"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api']
-source_file: "0217_duplicate_family_solids.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0217_duplicate_family_solids.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.568166'
+original_url: https://thebuildingcoder.typepad.com/blog/0217_duplicate_family_solids.html
+post_number: '0217'
+reading_time_minutes: 1
+series: family
+slug: duplicate_family_solids
+source_file: 0217_duplicate_family_solids.htm
+tags:
+- family
+- parameters
+- revit-api
+title: Duplicate Family Solids
+word_count: 284
 ---
 
 ### Duplicate Family Solids

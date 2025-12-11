@@ -1,11 +1,29 @@
 ---
-post_number: "2025"
-title: "Schema Rooms"
-slug: "schema_rooms"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views']
-source_file: "2025_schema_rooms.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2025_schema_rooms.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.302458'
+original_url: https://thebuildingcoder.typepad.com/blog/2025_schema_rooms.html
+post_number: '2025'
+reading_time_minutes: 9
+series: general
+slug: schema_rooms
+source_file: 2025_schema_rooms.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+title: Schema Rooms
+word_count: 1826
 ---
 
 ### Retrieve Rooms, Build a Schema, Sort and Animate

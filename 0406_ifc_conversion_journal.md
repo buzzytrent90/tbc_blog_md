@@ -1,11 +1,21 @@
 ---
-post_number: "0406"
-title: "IFC Import and Conversion Journal Script"
-slug: "ifc_conversion_journal"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'selection', 'walls']
-source_file: "0406_ifc_conversion_journal.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0406_ifc_conversion_journal.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.897173'
+original_url: https://thebuildingcoder.typepad.com/blog/0406_ifc_conversion_journal.html
+post_number: '0406'
+reading_time_minutes: 4
+series: general
+slug: ifc_conversion_journal
+source_file: 0406_ifc_conversion_journal.htm
+tags:
+- revit-api
+- selection
+- walls
+title: IFC Import and Conversion Journal Script
+word_count: 878
 ---
 
 ### IFC Import and Conversion Journal Script

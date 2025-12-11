@@ -1,11 +1,27 @@
 ---
-post_number: "0202"
-title: "MEP Sample Ribbon Panel"
-slug: "mep_ribbon_panel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'levels', 'revit-api', 'schedules', 'windows']
-source_file: "0202_mep_ribbon_panel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0202_mep_ribbon_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.541398'
+original_url: https://thebuildingcoder.typepad.com/blog/0202_mep_ribbon_panel.html
+post_number: '0202'
+reading_time_minutes: 6
+series: mep
+slug: mep_ribbon_panel
+source_file: 0202_mep_ribbon_panel.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- levels
+- revit-api
+- schedules
+- windows
+- mep
+title: MEP Sample Ribbon Panel
+word_count: 1242
 ---
 
 ### MEP Sample Ribbon Panel

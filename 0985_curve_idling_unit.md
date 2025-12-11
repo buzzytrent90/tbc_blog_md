@@ -1,11 +1,26 @@
 ---
-post_number: "0985"
-title: "Curve Length, Idling, Units and RevitPythonShell"
-slug: "curve_idling_unit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'transactions', 'walls']
-source_file: "0985_curve_idling_unit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0985_curve_idling_unit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.053694'
+original_url: https://thebuildingcoder.typepad.com/blog/0985_curve_idling_unit.html
+post_number: 0985
+reading_time_minutes: 4
+series: geometry
+slug: curve_idling_unit
+source_file: 0985_curve_idling_unit.htm
+tags:
+- csharp
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- transactions
+- walls
+title: Curve Length, Idling, Units and RevitPythonShell
+word_count: 861
 ---
 
 ### Curve Length, Idling, Units and RevitPythonShell

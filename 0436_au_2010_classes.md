@@ -1,11 +1,24 @@
 ---
-post_number: "0436"
-title: "Autodesk University 2010 Classes"
-slug: "au_2010_classes"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0436_au_2010_classes.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0436_au_2010_classes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.943701'
+original_url: https://thebuildingcoder.typepad.com/blog/0436_au_2010_classes.html
+post_number: '0436'
+reading_time_minutes: 3
+series: general
+slug: au_2010_classes
+source_file: 0436_au_2010_classes.htm
+tags:
+- elements
+- filtering
+- revit-api
+- rooms
+- schedules
+- views
+title: Autodesk University 2010 Classes
+word_count: 679
 ---
 
 ### Autodesk University 2010 Classes

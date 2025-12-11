@@ -1,11 +1,26 @@
 ---
-post_number: "1930"
-title: "Revit Server"
-slug: "revit_server"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1930_revit_server.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1930_revit_server.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.067076'
+original_url: https://thebuildingcoder.typepad.com/blog/1930_revit_server.html
+post_number: '1930'
+reading_time_minutes: 7
+series: general
+slug: revit_server
+source_file: 1930_revit_server.md
+tags:
+- elements
+- filtering
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Revit Server
+word_count: 1306
 ---
 
 ### Revit Server and View Filter Alert

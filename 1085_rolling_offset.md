@@ -1,11 +1,26 @@
 ---
-post_number: "1085"
-title: "Calculating a Rolling Offset Between Two Pipes"
-slug: "rolling_offset"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1085_rolling_offset.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1085_rolling_offset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.275930'
+original_url: https://thebuildingcoder.typepad.com/blog/1085_rolling_offset.html
+post_number: '1085'
+reading_time_minutes: 6
+series: general
+slug: rolling_offset
+source_file: 1085_rolling_offset.htm
+tags:
+- elements
+- filtering
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Calculating a Rolling Offset Between Two Pipes
+word_count: 1194
 ---
 
 ### Calculating a Rolling Offset Between Two Pipes

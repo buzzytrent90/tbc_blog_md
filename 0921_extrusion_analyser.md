@@ -1,11 +1,28 @@
 ---
-post_number: "0921"
-title: "Extrusion Analyser and Plan View Boundaries"
-slug: "extrusion_analyser"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0921_extrusion_analyser.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0921_extrusion_analyser.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.896571'
+original_url: https://thebuildingcoder.typepad.com/blog/0921_extrusion_analyser.html
+post_number: 0921
+reading_time_minutes: 11
+series: general
+slug: extrusion_analyser
+source_file: 0921_extrusion_analyser.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- views
+title: Extrusion Analyser and Plan View Boundaries
+word_count: 2250
 ---
 
 ### Extrusion Analyser and Plan View Boundaries

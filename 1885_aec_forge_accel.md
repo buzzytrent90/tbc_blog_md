@@ -1,11 +1,24 @@
 ---
-post_number: "1885"
-title: "Aec Forge Accel"
-slug: "aec_forge_accel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "1885_aec_forge_accel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1885_aec_forge_accel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.963366'
+original_url: https://thebuildingcoder.typepad.com/blog/1885_aec_forge_accel.html
+post_number: '1885'
+reading_time_minutes: 4
+series: general
+slug: aec_forge_accel
+source_file: 1885_aec_forge_accel.md
+tags:
+- csharp
+- levels
+- revit-api
+- schedules
+- sheets
+- views
+title: Aec Forge Accel
+word_count: 760
 ---
 
 ### I18n, Forge Accelerators, AEC and BIM360 Focus

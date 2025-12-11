@@ -1,11 +1,27 @@
 ---
-post_number: "0220"
-title: "Door Marks"
-slug: "door_marks"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'selection', 'transactions']
-source_file: "0220_door_marks.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0220_door_marks.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.574020'
+original_url: https://thebuildingcoder.typepad.com/blog/0220_door_marks.html
+post_number: '0220'
+reading_time_minutes: 4
+series: general
+slug: door_marks
+source_file: 0220_door_marks.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+title: Door Marks
+word_count: 806
 ---
 
 ### Door Marks

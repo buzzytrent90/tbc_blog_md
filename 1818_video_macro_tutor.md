@@ -1,11 +1,29 @@
 ---
-post_number: "1818"
-title: "Video Macro Tutor"
-slug: "video_macro_tutor"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1818_video_macro_tutor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1818_video_macro_tutor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.807231'
+original_url: https://thebuildingcoder.typepad.com/blog/1818_video_macro_tutor.html
+post_number: '1818'
+reading_time_minutes: 9
+series: general
+slug: video_macro_tutor
+source_file: 1818_video_macro_tutor.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Video Macro Tutor
+word_count: 1769
 ---
 
 ### Search for Getting Started Videos and Tutorials!

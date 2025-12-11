@@ -1,11 +1,27 @@
 ---
-post_number: "1912"
-title: "Aec Collaboration"
-slug: "aec_collaboration"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1912_aec_collaboration.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1912_aec_collaboration.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.028419'
+original_url: https://thebuildingcoder.typepad.com/blog/1912_aec_collaboration.html
+post_number: '1912'
+reading_time_minutes: 5
+series: general
+slug: aec_collaboration
+source_file: 1912_aec_collaboration.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- revit-api
+- sheets
+- views
+- windows
+title: Aec Collaboration
+word_count: 1070
 ---
 
 ### Collaboration, Dockables, Railings, Pop-Ups, ILSpy

@@ -1,11 +1,25 @@
 ---
-post_number: "1772"
-title: "Autorun"
-slug: "autorun"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1772_autorun.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1772_autorun.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.713101'
+original_url: https://thebuildingcoder.typepad.com/blog/1772_autorun.html
+post_number: '1772'
+reading_time_minutes: 8
+series: general
+slug: autorun
+source_file: 1772_autorun.md
+tags:
+- elements
+- levels
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Autorun
+word_count: 1558
 ---
 
 ### Auto-Executing an External Command

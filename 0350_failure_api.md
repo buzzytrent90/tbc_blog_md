@@ -1,11 +1,28 @@
 ---
-post_number: "0350"
-title: "Failure API"
-slug: "failure_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'python', 'revit-api', 'rooms', 'transactions', 'views', 'walls']
-source_file: "0350_failure_api.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0350_failure_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.790287'
+original_url: https://thebuildingcoder.typepad.com/blog/0350_failure_api.html
+post_number: '0350'
+reading_time_minutes: 7
+series: general
+slug: failure_api
+source_file: 0350_failure_api.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- python
+- revit-api
+- rooms
+- transactions
+- views
+- walls
+title: Failure API
+word_count: 1402
 ---
 
 ### Failure API

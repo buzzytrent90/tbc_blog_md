@@ -1,11 +1,25 @@
 ---
-post_number: "1206"
-title: "Setting up a 3D View like a Section View"
-slug: "3d_from_section_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'revit-api', 'schedules', 'views', 'walls']
-source_file: "1206_3d_from_section_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1206_3d_from_section_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.508995'
+original_url: https://thebuildingcoder.typepad.com/blog/1206_3d_from_section_view.html
+post_number: '1206'
+reading_time_minutes: 9
+series: views
+slug: 3d_from_section_view
+source_file: 1206_3d_from_section_view.htm
+tags:
+- csharp
+- elements
+- levels
+- revit-api
+- schedules
+- views
+- walls
+title: Setting up a 3D View like a Section View
+word_count: 1803
 ---
 
 ### Setting up a 3D View like a Section View

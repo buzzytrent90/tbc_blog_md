@@ -1,11 +1,25 @@
 ---
-post_number: "1005"
-title: "Retrieving All Available Line Styles"
-slug: "get_line_styles"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'rooms', 'selection', 'transactions']
-source_file: "1005_get_line_styles.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1005_get_line_styles.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.102285'
+original_url: https://thebuildingcoder.typepad.com/blog/1005_get_line_styles.html
+post_number: '1005'
+reading_time_minutes: 2
+series: general
+slug: get_line_styles
+source_file: 1005_get_line_styles.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- rooms
+- selection
+- transactions
+title: Retrieving All Available Line Styles
+word_count: 363
 ---
 
 ### Retrieving All Available Line Styles

@@ -1,11 +1,24 @@
 ---
-post_number: "1816"
-title: "Wpf Addin Template"
-slug: "wpf_addin_template"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1816_wpf_addin_template.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1816_wpf_addin_template.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.802609'
+original_url: https://thebuildingcoder.typepad.com/blog/1816_wpf_addin_template.html
+post_number: '1816'
+reading_time_minutes: 4
+series: general
+slug: wpf_addin_template
+source_file: 1816_wpf_addin_template.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Wpf Addin Template
+word_count: 743
 ---
 
 ### Revit WPF Add-Ins and Template

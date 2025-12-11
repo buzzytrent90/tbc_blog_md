@@ -1,11 +1,25 @@
 ---
-post_number: "1928"
-title: "New Analytical Model"
-slug: "new_analytical_model"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'revit-api', 'sheets', 'views']
-source_file: "1928_new_analytical_model.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1928_new_analytical_model.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.063300'
+original_url: https://thebuildingcoder.typepad.com/blog/1928_new_analytical_model.html
+post_number: '1928'
+reading_time_minutes: 7
+series: structural
+slug: new_analytical_model
+source_file: 1928_new_analytical_model.md
+tags:
+- elements
+- family
+- filtering
+- revit-api
+- sheets
+- views
+- structural
+title: New Analytical Model
+word_count: 1383
 ---
 
 ### New Analytical Model API

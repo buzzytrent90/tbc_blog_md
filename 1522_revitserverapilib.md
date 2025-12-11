@@ -1,11 +1,24 @@
 ---
-post_number: "1522"
-title: "Revitserverapilib"
-slug: "revitserverapilib"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'sheets']
-source_file: "1522_revitserverapilib.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1522_revitserverapilib.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.211137'
+original_url: https://thebuildingcoder.typepad.com/blog/1522_revitserverapilib.html
+post_number: '1522'
+reading_time_minutes: 3
+series: general
+slug: revitserverapilib
+source_file: 1522_revitserverapilib.md
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- sheets
+title: Revitserverapilib
+word_count: 580
 ---
 
 ### Revit Server API Lib, Truss Members and Layers

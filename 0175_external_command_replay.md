@@ -1,11 +1,22 @@
 ---
-post_number: "0175"
-title: "External Command Replay"
-slug: "external_command_replay"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'views', 'windows']
-source_file: "0175_external_command_replay.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0175_external_command_replay.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.488835'
+original_url: https://thebuildingcoder.typepad.com/blog/0175_external_command_replay.html
+post_number: '0175'
+reading_time_minutes: 1
+series: general
+slug: external_command_replay
+source_file: 0175_external_command_replay.htm
+tags:
+- elements
+- revit-api
+- views
+- windows
+title: External Command Replay
+word_count: 232
 ---
 
 ### External Command Replay

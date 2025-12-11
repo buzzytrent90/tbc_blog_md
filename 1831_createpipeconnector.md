@@ -1,11 +1,27 @@
 ---
-post_number: "1831"
-title: "Createpipeconnector"
-slug: "createpipeconnector"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'windows']
-source_file: "1831_createpipeconnector.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1831_createpipeconnector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.837700'
+original_url: https://thebuildingcoder.typepad.com/blog/1831_createpipeconnector.html
+post_number: '1831'
+reading_time_minutes: 8
+series: mep
+slug: createpipeconnector
+source_file: 1831_createpipeconnector.md
+tags:
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- windows
+- mep
+title: Createpipeconnector
+word_count: 1514
 ---
 
 ### Autorouting and Reference for CreatePipeConnector

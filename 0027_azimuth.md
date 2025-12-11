@@ -1,11 +1,26 @@
 ---
-post_number: "0027"
-title: "Azimuth"
-slug: "azimuth"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'python', 'revit-api', 'selection', 'walls', 'windows']
-source_file: "0027_azimuth.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0027_azimuth.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.253635'
+original_url: https://thebuildingcoder.typepad.com/blog/0027_azimuth.html
+post_number: '0027'
+reading_time_minutes: 4
+series: general
+slug: azimuth
+source_file: 0027_azimuth.htm
+tags:
+- elements
+- filtering
+- geometry
+- python
+- revit-api
+- selection
+- walls
+- windows
+title: Azimuth
+word_count: 768
 ---
 
 ### Azimuth

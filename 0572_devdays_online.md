@@ -1,11 +1,25 @@
 ---
-post_number: "0572"
-title: "DevDays 2010 Online with Revit 2012 API News"
-slug: "devdays_online"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'references', 'revit-api', 'views', 'walls']
-source_file: "0572_devdays_online.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0572_devdays_online.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.195714'
+original_url: https://thebuildingcoder.typepad.com/blog/0572_devdays_online.html
+post_number: '0572'
+reading_time_minutes: 3
+series: general
+slug: devdays_online
+source_file: 0572_devdays_online.htm
+tags:
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- views
+- walls
+title: DevDays 2010 Online with Revit 2012 API News
+word_count: 613
 ---
 
 ### DevDays 2010 Online with Revit 2012 API News

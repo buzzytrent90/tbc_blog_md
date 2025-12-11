@@ -1,11 +1,23 @@
 ---
-post_number: "0635"
-title: "Wall Joins and Geometry"
-slug: "wall_join_geo"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'transactions', 'walls']
-source_file: "0635_wall_join_geo.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0635_wall_join_geo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.303889'
+original_url: https://thebuildingcoder.typepad.com/blog/0635_wall_join_geo.html
+post_number: '0635'
+reading_time_minutes: 3
+series: general
+slug: wall_join_geo
+source_file: 0635_wall_join_geo.htm
+tags:
+- elements
+- geometry
+- revit-api
+- transactions
+- walls
+title: Wall Joins and Geometry
+word_count: 646
 ---
 
 ### Wall Joins and Geometry

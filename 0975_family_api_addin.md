@@ -1,11 +1,29 @@
 ---
-post_number: "0975"
-title: "Family API – Nested Type, Instance and Symbol Retrieval"
-slug: "family_api_addin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'selection', 'transactions', 'windows']
-source_file: "0975_family_api_addin.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0975_family_api_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.031120'
+original_url: https://thebuildingcoder.typepad.com/blog/0975_family_api_addin.html
+post_number: 0975
+reading_time_minutes: 8
+series: family
+slug: family_api_addin
+source_file: 0975_family_api_addin.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+- windows
+title: "Family API \u2013 Nested Type, Instance and Symbol Retrieval"
+word_count: 1604
 ---
 
 ### Family API – Nested Type, Instance and Symbol Retrieval

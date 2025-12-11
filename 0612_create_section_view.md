@@ -1,11 +1,26 @@
 ---
-post_number: "0612"
-title: "Section View Creation"
-slug: "create_section_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'selection', 'views', 'walls']
-source_file: "0612_create_section_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0612_create_section_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.264083'
+original_url: https://thebuildingcoder.typepad.com/blog/0612_create_section_view.html
+post_number: '0612'
+reading_time_minutes: 4
+series: views
+slug: create_section_view
+source_file: 0612_create_section_view.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- selection
+- views
+- walls
+title: Section View Creation
+word_count: 780
 ---
 
 ### Section View Creation

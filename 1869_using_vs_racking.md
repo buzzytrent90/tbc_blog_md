@@ -1,11 +1,25 @@
 ---
-post_number: "1869"
-title: "Using Vs Racking"
-slug: "using_vs_racking"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1869_using_vs_racking.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1869_using_vs_racking.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.929060'
+original_url: https://thebuildingcoder.typepad.com/blog/1869_using_vs_racking.html
+post_number: '1869'
+reading_time_minutes: 5
+series: general
+slug: using_vs_racking
+source_file: 1869_using_vs_racking.md
+tags:
+- csharp
+- family
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Using Vs Racking
+word_count: 951
 ---
 
 ### Avoid Brain Racking by Using Using

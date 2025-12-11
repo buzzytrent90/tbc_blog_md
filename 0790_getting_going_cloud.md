@@ -1,11 +1,26 @@
 ---
-post_number: "0790"
-title: "Getting Going with the Cloud"
-slug: "getting_going_cloud"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'revit-api', 'views', 'windows']
-source_file: "0790_getting_going_cloud.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0790_getting_going_cloud.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.596835'
+original_url: https://thebuildingcoder.typepad.com/blog/0790_getting_going_cloud.html
+post_number: 0790
+reading_time_minutes: 10
+series: general
+slug: getting_going_cloud
+source_file: 0790_getting_going_cloud.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- views
+- windows
+title: Getting Going with the Cloud
+word_count: 1978
 ---
 
 ### Getting Going with the Cloud

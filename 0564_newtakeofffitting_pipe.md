@@ -1,11 +1,25 @@
 ---
-post_number: "0564"
-title: "Use of NewTakeOffFitting on a Pipe"
-slug: "newtakeofffitting_pipe"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'python', 'revit-api', 'transactions']
-source_file: "0564_newtakeofffitting_pipe.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0564_newtakeofffitting_pipe.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.183770'
+original_url: https://thebuildingcoder.typepad.com/blog/0564_newtakeofffitting_pipe.html
+post_number: '0564'
+reading_time_minutes: 4
+series: mep
+slug: newtakeofffitting_pipe
+source_file: 0564_newtakeofffitting_pipe.htm
+tags:
+- elements
+- family
+- filtering
+- python
+- revit-api
+- transactions
+- mep
+title: Use of NewTakeOffFitting on a Pipe
+word_count: 836
 ---
 
 ### Use of NewTakeOffFitting on a Pipe

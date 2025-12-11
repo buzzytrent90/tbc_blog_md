@@ -1,11 +1,26 @@
 ---
-post_number: "1302"
-title: "List All Import Instances"
-slug: "list_import_instance"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "1302_list_import_instance.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1302_list_import_instance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.720277'
+original_url: https://thebuildingcoder.typepad.com/blog/1302_list_import_instance.html
+post_number: '1302'
+reading_time_minutes: 7
+series: elements
+slug: list_import_instance
+source_file: 1302_list_import_instance.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- revit-api
+- selection
+- transactions
+- views
+title: List All Import Instances
+word_count: 1407
 ---
 
 ### List All Import Instances

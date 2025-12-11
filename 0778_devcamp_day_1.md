@@ -1,11 +1,31 @@
 ---
-post_number: "0778"
-title: "DevCamp Day One"
-slug: "devcamp_day_1"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'rooms', 'selection', 'transactions', 'views', 'walls']
-source_file: "0778_devcamp_day_1.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0778_devcamp_day_1.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.573155'
+original_url: https://thebuildingcoder.typepad.com/blog/0778_devcamp_day_1.html
+post_number: 0778
+reading_time_minutes: 8
+series: general
+slug: devcamp_day_1
+source_file: 0778_devcamp_day_1.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- rooms
+- selection
+- transactions
+- views
+- walls
+title: DevCamp Day One
+word_count: 1664
 ---
 
 ### DevCamp Day One

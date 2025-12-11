@@ -1,11 +1,27 @@
 ---
-post_number: "1964"
-title: "Pick Sym Del Estorage"
-slug: "pick_sym_del_estorage"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'revit-api', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1964_pick_sym_del_estorage.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1964_pick_sym_del_estorage.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.144125'
+original_url: https://thebuildingcoder.typepad.com/blog/1964_pick_sym_del_estorage.html
+post_number: '1964'
+reading_time_minutes: 9
+series: general
+slug: pick_sym_del_estorage
+source_file: 1964_pick_sym_del_estorage.md
+tags:
+- elements
+- family
+- filtering
+- revit-api
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Pick Sym Del Estorage
+word_count: 1830
 ---
 
 ### Deleting Storage and Picking a Symbol

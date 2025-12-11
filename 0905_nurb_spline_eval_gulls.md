@@ -1,11 +1,28 @@
 ---
-post_number: "0905"
-title: "Curve Evaluation and Song of the Gulls"
-slug: "nurb_spline_eval_gulls"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "0905_nurb_spline_eval_gulls.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0905_nurb_spline_eval_gulls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.855883'
+original_url: https://thebuildingcoder.typepad.com/blog/0905_nurb_spline_eval_gulls.html
+post_number: 0905
+reading_time_minutes: 6
+series: general
+slug: nurb_spline_eval_gulls
+source_file: 0905_nurb_spline_eval_gulls.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- walls
+title: Curve Evaluation and Song of the Gulls
+word_count: 1150
 ---
 
 ﻿

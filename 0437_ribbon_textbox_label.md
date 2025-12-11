@@ -1,11 +1,21 @@
 ---
-post_number: "0437"
-title: "Simulating a Ribbon Textbox Label"
-slug: "ribbon_textbox_label"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api']
-source_file: "0437_ribbon_textbox_label.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0437_ribbon_textbox_label.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.945207'
+original_url: https://thebuildingcoder.typepad.com/blog/0437_ribbon_textbox_label.html
+post_number: '0437'
+reading_time_minutes: 5
+series: general
+slug: ribbon_textbox_label
+source_file: 0437_ribbon_textbox_label.htm
+tags:
+- csharp
+- levels
+- revit-api
+title: Simulating a Ribbon Textbox Label
+word_count: 1004
 ---
 
 ### Simulating a Ribbon Textbox Label

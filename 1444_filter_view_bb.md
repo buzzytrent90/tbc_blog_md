@@ -1,11 +1,25 @@
 ---
-post_number: "1444"
-title: "The Building Coder"
-slug: "filter_view_bb"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'revit-api', 'sheets', 'views']
-source_file: "1444_filter_view_bb.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1444_filter_view_bb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.038415'
+original_url: https://thebuildingcoder.typepad.com/blog/1444_filter_view_bb.html
+post_number: '1444'
+reading_time_minutes: 2
+series: filtering
+slug: filter_view_bb
+source_file: 1444_filter_view_bb.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- sheets
+- views
+title: The Building Coder
+word_count: 405
 ---
 
 ### Filtering for View Specific Elements

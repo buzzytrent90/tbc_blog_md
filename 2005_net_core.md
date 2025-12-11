@@ -1,11 +1,28 @@
 ---
-post_number: "2005"
-title: "Net Core"
-slug: "net_core"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "2005_net_core.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2005_net_core.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.251333'
+original_url: https://thebuildingcoder.typepad.com/blog/2005_net_core.html
+post_number: '2005'
+reading_time_minutes: 13
+series: general
+slug: net_core
+source_file: 2005_net_core.md
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Net Core
+word_count: 2683
 ---
 
 ### 15 Years, Polygon Areas and .NET Core

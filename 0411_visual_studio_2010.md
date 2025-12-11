@@ -1,11 +1,23 @@
 ---
-post_number: "0411"
-title: "Visual Studio 2010 and the .NET Framework"
-slug: "visual_studio_2010"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'vbnet']
-source_file: "0411_visual_studio_2010.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0411_visual_studio_2010.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.905029'
+original_url: https://thebuildingcoder.typepad.com/blog/0411_visual_studio_2010.html
+post_number: '0411'
+reading_time_minutes: 2
+series: general
+slug: visual_studio_2010
+source_file: 0411_visual_studio_2010.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- vbnet
+title: Visual Studio 2010 and the .NET Framework
+word_count: 476
 ---
 
 ### Visual Studio 2010 and the .NET Framework

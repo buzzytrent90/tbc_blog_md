@@ -1,11 +1,21 @@
 ---
-post_number: "0414"
-title: "Ribon Tab Context Toggle"
-slug: "ribbon_context_tab_toggle"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'selection']
-source_file: "0414_ribbon_context_tab_toggle.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0414_ribbon_context_tab_toggle.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.910136'
+original_url: https://thebuildingcoder.typepad.com/blog/0414_ribbon_context_tab_toggle.html
+post_number: '0414'
+reading_time_minutes: 1
+series: general
+slug: ribbon_context_tab_toggle
+source_file: 0414_ribbon_context_tab_toggle.htm
+tags:
+- elements
+- revit-api
+- selection
+title: Ribon Tab Context Toggle
+word_count: 136
 ---
 
 ### Ribon Tab Context Toggle

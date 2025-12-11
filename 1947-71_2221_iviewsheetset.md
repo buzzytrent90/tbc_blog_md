@@ -1,0 +1,110 @@
+---
+author: Jeremy Tammik
+optimization_date: '2025-12-11T11:24:42.761311'
+original_url: https://thebuildingcoder.typepad.com/blog/1947_whats_new_2023.html
+parent_post: 1947_whats_new_2023.md
+part_number: '71'
+part_total: '71'
+post_number: '1947'
+series: geometry
+slug: whats_new_2023_2.22.1._iviewsheetset
+source_file: 1947_whats_new_2023.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- views
+- walls
+title: API Changes - 2.22.1. IViewSheetSet
+word_count: 170
+---
+
+### 2.22.1. IViewSheetSet
+
+Autodesk.Revit.DB.IViewSheetSet now supports ordered view sheet list inside. You can now access or arrange the list utilizing the new APIs. Lists can be ordered either automatically or manually, which is controlled by the property IViewSheetSet.IsAutomatic. If the list in under automatic mode, the list will be ordered by Sheet/View organization. You can set them with IViewSheetSet.SheetOrganizationId and IViewSheetSet.ViewOrganizationId. For Manual ordering, you can set IViewSheetSet.OrderedViewList.
+- IViewSheetSet.OrderedViewList – Views and sheets ids in order. The order is affected by Sheet/ViewOrganizationId and IsAutomatic. Throws Autodesk.Revit.Exceptions.ArgumentNullException when the input ordered view list is null.
+- IViewSheetSet.SheetOrganizationId – Autodesk.Revit.DB.ElementId to the Autodesk.Revit.DB.BrowserOrganzation for sheets. If IViewSheetSet.IsAutomatic is true, Sheets will be ordered by SheetOrganization.
+- IViewSheetSet.ViewOrganizationId – Autodesk.Revit.DB.ElementId to the Autodesk.Revit.DB.BrowserOrganzation for non-sheet views. If IViewSheetSet.IsAutomatic is true, Views will be ordered by ViewOrganization.
+- IViewSheetSet.IsAutomatic: bool – Represents automatic or manual ordering of the list.
+---
+
+## Related Sections
+- [API Changes - What's New in the Revit 2023 API](./1947-01_whats_new_in_the_revit_2023_api.md)
+- [API Changes - 1.2.1. Analytical Model classes](./1947-02_121_analytical_model_classes.md)
+- [API Changes - 1.2.2. Analytical Models classes additions](./1947-03_122_analytical_models_classes_additions.md)
+- [API Changes - 1.2.3. Analytical Model enums](./1947-04_123_analytical_model_enums.md)
+- [API Changes - 1.2.4. Element](./1947-05_124_element.md)
+- [API Changes - 1.2.5. StructuralSettings](./1947-06_125_structuralsettings.md)
+- [API Changes - 1.2.6. Line Load, Area Load, Point Load](./1947-07_126_line_load_area_load_point_load.md)
+- [API Changes - 1.2.7. Load Base](./1947-08_127_load_base.md)
+- [API Changes - 1.2.8. Boundary Conditions](./1947-09_128_boundary_conditions.md)
+- [API Changes - 1.3.1. Bounding Box](./1947-10_131_bounding_box.md)
+- [API Changes - 1.3.2. Geometry Instance](./1947-11_132_geometry_instance.md)
+- [API Changes - 1.7.1. Reinforcement Elements](./1947-12_171_reinforcement_elements.md)
+- [API Changes - 1.9.1. Classes](./1947-13_191_classes.md)
+- [API Changes - 1.9.2. Methods](./1947-14_192_methods.md)
+- [API Changes - 1.9.3. Properties](./1947-15_193_properties.md)
+- [API Changes - 1.9.4. Enums](./1947-16_194_enums.md)
+- [API Changes - 2.1.1. Schedule heights on sheets](./1947-17_211_schedule_heights_on_sheets.md)
+- [API Changes - 2.1.2. Managing schedule segments](./1947-18_212_managing_schedule_segments.md)
+- [API Changes - 2.1.3. ScheduleDefinition](./1947-19_213_scheduledefinition.md)
+- [API Changes - 2.2.1. Delete Workset API](./1947-20_221_delete_workset_api.md)
+- [API Changes - 2.3.1. Bounding Box API](./1947-21_231_bounding_box_api.md)
+- [API Changes - 2.3.2. Geometry managed by symbol element](./1947-22_232_geometry_managed_by_symbol_element.md)
+- [API Changes - 2.4.1. Type assignability](./1947-23_241_type_assignability.md)
+- [API Changes - 2.5.1. AXM Import](./1947-24_251_axm_import.md)
+- [API Changes - 2.5.2. OBJ Export](./1947-25_252_obj_export.md)
+- [API Changes - 2.5.3. STL and OBJ Import & Link](./1947-26_253_stl_and_obj_import_link.md)
+- [API Changes - 2.5.4. ShapeImporter API additions](./1947-27_254_shapeimporter_api_additions.md)
+- [API Changes - 2.6.1. Duplicating Sheets](./1947-28_261_duplicating_sheets.md)
+- [API Changes - 2.6.2. Transforming from Model Space to View Projection Space](./1947-29_262_transforming_from_model_space_to_view_projecti.md)
+- [API Changes - 2.6.3. Transforming from View Projection Space to Sheet Space](./1947-30_263_transforming_from_view_projection_space_to_she.md)
+- [API Changes - 2.6.4. View Placement on Sheet](./1947-31_264_view_placement_on_sheet.md)
+- [API Changes - 2.6.5. Swapping viewports on sheets to another view](./1947-32_265_swapping_viewports_on_sheets_to_another_view.md)
+- [API Changes - 2.7.1. Load classification API](./1947-33_271_load_classification_api.md)
+- [API Changes - 2.7.2. Panel schedule API](./1947-34_272_panel_schedule_api.md)
+- [API Changes - 2.7.3. Electrical analytical node API](./1947-35_273_electrical_analytical_node_api.md)
+- [API Changes - 2.7.4. Bus data API](./1947-36_274_bus_data_api.md)
+- [API Changes - 2.7.5. Distribution node property data API](./1947-37_275_distribution_node_property_data_api.md)
+- [API Changes - 2.7.6. Equipment load data API](./1947-38_276_equipment_load_data_api.md)
+- [API Changes - 2.7.7. Area based load type API](./1947-39_277_area_based_load_type_api.md)
+- [API Changes - 2.7.8. Area based load data API](./1947-40_278_area_based_load_data_api.md)
+- [API Changes - 2.7.9. Electrical load area data API](./1947-41_279_electrical_load_area_data_api.md)
+- [API Changes - 2.7.10. Area based load boundary line data API](./1947-42_2710_area_based_load_boundary_line_data_api.md)
+- [API Changes - 2.7.11. Analytical transfer switch data API](./1947-43_2711_analytical_transfer_switch_data_api.md)
+- [API Changes - 2.7.12. Analytical Power Source API](./1947-44_2712_analytical_power_source_api.md)
+- [API Changes - 2.9.1. Converting strings to ElementId](./1947-45_291_converting_strings_to_elementid.md)
+- [API Changes - 2.10.1. IsModifiable property](./1947-46_2101_ismodifiable_property.md)
+- [API Changes - 2.10.2. Elements with multiple ExternalResourceReferences](./1947-47_2102_elements_with_multiple_externalresourcerefere.md)
+- [API Changes - 2.10.3. Category](./1947-48_2103_category.md)
+- [API Changes - 2.11.1. Elements changed since a previous version](./1947-49_2111_elements_changed_since_a_previous_version.md)
+- [API Changes - 2.12.1. Tag Leader API](./1947-50_2121_tag_leader_api.md)
+- [API Changes - 2.15.1. Application.ShowGraphicalOpenEndsAreaBasedLoadBoundaryDisconnects](./1947-51_2151_applicationshowgraphicalopenendsareabasedload.md)
+- [API Changes - 2.16.1. Editing Sketches with SketchEditScope](./1947-52_2161_editing_sketches_with_sketcheditscope.md)
+- [API Changes - 2.16.2. Dimension creation in Sketch Edit mode](./1947-53_2162_dimension_creation_in_sketch_edit_mode.md)
+- [API Changes - 2.16.3. Filled Region for sketch plane](./1947-54_2163_filled_region_for_sketch_plane.md)
+- [API Changes - 2.16.4. Boundary Validation for sketched elements](./1947-55_2164_boundary_validation_for_sketched_elements.md)
+- [API Changes - 2.17.1. BrowserOrganization](./1947-56_2171_browserorganization.md)
+- [API Changes - 2.17.2. ProjectBrowserOptions](./1947-57_2172_projectbrowseroptions.md)
+- [API Changes - 2.18.1. Line Load](./1947-58_2181_line_load.md)
+- [API Changes - 2.18.2. Area Load](./1947-59_2182_area_load.md)
+- [API Changes - 2.18.3. Point Load](./1947-60_2183_point_load.md)
+- [API Changes - 2.18.4. RebarPropagation](./1947-61_2184_rebarpropagation.md)
+- [API Changes - 2.18.5. RebarHostData](./1947-62_2185_rebarhostdata.md)
+- [API Changes - 2.18.6. RebarCoupler](./1947-63_2186_rebarcoupler.md)
+- [API Changes - 2.19.1. Selection](./1947-64_2191_selection.md)
+- [API Changes - 2.19.2. UIApplication](./1947-65_2192_uiapplication.md)
+- [API Changes - 2.19.3. Events](./1947-66_2193_events.md)
+- [API Changes - 2.20.1. ConnectorElement](./1947-67_2201_connectorelement.md)
+- [API Changes - 2.20.2. SpatialElement](./1947-68_2202_spatialelement.md)
+- [API Changes - 2.20.3. Flipping fabrication parts](./1947-69_2203_flipping_fabrication_parts.md)
+- [API Changes - 2.21.1. ParameterUtils](./1947-70_2211_parameterutils.md)

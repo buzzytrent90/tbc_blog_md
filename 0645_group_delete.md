@@ -1,11 +1,24 @@
 ---
-post_number: "0645"
-title: "Deleting a Group"
-slug: "group_delete"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'selection', 'transactions']
-source_file: "0645_group_delete.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0645_group_delete.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.322718'
+original_url: https://thebuildingcoder.typepad.com/blog/0645_group_delete.html
+post_number: '0645'
+reading_time_minutes: 1
+series: general
+slug: group_delete
+source_file: 0645_group_delete.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- selection
+- transactions
+title: Deleting a Group
+word_count: 273
 ---
 
 ### Deleting a Group

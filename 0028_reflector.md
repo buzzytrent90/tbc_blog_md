@@ -1,11 +1,21 @@
 ---
-post_number: "0028"
-title: "Converting between VB and C#, and .NET Decompilation"
-slug: "reflector"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'vbnet']
-source_file: "0028_reflector.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0028_reflector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.255707'
+original_url: https://thebuildingcoder.typepad.com/blog/0028_reflector.html
+post_number: 0028
+reading_time_minutes: 3
+series: general
+slug: reflector
+source_file: 0028_reflector.htm
+tags:
+- csharp
+- revit-api
+- vbnet
+title: Converting between VB and C#, and .NET Decompilation
+word_count: 510
 ---
 
 ### Converting between VB and C#, and .NET Decompilation

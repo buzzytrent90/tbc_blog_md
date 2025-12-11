@@ -1,11 +1,23 @@
 ---
-post_number: "1711"
-title: "Dimension Line Weight"
-slug: "dimension_line_weight"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1711_dimension_line_weight.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1711_dimension_line_weight.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.582517'
+original_url: https://thebuildingcoder.typepad.com/blog/1711_dimension_line_weight.html
+post_number: '1711'
+reading_time_minutes: 1
+series: general
+slug: dimension_line_weight
+source_file: 1711_dimension_line_weight.md
+tags:
+- elements
+- parameters
+- revit-api
+- sheets
+- views
+title: Dimension Line Weight
+word_count: 212
 ---
 
 ### Accessing Dimension Line Weight

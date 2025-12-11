@@ -1,11 +1,24 @@
 ---
-post_number: "1464"
-title: "The Building Coder"
-slug: "instance_geom_coord"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'references', 'revit-api', 'sheets']
-source_file: "1464_instance_geom_coord.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1464_instance_geom_coord.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.082743'
+original_url: https://thebuildingcoder.typepad.com/blog/1464_instance_geom_coord.html
+post_number: '1464'
+reading_time_minutes: 6
+series: elements
+slug: instance_geom_coord
+source_file: 1464_instance_geom_coord.md
+tags:
+- elements
+- family
+- geometry
+- references
+- revit-api
+- sheets
+title: The Building Coder
+word_count: 1298
 ---
 
 ### Voodoo Magic Retrieves Global Instance Edges

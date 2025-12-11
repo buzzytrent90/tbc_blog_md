@@ -1,11 +1,24 @@
 ---
-post_number: "1819"
-title: "Torsion Tools"
-slug: "torsion_tools"
-author: "Jeremy Tammik"
-tags: ['geometry', 'references', 'revit-api', 'schedules', 'sheets', 'views']
-source_file: "1819_torsion_tools.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1819_torsion_tools.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.809491'
+original_url: https://thebuildingcoder.typepad.com/blog/1819_torsion_tools.html
+post_number: '1819'
+reading_time_minutes: 4
+series: general
+slug: torsion_tools
+source_file: 1819_torsion_tools.md
+tags:
+- geometry
+- references
+- revit-api
+- schedules
+- sheets
+- views
+title: Torsion Tools
+word_count: 744
 ---
 
 ### Ini File, Localisation and Torsion Tools Two

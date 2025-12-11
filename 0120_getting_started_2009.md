@@ -1,11 +1,23 @@
 ---
-post_number: "0120"
-title: "Getting Started with the Revit 2009 API"
-slug: "getting_started_2009"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'schedules', 'views']
-source_file: "0120_getting_started_2009.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0120_getting_started_2009.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.397796'
+original_url: https://thebuildingcoder.typepad.com/blog/0120_getting_started_2009.html
+post_number: '0120'
+reading_time_minutes: 4
+series: getting_started
+slug: getting_started_2009
+source_file: 0120_getting_started_2009.htm
+tags:
+- elements
+- revit-api
+- schedules
+- views
+- getting_started
+title: Getting Started with the Revit 2009 API
+word_count: 858
 ---
 
 ### Getting Started with the Revit 2009 API

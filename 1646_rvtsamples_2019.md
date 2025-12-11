@@ -1,11 +1,21 @@
 ---
-post_number: "1646"
-title: "Rvtsamples 2019"
-slug: "rvtsamples_2019"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets', 'vbnet']
-source_file: "1646_rvtsamples_2019.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1646_rvtsamples_2019.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: news
+optimization_date: '2025-12-11T11:44:16.454576'
+original_url: https://thebuildingcoder.typepad.com/blog/1646_rvtsamples_2019.html
+post_number: '1646'
+reading_time_minutes: 2
+series: general
+slug: rvtsamples_2019
+source_file: 1646_rvtsamples_2019.md
+tags:
+- revit-api
+- sheets
+- vbnet
+title: Rvtsamples 2019
+word_count: 303
 ---
 
 ### RvtSamples 2019

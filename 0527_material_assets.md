@@ -1,11 +1,25 @@
 ---
-post_number: "0527"
-title: "Material Assets and FBX"
-slug: "material_assets"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'parameters', 'revit-api', 'walls']
-source_file: "0527_material_assets.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0527_material_assets.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.107736'
+original_url: https://thebuildingcoder.typepad.com/blog/0527_material_assets.html
+post_number: '0527'
+reading_time_minutes: 5
+series: materials
+slug: material_assets
+source_file: 0527_material_assets.htm
+tags:
+- elements
+- geometry
+- levels
+- parameters
+- revit-api
+- walls
+- materials
+title: Material Assets and FBX
+word_count: 935
 ---
 
 ### Material Assets and FBX

@@ -1,11 +1,29 @@
 ---
-post_number: "0666"
-title: "Retrieving Detailed Wall Layer Geometry"
-slug: "wall_layer_geom"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "0666_wall_layer_geom.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0666_wall_layer_geom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.359289'
+original_url: https://thebuildingcoder.typepad.com/blog/0666_wall_layer_geom.html
+post_number: '0666'
+reading_time_minutes: 7
+series: general
+slug: wall_layer_geom
+source_file: 0666_wall_layer_geom.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: Retrieving Detailed Wall Layer Geometry
+word_count: 1415
 ---
 
 ### Retrieving Detailed Wall Layer Geometry

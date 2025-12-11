@@ -1,11 +1,22 @@
 ---
-post_number: "1212"
-title: "Job Opportunities, Events, Plans and Planes"
-slug: "job_event_plan_plane"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'views', 'windows']
-source_file: "1212_job_event_plan_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1212_job_event_plan_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.520930'
+original_url: https://thebuildingcoder.typepad.com/blog/1212_job_event_plan_plane.html
+post_number: '1212'
+reading_time_minutes: 5
+series: general
+slug: job_event_plan_plane
+source_file: 1212_job_event_plan_plane.htm
+tags:
+- revit-api
+- schedules
+- views
+- windows
+title: Job Opportunities, Events, Plans and Planes
+word_count: 1028
 ---
 
 ### Job Opportunities, Events, Plans and Planes

@@ -1,11 +1,27 @@
 ---
-post_number: "2038"
-title: "Highlight Link"
-slug: "highlight_link"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "2038_highlight_link.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2038_highlight_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.336263'
+original_url: https://thebuildingcoder.typepad.com/blog/2038_highlight_link.html
+post_number: '2038'
+reading_time_minutes: 8
+series: general
+slug: highlight_link
+source_file: 2038_highlight_link.md
+tags:
+- elements
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Highlight Link
+word_count: 1633
 ---
 
 ### Lengthen Ducts and Highlight Links

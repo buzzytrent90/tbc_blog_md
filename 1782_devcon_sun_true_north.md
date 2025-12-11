@@ -1,11 +1,27 @@
 ---
-post_number: "1782"
-title: "Devcon Sun True North"
-slug: "devcon_sun_true_north"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1782_devcon_sun_true_north.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1782_devcon_sun_true_north.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.737309'
+original_url: https://thebuildingcoder.typepad.com/blog/1782_devcon_sun_true_north.html
+post_number: '1782'
+reading_time_minutes: 8
+series: general
+slug: devcon_sun_true_north
+source_file: 1782_devcon_sun_true_north.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: Devcon Sun True North
+word_count: 1562
 ---
 
 ### DevCon, Sun with True North and RVT without Revit

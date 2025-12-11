@@ -1,11 +1,26 @@
 ---
-post_number: "1412"
-title: "Trial Entitlement"
-slug: "trial_entitlement"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'python', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1412_trial_entitlement.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1412_trial_entitlement.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.964223'
+original_url: https://thebuildingcoder.typepad.com/blog/1412_trial_entitlement.html
+post_number: '1412'
+reading_time_minutes: 5
+series: general
+slug: trial_entitlement
+source_file: 1412_trial_entitlement.md
+tags:
+- csharp
+- elements
+- family
+- python
+- revit-api
+- sheets
+- views
+- walls
+title: Trial Entitlement
+word_count: 1060
 ---
 
 ### Entitlement API, Trial Period and Floating License

@@ -1,11 +1,24 @@
 ---
-post_number: "1203"
-title: "Custom Exporter GetCameraInfo"
-slug: "custom_exporter_camera"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'views']
-source_file: "1203_custom_exporter_camera.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1203_custom_exporter_camera.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.503469'
+original_url: https://thebuildingcoder.typepad.com/blog/1203_custom_exporter_camera.html
+post_number: '1203'
+reading_time_minutes: 1
+series: general
+slug: custom_exporter_camera
+source_file: 1203_custom_exporter_camera.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- views
+title: Custom Exporter GetCameraInfo
+word_count: 281
 ---
 
 ### Custom Exporter GetCameraInfo

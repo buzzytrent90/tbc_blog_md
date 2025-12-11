@@ -1,11 +1,23 @@
 ---
-post_number: "0232"
-title: "Namespaces"
-slug: "namespaces"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'references', 'revit-api']
-source_file: "0232_namespaces.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0232_namespaces.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.593450'
+original_url: https://thebuildingcoder.typepad.com/blog/0232_namespaces.html
+post_number: '0232'
+reading_time_minutes: 2
+series: general
+slug: namespaces
+source_file: 0232_namespaces.htm
+tags:
+- csharp
+- elements
+- levels
+- references
+- revit-api
+title: Namespaces
+word_count: 475
 ---
 
 ### Namespaces

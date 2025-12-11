@@ -1,11 +1,22 @@
 ---
-post_number: "0758"
-title: "Edit Family Requires No Transaction"
-slug: "edit_family"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'revit-api', 'transactions']
-source_file: "0758_edit_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0758_edit_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.533032'
+original_url: https://thebuildingcoder.typepad.com/blog/0758_edit_family.html
+post_number: 0758
+reading_time_minutes: 2
+series: family
+slug: edit_family
+source_file: 0758_edit_family.htm
+tags:
+- csharp
+- family
+- revit-api
+- transactions
+title: Edit Family Requires No Transaction
+word_count: 359
 ---
 
 ### Edit Family Requires No Transaction

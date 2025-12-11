@@ -1,11 +1,20 @@
 ---
-post_number: "0265"
-title: "AU is not done yet"
-slug: "au_materials"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0265_au_materials.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0265_au_materials.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: news
+optimization_date: '2025-12-11T11:44:13.644733'
+original_url: https://thebuildingcoder.typepad.com/blog/0265_au_materials.html
+post_number: '0265'
+reading_time_minutes: 1
+series: materials
+slug: au_materials
+source_file: 0265_au_materials.htm
+tags:
+- revit-api
+- materials
+title: AU is not done yet
+word_count: 153
 ---
 
 ### AU is not done yet

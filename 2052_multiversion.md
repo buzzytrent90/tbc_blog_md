@@ -1,11 +1,30 @@
 ---
-post_number: "2052"
-title: "Multiversion"
-slug: "multiversion"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "2052_multiversion.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2052_multiversion.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.370298'
+original_url: https://thebuildingcoder.typepad.com/blog/2052_multiversion.html
+post_number: '2052'
+reading_time_minutes: 9
+series: general
+slug: multiversion
+source_file: 2052_multiversion.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Multiversion
+word_count: 1877
 ---
 
 ### Element Visibility and Multi-Version Add-In Code Base

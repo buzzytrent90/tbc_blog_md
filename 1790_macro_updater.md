@@ -1,11 +1,27 @@
 ---
-post_number: "1790"
-title: "Macro Updater"
-slug: "macro_updater"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'selection', 'sheets', 'transactions', 'walls']
-source_file: "1790_macro_updater.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1790_macro_updater.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.750932'
+original_url: https://thebuildingcoder.typepad.com/blog/1790_macro_updater.html
+post_number: '1790'
+reading_time_minutes: 5
+series: general
+slug: macro_updater
+source_file: 1790_macro_updater.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- selection
+- sheets
+- transactions
+- walls
+title: Macro Updater
+word_count: 914
 ---
 
 ### Dynamic Model Updater Macro

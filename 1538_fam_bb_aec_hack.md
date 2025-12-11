@@ -1,11 +1,26 @@
 ---
-post_number: "1538"
-title: "Fam Bb Aec Hack"
-slug: "fam_bb_aec_hack"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1538_fam_bb_aec_hack.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1538_fam_bb_aec_hack.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.244569'
+original_url: https://thebuildingcoder.typepad.com/blog/1538_fam_bb_aec_hack.html
+post_number: '1538'
+reading_time_minutes: 7
+series: general
+slug: fam_bb_aec_hack
+source_file: 1538_fam_bb_aec_hack.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- revit-api
+- rooms
+- sheets
+- views
+title: Fam Bb Aec Hack
+word_count: 1388
 ---
 
 ### Family Bounding Box and AEC Hackathon Munich

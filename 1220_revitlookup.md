@@ -1,11 +1,25 @@
 ---
-post_number: "1220"
-title: "Past, Future, Frameworks, RevitLookup and Hackathon"
-slug: "revitlookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'selection', 'views']
-source_file: "1220_revitlookup.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1220_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.537108'
+original_url: https://thebuildingcoder.typepad.com/blog/1220_revitlookup.html
+post_number: '1220'
+reading_time_minutes: 6
+series: general
+slug: revitlookup
+source_file: 1220_revitlookup.htm
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- selection
+- views
+title: Past, Future, Frameworks, RevitLookup and Hackathon
+word_count: 1281
 ---
 
 ### Past, Future, Frameworks, RevitLookup and Hackathon

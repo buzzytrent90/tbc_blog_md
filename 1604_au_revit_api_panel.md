@@ -1,11 +1,32 @@
 ---
-post_number: "1604"
-title: "Au Revit Api Panel"
-slug: "au_revit_api_panel"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1604_au_revit_api_panel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1604_au_revit_api_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.376468'
+original_url: https://thebuildingcoder.typepad.com/blog/1604_au_revit_api_panel.html
+post_number: '1604'
+reading_time_minutes: 9
+series: general
+slug: au_revit_api_panel
+source_file: 1604_au_revit_api_panel.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Au Revit Api Panel
+word_count: 1759
 ---
 
 ### Revit API Panel @ AU Las Vegas 2017

@@ -1,11 +1,27 @@
 ---
-post_number: "1527"
-title: "Mep Connector Number"
-slug: "mep_connector_number"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'windows']
-source_file: "1527_mep_connector_number.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1527_mep_connector_number.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.223280'
+original_url: https://thebuildingcoder.typepad.com/blog/1527_mep_connector_number.html
+post_number: '1527'
+reading_time_minutes: 4
+series: mep
+slug: mep_connector_number
+source_file: 1527_mep_connector_number.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- windows
+- mep
+title: Mep Connector Number
+word_count: 890
 ---
 
 ### Revit MEP Connector Number

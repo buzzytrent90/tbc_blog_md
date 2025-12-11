@@ -1,11 +1,31 @@
 ---
-post_number: "1046"
-title: "Determining Room Boundary Segment Generating Element"
-slug: "boundary_seg_elem"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'python', 'references', 'revit-api', 'rooms', 'selection', 'views', 'walls', 'windows']
-source_file: "1046_boundary_seg_elem.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1046_boundary_seg_elem.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.188003'
+original_url: https://thebuildingcoder.typepad.com/blog/1046_boundary_seg_elem.html
+post_number: '1046'
+reading_time_minutes: 10
+series: general
+slug: boundary_seg_elem
+source_file: 1046_boundary_seg_elem.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- python
+- references
+- revit-api
+- rooms
+- selection
+- views
+- walls
+- windows
+title: Determining Room Boundary Segment Generating Element
+word_count: 2091
 ---
 
 ### Determining Room Boundary Segment Generating Element

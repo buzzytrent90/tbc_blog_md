@@ -1,11 +1,34 @@
 ---
-post_number: "1360"
-title: "Revitlookup"
-slug: "revitlookup"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1360_revitlookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1360_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.847509'
+original_url: https://thebuildingcoder.typepad.com/blog/1360_revitlookup.html
+post_number: '1360'
+reading_time_minutes: 13
+series: general
+slug: revitlookup
+source_file: 1360_revitlookup.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+title: Revitlookup
+word_count: 2526
 ---
 
 ### SVG, In-Memory Family, RevitLookup BoundingBox

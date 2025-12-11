@@ -1,11 +1,23 @@
 ---
-post_number: "1051"
-title: "Mapping Display Unit Type to Unit Types"
-slug: "displayunittype"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets', 'views']
-source_file: "1051_displayunittype.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1051_displayunittype.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.200059'
+original_url: https://thebuildingcoder.typepad.com/blog/1051_displayunittype.html
+post_number: '1051'
+reading_time_minutes: 6
+series: elements
+slug: displayunittype
+source_file: 1051_displayunittype.htm
+tags:
+- csharp
+- revit-api
+- sheets
+- views
+- elements
+title: Mapping Display Unit Type to Unit Types
+word_count: 1242
 ---
 
 ### Mapping Display Unit Type to Unit Types

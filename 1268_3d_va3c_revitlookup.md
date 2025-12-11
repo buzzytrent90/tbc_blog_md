@@ -1,11 +1,26 @@
 ---
-post_number: "1268"
-title: "3D Viewing, vA3C and RevitLookup Updates"
-slug: "3d_va3c_revitlookup"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'views', 'walls', 'windows']
-source_file: "1268_3d_va3c_revitlookup.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1268_3d_va3c_revitlookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.641345'
+original_url: https://thebuildingcoder.typepad.com/blog/1268_3d_va3c_revitlookup.html
+post_number: '1268'
+reading_time_minutes: 7
+series: general
+slug: 3d_va3c_revitlookup
+source_file: 1268_3d_va3c_revitlookup.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- views
+- walls
+- windows
+title: 3D Viewing, vA3C and RevitLookup Updates
+word_count: 1446
 ---
 
 ### 3D Viewing, vA3C and RevitLookup Updates

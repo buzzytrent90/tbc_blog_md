@@ -1,11 +1,25 @@
 ---
-post_number: "0084"
-title: "Room and Wall Adjacent Area"
-slug: "room_wall_adjacent_area"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0084_room_wall_adjacent_area.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0084_room_wall_adjacent_area.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.334547'
+original_url: https://thebuildingcoder.typepad.com/blog/0084_room_wall_adjacent_area.html
+post_number: 0084
+reading_time_minutes: 4
+series: general
+slug: room_wall_adjacent_area
+source_file: 0084_room_wall_adjacent_area.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- rooms
+- views
+- walls
+title: Room and Wall Adjacent Area
+word_count: 828
 ---
 
 ### Room and Wall Adjacent Area

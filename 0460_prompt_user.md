@@ -1,11 +1,23 @@
 ---
-post_number: "0460"
-title: "Power to the User (and Application)"
-slug: "prompt_user"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'transactions', 'views']
-source_file: "0460_prompt_user.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0460_prompt_user.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.982524'
+original_url: https://thebuildingcoder.typepad.com/blog/0460_prompt_user.html
+post_number: '0460'
+reading_time_minutes: 3
+series: general
+slug: prompt_user
+source_file: 0460_prompt_user.htm
+tags:
+- elements
+- levels
+- revit-api
+- transactions
+- views
+title: Power to the User (and Application)
+word_count: 527
 ---
 
 ### Power to the User (and Application)

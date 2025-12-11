@@ -1,11 +1,22 @@
 ---
-post_number: "0257"
-title: "Handle Category Name Change"
-slug: "category_name_change"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'selection']
-source_file: "0257_category_name_change.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0257_category_name_change.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.633064'
+original_url: https://thebuildingcoder.typepad.com/blog/0257_category_name_change.html
+post_number: '0257'
+reading_time_minutes: 1
+series: transactions
+slug: category_name_change
+source_file: 0257_category_name_change.htm
+tags:
+- elements
+- revit-api
+- selection
+- transactions
+title: Handle Category Name Change
+word_count: 252
 ---
 
 ### Handle Category Name Change

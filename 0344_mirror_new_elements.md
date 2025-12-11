@@ -1,11 +1,29 @@
 ---
-post_number: "0344"
-title: "Retrieving Newly Created Elements in Revit 2011"
-slug: "mirror_new_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions']
-source_file: "0344_mirror_new_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0344_mirror_new_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.779857'
+original_url: https://thebuildingcoder.typepad.com/blog/0344_mirror_new_elements.html
+post_number: '0344'
+reading_time_minutes: 11
+series: elements
+slug: mirror_new_elements
+source_file: 0344_mirror_new_elements.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+title: Retrieving Newly Created Elements in Revit 2011
+word_count: 2248
 ---
 
 ### Retrieving Newly Created Elements in Revit 2011

@@ -1,11 +1,26 @@
 ---
-post_number: "0176"
-title: "Think Big in Revit"
-slug: "think_big"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'views', 'walls']
-source_file: "0176_think_big.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0176_think_big.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.490777'
+original_url: https://thebuildingcoder.typepad.com/blog/0176_think_big.html
+post_number: '0176'
+reading_time_minutes: 5
+series: general
+slug: think_big
+source_file: 0176_think_big.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- views
+- walls
+title: Think Big in Revit
+word_count: 1000
 ---
 
 ### Think Big in Revit

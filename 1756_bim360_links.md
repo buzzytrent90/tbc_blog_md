@@ -1,11 +1,26 @@
 ---
-post_number: "1756"
-title: "Bim360 Links"
-slug: "bim360_links"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1756_bim360_links.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1756_bim360_links.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.680945'
+original_url: https://thebuildingcoder.typepad.com/blog/1756_bim360_links.html
+post_number: '1756'
+reading_time_minutes: 8
+series: general
+slug: bim360_links
+source_file: 1756_bim360_links.md
+tags:
+- elements
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Bim360 Links
+word_count: 1528
 ---
 
 ### Access BIM360 Cloud Links, Thumbnail and Dynamo

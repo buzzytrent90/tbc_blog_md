@@ -1,11 +1,23 @@
 ---
-post_number: "1812"
-title: "Tutorial Book Insight"
-slug: "tutorial_book_insight"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1812_tutorial_book_insight.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1812_tutorial_book_insight.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.794526'
+original_url: https://thebuildingcoder.typepad.com/blog/1812_tutorial_book_insight.html
+post_number: '1812'
+reading_time_minutes: 4
+series: general
+slug: tutorial_book_insight
+source_file: 1812_tutorial_book_insight.md
+tags:
+- csharp
+- references
+- revit-api
+- sheets
+- views
+title: Tutorial Book Insight
+word_count: 703
 ---
 
 ### C# Book, Chinese Revit API Tutorial and Insight

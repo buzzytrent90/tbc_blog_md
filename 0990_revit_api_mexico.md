@@ -1,11 +1,19 @@
 ---
-post_number: "0990"
-title: "Spanish Revit API Training in Mexico"
-slug: "revit_api_mexico"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0990_revit_api_mexico.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0990_revit_api_mexico.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.069200'
+original_url: https://thebuildingcoder.typepad.com/blog/0990_revit_api_mexico.html
+post_number: 0990
+reading_time_minutes: 1
+series: general
+slug: revit_api_mexico
+source_file: 0990_revit_api_mexico.htm
+tags:
+- revit-api
+title: Spanish Revit API Training in Mexico
+word_count: 126
 ---
 
 ### Spanish Revit API Training in Mexico

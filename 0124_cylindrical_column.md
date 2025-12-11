@@ -1,11 +1,27 @@
 ---
-post_number: "0124"
-title: "Cylindrical Column"
-slug: "cylindrical_column"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'selection', 'walls']
-source_file: "0124_cylindrical_column.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0124_cylindrical_column.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.401895'
+original_url: https://thebuildingcoder.typepad.com/blog/0124_cylindrical_column.html
+post_number: '0124'
+reading_time_minutes: 5
+series: structural
+slug: cylindrical_column
+source_file: 0124_cylindrical_column.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- selection
+- walls
+- structural
+title: Cylindrical Column
+word_count: 1097
 ---
 
 ### Cylindrical Column

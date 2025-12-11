@@ -1,11 +1,26 @@
 ---
-post_number: "1200"
-title: "How to Remove a Shared Parameter Definition"
-slug: "del_shared_param_def"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'transactions', 'views']
-source_file: "1200_del_shared_param_def.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1200_del_shared_param_def.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.497168'
+original_url: https://thebuildingcoder.typepad.com/blog/1200_del_shared_param_def.html
+post_number: '1200'
+reading_time_minutes: 3
+series: general
+slug: del_shared_param_def
+source_file: 1200_del_shared_param_def.htm
+tags:
+- elements
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- transactions
+- views
+title: How to Remove a Shared Parameter Definition
+word_count: 591
 ---
 
 ### How to Remove a Shared Parameter Definition

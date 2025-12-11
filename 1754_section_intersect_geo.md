@@ -1,11 +1,32 @@
 ---
-post_number: "1754"
-title: "Section Intersect Geo"
-slug: "section_intersect_geo"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1754_section_intersect_geo.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1754_section_intersect_geo.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.674369'
+original_url: https://thebuildingcoder.typepad.com/blog/1754_section_intersect_geo.html
+post_number: '1754'
+reading_time_minutes: 9
+series: general
+slug: section_intersect_geo
+source_file: 1754_section_intersect_geo.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Section Intersect Geo
+word_count: 1794
 ---
 
 ### Retrieving Section View Intersection Cut Geometry

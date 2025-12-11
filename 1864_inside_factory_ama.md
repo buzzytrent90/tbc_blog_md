@@ -1,11 +1,20 @@
 ---
-post_number: "1864"
-title: "Inside Factory Ama"
-slug: "inside_factory_ama"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1864_inside_factory_ama.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1864_inside_factory_ama.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.920506'
+original_url: https://thebuildingcoder.typepad.com/blog/1864_inside_factory_ama.html
+post_number: '1864'
+reading_time_minutes: 2
+series: general
+slug: inside_factory_ama
+source_file: 1864_inside_factory_ama.md
+tags:
+- revit-api
+- sheets
+title: Inside Factory Ama
+word_count: 313
 ---
 
 ### Inside the Factory – Ask me Anything

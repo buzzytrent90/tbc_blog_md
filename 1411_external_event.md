@@ -1,11 +1,28 @@
 ---
-post_number: "1411"
-title: "External Event"
-slug: "external_event"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1411_external_event.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1411_external_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.961864'
+original_url: https://thebuildingcoder.typepad.com/blog/1411_external_event.html
+post_number: '1411'
+reading_time_minutes: 12
+series: general
+slug: external_event
+source_file: 1411_external_event.md
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: External Event
+word_count: 2319
 ---
 
 ### Implementing the TrackChangesCloud External Event

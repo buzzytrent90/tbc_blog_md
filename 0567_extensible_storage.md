@@ -1,11 +1,25 @@
 ---
-post_number: "0567"
-title: "Extensible Storage"
-slug: "extensible_storage"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'parameters', 'revit-api', 'transactions', 'walls']
-source_file: "0567_extensible_storage.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0567_extensible_storage.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.188256'
+original_url: https://thebuildingcoder.typepad.com/blog/0567_extensible_storage.html
+post_number: '0567'
+reading_time_minutes: 4
+series: general
+slug: extensible_storage
+source_file: 0567_extensible_storage.htm
+tags:
+- csharp
+- elements
+- levels
+- parameters
+- revit-api
+- transactions
+- walls
+title: Extensible Storage
+word_count: 780
 ---
 
 ### Extensible Storage

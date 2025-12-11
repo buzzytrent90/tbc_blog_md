@@ -1,11 +1,22 @@
 ---
-post_number: "0103"
-title: "Getting the Journal File Path"
-slug: "journal_file_path"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'views']
-source_file: "0103_journal_file_path.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0103_journal_file_path.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.367069'
+original_url: https://thebuildingcoder.typepad.com/blog/0103_journal_file_path.html
+post_number: '0103'
+reading_time_minutes: 2
+series: general
+slug: journal_file_path
+source_file: 0103_journal_file_path.htm
+tags:
+- csharp
+- references
+- revit-api
+- views
+title: Getting the Journal File Path
+word_count: 481
 ---
 
 ### Getting the Journal File Path

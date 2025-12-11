@@ -1,11 +1,22 @@
 ---
-post_number: "0261"
-title: "AU Winds Down"
-slug: "au_winds_down"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'views']
-source_file: "0261_au_winds_down.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0261_au_winds_down.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.638594'
+original_url: https://thebuildingcoder.typepad.com/blog/0261_au_winds_down.html
+post_number: '0261'
+reading_time_minutes: 2
+series: general
+slug: au_winds_down
+source_file: 0261_au_winds_down.htm
+tags:
+- csharp
+- elements
+- revit-api
+- views
+title: AU Winds Down
+word_count: 305
 ---
 
 ### AU Winds Down

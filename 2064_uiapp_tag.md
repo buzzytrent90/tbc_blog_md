@@ -1,11 +1,33 @@
 ---
-post_number: "2064"
-title: "Uiapp Tag"
-slug: "uiapp_tag"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "2064_uiapp_tag.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2064_uiapp_tag.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.401368'
+original_url: https://thebuildingcoder.typepad.com/blog/2064_uiapp_tag.html
+post_number: '2064'
+reading_time_minutes: 8
+series: general
+slug: uiapp_tag
+source_file: 2064_uiapp_tag.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Uiapp Tag
+word_count: 1543
 ---
 
 ### Access to UIApplication, Tags and LLM API Support

@@ -1,11 +1,20 @@
 ---
-post_number: "1103"
-title: "The 360 View"
-slug: "360_view_blog"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1103_360_view_blog.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1103_360_view_blog.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: news
+optimization_date: '2025-12-11T11:44:15.309994'
+original_url: https://thebuildingcoder.typepad.com/blog/1103_360_view_blog.html
+post_number: '1103'
+reading_time_minutes: 2
+series: views
+slug: 360_view_blog
+source_file: 1103_360_view_blog.htm
+tags:
+- revit-api
+- views
+title: The 360 View
+word_count: 372
 ---
 
 ### The 360 View

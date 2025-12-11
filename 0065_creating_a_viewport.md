@@ -1,11 +1,22 @@
 ---
-post_number: "0065"
-title: "Creating a Viewport"
-slug: "creating_a_viewport"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets', 'views']
-source_file: "0065_creating_a_viewport.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0065_creating_a_viewport.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.305657'
+original_url: https://thebuildingcoder.typepad.com/blog/0065_creating_a_viewport.html
+post_number: '0065'
+reading_time_minutes: 1
+series: views
+slug: creating_a_viewport
+source_file: 0065_creating_a_viewport.htm
+tags:
+- references
+- revit-api
+- sheets
+- views
+title: Creating a Viewport
+word_count: 172
 ---
 
 ### Creating a Viewport

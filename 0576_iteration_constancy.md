@@ -1,11 +1,26 @@
 ---
-post_number: "0576"
-title: "Iteration and Springtime – Change is the Only Constant"
-slug: "iteration_constancy"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'python', 'revit-api', 'selection', 'transactions', 'walls']
-source_file: "0576_iteration_constancy.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0576_iteration_constancy.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.201799'
+original_url: https://thebuildingcoder.typepad.com/blog/0576_iteration_constancy.html
+post_number: '0576'
+reading_time_minutes: 5
+series: general
+slug: iteration_constancy
+source_file: 0576_iteration_constancy.htm
+tags:
+- csharp
+- elements
+- filtering
+- python
+- revit-api
+- selection
+- transactions
+- walls
+title: "Iteration and Springtime \u2013 Change is the Only Constant"
+word_count: 1063
 ---
 
 ### Iteration and Springtime – Change is the Only Constant

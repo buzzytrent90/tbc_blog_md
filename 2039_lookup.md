@@ -1,11 +1,27 @@
 ---
-post_number: "2039"
-title: "Lookup"
-slug: "lookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "2039_lookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2039_lookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: news
+optimization_date: '2025-12-11T11:44:17.338673'
+original_url: https://thebuildingcoder.typepad.com/blog/2039_lookup.html
+post_number: '2039'
+reading_time_minutes: 4
+series: general
+slug: lookup
+source_file: 2039_lookup.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Lookup
+word_count: 824
 ---
 
 ### RevitLookup Updates, Bounding Boxes and Podcast

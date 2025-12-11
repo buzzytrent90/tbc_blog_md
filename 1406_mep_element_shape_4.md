@@ -1,11 +1,26 @@
 ---
-post_number: "1406"
-title: "Mep Element Shape 4"
-slug: "mep_element_shape_4"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1406_mep_element_shape_4.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1406_mep_element_shape_4.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.952004'
+original_url: https://thebuildingcoder.typepad.com/blog/1406_mep_element_shape_4.html
+post_number: '1406'
+reading_time_minutes: 6
+series: elements
+slug: mep_element_shape_4
+source_file: 1406_mep_element_shape_4.md
+tags:
+- csharp
+- elements
+- family
+- levels
+- python
+- revit-api
+- sheets
+- views
+title: Mep Element Shape 4
+word_count: 1175
 ---
 
 ### IFC Import Levels and MEP Element Shapes

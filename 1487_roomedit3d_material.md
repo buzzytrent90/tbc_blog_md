@@ -1,11 +1,27 @@
 ---
-post_number: "1487"
-title: "The Building Coder"
-slug: "roomedit3d_material"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1487_roomedit3d_material.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1487_roomedit3d_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.137387'
+original_url: https://thebuildingcoder.typepad.com/blog/1487_roomedit3d_material.html
+post_number: '1487'
+reading_time_minutes: 2
+series: materials
+slug: roomedit3d_material
+source_file: 1487_roomedit3d_material.md
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- materials
+title: The Building Coder
+word_count: 424
 ---
 
 ### Connecting Desktop and Cloud RTC Material

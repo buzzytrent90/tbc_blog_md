@@ -1,11 +1,23 @@
 ---
-post_number: "1891"
-title: "Postcommand Sendkeys"
-slug: "postcommand_sendkeys"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules', 'sheets', 'views', 'windows']
-source_file: "1891_postcommand_sendkeys.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1891_postcommand_sendkeys.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.975513'
+original_url: https://thebuildingcoder.typepad.com/blog/1891_postcommand_sendkeys.html
+post_number: '1891'
+reading_time_minutes: 5
+series: general
+slug: postcommand_sendkeys
+source_file: 1891_postcommand_sendkeys.md
+tags:
+- revit-api
+- schedules
+- sheets
+- views
+- windows
+title: Postcommand Sendkeys
+word_count: 939
 ---
 
 ### Birthday, DevDays, PostCommand + SendKeys

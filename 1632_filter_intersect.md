@@ -1,11 +1,28 @@
 ---
-post_number: "1632"
-title: "Filter Intersect"
-slug: "filter_intersect"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1632_filter_intersect.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1632_filter_intersect.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.428396'
+original_url: https://thebuildingcoder.typepad.com/blog/1632_filter_intersect.html
+post_number: '1632'
+reading_time_minutes: 12
+series: filtering
+slug: filter_intersect
+source_file: 1632_filter_intersect.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Filter Intersect
+word_count: 2447
 ---
 
 ### Create 2D Arc and Filter for Intersecting Elements

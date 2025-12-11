@@ -1,11 +1,22 @@
 ---
-post_number: "1685"
-title: "Reality Sdk Rcp"
-slug: "reality_sdk_rcp"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'sheets', 'views']
-source_file: "1685_reality_sdk_rcp.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1685_reality_sdk_rcp.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.520095'
+original_url: https://thebuildingcoder.typepad.com/blog/1685_reality_sdk_rcp.html
+post_number: '1685'
+reading_time_minutes: 2
+series: general
+slug: reality_sdk_rcp
+source_file: 1685_reality_sdk_rcp.md
+tags:
+- levels
+- revit-api
+- sheets
+- views
+title: Reality Sdk Rcp
+word_count: 369
 ---
 
 ### Reality Solutions SDK Enables RCP File Read-Write

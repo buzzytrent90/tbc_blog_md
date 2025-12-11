@@ -1,11 +1,22 @@
 ---
-post_number: "1000"
-title: "Exchange App Videos and DevTV YouTube Channel"
-slug: "appstore_video"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api', 'rooms', 'views']
-source_file: "1000_appstore_video.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1000_appstore_video.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.092339'
+original_url: https://thebuildingcoder.typepad.com/blog/1000_appstore_video.html
+post_number: '1000'
+reading_time_minutes: 4
+series: general
+slug: appstore_video
+source_file: 1000_appstore_video.htm
+tags:
+- geometry
+- revit-api
+- rooms
+- views
+title: Exchange App Videos and DevTV YouTube Channel
+word_count: 853
 ---
 
 ### Exchange App Videos and DevTV YouTube Channel

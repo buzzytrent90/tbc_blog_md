@@ -1,11 +1,25 @@
 ---
-post_number: "1466"
-title: "The Building Coder"
-slug: "split_button_opt"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1466_split_button_opt.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1466_split_button_opt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.088247'
+original_url: https://thebuildingcoder.typepad.com/blog/1466_split_button_opt.html
+post_number: '1466'
+reading_time_minutes: 6
+series: general
+slug: split_button_opt
+source_file: 1466_split_button_opt.md
+tags:
+- csharp
+- elements
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: The Building Coder
+word_count: 1101
 ---
 
 ### Stacked Ribbon Button Panel Options

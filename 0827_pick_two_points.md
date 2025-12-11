@@ -1,11 +1,26 @@
 ---
-post_number: "0827"
-title: "Picking Two Points Consecutively"
-slug: "pick_two_points"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'selection', 'transactions', 'windows']
-source_file: "0827_pick_two_points.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0827_pick_two_points.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.682357'
+original_url: https://thebuildingcoder.typepad.com/blog/0827_pick_two_points.html
+post_number: 0827
+reading_time_minutes: 4
+series: geometry
+slug: pick_two_points
+source_file: 0827_pick_two_points.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- selection
+- transactions
+- windows
+- geometry
+title: Picking Two Points Consecutively
+word_count: 720
 ---
 
 ﻿

@@ -1,11 +1,22 @@
 ---
-post_number: "0516"
-title: "BIM Apps, Project Galileo, and Piotr's Plug-In"
-slug: "bim_apps"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'sheets', 'views']
-source_file: "0516_bim_apps.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0516_bim_apps.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.087550'
+original_url: https://thebuildingcoder.typepad.com/blog/0516_bim_apps.html
+post_number: '0516'
+reading_time_minutes: 2
+series: general
+slug: bim_apps
+source_file: 0516_bim_apps.htm
+tags:
+- parameters
+- revit-api
+- sheets
+- views
+title: BIM Apps, Project Galileo, and Piotr's Plug-In
+word_count: 407
 ---
 
 ### BIM Apps, Project Galileo, and Piotr's Plug-In

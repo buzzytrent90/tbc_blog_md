@@ -1,11 +1,26 @@
 ---
-post_number: "1313"
-title: "Live Rendering of 3D Revit Element Geometry in a Remote WebGL Viewer"
-slug: "3dwc_twgl"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'revit-api', 'views', 'windows']
-source_file: "1313_3dwc_twgl.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1313_3dwc_twgl.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.748000'
+original_url: https://thebuildingcoder.typepad.com/blog/1313_3dwc_twgl.html
+post_number: '1313'
+reading_time_minutes: 6
+series: general
+slug: 3dwc_twgl
+source_file: 1313_3dwc_twgl.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- revit-api
+- views
+- windows
+title: Live Rendering of 3D Revit Element Geometry in a Remote WebGL Viewer
+word_count: 1210
 ---
 
 ### Live Rendering of 3D Revit Element Geometry in a Remote WebGL Viewer

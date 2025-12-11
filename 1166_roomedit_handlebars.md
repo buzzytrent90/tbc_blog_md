@@ -1,11 +1,24 @@
 ---
-post_number: "1166"
-title: "Room Editor with Handlebars and Refresh"
-slug: "roomedit_handlebars"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'references', 'revit-api', 'rooms', 'sheets']
-source_file: "1166_roomedit_handlebars.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1166_roomedit_handlebars.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.436755'
+original_url: https://thebuildingcoder.typepad.com/blog/1166_roomedit_handlebars.html
+post_number: '1166'
+reading_time_minutes: 3
+series: general
+slug: roomedit_handlebars
+source_file: 1166_roomedit_handlebars.htm
+tags:
+- elements
+- levels
+- references
+- revit-api
+- rooms
+- sheets
+title: Room Editor with Handlebars and Refresh
+word_count: 694
 ---
 
 ### Room Editor with Handlebars and Refresh

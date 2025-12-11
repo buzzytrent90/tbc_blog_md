@@ -1,11 +1,24 @@
 ---
-post_number: "0459"
-title: "C++ Revit Add-In"
-slug: "cpp_addin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'transactions', 'views']
-source_file: "0459_cpp_addin.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0459_cpp_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.981085'
+original_url: https://thebuildingcoder.typepad.com/blog/0459_cpp_addin.html
+post_number: 0459
+reading_time_minutes: 4
+series: general
+slug: cpp_addin
+source_file: 0459_cpp_addin.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- transactions
+- views
+title: C++ Revit Add-In
+word_count: 872
 ---
 
 ### C++ Revit Add-In

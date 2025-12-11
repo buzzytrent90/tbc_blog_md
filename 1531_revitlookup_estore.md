@@ -1,11 +1,22 @@
 ---
-post_number: "1531"
-title: "Revitlookup Estore"
-slug: "revitlookup_estore"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "1531_revitlookup_estore.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1531_revitlookup_estore.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:16.231246'
+original_url: https://thebuildingcoder.typepad.com/blog/1531_revitlookup_estore.html
+post_number: '1531'
+reading_time_minutes: 2
+series: general
+slug: revitlookup_estore
+source_file: 1531_revitlookup_estore.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Revitlookup Estore
+word_count: 448
 ---
 
 ### RevitLookup Extensible Storage Restored

@@ -1,11 +1,24 @@
 ---
-post_number: "1219"
-title: "ADVA Webinar, Free Student Software and AU"
-slug: "adva_free_au"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'revit-api', 'rooms', 'transactions', 'views']
-source_file: "1219_adva_free_au.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1219_adva_free_au.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.535171'
+original_url: https://thebuildingcoder.typepad.com/blog/1219_adva_free_au.html
+post_number: '1219'
+reading_time_minutes: 4
+series: general
+slug: adva_free_au
+source_file: 1219_adva_free_au.htm
+tags:
+- csharp
+- python
+- revit-api
+- rooms
+- transactions
+- views
+title: ADVA Webinar, Free Student Software and AU
+word_count: 880
 ---
 
 ### ADVA Webinar, Free Student Software and AU

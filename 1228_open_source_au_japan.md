@@ -1,11 +1,22 @@
 ---
-post_number: "1228"
-title: "Autodesk Open Source All Over – Germany and Japan"
-slug: "open_source_au_japan"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'rooms', 'views']
-source_file: "1228_open_source_au_japan.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1228_open_source_au_japan.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.557605'
+original_url: https://thebuildingcoder.typepad.com/blog/1228_open_source_au_japan.html
+post_number: '1228'
+reading_time_minutes: 9
+series: general
+slug: open_source_au_japan
+source_file: 1228_open_source_au_japan.htm
+tags:
+- references
+- revit-api
+- rooms
+- views
+title: "Autodesk Open Source All Over \u2013 Germany and Japan"
+word_count: 1843
 ---
 
 ### Autodesk Open Source All Over – Germany and Japan

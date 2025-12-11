@@ -1,11 +1,26 @@
 ---
-post_number: "1286"
-title: "UI Automation, Ribbon Panel Item Access, the ItemExecuted Event and Vacation"
-slug: "automation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'references', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1286_automation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1286_automation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.682687'
+original_url: https://thebuildingcoder.typepad.com/blog/1286_automation.html
+post_number: '1286'
+reading_time_minutes: 9
+series: general
+slug: automation
+source_file: 1286_automation.htm
+tags:
+- csharp
+- elements
+- family
+- references
+- revit-api
+- transactions
+- views
+- windows
+title: UI Automation, Ribbon Panel Item Access, the ItemExecuted Event and Vacation
+word_count: 1720
 ---
 
 ### UI Automation, Ribbon Panel Item Access, the ItemExecuted Event and Vacation

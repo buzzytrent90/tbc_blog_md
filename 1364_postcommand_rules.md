@@ -1,11 +1,30 @@
 ---
-post_number: "1364"
-title: "Postcommand Rules"
-slug: "postcommand_rules"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'python', 'revit-api', 'schedules', 'selection', 'sheets', 'views', 'windows']
-source_file: "1364_postcommand_rules.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1364_postcommand_rules.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.856714'
+original_url: https://thebuildingcoder.typepad.com/blog/1364_postcommand_rules.html
+post_number: '1364'
+reading_time_minutes: 16
+series: general
+slug: postcommand_rules
+source_file: 1364_postcommand_rules.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- python
+- revit-api
+- schedules
+- selection
+- sheets
+- views
+- windows
+title: Postcommand Rules
+word_count: 3124
 ---
 
 ### PostCommand causes Internal Exceptions, a Break

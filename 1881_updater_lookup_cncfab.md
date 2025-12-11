@@ -1,11 +1,29 @@
 ---
-post_number: "1881"
-title: "Updater Lookup Cncfab"
-slug: "updater_lookup_cncfab"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1881_updater_lookup_cncfab.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1881_updater_lookup_cncfab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.953826'
+original_url: https://thebuildingcoder.typepad.com/blog/1881_updater_lookup_cncfab.html
+post_number: '1881'
+reading_time_minutes: 7
+series: general
+slug: updater_lookup_cncfab
+source_file: 1881_updater_lookup_cncfab.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Updater Lookup Cncfab
+word_count: 1401
 ---
 
 ### Simple IUpdater and other TBC Updates

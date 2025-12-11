@@ -1,11 +1,26 @@
 ---
-post_number: "0595"
-title: "Placing a Line Based Detail Item Instance"
-slug: "place_detail_inst"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0595_place_detail_inst.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0595_place_detail_inst.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.230476'
+original_url: https://thebuildingcoder.typepad.com/blog/0595_place_detail_inst.html
+post_number: 0595
+reading_time_minutes: 4
+series: general
+slug: place_detail_inst
+source_file: 0595_place_detail_inst.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- references
+- revit-api
+- views
+title: Placing a Line Based Detail Item Instance
+word_count: 735
 ---
 
 ### Placing a Line Based Detail Item Instance

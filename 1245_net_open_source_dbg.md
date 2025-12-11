@@ -1,11 +1,19 @@
 ---
-post_number: "1245"
-title: ".NET Open Source and Visual Studio Community"
-slug: "net_open_source_dbg"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1245_net_open_source_dbg.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1245_net_open_source_dbg.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: news
+optimization_date: '2025-12-11T11:44:15.597667'
+original_url: https://thebuildingcoder.typepad.com/blog/1245_net_open_source_dbg.html
+post_number: '1245'
+reading_time_minutes: 1
+series: general
+slug: net_open_source_dbg
+source_file: 1245_net_open_source_dbg.htm
+tags:
+- revit-api
+title: .NET Open Source and Visual Studio Community
+word_count: 255
 ---
 
 ### .NET Open Source and Visual Studio Community

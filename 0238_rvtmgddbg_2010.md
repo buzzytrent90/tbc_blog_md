@@ -1,11 +1,20 @@
 ---
-post_number: "0238"
-title: "RvtMgdDbg for Revit 2010"
-slug: "rvtmgddbg_2010"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules']
-source_file: "0238_rvtmgddbg_2010.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0238_rvtmgddbg_2010.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.603517'
+original_url: https://thebuildingcoder.typepad.com/blog/0238_rvtmgddbg_2010.html
+post_number: 0238
+reading_time_minutes: 2
+series: general
+slug: rvtmgddbg_2010
+source_file: 0238_rvtmgddbg_2010.htm
+tags:
+- revit-api
+- schedules
+title: RvtMgdDbg for Revit 2010
+word_count: 334
 ---
 
 ### RvtMgdDbg for Revit 2010

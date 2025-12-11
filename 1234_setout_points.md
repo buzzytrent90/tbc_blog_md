@@ -1,11 +1,26 @@
 ---
-post_number: "1234"
-title: "Concrete Setout Points for Revit Structure 2015"
-slug: "setout_points"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'python', 'revit-api', 'schedules']
-source_file: "1234_setout_points.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1234_setout_points.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.570679'
+original_url: https://thebuildingcoder.typepad.com/blog/1234_setout_points.html
+post_number: '1234'
+reading_time_minutes: 4
+series: geometry
+slug: setout_points
+source_file: 1234_setout_points.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+- schedules
+title: Concrete Setout Points for Revit Structure 2015
+word_count: 738
 ---
 
 ### Concrete Setout Points for Revit Structure 2015

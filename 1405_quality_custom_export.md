@@ -1,11 +1,31 @@
 ---
-post_number: "1405"
-title: "Quality Custom Export"
-slug: "quality_custom_export"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'views']
-source_file: "1405_quality_custom_export.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1405_quality_custom_export.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.949676'
+original_url: https://thebuildingcoder.typepad.com/blog/1405_quality_custom_export.html
+post_number: '1405'
+reading_time_minutes: 9
+series: general
+slug: quality_custom_export
+source_file: 1405_quality_custom_export.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- views
+title: Quality Custom Export
+word_count: 1890
 ---
 
 ### Reorg, FoMT, DevCon, TED, QR, Custom Exporter Quality

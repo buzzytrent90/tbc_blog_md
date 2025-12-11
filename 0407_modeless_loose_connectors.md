@@ -1,11 +1,29 @@
 ---
-post_number: "0407"
-title: "Modeless Loose Connectors"
-slug: "modeless_loose_connectors"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'references', 'revit-api', 'schedules', 'selection', 'transactions', 'views', 'windows']
-source_file: "0407_modeless_loose_connectors.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0407_modeless_loose_connectors.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.898864'
+original_url: https://thebuildingcoder.typepad.com/blog/0407_modeless_loose_connectors.html
+post_number: '0407'
+reading_time_minutes: 12
+series: mep
+slug: modeless_loose_connectors
+source_file: 0407_modeless_loose_connectors.htm
+tags:
+- csharp
+- elements
+- filtering
+- references
+- revit-api
+- schedules
+- selection
+- transactions
+- views
+- windows
+- mep
+title: Modeless Loose Connectors
+word_count: 2478
 ---
 
 ### Modeless Loose Connectors

@@ -1,11 +1,34 @@
 ---
-post_number: "1593"
-title: "Rat Bim Programming"
-slug: "rat_bim_programming"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1593_rat_bim_programming.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1593_rat_bim_programming.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.356878'
+original_url: https://thebuildingcoder.typepad.com/blog/1593_rat_bim_programming.html
+post_number: '1593'
+reading_time_minutes: 30
+series: general
+slug: rat_bim_programming
+source_file: 1593_rat_bim_programming.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Rat Bim Programming
+word_count: 5989
 ---
 
 ### Rational BIM Programming at AU Darmstadt

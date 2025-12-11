@@ -1,11 +1,24 @@
 ---
-post_number: "0404"
-title: "Retrieve Structural Elements"
-slug: "structural_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'walls']
-source_file: "0404_structural_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0404_structural_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.893308'
+original_url: https://thebuildingcoder.typepad.com/blog/0404_structural_elements.html
+post_number: '0404'
+reading_time_minutes: 3
+series: elements
+slug: structural_elements
+source_file: 0404_structural_elements.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- walls
+title: Retrieve Structural Elements
+word_count: 542
 ---
 
 ### Retrieve Structural Elements

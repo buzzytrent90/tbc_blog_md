@@ -1,11 +1,22 @@
 ---
-post_number: "0502"
-title: "Birthdays and Gaps in Shells"
-slug: "gaps_in_shell"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'revit-api']
-source_file: "0502_gaps_in_shell.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0502_gaps_in_shell.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.065085'
+original_url: https://thebuildingcoder.typepad.com/blog/0502_gaps_in_shell.html
+post_number: '0502'
+reading_time_minutes: 4
+series: general
+slug: gaps_in_shell
+source_file: 0502_gaps_in_shell.htm
+tags:
+- elements
+- family
+- geometry
+- revit-api
+title: Birthdays and Gaps in Shells
+word_count: 826
 ---
 
 ### Birthdays and Gaps in Shells

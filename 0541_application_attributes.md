@@ -1,11 +1,21 @@
 ---
-post_number: "0541"
-title: "External Application Attributes"
-slug: "application_attributes"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'transactions']
-source_file: "0541_application_attributes.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0541_application_attributes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.136863'
+original_url: https://thebuildingcoder.typepad.com/blog/0541_application_attributes.html
+post_number: '0541'
+reading_time_minutes: 2
+series: general
+slug: application_attributes
+source_file: 0541_application_attributes.htm
+tags:
+- csharp
+- revit-api
+- transactions
+title: External Application Attributes
+word_count: 384
 ---
 
 ### External Application Attributes

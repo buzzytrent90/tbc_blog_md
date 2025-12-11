@@ -1,11 +1,30 @@
 ---
-post_number: "0611"
-title: "Refresh Element Graphics Display"
-slug: "refresh_graphics"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0611_refresh_graphics.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0611_refresh_graphics.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.262182'
+original_url: https://thebuildingcoder.typepad.com/blog/0611_refresh_graphics.html
+post_number: '0611'
+reading_time_minutes: 3
+series: general
+slug: refresh_graphics
+source_file: 0611_refresh_graphics.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Refresh Element Graphics Display
+word_count: 652
 ---
 
 ### Refresh Element Graphics Display

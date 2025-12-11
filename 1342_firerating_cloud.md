@@ -1,11 +1,25 @@
 ---
-post_number: "1342"
-title: "Grevit, FireRating in the Cloud Demo, Deployment, Vacation"
-slug: "firerating_cloud"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'geometry', 'parameters', 'revit-api', 'views', 'walls']
-source_file: "1342_firerating_cloud.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1342_firerating_cloud.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.810193'
+original_url: https://thebuildingcoder.typepad.com/blog/1342_firerating_cloud.html
+post_number: '1342'
+reading_time_minutes: 3
+series: general
+slug: firerating_cloud
+source_file: 1342_firerating_cloud.htm
+tags:
+- csharp
+- doors
+- geometry
+- parameters
+- revit-api
+- views
+- walls
+title: Grevit, FireRating in the Cloud Demo, Deployment, Vacation
+word_count: 609
 ---
 
 ### Grevit, FireRating in the Cloud Demo, Deployment, Vacation

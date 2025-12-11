@@ -1,11 +1,28 @@
 ---
-post_number: "1704"
-title: "Efficiency Elegance"
-slug: "efficiency_elegance"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'schedules', 'sheets', 'transactions', 'walls']
-source_file: "1704_efficiency_elegance.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1704_efficiency_elegance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.564445'
+original_url: https://thebuildingcoder.typepad.com/blog/1704_efficiency_elegance.html
+post_number: '1704'
+reading_time_minutes: 6
+series: general
+slug: efficiency_elegance
+source_file: 1704_efficiency_elegance.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- schedules
+- sheets
+- transactions
+- walls
+title: Efficiency Elegance
+word_count: 1226
 ---
 
 ### Efficient and Elegant Code

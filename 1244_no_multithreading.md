@@ -1,11 +1,27 @@
 ---
-post_number: "1244"
-title: "The Revit API is Never Ever Thread Safe"
-slug: "no_multithreading"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'transactions', 'views']
-source_file: "1244_no_multithreading.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1244_no_multithreading.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.595768'
+original_url: https://thebuildingcoder.typepad.com/blog/1244_no_multithreading.html
+post_number: '1244'
+reading_time_minutes: 10
+series: general
+slug: no_multithreading
+source_file: 1244_no_multithreading.htm
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- transactions
+- views
+title: The Revit API is Never Ever Thread Safe
+word_count: 2082
 ---
 
 ### The Revit API is Never Ever Thread Safe

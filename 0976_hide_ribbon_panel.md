@@ -1,11 +1,19 @@
 ---
-post_number: "0976"
-title: "Dynamically Hide and Display a Ribbon Panel"
-slug: "hide_ribbon_panel"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0976_hide_ribbon_panel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0976_hide_ribbon_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.033335'
+original_url: https://thebuildingcoder.typepad.com/blog/0976_hide_ribbon_panel.html
+post_number: 0976
+reading_time_minutes: 2
+series: general
+slug: hide_ribbon_panel
+source_file: 0976_hide_ribbon_panel.htm
+tags:
+- revit-api
+title: Dynamically Hide and Display a Ribbon Panel
+word_count: 437
 ---
 
 ### Dynamically Hide and Display a Ribbon Panel

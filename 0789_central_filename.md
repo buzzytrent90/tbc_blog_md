@@ -1,11 +1,19 @@
 ---
-post_number: "0789"
-title: "Worksharing Central Filename"
-slug: "central_filename"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0789_central_filename.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0789_central_filename.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.594839'
+original_url: https://thebuildingcoder.typepad.com/blog/0789_central_filename.html
+post_number: 0789
+reading_time_minutes: 2
+series: general
+slug: central_filename
+source_file: 0789_central_filename.htm
+tags:
+- revit-api
+title: Worksharing Central Filename
+word_count: 361
 ---
 
 ﻿

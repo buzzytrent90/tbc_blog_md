@@ -1,11 +1,26 @@
 ---
-post_number: "0159"
-title: "Export Family Instance to gbXML"
-slug: "export_instance_to_gbxml"
-author: "Jeremy Tammik"
-tags: ['doors', 'family', 'references', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0159_export_instance_to_gbxml.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0159_export_instance_to_gbxml.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.461001'
+original_url: https://thebuildingcoder.typepad.com/blog/0159_export_instance_to_gbxml.html
+post_number: 0159
+reading_time_minutes: 4
+series: elements
+slug: export_instance_to_gbxml
+source_file: 0159_export_instance_to_gbxml.htm
+tags:
+- doors
+- family
+- references
+- revit-api
+- transactions
+- walls
+- windows
+- elements
+title: Export Family Instance to gbXML
+word_count: 877
 ---
 
 ### Export Family Instance to gbXML

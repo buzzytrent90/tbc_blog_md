@@ -1,11 +1,31 @@
 ---
-post_number: "1852"
-title: "Sect Box 2 View Crop"
-slug: "sect_box_2_view_crop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1852_sect_box_2_view_crop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1852_sect_box_2_view_crop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.895105'
+original_url: https://thebuildingcoder.typepad.com/blog/1852_sect_box_2_view_crop.html
+post_number: '1852'
+reading_time_minutes: 11
+series: views
+slug: sect_box_2_view_crop
+source_file: 1852_sect_box_2_view_crop.md
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Sect Box 2 View Crop
+word_count: 2235
 ---
 
 ### Section to Crop, Linked Boundary and Intersection

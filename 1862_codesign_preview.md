@@ -1,11 +1,29 @@
 ---
-post_number: "1862"
-title: "Codesign Preview"
-slug: "codesign_preview"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1862_codesign_preview.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1862_codesign_preview.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.915699'
+original_url: https://thebuildingcoder.typepad.com/blog/1862_codesign_preview.html
+post_number: '1862'
+reading_time_minutes: 9
+series: views
+slug: codesign_preview
+source_file: 1862_codesign_preview.md
+tags:
+- csharp
+- elements
+- family
+- filtering
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- windows
+title: Codesign Preview
+word_count: 1764
 ---
 
 ### Preview, Code Signing and Element Type Predicates

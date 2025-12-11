@@ -1,11 +1,27 @@
 ---
-post_number: "1832"
-title: "Xform Inst Sat Img"
-slug: "xform_inst_sat_img"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'views', 'windows']
-source_file: "1832_xform_inst_sat_img.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1832_xform_inst_sat_img.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.839534'
+original_url: https://thebuildingcoder.typepad.com/blog/1832_xform_inst_sat_img.html
+post_number: '1832'
+reading_time_minutes: 7
+series: general
+slug: xform_inst_sat_img
+source_file: 1832_xform_inst_sat_img.md
+tags:
+- elements
+- family
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- views
+- windows
+title: Xform Inst Sat Img
+word_count: 1302
 ---
 
 ### Satellite Images and Instance Transforms

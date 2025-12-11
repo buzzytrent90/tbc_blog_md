@@ -1,11 +1,32 @@
 ---
-post_number: "0463"
-title: "Filtered Element Collectors"
-slug: "filtered_element_collector"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'revit-api', 'rooms', 'schedules', 'transactions', 'views', 'walls', 'windows']
-source_file: "0463_filtered_element_collector.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0463_filtered_element_collector.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.988997'
+original_url: https://thebuildingcoder.typepad.com/blog/0463_filtered_element_collector.html
+post_number: '0463'
+reading_time_minutes: 17
+series: filtering
+slug: filtered_element_collector
+source_file: 0463_filtered_element_collector.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- revit-api
+- rooms
+- schedules
+- transactions
+- views
+- walls
+- windows
+title: Filtered Element Collectors
+word_count: 3469
 ---
 
 ### Filtered Element Collectors

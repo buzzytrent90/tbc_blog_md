@@ -1,11 +1,23 @@
 ---
-post_number: "0224"
-title: "Document Elements"
-slug: "doc_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'views']
-source_file: "0224_doc_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0224_doc_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.580195'
+original_url: https://thebuildingcoder.typepad.com/blog/0224_doc_elements.html
+post_number: '0224'
+reading_time_minutes: 3
+series: elements
+slug: doc_elements
+source_file: 0224_doc_elements.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- views
+title: Document Elements
+word_count: 637
 ---
 
 ### Document Elements

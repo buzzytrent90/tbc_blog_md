@@ -1,11 +1,24 @@
 ---
-post_number: "1425"
-title: "Pyrevit"
-slug: "pyrevit"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1425_pyrevit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1425_pyrevit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.989739'
+original_url: https://thebuildingcoder.typepad.com/blog/1425_pyrevit.html
+post_number: '1425'
+reading_time_minutes: 7
+series: general
+slug: pyrevit
+source_file: 1425_pyrevit.md
+tags:
+- elements
+- python
+- revit-api
+- selection
+- sheets
+- views
+title: Pyrevit
+word_count: 1365
 ---
 
 ### The pyRevit IronPython Script Library

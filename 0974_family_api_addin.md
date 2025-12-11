@@ -1,11 +1,30 @@
 ---
-post_number: "0974"
-title: "Family API Add-in"
-slug: "family_api_addin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0974_family_api_addin.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0974_family_api_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.028375'
+original_url: https://thebuildingcoder.typepad.com/blog/0974_family_api_addin.html
+post_number: 0974
+reading_time_minutes: 10
+series: family
+slug: family_api_addin
+source_file: 0974_family_api_addin.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Family API Add-in
+word_count: 2001
 ---
 
 ### Family API Add-in

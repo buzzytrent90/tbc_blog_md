@@ -1,11 +1,27 @@
 ---
-post_number: "0491"
-title: "Point in Polygon Containment Algorithm"
-slug: "point_in_poly"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'python', 'references', 'revit-api', 'rooms', 'views']
-source_file: "0491_point_in_poly.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0491_point_in_poly.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.044803'
+original_url: https://thebuildingcoder.typepad.com/blog/0491_point_in_poly.html
+post_number: 0491
+reading_time_minutes: 9
+series: geometry
+slug: point_in_poly
+source_file: 0491_point_in_poly.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- python
+- references
+- revit-api
+- rooms
+- views
+title: Point in Polygon Containment Algorithm
+word_count: 1791
 ---
 
 ### Point in Polygon Containment Algorithm

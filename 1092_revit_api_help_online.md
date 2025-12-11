@@ -1,11 +1,20 @@
 ---
-post_number: "1092"
-title: "Revit API Help Online and Hiking on La Palma"
-slug: "revit_api_help_online"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'windows']
-source_file: "1092_revit_api_help_online.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1092_revit_api_help_online.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.288704'
+original_url: https://thebuildingcoder.typepad.com/blog/1092_revit_api_help_online.html
+post_number: '1092'
+reading_time_minutes: 2
+series: general
+slug: revit_api_help_online
+source_file: 1092_revit_api_help_online.htm
+tags:
+- revit-api
+- windows
+title: Revit API Help Online and Hiking on La Palma
+word_count: 492
 ---
 
 ### Revit API Help Online and Hiking on La Palma

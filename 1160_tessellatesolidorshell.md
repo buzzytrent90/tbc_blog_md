@@ -1,11 +1,21 @@
 ---
-post_number: "1160"
-title: "TessellateSolidOrShell – Holes Versus Wholes"
-slug: "tessellatesolidorshell"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api', 'walls']
-source_file: "1160_tessellatesolidorshell.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1160_tessellatesolidorshell.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.425791'
+original_url: https://thebuildingcoder.typepad.com/blog/1160_tessellatesolidorshell.html
+post_number: '1160'
+reading_time_minutes: 4
+series: general
+slug: tessellatesolidorshell
+source_file: 1160_tessellatesolidorshell.htm
+tags:
+- geometry
+- revit-api
+- walls
+title: "TessellateSolidOrShell \u2013 Holes Versus Wholes"
+word_count: 899
 ---
 
 ### TessellateSolidOrShell – Holes Versus Wholes

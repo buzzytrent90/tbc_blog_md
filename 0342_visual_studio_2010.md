@@ -1,11 +1,19 @@
 ---
-post_number: "0342"
-title: "Debugging with Visual Studio 2010 and RvtSamples.txt Update"
-slug: "visual_studio_2010"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0342_visual_studio_2010.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0342_visual_studio_2010.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.776720'
+original_url: https://thebuildingcoder.typepad.com/blog/0342_visual_studio_2010.html
+post_number: '0342'
+reading_time_minutes: 2
+series: general
+slug: visual_studio_2010
+source_file: 0342_visual_studio_2010.htm
+tags:
+- revit-api
+title: Debugging with Visual Studio 2010 and RvtSamples.txt Update
+word_count: 412
 ---
 
 ### Debugging with Visual Studio 2010 and RvtSamples.txt Update

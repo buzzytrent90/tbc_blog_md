@@ -1,11 +1,24 @@
 ---
-post_number: "0214"
-title: "Detail Lines"
-slug: "detail_lines"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'revit-api', 'views']
-source_file: "0214_detail_lines.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0214_detail_lines.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.563424'
+original_url: https://thebuildingcoder.typepad.com/blog/0214_detail_lines.html
+post_number: '0214'
+reading_time_minutes: 3
+series: general
+slug: detail_lines
+source_file: 0214_detail_lines.htm
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- revit-api
+- views
+title: Detail Lines
+word_count: 626
 ---
 
 ### Detail Lines

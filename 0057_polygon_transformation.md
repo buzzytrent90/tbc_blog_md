@@ -1,11 +1,23 @@
 ---
-post_number: "0057"
-title: "Polygon Transformation"
-slug: "polygon_transformation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api', 'walls']
-source_file: "0057_polygon_transformation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0057_polygon_transformation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.297419'
+original_url: https://thebuildingcoder.typepad.com/blog/0057_polygon_transformation.html
+post_number: '0057'
+reading_time_minutes: 4
+series: geometry
+slug: polygon_transformation
+source_file: 0057_polygon_transformation.htm
+tags:
+- csharp
+- levels
+- revit-api
+- walls
+- geometry
+title: Polygon Transformation
+word_count: 776
 ---
 
 ### Polygon Transformation

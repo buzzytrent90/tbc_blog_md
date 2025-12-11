@@ -1,11 +1,25 @@
 ---
-post_number: "1702"
-title: "Window Handle"
-slug: "window_handle"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'levels', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1702_window_handle.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1702_window_handle.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.558959'
+original_url: https://thebuildingcoder.typepad.com/blog/1702_window_handle.html
+post_number: '1702'
+reading_time_minutes: 4
+series: general
+slug: window_handle
+source_file: 1702_window_handle.md
+tags:
+- csharp
+- family
+- levels
+- revit-api
+- sheets
+- views
+- windows
+title: Window Handle
+word_count: 837
 ---
 
 ### Revit Window Handle and Parenting an Add-In Form

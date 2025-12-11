@@ -1,11 +1,28 @@
 ---
-post_number: "1748"
-title: "Spatial Geo 2020"
-slug: "spatial_geo_2020"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'geometry', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "1748_spatial_geo_2020.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1748_spatial_geo_2020.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.663960'
+original_url: https://thebuildingcoder.typepad.com/blog/1748_spatial_geo_2020.html
+post_number: '1748'
+reading_time_minutes: 5
+series: general
+slug: spatial_geo_2020
+source_file: 1748_spatial_geo_2020.md
+tags:
+- doors
+- elements
+- filtering
+- geometry
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Spatial Geo 2020
+word_count: 926
 ---
 
 ### Spatial Geometry, Add-In Manager and Show Reels

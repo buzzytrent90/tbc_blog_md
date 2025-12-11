@@ -1,11 +1,29 @@
 ---
-post_number: "1112"
-title: "Detach Beam from Plane"
-slug: "beam_detach_plane"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions']
-source_file: "1112_beam_detach_plane.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1112_beam_detach_plane.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.326892'
+original_url: https://thebuildingcoder.typepad.com/blog/1112_beam_detach_plane.html
+post_number: '1112'
+reading_time_minutes: 4
+series: structural
+slug: beam_detach_plane
+source_file: 1112_beam_detach_plane.htm
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- structural
+title: Detach Beam from Plane
+word_count: 728
 ---
 
 ### Detach Beam from Plane

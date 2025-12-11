@@ -1,11 +1,21 @@
 ---
-post_number: "0768"
-title: "Prompt User to Avoid Modeless Interaction"
-slug: "prompt_user"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'selection']
-source_file: "0768_prompt_user.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0768_prompt_user.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.553446'
+original_url: https://thebuildingcoder.typepad.com/blog/0768_prompt_user.html
+post_number: 0768
+reading_time_minutes: 3
+series: general
+slug: prompt_user
+source_file: 0768_prompt_user.htm
+tags:
+- elements
+- revit-api
+- selection
+title: Prompt User to Avoid Modeless Interaction
+word_count: 559
 ---
 
 ### Prompt User to Avoid Modeless Interaction

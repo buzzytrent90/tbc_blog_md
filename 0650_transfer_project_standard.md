@@ -1,11 +1,27 @@
 ---
-post_number: "0650"
-title: "Transfer Project Standards"
-slug: "transfer_project_standard"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0650_transfer_project_standard.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0650_transfer_project_standard.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.330923'
+original_url: https://thebuildingcoder.typepad.com/blog/0650_transfer_project_standard.html
+post_number: '0650'
+reading_time_minutes: 5
+series: general
+slug: transfer_project_standard
+source_file: 0650_transfer_project_standard.htm
+tags:
+- elements
+- family
+- parameters
+- python
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Transfer Project Standards
+word_count: 1006
 ---
 
 ### Transfer Project Standards

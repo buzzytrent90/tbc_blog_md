@@ -1,11 +1,26 @@
 ---
-post_number: "0191"
-title: "Store Project Data"
-slug: "project_data"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0191_project_data.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0191_project_data.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.518908'
+original_url: https://thebuildingcoder.typepad.com/blog/0191_project_data.html
+post_number: 0191
+reading_time_minutes: 2
+series: general
+slug: project_data
+source_file: 0191_project_data.htm
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- views
+title: Store Project Data
+word_count: 480
 ---
 
 ### Store Project Data

@@ -1,11 +1,24 @@
 ---
-post_number: "0384"
-title: "Element Name Parameter Filter Correction"
-slug: "elem_name_param_filter"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'revit-api']
-source_file: "0384_elem_name_param_filter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0384_elem_name_param_filter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.857545'
+original_url: https://thebuildingcoder.typepad.com/blog/0384_elem_name_param_filter.html
+post_number: 0384
+reading_time_minutes: 3
+series: filtering
+slug: elem_name_param_filter
+source_file: 0384_elem_name_param_filter.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+title: Element Name Parameter Filter Correction
+word_count: 532
 ---
 
 ### Element Name Parameter Filter Correction

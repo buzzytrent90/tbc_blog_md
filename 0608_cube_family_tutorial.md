@@ -1,11 +1,22 @@
 ---
-post_number: "0608"
-title: "Basic Parametric Cube Family Tutorial"
-slug: "cube_family_tutorial"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'parameters', 'revit-api']
-source_file: "0608_cube_family_tutorial.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0608_cube_family_tutorial.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.252402'
+original_url: https://thebuildingcoder.typepad.com/blog/0608_cube_family_tutorial.html
+post_number: 0608
+reading_time_minutes: 2
+series: family
+slug: cube_family_tutorial
+source_file: 0608_cube_family_tutorial.htm
+tags:
+- family
+- geometry
+- parameters
+- revit-api
+title: Basic Parametric Cube Family Tutorial
+word_count: 327
 ---
 
 ### Basic Parametric Cube Family Tutorial

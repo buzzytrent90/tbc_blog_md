@@ -1,11 +1,20 @@
 ---
-post_number: "1878"
-title: "Forge Bim360"
-slug: "forge_bim360"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1878_forge_bim360.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1878_forge_bim360.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.947320'
+original_url: https://thebuildingcoder.typepad.com/blog/1878_forge_bim360.html
+post_number: '1878'
+reading_time_minutes: 1
+series: general
+slug: forge_bim360
+source_file: 1878_forge_bim360.md
+tags:
+- revit-api
+- sheets
+title: Forge Bim360
+word_count: 221
 ---
 
 ### Expand your App – Integrate and Leverage Cloud

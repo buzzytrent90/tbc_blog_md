@@ -1,11 +1,23 @@
 ---
-post_number: "0705"
-title: "Drag and Drop to Revit"
-slug: "drag_drop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'revit-api', 'views', 'windows']
-source_file: "0705_drag_drop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0705_drag_drop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.433503'
+original_url: https://thebuildingcoder.typepad.com/blog/0705_drag_drop.html
+post_number: '0705'
+reading_time_minutes: 4
+series: general
+slug: drag_drop
+source_file: 0705_drag_drop.htm
+tags:
+- csharp
+- family
+- revit-api
+- views
+- windows
+title: Drag and Drop to Revit
+word_count: 718
 ---
 
 ### Drag and Drop to Revit

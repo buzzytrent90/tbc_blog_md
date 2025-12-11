@@ -1,11 +1,25 @@
 ---
-post_number: "1574"
-title: "Cloud Dock Events"
-slug: "cloud_dock_events"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'schedules', 'selection', 'sheets', 'views', 'windows']
-source_file: "1574_cloud_dock_events.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1574_cloud_dock_events.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.317800'
+original_url: https://thebuildingcoder.typepad.com/blog/1574_cloud_dock_events.html
+post_number: '1574'
+reading_time_minutes: 6
+series: general
+slug: cloud_dock_events
+source_file: 1574_cloud_dock_events.md
+tags:
+- levels
+- revit-api
+- schedules
+- selection
+- sheets
+- views
+- windows
+title: Cloud Dock Events
+word_count: 1189
 ---
 
 ### Dockable Pane, Point Cloud, AI, BIM360, Forge, AU

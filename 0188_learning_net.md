@@ -1,11 +1,21 @@
 ---
-post_number: "0188"
-title: "A .NET Language Learning Resource"
-slug: "learning_net"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'vbnet']
-source_file: "0188_learning_net.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0188_learning_net.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.513570'
+original_url: https://thebuildingcoder.typepad.com/blog/0188_learning_net.html
+post_number: 0188
+reading_time_minutes: 3
+series: general
+slug: learning_net
+source_file: 0188_learning_net.htm
+tags:
+- csharp
+- revit-api
+- vbnet
+title: A .NET Language Learning Resource
+word_count: 577
 ---
 
 ### A .NET Language Learning Resource

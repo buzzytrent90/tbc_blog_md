@@ -1,11 +1,27 @@
 ---
-post_number: "1562"
-title: "Mod Grid Point"
-slug: "mod_grid_point"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1562_mod_grid_point.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1562_mod_grid_point.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.293219'
+original_url: https://thebuildingcoder.typepad.com/blog/1562_mod_grid_point.html
+post_number: '1562'
+reading_time_minutes: 4
+series: geometry
+slug: mod_grid_point
+source_file: 1562_mod_grid_point.md
+tags:
+- elements
+- filtering
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- geometry
+title: Mod Grid Point
+word_count: 762
 ---
 
 ### SDK Update, RvtSamples and Setting Grid Endpoint

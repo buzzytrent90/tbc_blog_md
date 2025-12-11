@@ -1,11 +1,27 @@
 ---
-post_number: "1785"
-title: "Dmu Loop Project Param"
-slug: "dmu_loop_project_param"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1785_dmu_loop_project_param.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1785_dmu_loop_project_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.742172'
+original_url: https://thebuildingcoder.typepad.com/blog/1785_dmu_loop_project_param.html
+post_number: '1785'
+reading_time_minutes: 4
+series: general
+slug: dmu_loop_project_param
+source_file: 1785_dmu_loop_project_param.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Dmu Loop Project Param
+word_count: 759
 ---
 
 ### Get Project Parameter Id and Prevent Updater Loop

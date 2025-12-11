@@ -1,11 +1,22 @@
 ---
-post_number: "0369"
-title: "RevitAddInUtility for 32 and 64 Bit Systems"
-slug: "addinutility_32_64_bit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'windows']
-source_file: "0369_addinutility_32_64_bit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0369_addinutility_32_64_bit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.830787'
+original_url: https://thebuildingcoder.typepad.com/blog/0369_addinutility_32_64_bit.html
+post_number: 0369
+reading_time_minutes: 4
+series: general
+slug: addinutility_32_64_bit
+source_file: 0369_addinutility_32_64_bit.htm
+tags:
+- csharp
+- references
+- revit-api
+- windows
+title: RevitAddInUtility for 32 and 64 Bit Systems
+word_count: 727
 ---
 
 ### RevitAddInUtility for 32 and 64 Bit Systems

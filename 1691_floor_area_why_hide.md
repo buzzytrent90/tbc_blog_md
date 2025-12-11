@@ -1,11 +1,29 @@
 ---
-post_number: "1691"
-title: "Floor Area Why Hide"
-slug: "floor_area_why_hide"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1691_floor_area_why_hide.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1691_floor_area_why_hide.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.530823'
+original_url: https://thebuildingcoder.typepad.com/blog/1691_floor_area_why_hide.html
+post_number: '1691'
+reading_time_minutes: 7
+series: general
+slug: floor_area_why_hide
+source_file: 1691_floor_area_why_hide.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Floor Area Why Hide
+word_count: 1388
 ---
 
 ### Floor Area Above Room and Mysterious Hide

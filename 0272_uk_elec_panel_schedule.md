@@ -1,11 +1,24 @@
 ---
-post_number: "0272"
-title: "UK Electrical Schedule Sample"
-slug: "uk_elec_panel_schedule"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'references', 'revit-api', 'schedules', 'sheets']
-source_file: "0272_uk_elec_panel_schedule.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0272_uk_elec_panel_schedule.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.657638'
+original_url: https://thebuildingcoder.typepad.com/blog/0272_uk_elec_panel_schedule.html
+post_number: '0272'
+reading_time_minutes: 5
+series: general
+slug: uk_elec_panel_schedule
+source_file: 0272_uk_elec_panel_schedule.htm
+tags:
+- csharp
+- parameters
+- references
+- revit-api
+- schedules
+- sheets
+title: UK Electrical Schedule Sample
+word_count: 1083
 ---
 
 ### UK Electrical Schedule Sample

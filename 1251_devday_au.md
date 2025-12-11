@@ -1,11 +1,26 @@
 ---
-post_number: "1251"
-title: "DevDays Conference at Autodesk University"
-slug: "devday_au"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'python', 'revit-api', 'schedules', 'transactions', 'views', 'walls']
-source_file: "1251_devday_au.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1251_devday_au.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.608673'
+original_url: https://thebuildingcoder.typepad.com/blog/1251_devday_au.html
+post_number: '1251'
+reading_time_minutes: 6
+series: general
+slug: devday_au
+source_file: 1251_devday_au.htm
+tags:
+- elements
+- geometry
+- python
+- revit-api
+- schedules
+- transactions
+- views
+- walls
+title: DevDays Conference at Autodesk University
+word_count: 1207
 ---
 
 ### DevDays Conference at Autodesk University

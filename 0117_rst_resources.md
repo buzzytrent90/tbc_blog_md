@@ -1,11 +1,29 @@
 ---
-post_number: "0117"
-title: "Revit Structure Resources"
-slug: "rst_resources"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'walls', 'windows']
-source_file: "0117_rst_resources.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0117_rst_resources.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.392245'
+original_url: https://thebuildingcoder.typepad.com/blog/0117_rst_resources.html
+post_number: '0117'
+reading_time_minutes: 8
+series: general
+slug: rst_resources
+source_file: 0117_rst_resources.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- walls
+- windows
+title: Revit Structure Resources
+word_count: 1569
 ---
 
 ### Revit Structure Resources

@@ -1,11 +1,23 @@
 ---
-post_number: "1413"
-title: "Pi Adn Revit Server"
-slug: "pi_adn_revit_server"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1413_pi_adn_revit_server.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1413_pi_adn_revit_server.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.966271'
+original_url: https://thebuildingcoder.typepad.com/blog/1413_pi_adn_revit_server.html
+post_number: '1413'
+reading_time_minutes: 8
+series: general
+slug: pi_adn_revit_server
+source_file: 1413_pi_adn_revit_server.md
+tags:
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Pi Adn Revit Server
+word_count: 1535
 ---
 
 ### Pi Day, Meeting, Ski Tour, Revit Server Bar Separator

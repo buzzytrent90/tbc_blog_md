@@ -1,11 +1,23 @@
 ---
-post_number: "1029"
-title: "AppHack 2, Training Material and the Developer Guide"
-slug: "developer_guide"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'revit-api', 'views']
-source_file: "1029_developer_guide.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1029_developer_guide.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: news
+optimization_date: '2025-12-11T11:44:15.155692'
+original_url: https://thebuildingcoder.typepad.com/blog/1029_developer_guide.html
+post_number: '1029'
+reading_time_minutes: 5
+series: general
+slug: developer_guide
+source_file: 1029_developer_guide.htm
+tags:
+- csharp
+- elements
+- parameters
+- revit-api
+- views
+title: AppHack 2, Training Material and the Developer Guide
+word_count: 1034
 ---
 
 ### AppHack 2, Training Material and the Developer Guide

@@ -1,11 +1,22 @@
 ---
-post_number: "1688"
-title: "That Bim Girl"
-slug: "that_bim_girl"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'rooms', 'sheets']
-source_file: "1688_that_bim_girl.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1688_that_bim_girl.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.525144'
+original_url: https://thebuildingcoder.typepad.com/blog/1688_that_bim_girl.html
+post_number: '1688'
+reading_time_minutes: 3
+series: general
+slug: that_bim_girl
+source_file: 1688_that_bim_girl.md
+tags:
+- csharp
+- revit-api
+- rooms
+- sheets
+title: That Bim Girl
+word_count: 600
 ---
 
 ### That BIM Girl and AskNow

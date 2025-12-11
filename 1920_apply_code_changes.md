@@ -1,11 +1,23 @@
 ---
-post_number: "1920"
-title: "Apply Code Changes"
-slug: "apply_code_changes"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets', 'views']
-source_file: "1920_apply_code_changes.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1920_apply_code_changes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.044576'
+original_url: https://thebuildingcoder.typepad.com/blog/1920_apply_code_changes.html
+post_number: '1920'
+reading_time_minutes: 3
+series: transactions
+slug: apply_code_changes
+source_file: 1920_apply_code_changes.md
+tags:
+- csharp
+- revit-api
+- sheets
+- views
+- transactions
+title: Apply Code Changes
+word_count: 662
 ---
 
 ### Localised Forge Intros and Apply Code Changes

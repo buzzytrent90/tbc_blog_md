@@ -1,11 +1,25 @@
 ---
-post_number: "0625"
-title: "PickObject Requires Valid View"
-slug: "pickobject_view"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'references', 'revit-api', 'selection', 'views']
-source_file: "0625_pickobject_view.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0625_pickobject_view.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.288772'
+original_url: https://thebuildingcoder.typepad.com/blog/0625_pickobject_view.html
+post_number: '0625'
+reading_time_minutes: 2
+series: views
+slug: pickobject_view
+source_file: 0625_pickobject_view.htm
+tags:
+- csharp
+- elements
+- filtering
+- references
+- revit-api
+- selection
+- views
+title: PickObject Requires Valid View
+word_count: 304
 ---
 
 ### PickObject Requires Valid View

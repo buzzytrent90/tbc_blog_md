@@ -1,11 +1,28 @@
 ---
-post_number: "1454"
-title: "The Building Coder"
-slug: "self_organising"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'python', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1454_self_organising.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1454_self_organising.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.057936'
+original_url: https://thebuildingcoder.typepad.com/blog/1454_self_organising.html
+post_number: '1454'
+reading_time_minutes: 6
+series: general
+slug: self_organising
+source_file: 1454_self_organising.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- python
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: The Building Coder
+word_count: 1291
 ---
 
 ### Self-Organising Architecture, Voxel-Based Energy Analysis

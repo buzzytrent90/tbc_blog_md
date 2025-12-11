@@ -1,11 +1,27 @@
 ---
-post_number: "1807"
-title: "Createviaoffset"
-slug: "createviaoffset"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1807_createviaoffset.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1807_createviaoffset.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.785014'
+original_url: https://thebuildingcoder.typepad.com/blog/1807_createviaoffset.html
+post_number: '1807'
+reading_time_minutes: 14
+series: general
+slug: createviaoffset
+source_file: 1807_createviaoffset.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Createviaoffset
+word_count: 2734
 ---
 
 ### Dashboard, CreateViaOffset and Room Outer Outline

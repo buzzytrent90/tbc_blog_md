@@ -1,11 +1,28 @@
 ---
-post_number: "1946"
-title: "Compile Sdk 2023"
-slug: "compile_sdk_2023"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'vbnet', 'views', 'walls']
-source_file: "1946_compile_sdk_2023.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1946_compile_sdk_2023.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.101499'
+original_url: https://thebuildingcoder.typepad.com/blog/1946_compile_sdk_2023.html
+post_number: '1946'
+reading_time_minutes: 5
+series: general
+slug: compile_sdk_2023
+source_file: 1946_compile_sdk_2023.md
+tags:
+- csharp
+- elements
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- vbnet
+- views
+- walls
+title: Compile Sdk 2023
+word_count: 1011
 ---
 
 ### Compiling the Revit 2023 SDK Samples

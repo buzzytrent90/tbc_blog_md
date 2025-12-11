@@ -1,11 +1,22 @@
 ---
-post_number: "1181"
-title: "The Road Ahead"
-slug: "the_road_ahead"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'views', 'windows']
-source_file: "1181_the_road_ahead.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1181_the_road_ahead.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.466990'
+original_url: https://thebuildingcoder.typepad.com/blog/1181_the_road_ahead.html
+post_number: '1181'
+reading_time_minutes: 6
+series: general
+slug: the_road_ahead
+source_file: 1181_the_road_ahead.htm
+tags:
+- csharp
+- revit-api
+- views
+- windows
+title: The Road Ahead
+word_count: 1175
 ---
 
 ### The Road Ahead

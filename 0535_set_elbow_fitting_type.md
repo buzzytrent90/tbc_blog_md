@@ -1,11 +1,22 @@
 ---
-post_number: "0535"
-title: "Set Elbow Fitting Type"
-slug: "set_elbow_fitting_type"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api']
-source_file: "0535_set_elbow_fitting_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0535_set_elbow_fitting_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.122646'
+original_url: https://thebuildingcoder.typepad.com/blog/0535_set_elbow_fitting_type.html
+post_number: '0535'
+reading_time_minutes: 1
+series: elements
+slug: set_elbow_fitting_type
+source_file: 0535_set_elbow_fitting_type.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+title: Set Elbow Fitting Type
+word_count: 226
 ---
 
 ### Set Elbow Fitting Type

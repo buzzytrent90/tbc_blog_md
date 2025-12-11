@@ -1,11 +1,24 @@
 ---
-post_number: "0551"
-title: "Reducing Revit Debug Verbosity"
-slug: "debug_verbosity"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'rooms', 'windows']
-source_file: "0551_debug_verbosity.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0551_debug_verbosity.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: news
+optimization_date: '2025-12-11T11:44:14.155900'
+original_url: https://thebuildingcoder.typepad.com/blog/0551_debug_verbosity.html
+post_number: '0551'
+reading_time_minutes: 3
+series: general
+slug: debug_verbosity
+source_file: 0551_debug_verbosity.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- rooms
+- windows
+title: Reducing Revit Debug Verbosity
+word_count: 697
 ---
 
 ### Reducing Revit Debug Verbosity

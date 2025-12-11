@@ -1,11 +1,20 @@
 ---
-post_number: "1015"
-title: "Cloud and AppStore Usage Grows – Portathon Reminder"
-slug: "growing_cloud_appstore"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1015_growing_cloud_appstore.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1015_growing_cloud_appstore.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.125105'
+original_url: https://thebuildingcoder.typepad.com/blog/1015_growing_cloud_appstore.html
+post_number: '1015'
+reading_time_minutes: 3
+series: general
+slug: growing_cloud_appstore
+source_file: 1015_growing_cloud_appstore.htm
+tags:
+- revit-api
+- views
+title: "Cloud and AppStore Usage Grows \u2013 Portathon Reminder"
+word_count: 636
 ---
 
 ### Cloud and AppStore Usage Grows – Portathon Reminder

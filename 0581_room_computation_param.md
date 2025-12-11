@@ -1,11 +1,25 @@
 ---
-post_number: "0581"
-title: "New Room Computation Parameters"
-slug: "room_computation_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms']
-source_file: "0581_room_computation_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0581_room_computation_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.209855'
+original_url: https://thebuildingcoder.typepad.com/blog/0581_room_computation_param.html
+post_number: 0581
+reading_time_minutes: 1
+series: general
+slug: room_computation_param
+source_file: 0581_room_computation_param.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+title: New Room Computation Parameters
+word_count: 282
 ---
 
 ### New Room Computation Parameters

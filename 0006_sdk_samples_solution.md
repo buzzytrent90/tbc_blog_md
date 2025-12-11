@@ -1,11 +1,21 @@
 ---
-post_number: "0006"
-title: "The SDK Samples Solution SDKSamples2009.sln"
-slug: "sdk_samples_solution"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'walls']
-source_file: "0006_sdk_samples_solution.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0006_sdk_samples_solution.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.216760'
+original_url: https://thebuildingcoder.typepad.com/blog/0006_sdk_samples_solution.html
+post_number: '0006'
+reading_time_minutes: 5
+series: general
+slug: sdk_samples_solution
+source_file: 0006_sdk_samples_solution.htm
+tags:
+- references
+- revit-api
+- walls
+title: The SDK Samples Solution SDKSamples2009.sln
+word_count: 962
 ---
 
 ### The SDK Samples Solution SDKSamples2009.sln

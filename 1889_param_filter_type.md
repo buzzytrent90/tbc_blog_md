@@ -1,11 +1,27 @@
 ---
-post_number: "1889"
-title: "Param Filter Type"
-slug: "param_filter_type"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1889_param_filter_type.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1889_param_filter_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.971748'
+original_url: https://thebuildingcoder.typepad.com/blog/1889_param_filter_type.html
+post_number: '1889'
+reading_time_minutes: 7
+series: filtering
+slug: param_filter_type
+source_file: 1889_param_filter_type.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Param Filter Type
+word_count: 1382
 ---
 
 ### Parameter Filter Checking Element Type and OCR

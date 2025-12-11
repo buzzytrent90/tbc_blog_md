@@ -1,11 +1,22 @@
 ---
-post_number: "1870"
-title: "Save Restore Camera"
-slug: "save_restore_camera"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'sheets', 'views']
-source_file: "1870_save_restore_camera.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1870_save_restore_camera.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.931471'
+original_url: https://thebuildingcoder.typepad.com/blog/1870_save_restore_camera.html
+post_number: '1870'
+reading_time_minutes: 5
+series: general
+slug: save_restore_camera
+source_file: 1870_save_restore_camera.md
+tags:
+- parameters
+- revit-api
+- sheets
+- views
+title: Save Restore Camera
+word_count: 975
 ---
 
 ### Save and Restore 3D View Camera Settings

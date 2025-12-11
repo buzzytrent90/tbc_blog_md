@@ -1,11 +1,27 @@
 ---
-post_number: "1455"
-title: "The Building Coder"
-slug: "ifc_issues"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'revit-api', 'sheets', 'vbnet', 'views']
-source_file: "1455_ifc_issues.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1455_ifc_issues.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.060592'
+original_url: https://thebuildingcoder.typepad.com/blog/1455_ifc_issues.html
+post_number: '1455'
+reading_time_minutes: 10
+series: geometry
+slug: ifc_issues
+source_file: 1455_ifc_issues.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- sheets
+- vbnet
+- views
+title: The Building Coder
+word_count: 1933
 ---
 
 ### IFC Import and Open Source

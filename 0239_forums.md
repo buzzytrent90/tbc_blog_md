@@ -1,11 +1,21 @@
 ---
-post_number: "0239"
-title: "Revit API Forums"
-slug: "forums"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api']
-source_file: "0239_forums.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0239_forums.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.604751'
+original_url: https://thebuildingcoder.typepad.com/blog/0239_forums.html
+post_number: 0239
+reading_time_minutes: 5
+series: general
+slug: forums
+source_file: 0239_forums.htm
+tags:
+- csharp
+- levels
+- revit-api
+title: Revit API Forums
+word_count: 926
 ---
 
 ### Revit API Forums

@@ -1,11 +1,34 @@
 ---
-post_number: "0821"
-title: "Parts, Assemblies, PartUtils and DivideParts"
-slug: "divide_parts"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'schedules', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "0821_divide_parts.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0821_divide_parts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.665129'
+original_url: https://thebuildingcoder.typepad.com/blog/0821_divide_parts.html
+post_number: 0821
+reading_time_minutes: 16
+series: general
+slug: divide_parts
+source_file: 0821_divide_parts.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Parts, Assemblies, PartUtils and DivideParts
+word_count: 3175
 ---
 
 ﻿

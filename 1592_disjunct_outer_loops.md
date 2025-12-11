@@ -1,11 +1,31 @@
 ---
-post_number: "1592"
-title: "Disjunct Outer Loops"
-slug: "disjunct_outer_loops"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1592_disjunct_outer_loops.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1592_disjunct_outer_loops.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.354001'
+original_url: https://thebuildingcoder.typepad.com/blog/1592_disjunct_outer_loops.html
+post_number: '1592'
+reading_time_minutes: 8
+series: general
+slug: disjunct_outer_loops
+source_file: 1592_disjunct_outer_loops.md
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Disjunct Outer Loops
+word_count: 1642
 ---
 
 ### Disjunct Planar Face Outer Loops

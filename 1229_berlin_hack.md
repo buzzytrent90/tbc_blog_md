@@ -1,11 +1,24 @@
 ---
-post_number: "1229"
-title: "Berlin Hackathon"
-slug: "berlin_hack"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'selection', 'views', 'windows']
-source_file: "1229_berlin_hack.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1229_berlin_hack.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.559714'
+original_url: https://thebuildingcoder.typepad.com/blog/1229_berlin_hack.html
+post_number: '1229'
+reading_time_minutes: 7
+series: general
+slug: berlin_hack
+source_file: 1229_berlin_hack.htm
+tags:
+- elements
+- references
+- revit-api
+- selection
+- views
+- windows
+title: Berlin Hackathon
+word_count: 1304
 ---
 
 ### Berlin Hackathon

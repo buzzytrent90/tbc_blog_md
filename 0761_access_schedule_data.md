@@ -1,11 +1,29 @@
 ---
-post_number: "0761"
-title: "Schedule API and Access to Schedule Data"
-slug: "access_schedule_data"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'python', 'revit-api', 'schedules', 'selection', 'sheets', 'views', 'windows']
-source_file: "0761_access_schedule_data.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0761_access_schedule_data.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.538246'
+original_url: https://thebuildingcoder.typepad.com/blog/0761_access_schedule_data.html
+post_number: '0761'
+reading_time_minutes: 7
+series: general
+slug: access_schedule_data
+source_file: 0761_access_schedule_data.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- python
+- revit-api
+- schedules
+- selection
+- sheets
+- views
+- windows
+title: Schedule API and Access to Schedule Data
+word_count: 1316
 ---
 
 ### Schedule API and Access to Schedule Data

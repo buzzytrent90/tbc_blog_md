@@ -1,11 +1,31 @@
 ---
-post_number: "0254"
-title: "Select Model Elements 2"
-slug: "select_model_elements_2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "0254_select_model_elements_2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0254_select_model_elements_2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.6
+content_type: news
+optimization_date: '2025-12-11T11:44:13.628112'
+original_url: https://thebuildingcoder.typepad.com/blog/0254_select_model_elements_2.html
+post_number: '0254'
+reading_time_minutes: 4
+series: elements
+slug: select_model_elements_2
+source_file: 0254_select_model_elements_2.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Select Model Elements 2
+word_count: 765
 ---
 
 ### Select Model Elements 2

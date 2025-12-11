@@ -1,11 +1,21 @@
 ---
-post_number: "0347"
-title: "Revit 2011 API Webcast"
-slug: "revit_2011_webcast"
-author: "Jeremy Tammik"
-tags: ['filtering', 'revit-api', 'schedules']
-source_file: "0347_revit_2011_webcast.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0347_revit_2011_webcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.784661'
+original_url: https://thebuildingcoder.typepad.com/blog/0347_revit_2011_webcast.html
+post_number: '0347'
+reading_time_minutes: 1
+series: general
+slug: revit_2011_webcast
+source_file: 0347_revit_2011_webcast.htm
+tags:
+- filtering
+- revit-api
+- schedules
+title: Revit 2011 API Webcast
+word_count: 144
 ---
 
 ### Revit 2011 API Webcast

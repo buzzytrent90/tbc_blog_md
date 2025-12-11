@@ -1,11 +1,22 @@
 ---
-post_number: "0868"
-title: "Reload Add-in for Debug Without Restart"
-slug: "debug_without_restart"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'revit-api', 'transactions']
-source_file: "0868_debug_without_restart.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0868_debug_without_restart.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.763430'
+original_url: https://thebuildingcoder.typepad.com/blog/0868_debug_without_restart.html
+post_number: 0868
+reading_time_minutes: 5
+series: general
+slug: debug_without_restart
+source_file: 0868_debug_without_restart.htm
+tags:
+- csharp
+- python
+- revit-api
+- transactions
+title: Reload Add-in for Debug Without Restart
+word_count: 927
 ---
 
 ### Reload Add-in for Debug Without Restart

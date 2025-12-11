@@ -1,11 +1,30 @@
 ---
-post_number: "0949"
-title: "CouchDB Implementation and GitHub Repository"
-slug: "couchdb_views"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "0949_couchdb_views.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0949_couchdb_views.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.973149'
+original_url: https://thebuildingcoder.typepad.com/blog/0949_couchdb_views.html
+post_number: 0949
+reading_time_minutes: 10
+series: views
+slug: couchdb_views
+source_file: 0949_couchdb_views.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: CouchDB Implementation and GitHub Repository
+word_count: 1955
 ---
 
 ### CouchDB Implementation and GitHub Repository

@@ -1,11 +1,25 @@
 ---
-post_number: "1417"
-title: "Distinguish Rooms"
-slug: "distinguish_rooms"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'rooms', 'schedules', 'sheets']
-source_file: "1417_distinguish_rooms.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1417_distinguish_rooms.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.973453'
+original_url: https://thebuildingcoder.typepad.com/blog/1417_distinguish_rooms.html
+post_number: '1417'
+reading_time_minutes: 4
+series: general
+slug: distinguish_rooms
+source_file: 1417_distinguish_rooms.md
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- rooms
+- schedules
+- sheets
+title: Distinguish Rooms
+word_count: 753
 ---
 
 ### How to Distinguish Redundant Rooms

@@ -1,11 +1,24 @@
 ---
-post_number: "1365"
-title: "Devdays"
-slug: "devdays"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1365_devdays.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1365_devdays.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.859166'
+original_url: https://thebuildingcoder.typepad.com/blog/1365_devdays.html
+post_number: '1365'
+reading_time_minutes: 3
+series: general
+slug: devdays
+source_file: 1365_devdays.md
+tags:
+- csharp
+- geometry
+- python
+- revit-api
+- sheets
+- views
+title: Devdays
+word_count: 672
 ---
 
 ### Autodesk DevDays 2015 and CAD Trends

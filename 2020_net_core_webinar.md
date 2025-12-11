@@ -1,11 +1,27 @@
 ---
-post_number: "2020"
-title: "Net Core Webinar"
-slug: "net_core_webinar"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'python', 'revit-api', 'schedules', 'sheets', 'views', 'windows']
-source_file: "2020_net_core_webinar.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2020_net_core_webinar.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.289811'
+original_url: https://thebuildingcoder.typepad.com/blog/2020_net_core_webinar.html
+post_number: '2020'
+reading_time_minutes: 8
+series: general
+slug: net_core_webinar
+source_file: 2020_net_core_webinar.md
+tags:
+- csharp
+- elements
+- parameters
+- python
+- revit-api
+- schedules
+- sheets
+- views
+- windows
+title: Net Core Webinar
+word_count: 1653
 ---
 
 ### Parameters and .NET Core Webinar

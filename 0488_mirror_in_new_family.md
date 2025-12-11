@@ -1,11 +1,30 @@
 ---
-post_number: "0488"
-title: "Mirroring in a New Family and Changing the Active View"
-slug: "mirror_in_new_family"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'references', 'revit-api', 'schedules', 'transactions', 'views', 'walls', 'windows']
-source_file: "0488_mirror_in_new_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0488_mirror_in_new_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.036923'
+original_url: https://thebuildingcoder.typepad.com/blog/0488_mirror_in_new_family.html
+post_number: 0488
+reading_time_minutes: 7
+series: family
+slug: mirror_in_new_family
+source_file: 0488_mirror_in_new_family.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- references
+- revit-api
+- schedules
+- transactions
+- views
+- walls
+- windows
+title: Mirroring in a New Family and Changing the Active View
+word_count: 1468
 ---
 
 ### Mirroring in a New Family and Changing the Active View

@@ -1,11 +1,27 @@
 ---
-post_number: "1629"
-title: "Change Text Colour"
-slug: "change_text_colour"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1629_change_text_colour.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1629_change_text_colour.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.423290'
+original_url: https://thebuildingcoder.typepad.com/blog/1629_change_text_colour.html
+post_number: '1629'
+reading_time_minutes: 4
+series: transactions
+slug: change_text_colour
+source_file: 1629_change_text_colour.md
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Change Text Colour
+word_count: 866
 ---
 
 ### Changing Text Colour

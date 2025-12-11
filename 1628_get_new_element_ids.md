@@ -1,11 +1,26 @@
 ---
-post_number: "1628"
-title: "Get New Element Ids"
-slug: "get_new_element_ids"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1628_get_new_element_ids.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1628_get_new_element_ids.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.421069'
+original_url: https://thebuildingcoder.typepad.com/blog/1628_get_new_element_ids.html
+post_number: '1628'
+reading_time_minutes: 9
+series: elements
+slug: get_new_element_ids
+source_file: 1628_get_new_element_ids.md
+tags:
+- elements
+- family
+- levels
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: Get New Element Ids
+word_count: 1774
 ---
 
 ### Retrieving Newly Created Element Ids

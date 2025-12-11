@@ -1,11 +1,24 @@
 ---
-post_number: "1324"
-title: "RevitLookup in Python Shell and Multiple Release Solution"
-slug: "revitlookup_python"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'walls', 'windows']
-source_file: "1324_revitlookup_python.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1324_revitlookup_python.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.773082'
+original_url: https://thebuildingcoder.typepad.com/blog/1324_revitlookup_python.html
+post_number: '1324'
+reading_time_minutes: 2
+series: general
+slug: revitlookup_python
+source_file: 1324_revitlookup_python.htm
+tags:
+- elements
+- python
+- references
+- revit-api
+- walls
+- windows
+title: RevitLookup in Python Shell and Multiple Release Solution
+word_count: 499
 ---
 
 ### RevitLookup in Python Shell and Multiple Release Solution

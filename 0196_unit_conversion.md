@@ -1,11 +1,21 @@
 ---
-post_number: "0196"
-title: "Unit Conversion"
-slug: "unit_conversion"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api']
-source_file: "0196_unit_conversion.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0196_unit_conversion.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.527609'
+original_url: https://thebuildingcoder.typepad.com/blog/0196_unit_conversion.html
+post_number: 0196
+reading_time_minutes: 8
+series: general
+slug: unit_conversion
+source_file: 0196_unit_conversion.htm
+tags:
+- family
+- parameters
+- revit-api
+title: Unit Conversion
+word_count: 1515
 ---
 
 ### Unit Conversion

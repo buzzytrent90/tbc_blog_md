@@ -1,11 +1,24 @@
 ---
-post_number: "0255"
-title: "Visible Elements"
-slug: "visible_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'views', 'walls']
-source_file: "0255_visible_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0255_visible_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.630413'
+original_url: https://thebuildingcoder.typepad.com/blog/0255_visible_elements.html
+post_number: '0255'
+reading_time_minutes: 4
+series: elements
+slug: visible_elements
+source_file: 0255_visible_elements.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- views
+- walls
+title: Visible Elements
+word_count: 719
 ---
 
 ### Visible Elements

@@ -1,11 +1,24 @@
 ---
-post_number: "0586"
-title: "Loading Only Selected Family Types"
-slug: "load_selected_types"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'revit-api', 'transactions', 'windows']
-source_file: "0586_load_selected_types.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0586_load_selected_types.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.217025'
+original_url: https://thebuildingcoder.typepad.com/blog/0586_load_selected_types.html
+post_number: 0586
+reading_time_minutes: 5
+series: elements
+slug: load_selected_types
+source_file: 0586_load_selected_types.htm
+tags:
+- csharp
+- elements
+- family
+- revit-api
+- transactions
+- windows
+title: Loading Only Selected Family Types
+word_count: 984
 ---
 
 ### Loading Only Selected Family Types

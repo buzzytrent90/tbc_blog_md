@@ -1,11 +1,26 @@
 ---
-post_number: "1548"
-title: "Room Instance Purge"
-slug: "room_instance_purge"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1548_room_instance_purge.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1548_room_instance_purge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.268592'
+original_url: https://thebuildingcoder.typepad.com/blog/1548_room_instance_purge.html
+post_number: '1548'
+reading_time_minutes: 4
+series: elements
+slug: room_instance_purge
+source_file: 1548_room_instance_purge.md
+tags:
+- elements
+- family
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Room Instance Purge
+word_count: 807
 ---
 
 ### ForgeFader UI, Lookup Builds, Purge & Room Instances

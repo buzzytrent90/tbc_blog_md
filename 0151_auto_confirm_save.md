@@ -1,11 +1,24 @@
 ---
-post_number: "0151"
-title: "Auto-Confirm Save Using DialogBoxShowing Event"
-slug: "auto_confirm_save"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api', 'walls', 'windows']
-source_file: "0151_auto_confirm_save.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0151_auto_confirm_save.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.449516'
+original_url: https://thebuildingcoder.typepad.com/blog/0151_auto_confirm_save.html
+post_number: '0151'
+reading_time_minutes: 5
+series: general
+slug: auto_confirm_save
+source_file: 0151_auto_confirm_save.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- walls
+- windows
+title: Auto-Confirm Save Using DialogBoxShowing Event
+word_count: 958
 ---
 
 ### Auto-Confirm Save Using DialogBoxShowing Event

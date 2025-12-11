@@ -1,11 +1,20 @@
 ---
-post_number: "0263"
-title: "Updated DevTV Introduction to Revit Programming"
-slug: "devtv"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "0263_devtv.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0263_devtv.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: news
+optimization_date: '2025-12-11T11:44:13.641307'
+original_url: https://thebuildingcoder.typepad.com/blog/0263_devtv.html
+post_number: '0263'
+reading_time_minutes: 1
+series: general
+slug: devtv
+source_file: 0263_devtv.htm
+tags:
+- revit-api
+- views
+title: Updated DevTV Introduction to Revit Programming
+word_count: 189
 ---
 
 ### Updated DevTV Introduction to Revit Programming

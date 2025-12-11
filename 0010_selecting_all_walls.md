@@ -1,11 +1,27 @@
 ---
-post_number: "0010"
-title: "Selecting all Walls"
-slug: "selecting_all_walls"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0010_selecting_all_walls.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0010_selecting_all_walls.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.223578'
+original_url: https://thebuildingcoder.typepad.com/blog/0010_selecting_all_walls.html
+post_number: '0010'
+reading_time_minutes: 4
+series: general
+slug: selecting_all_walls
+source_file: 0010_selecting_all_walls.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- revit-api
+- views
+- walls
+- windows
+title: Selecting all Walls
+word_count: 841
 ---
 
 ### Selecting all Walls

@@ -1,11 +1,20 @@
 ---
-post_number: "0617"
-title: "Python Shell in Revit and Vasari"
-slug: "ironpython_vasari"
-author: "Jeremy Tammik"
-tags: ['python', 'revit-api']
-source_file: "0617_ironpython_vasari.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0617_ironpython_vasari.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.273302'
+original_url: https://thebuildingcoder.typepad.com/blog/0617_ironpython_vasari.html
+post_number: '0617'
+reading_time_minutes: 1
+series: general
+slug: ironpython_vasari
+source_file: 0617_ironpython_vasari.htm
+tags:
+- python
+- revit-api
+title: Python Shell in Revit and Vasari
+word_count: 130
 ---
 
 ### Python Shell in Revit and Vasari

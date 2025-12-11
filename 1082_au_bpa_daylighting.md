@@ -1,11 +1,24 @@
 ---
-post_number: "1082"
-title: "Starting to Clean Up For the Break"
-slug: "au_bpa_daylighting"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "1082_au_bpa_daylighting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1082_au_bpa_daylighting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.270262'
+original_url: https://thebuildingcoder.typepad.com/blog/1082_au_bpa_daylighting.html
+post_number: '1082'
+reading_time_minutes: 5
+series: general
+slug: au_bpa_daylighting
+source_file: 1082_au_bpa_daylighting.htm
+tags:
+- elements
+- levels
+- parameters
+- revit-api
+- rooms
+- views
+title: Starting to Clean Up For the Break
+word_count: 1031
 ---
 
 ### Starting to Clean Up For the Break

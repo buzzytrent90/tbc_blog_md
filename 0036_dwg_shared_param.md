@@ -1,11 +1,25 @@
 ---
-post_number: "0036"
-title: "Adding a Shared Parameter to a DWG File"
-slug: "dwg_shared_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'parameters', 'revit-api', 'walls']
-source_file: "0036_dwg_shared_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0036_dwg_shared_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.267938'
+original_url: https://thebuildingcoder.typepad.com/blog/0036_dwg_shared_param.html
+post_number: '0036'
+reading_time_minutes: 3
+series: general
+slug: dwg_shared_param
+source_file: 0036_dwg_shared_param.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- parameters
+- revit-api
+- walls
+title: Adding a Shared Parameter to a DWG File
+word_count: 513
 ---
 
 ### Adding a Shared Parameter to a DWG File

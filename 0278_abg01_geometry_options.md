@@ -1,11 +1,29 @@
 ---
-post_number: "0278"
-title: "Geometry Options"
-slug: "abg01_geometry_options"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'views', 'walls', 'windows']
-source_file: "0278_abg01_geometry_options.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0278_abg01_geometry_options.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.667180'
+original_url: https://thebuildingcoder.typepad.com/blog/0278_abg01_geometry_options.html
+post_number: 0278
+reading_time_minutes: 3
+series: geometry
+slug: abg01_geometry_options
+source_file: 0278_abg01_geometry_options.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- views
+- walls
+- windows
+title: Geometry Options
+word_count: 631
 ---
 
 ### Geometry Options

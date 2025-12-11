@@ -1,11 +1,27 @@
 ---
-post_number: "1716"
-title: "Snoop Edge Face Link"
-slug: "snoop_edge_face_link"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'selection', 'sheets']
-source_file: "1716_snoop_edge_face_link.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1716_snoop_edge_face_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.592761'
+original_url: https://thebuildingcoder.typepad.com/blog/1716_snoop_edge_face_link.html
+post_number: '1716'
+reading_time_minutes: 3
+series: general
+slug: snoop_edge_face_link
+source_file: 1716_snoop_edge_face_link.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- selection
+- sheets
+title: Snoop Edge Face Link
+word_count: 664
 ---
 
 ### New RevitLookup Snoops Edge, Face, Link

@@ -1,11 +1,25 @@
 ---
-post_number: "1153"
-title: "Project Solon and BipChecker for Revit 2015 on GitHub"
-slug: "bipchecker_2015_git"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'parameters', 'references', 'revit-api', 'selection', 'views']
-source_file: "1153_bipchecker_2015_git.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1153_bipchecker_2015_git.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: news
+optimization_date: '2025-12-11T11:44:15.414313'
+original_url: https://thebuildingcoder.typepad.com/blog/1153_bipchecker_2015_git.html
+post_number: '1153'
+reading_time_minutes: 3
+series: general
+slug: bipchecker_2015_git
+source_file: 1153_bipchecker_2015_git.htm
+tags:
+- csharp
+- elements
+- parameters
+- references
+- revit-api
+- selection
+- views
+title: Project Solon and BipChecker for Revit 2015 on GitHub
+word_count: 531
 ---
 
 ### Project Solon and BipChecker for Revit 2015 on GitHub

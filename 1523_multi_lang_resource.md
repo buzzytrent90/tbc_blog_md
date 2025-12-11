@@ -1,11 +1,21 @@
 ---
-post_number: "1523"
-title: "Multi Lang Resource"
-slug: "multi_lang_resource"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'sheets']
-source_file: "1523_multi_lang_resource.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1523_multi_lang_resource.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.213297'
+original_url: https://thebuildingcoder.typepad.com/blog/1523_multi_lang_resource.html
+post_number: '1523'
+reading_time_minutes: 6
+series: general
+slug: multi_lang_resource
+source_file: 1523_multi_lang_resource.md
+tags:
+- csharp
+- revit-api
+- sheets
+title: Multi Lang Resource
+word_count: 1255
 ---
 
 ### Multiple Language RESX Resource Files

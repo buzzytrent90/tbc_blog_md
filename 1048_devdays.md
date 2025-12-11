@@ -1,11 +1,20 @@
 ---
-post_number: "1048"
-title: "Invitation to Autodesk DevDays 2013"
-slug: "devdays"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules']
-source_file: "1048_devdays.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1048_devdays.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.192832'
+original_url: https://thebuildingcoder.typepad.com/blog/1048_devdays.html
+post_number: '1048'
+reading_time_minutes: 1
+series: general
+slug: devdays
+source_file: 1048_devdays.htm
+tags:
+- revit-api
+- schedules
+title: Invitation to Autodesk DevDays 2013
+word_count: 288
 ---
 
 ### Invitation to Autodesk DevDays 2013

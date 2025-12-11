@@ -1,11 +1,19 @@
 ---
-post_number: "0197"
-title: "Online Revit API Help"
-slug: "online_api_help"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0197_online_api_help.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0197_online_api_help.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.529481'
+original_url: https://thebuildingcoder.typepad.com/blog/0197_online_api_help.html
+post_number: 0197
+reading_time_minutes: 1
+series: general
+slug: online_api_help
+source_file: 0197_online_api_help.htm
+tags:
+- revit-api
+title: Online Revit API Help
+word_count: 97
 ---
 
 ### Online Revit API Help

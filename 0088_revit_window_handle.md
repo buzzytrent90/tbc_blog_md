@@ -1,11 +1,27 @@
 ---
-post_number: "0088"
-title: "Revit Window Handle and Modeless Dialogues"
-slug: "revit_window_handle"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'python', 'revit-api', 'rooms', 'selection', 'walls', 'windows']
-source_file: "0088_revit_window_handle.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0088_revit_window_handle.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.340601'
+original_url: https://thebuildingcoder.typepad.com/blog/0088_revit_window_handle.html
+post_number: 0088
+reading_time_minutes: 8
+series: general
+slug: revit_window_handle
+source_file: 0088_revit_window_handle.htm
+tags:
+- csharp
+- elements
+- levels
+- python
+- revit-api
+- rooms
+- selection
+- walls
+- windows
+title: Revit Window Handle and Modeless Dialogues
+word_count: 1581
 ---
 
 ### Revit Window Handle and Modeless Dialogues

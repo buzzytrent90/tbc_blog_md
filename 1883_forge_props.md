@@ -1,11 +1,25 @@
 ---
-post_number: "1883"
-title: "Forge Props"
-slug: "forge_props"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1883_forge_props.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1883_forge_props.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.959391'
+original_url: https://thebuildingcoder.typepad.com/blog/1883_forge_props.html
+post_number: '1883'
+reading_time_minutes: 6
+series: general
+slug: forge_props
+source_file: 1883_forge_props.md
+tags:
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Forge Props
+word_count: 1120
 ---
 
 ### Forge at AU and Open Source Property Access

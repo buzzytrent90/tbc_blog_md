@@ -1,11 +1,25 @@
 ---
-post_number: "1035"
-title: "LINQ DIY Transformed Geometry Bounding Box"
-slug: "geo_bound_box"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'walls', 'windows']
-source_file: "1035_geo_bound_box.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1035_geo_bound_box.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.166606'
+original_url: https://thebuildingcoder.typepad.com/blog/1035_geo_bound_box.html
+post_number: '1035'
+reading_time_minutes: 8
+series: general
+slug: geo_bound_box
+source_file: 1035_geo_bound_box.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- walls
+- windows
+title: LINQ DIY Transformed Geometry Bounding Box
+word_count: 1543
 ---
 
 ### LINQ DIY Transformed Geometry Bounding Box

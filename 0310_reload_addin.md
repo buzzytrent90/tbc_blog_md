@@ -1,11 +1,23 @@
 ---
-post_number: "0310"
-title: "Reload an Add-In to Debug"
-slug: "reload_addin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'schedules']
-source_file: "0310_reload_addin.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0310_reload_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.723394'
+original_url: https://thebuildingcoder.typepad.com/blog/0310_reload_addin.html
+post_number: '0310'
+reading_time_minutes: 6
+series: structural
+slug: reload_addin
+source_file: 0310_reload_addin.htm
+tags:
+- csharp
+- references
+- revit-api
+- schedules
+- structural
+title: Reload an Add-In to Debug
+word_count: 1248
 ---
 
 ### Reload an Add-In to Debug

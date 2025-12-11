@@ -1,11 +1,25 @@
 ---
-post_number: "0607"
-title: "Modifying Cable Tray Shape"
-slug: "cable_tray_shape"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'transactions']
-source_file: "0607_cable_tray_shape.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0607_cable_tray_shape.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.251172'
+original_url: https://thebuildingcoder.typepad.com/blog/0607_cable_tray_shape.html
+post_number: '0607'
+reading_time_minutes: 2
+series: general
+slug: cable_tray_shape
+source_file: 0607_cable_tray_shape.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- transactions
+title: Modifying Cable Tray Shape
+word_count: 310
 ---
 
 ### Modifying Cable Tray Shape

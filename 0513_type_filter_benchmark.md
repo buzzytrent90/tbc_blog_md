@@ -1,11 +1,28 @@
 ---
-post_number: "0513"
-title: "Type Filter Benchmark Update"
-slug: "type_filter_benchmark"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'levels', 'python', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0513_type_filter_benchmark.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0513_type_filter_benchmark.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.082128'
+original_url: https://thebuildingcoder.typepad.com/blog/0513_type_filter_benchmark.html
+post_number: '0513'
+reading_time_minutes: 3
+series: filtering
+slug: type_filter_benchmark
+source_file: 0513_type_filter_benchmark.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- levels
+- python
+- revit-api
+- transactions
+- views
+- windows
+title: Type Filter Benchmark Update
+word_count: 523
 ---
 
 ### Type Filter Benchmark Update

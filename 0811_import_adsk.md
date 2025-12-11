@@ -1,11 +1,29 @@
 ---
-post_number: "0811"
-title: "ADSK File Import and Phase of Room"
-slug: "import_adsk"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'rooms', 'transactions', 'views']
-source_file: "0811_import_adsk.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0811_import_adsk.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.642515'
+original_url: https://thebuildingcoder.typepad.com/blog/0811_import_adsk.html
+post_number: 0811
+reading_time_minutes: 4
+series: general
+slug: import_adsk
+source_file: 0811_import_adsk.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- rooms
+- transactions
+- views
+title: ADSK File Import and Phase of Room
+word_count: 717
 ---
 
 ### ADSK File Import and Phase of Room

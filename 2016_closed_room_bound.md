@@ -1,11 +1,32 @@
 ---
-post_number: "2016"
-title: "Closed Room Bound"
-slug: "closed_room_bound"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "2016_closed_room_bound.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2016_closed_room_bound.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.280860'
+original_url: https://thebuildingcoder.typepad.com/blog/2016_closed_room_bound.html
+post_number: '2016'
+reading_time_minutes: 6
+series: general
+slug: closed_room_bound
+source_file: 2016_closed_room_bound.md
+tags:
+- doors
+- elements
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Closed Room Bound
+word_count: 1115
 ---
 
 ### Journal Magic, Adjacent Rooms and Room Boundary

@@ -1,11 +1,24 @@
 ---
-post_number: "0709"
-title: "Point Cloud Feature Extraction"
-slug: "point_cloud_feat_extr"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'revit-api', 'views', 'walls']
-source_file: "0709_point_cloud_feat_extr.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0709_point_cloud_feat_extr.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: news
+optimization_date: '2025-12-11T11:44:14.440478'
+original_url: https://thebuildingcoder.typepad.com/blog/0709_point_cloud_feat_extr.html
+post_number: 0709
+reading_time_minutes: 1
+series: geometry
+slug: point_cloud_feat_extr
+source_file: 0709_point_cloud_feat_extr.htm
+tags:
+- elements
+- geometry
+- levels
+- revit-api
+- views
+- walls
+title: Point Cloud Feature Extraction
+word_count: 254
 ---
 
 ### Point Cloud Feature Extraction

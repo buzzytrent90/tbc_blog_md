@@ -1,11 +1,22 @@
 ---
-post_number: "0495"
-title: "Flatten a Non-Planar Extrusion Profile"
-slug: "flatten_profile"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'views']
-source_file: "0495_flatten_profile.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0495_flatten_profile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.053111'
+original_url: https://thebuildingcoder.typepad.com/blog/0495_flatten_profile.html
+post_number: 0495
+reading_time_minutes: 2
+series: general
+slug: flatten_profile
+source_file: 0495_flatten_profile.htm
+tags:
+- elements
+- parameters
+- revit-api
+- views
+title: Flatten a Non-Planar Extrusion Profile
+word_count: 311
 ---
 
 ### Flatten a Non-Planar Extrusion Profile

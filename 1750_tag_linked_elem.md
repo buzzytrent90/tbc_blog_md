@@ -1,11 +1,31 @@
 ---
-post_number: "1750"
-title: "Tag Linked Elem"
-slug: "tag_linked_elem"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1750_tag_linked_elem.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1750_tag_linked_elem.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.666929'
+original_url: https://thebuildingcoder.typepad.com/blog/1750_tag_linked_elem.html
+post_number: '1750'
+reading_time_minutes: 6
+series: general
+slug: tag_linked_elem
+source_file: 1750_tag_linked_elem.md
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Tag Linked Elem
+word_count: 1131
 ---
 
 ### Tagging a Linked Element

@@ -1,11 +1,30 @@
 ---
-post_number: "1319"
-title: "Compatibilizar entre versões – API Compatibility Helper"
-slug: "compatibility"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "1319_compatibility.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1319_compatibility.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.761300'
+original_url: https://thebuildingcoder.typepad.com/blog/1319_compatibility.html
+post_number: '1319'
+reading_time_minutes: 17
+series: general
+slug: compatibility
+source_file: 1319_compatibility.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: "Compatibilizar entre vers\xF5es \u2013 API Compatibility Helper"
+word_count: 3464
 ---
 
 ### Compatibilizar entre versões – API Compatibility Helper

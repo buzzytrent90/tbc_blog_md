@@ -1,11 +1,22 @@
 ---
-post_number: "1763"
-title: "Bim365 Visual Cpu"
-slug: "bim365_visual_cpu"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'views']
-source_file: "1763_bim365_visual_cpu.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1763_bim365_visual_cpu.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.696340'
+original_url: https://thebuildingcoder.typepad.com/blog/1763_bim365_visual_cpu.html
+post_number: '1763'
+reading_time_minutes: 2
+series: general
+slug: bim365_visual_cpu
+source_file: 1763_bim365_visual_cpu.md
+tags:
+- elements
+- revit-api
+- sheets
+- views
+title: Bim365 Visual Cpu
+word_count: 443
 ---
 
 ### BIM365 Getting Started, Materials API, CPU Voltage

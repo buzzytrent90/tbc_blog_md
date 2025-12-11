@@ -1,11 +1,30 @@
 ---
-post_number: "1703"
-title: "Dashboard Regen Panel"
-slug: "dashboard_regen_panel"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1703_dashboard_regen_panel.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1703_dashboard_regen_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.561739'
+original_url: https://thebuildingcoder.typepad.com/blog/1703_dashboard_regen_panel.html
+post_number: '1703'
+reading_time_minutes: 9
+series: general
+slug: dashboard_regen_panel
+source_file: 1703_dashboard_regen_panel.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+- walls
+title: Dashboard Regen Panel
+word_count: 1854
 ---
 
 ### Dashboard, Regen and Revit API Panel at AU

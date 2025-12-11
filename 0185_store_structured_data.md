@@ -1,11 +1,24 @@
 ---
-post_number: "0185"
-title: "Store Structured Data"
-slug: "store_structured_data"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api']
-source_file: "0185_store_structured_data.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0185_store_structured_data.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.508394'
+original_url: https://thebuildingcoder.typepad.com/blog/0185_store_structured_data.html
+post_number: 0185
+reading_time_minutes: 6
+series: general
+slug: store_structured_data
+source_file: 0185_store_structured_data.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+title: Store Structured Data
+word_count: 1136
 ---
 
 ### Store Structured Data

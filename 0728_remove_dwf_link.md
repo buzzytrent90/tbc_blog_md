@@ -1,11 +1,30 @@
 ---
-post_number: "0728"
-title: "Remove DWF Links"
-slug: "remove_dwf_link"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "0728_remove_dwf_link.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0728_remove_dwf_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.473389'
+original_url: https://thebuildingcoder.typepad.com/blog/0728_remove_dwf_link.html
+post_number: 0728
+reading_time_minutes: 6
+series: general
+slug: remove_dwf_link
+source_file: 0728_remove_dwf_link.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Remove DWF Links
+word_count: 1256
 ---
 
 ### Remove DWF Links

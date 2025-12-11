@@ -1,11 +1,24 @@
 ---
-post_number: "0318"
-title: "Access Extrusions in a Family"
-slug: "extrusion_in_family"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'schedules']
-source_file: "0318_extrusion_in_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0318_extrusion_in_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.736797'
+original_url: https://thebuildingcoder.typepad.com/blog/0318_extrusion_in_family.html
+post_number: 0318
+reading_time_minutes: 2
+series: family
+slug: extrusion_in_family
+source_file: 0318_extrusion_in_family.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- schedules
+title: Access Extrusions in a Family
+word_count: 364
 ---
 
 ### Access Extrusions in a Family

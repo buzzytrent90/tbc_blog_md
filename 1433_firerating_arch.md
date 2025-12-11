@@ -1,11 +1,28 @@
 ---
-post_number: "1433"
-title: "Firerating Arch"
-slug: "firerating_arch"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'family', 'parameters', 'python', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1433_firerating_arch.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1433_firerating_arch.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.016864'
+original_url: https://thebuildingcoder.typepad.com/blog/1433_firerating_arch.html
+post_number: '1433'
+reading_time_minutes: 8
+series: general
+slug: firerating_arch
+source_file: 1433_firerating_arch.md
+tags:
+- csharp
+- doors
+- family
+- parameters
+- python
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Firerating Arch
+word_count: 1540
 ---
 
 ### FireRatingCloud Context and Architecture

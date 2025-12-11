@@ -1,11 +1,23 @@
 ---
-post_number: "0743"
-title: "Idling Enhancements and External Events"
-slug: "external_event"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'transactions', 'views']
-source_file: "0743_external_event.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0743_external_event.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.502886'
+original_url: https://thebuildingcoder.typepad.com/blog/0743_external_event.html
+post_number: '0743'
+reading_time_minutes: 7
+series: general
+slug: external_event
+source_file: 0743_external_event.htm
+tags:
+- csharp
+- elements
+- revit-api
+- transactions
+- views
+title: Idling Enhancements and External Events
+word_count: 1448
 ---
 
 ### Idling Enhancements and External Events

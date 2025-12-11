@@ -1,11 +1,20 @@
 ---
-post_number: "0477"
-title: "Reading DWG Settings and Content Location from INI File"
-slug: "content_loc_dwg_setting"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0477_content_loc_dwg_setting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0477_content_loc_dwg_setting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.014839'
+original_url: https://thebuildingcoder.typepad.com/blog/0477_content_loc_dwg_setting.html
+post_number: '0477'
+reading_time_minutes: 2
+series: general
+slug: content_loc_dwg_setting
+source_file: 0477_content_loc_dwg_setting.htm
+tags:
+- family
+- revit-api
+title: Reading DWG Settings and Content Location from INI File
+word_count: 483
 ---
 
 ### Reading DWG Settings and Content Location from INI File

@@ -1,11 +1,26 @@
 ---
-post_number: "1936"
-title: "Os Addin Mgr"
-slug: "os_addin_mgr"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1936_os_addin_mgr.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1936_os_addin_mgr.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.080875'
+original_url: https://thebuildingcoder.typepad.com/blog/1936_os_addin_mgr.html
+post_number: '1936'
+reading_time_minutes: 4
+series: general
+slug: os_addin_mgr
+source_file: 1936_os_addin_mgr.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Os Addin Mgr
+word_count: 821
 ---
 
 ### Add-In Manager, FormulaManager and Tiger Year

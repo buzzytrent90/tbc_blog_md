@@ -1,11 +1,23 @@
 ---
-post_number: "2042"
-title: "Hide Ribbon"
-slug: "hide_ribbon"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'sheets', 'windows']
-source_file: "2042_hide_ribbon.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2042_hide_ribbon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.345201'
+original_url: https://thebuildingcoder.typepad.com/blog/2042_hide_ribbon.html
+post_number: '2042'
+reading_time_minutes: 8
+series: general
+slug: hide_ribbon
+source_file: 2042_hide_ribbon.md
+tags:
+- elements
+- references
+- revit-api
+- sheets
+- windows
+title: Hide Ribbon
+word_count: 1638
 ---
 
 ### Removing Docs Zip Files, Panels and Buttons

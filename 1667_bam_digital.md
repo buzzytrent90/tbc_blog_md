@@ -1,11 +1,24 @@
 ---
-post_number: "1667"
-title: "Bam Digital"
-slug: "bam_digital"
-author: "Jeremy Tammik"
-tags: ['geometry', 'parameters', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1667_bam_digital.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1667_bam_digital.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.494131'
+original_url: https://thebuildingcoder.typepad.com/blog/1667_bam_digital.html
+post_number: '1667'
+reading_time_minutes: 3
+series: general
+slug: bam_digital
+source_file: 1667_bam_digital.md
+tags:
+- geometry
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+title: Bam Digital
+word_count: 553
 ---
 
 ### Digital Construction and Drawing a Model Line

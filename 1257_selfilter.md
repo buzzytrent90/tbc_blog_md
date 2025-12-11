@@ -1,11 +1,29 @@
 ---
-post_number: "1257"
-title: "SelFilter, a Powerful Generic Selection Filter Utility"
-slug: "selfilter"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls']
-source_file: "1257_selfilter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1257_selfilter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.2
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.622572'
+original_url: https://thebuildingcoder.typepad.com/blog/1257_selfilter.html
+post_number: '1257'
+reading_time_minutes: 17
+series: filtering
+slug: selfilter
+source_file: 1257_selfilter.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+title: SelFilter, a Powerful Generic Selection Filter Utility
+word_count: 3448
 ---
 
 ### SelFilter, a Powerful Generic Selection Filter Utility

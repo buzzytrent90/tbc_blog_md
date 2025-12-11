@@ -1,11 +1,21 @@
 ---
-post_number: "0317"
-title: "AddInManager"
-slug: "addinmanager"
-author: "Jeremy Tammik"
-tags: ['geometry', 'revit-api', 'views']
-source_file: "0317_addinmanager.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0317_addinmanager.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.735510'
+original_url: https://thebuildingcoder.typepad.com/blog/0317_addinmanager.html
+post_number: '0317'
+reading_time_minutes: 3
+series: general
+slug: addinmanager
+source_file: 0317_addinmanager.htm
+tags:
+- geometry
+- revit-api
+- views
+title: AddInManager
+word_count: 686
 ---
 
 ### AddInManager

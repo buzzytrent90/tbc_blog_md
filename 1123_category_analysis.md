@@ -1,11 +1,24 @@
 ---
-post_number: "1123"
-title: "Category Analysis with and without Python"
-slug: "category_analysis"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'python', 'revit-api', 'views']
-source_file: "1123_category_analysis.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1123_category_analysis.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.347500'
+original_url: https://thebuildingcoder.typepad.com/blog/1123_category_analysis.html
+post_number: '1123'
+reading_time_minutes: 2
+series: elements
+slug: category_analysis
+source_file: 1123_category_analysis.htm
+tags:
+- family
+- parameters
+- python
+- revit-api
+- views
+- elements
+title: Category Analysis with and without Python
+word_count: 466
 ---
 
 ### Category Analysis with and without Python

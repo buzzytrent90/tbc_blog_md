@@ -1,11 +1,21 @@
 ---
-post_number: "0116"
-title: "DWF View Definition"
-slug: "dwf_view_definition"
-author: "Jeremy Tammik"
-tags: ['parameters', 'revit-api', 'views']
-source_file: "0116_dwf_view_definition.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0116_dwf_view_definition.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.390035'
+original_url: https://thebuildingcoder.typepad.com/blog/0116_dwf_view_definition.html
+post_number: '0116'
+reading_time_minutes: 3
+series: views
+slug: dwf_view_definition
+source_file: 0116_dwf_view_definition.htm
+tags:
+- parameters
+- revit-api
+- views
+title: DWF View Definition
+word_count: 521
 ---
 
 ### DWF View Definition

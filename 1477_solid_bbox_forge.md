@@ -1,11 +1,28 @@
 ---
-post_number: "1477"
-title: "The Building Coder"
-slug: "solid_bbox_forge"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1477_solid_bbox_forge.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1477_solid_bbox_forge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.115477'
+original_url: https://thebuildingcoder.typepad.com/blog/1477_solid_bbox_forge.html
+post_number: '1477'
+reading_time_minutes: 7
+series: general
+slug: solid_bbox_forge
+source_file: 1477_solid_bbox_forge.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: The Building Coder
+word_count: 1442
 ---
 
 ### Solid From Bounding Box and Forge Webinar 4

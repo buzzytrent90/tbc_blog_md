@@ -1,11 +1,22 @@
 ---
-post_number: "1724"
-title: "Multi Loop Newsweep"
-slug: "multi_loop_newsweep"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api', 'sheets', 'views']
-source_file: "1724_multi_loop_newsweep.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1724_multi_loop_newsweep.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.609905'
+original_url: https://thebuildingcoder.typepad.com/blog/1724_multi_loop_newsweep.html
+post_number: '1724'
+reading_time_minutes: 3
+series: general
+slug: multi_loop_newsweep
+source_file: 1724_multi_loop_newsweep.md
+tags:
+- family
+- revit-api
+- sheets
+- views
+title: Multi Loop Newsweep
+word_count: 699
 ---
 
 ### Creating a Sweep with Multiple Closed Loops

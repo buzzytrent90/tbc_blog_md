@@ -1,11 +1,25 @@
 ---
-post_number: "1874"
-title: "Doc Session Id"
-slug: "doc_session_id"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1874_doc_session_id.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1874_doc_session_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.940478'
+original_url: https://thebuildingcoder.typepad.com/blog/1874_doc_session_id.html
+post_number: '1874'
+reading_time_minutes: 7
+series: general
+slug: doc_session_id
+source_file: 1874_doc_session_id.md
+tags:
+- elements
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Doc Session Id
+word_count: 1491
 ---
 
 ### Doc Session Id, API Context and External Events

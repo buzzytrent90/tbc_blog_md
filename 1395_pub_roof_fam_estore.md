@@ -1,11 +1,28 @@
 ---
-post_number: "1395"
-title: "Pub Roof Fam Estore"
-slug: "pub_roof_fam_estore"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1395_pub_roof_fam_estore.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1395_pub_roof_fam_estore.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: news
+optimization_date: '2025-12-11T11:44:15.930504'
+original_url: https://thebuildingcoder.typepad.com/blog/1395_pub_roof_fam_estore.html
+post_number: '1395'
+reading_time_minutes: 4
+series: general
+slug: pub_roof_fam_estore
+source_file: 1395_pub_roof_fam_estore.md
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- selection
+- sheets
+- views
+- walls
+title: Pub Roof Fam Estore
+word_count: 834
 ---
 
 ### Era of Connection, Families and Data Handling

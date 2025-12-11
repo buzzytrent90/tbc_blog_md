@@ -1,11 +1,25 @@
 ---
-post_number: "1626"
-title: "Newfamilysymbolprofile"
-slug: "newfamilysymbolprofile"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'revit-api', 'sheets', 'transactions']
-source_file: "1626_newfamilysymbolprofile.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1626_newfamilysymbolprofile.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.415059'
+original_url: https://thebuildingcoder.typepad.com/blog/1626_newfamilysymbolprofile.html
+post_number: '1626'
+reading_time_minutes: 4
+series: elements
+slug: newfamilysymbolprofile
+source_file: 1626_newfamilysymbolprofile.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- sheets
+- transactions
+title: Newfamilysymbolprofile
+word_count: 715
 ---
 
 ### NewFamilySymbolProfile Sample Add-In

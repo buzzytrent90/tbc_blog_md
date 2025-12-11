@@ -1,11 +1,25 @@
 ---
-post_number: "0662"
-title: "Product and Add-In Wizard Updates"
-slug: "addin_wizard_2012_ur2"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'schedules', 'sheets', 'vbnet', 'windows']
-source_file: "0662_addin_wizard_2012_ur2.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0662_addin_wizard_2012_ur2.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.352038'
+original_url: https://thebuildingcoder.typepad.com/blog/0662_addin_wizard_2012_ur2.html
+post_number: '0662'
+reading_time_minutes: 7
+series: general
+slug: addin_wizard_2012_ur2
+source_file: 0662_addin_wizard_2012_ur2.htm
+tags:
+- csharp
+- references
+- revit-api
+- schedules
+- sheets
+- vbnet
+- windows
+title: Product and Add-In Wizard Updates
+word_count: 1398
 ---
 
 ### Product and Add-In Wizard Updates

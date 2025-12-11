@@ -1,11 +1,26 @@
 ---
-post_number: "1198"
-title: "Accessing Extensible Storage on OwnerFamily in Project"
-slug: "estorage_owner_family"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'transactions', 'views']
-source_file: "1198_estorage_owner_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1198_estorage_owner_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.492971'
+original_url: https://thebuildingcoder.typepad.com/blog/1198_estorage_owner_family.html
+post_number: '1198'
+reading_time_minutes: 7
+series: family
+slug: estorage_owner_family
+source_file: 1198_estorage_owner_family.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- transactions
+- views
+title: Accessing Extensible Storage on OwnerFamily in Project
+word_count: 1423
 ---
 
 ### Accessing Extensible Storage on OwnerFamily in Project

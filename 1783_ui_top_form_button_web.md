@@ -1,11 +1,25 @@
 ---
-post_number: "1783"
-title: "Ui Top Form Button Web"
-slug: "ui_top_form_button_web"
-author: "Jeremy Tammik"
-tags: ['levels', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1783_ui_top_form_button_web.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1783_ui_top_form_button_web.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.739011'
+original_url: https://thebuildingcoder.typepad.com/blog/1783_ui_top_form_button_web.html
+post_number: '1783'
+reading_time_minutes: 5
+series: general
+slug: ui_top_form_button_web
+source_file: 1783_ui_top_form_button_web.md
+tags:
+- levels
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Ui Top Form Button Web
+word_count: 904
 ---
 
 ### UI Top Forms, Buttons, Web, etc.

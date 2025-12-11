@@ -1,11 +1,27 @@
 ---
-post_number: "1398"
-title: "Bim Programming"
-slug: "bim_programming"
-author: "Jeremy Tammik"
-tags: ['csharp', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'windows']
-source_file: "1398_bim_programming.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1398_bim_programming.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.937634'
+original_url: https://thebuildingcoder.typepad.com/blog/1398_bim_programming.html
+post_number: '1398'
+reading_time_minutes: 5
+series: general
+slug: bim_programming
+source_file: 1398_bim_programming.md
+tags:
+- csharp
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- windows
+title: Bim Programming
+word_count: 1088
 ---
 
 ### BIM Programming Madrid and Spanish Connectivity

@@ -1,11 +1,25 @@
 ---
-post_number: "0205"
-title: "Deleting a Shared Parameter"
-slug: "delete_shared_param"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'python', 'references', 'revit-api', 'selection', 'walls']
-source_file: "0205_delete_shared_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0205_delete_shared_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.548221'
+original_url: https://thebuildingcoder.typepad.com/blog/0205_delete_shared_param.html
+post_number: '0205'
+reading_time_minutes: 3
+series: general
+slug: delete_shared_param
+source_file: 0205_delete_shared_param.htm
+tags:
+- elements
+- parameters
+- python
+- references
+- revit-api
+- selection
+- walls
+title: Deleting a Shared Parameter
+word_count: 640
 ---
 
 ### Deleting a Shared Parameter

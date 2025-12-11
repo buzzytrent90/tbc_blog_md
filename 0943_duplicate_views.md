@@ -1,11 +1,28 @@
 ---
-post_number: "0943"
-title: "Copy and Paste API Applications and New Modeless Assertion"
-slug: "duplicate_views"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'revit-api', 'rooms', 'schedules', 'transactions', 'views', 'walls', 'windows']
-source_file: "0943_duplicate_views.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0943_duplicate_views.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.959404'
+original_url: https://thebuildingcoder.typepad.com/blog/0943_duplicate_views.html
+post_number: 0943
+reading_time_minutes: 9
+series: views
+slug: duplicate_views
+source_file: 0943_duplicate_views.htm
+tags:
+- elements
+- family
+- filtering
+- revit-api
+- rooms
+- schedules
+- transactions
+- views
+- walls
+- windows
+title: Copy and Paste API Applications and New Modeless Assertion
+word_count: 1877
 ---
 
 ### Copy and Paste API Applications and New Modeless Assertion

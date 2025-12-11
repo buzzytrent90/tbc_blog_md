@@ -1,11 +1,24 @@
 ---
-post_number: "0022"
-title: "Picking a Point"
-slug: "picking_a_point"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'selection', 'walls', 'windows']
-source_file: "0022_picking_a_point.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0022_picking_a_point.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.243385'
+original_url: https://thebuildingcoder.typepad.com/blog/0022_picking_a_point.html
+post_number: '0022'
+reading_time_minutes: 2
+series: geometry
+slug: picking_a_point
+source_file: 0022_picking_a_point.htm
+tags:
+- elements
+- revit-api
+- selection
+- walls
+- windows
+- geometry
+title: Picking a Point
+word_count: 335
 ---
 
 ### Picking a Point

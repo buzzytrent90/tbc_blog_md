@@ -1,11 +1,25 @@
 ---
-post_number: "0245"
-title: "Family Parameter Value"
-slug: "family_param_value"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api']
-source_file: "0245_family_param_value.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0245_family_param_value.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.614046'
+original_url: https://thebuildingcoder.typepad.com/blog/0245_family_param_value.html
+post_number: '0245'
+reading_time_minutes: 6
+series: parameters
+slug: family_param_value
+source_file: 0245_family_param_value.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+title: Family Parameter Value
+word_count: 1128
 ---
 
 ### Family Parameter Value

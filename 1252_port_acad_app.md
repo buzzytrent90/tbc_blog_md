@@ -1,11 +1,20 @@
 ---
-post_number: "1252"
-title: "Porting an AutoCAD Application to Revit"
-slug: "port_acad_app"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'schedules']
-source_file: "1252_port_acad_app.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1252_port_acad_app.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.610858'
+original_url: https://thebuildingcoder.typepad.com/blog/1252_port_acad_app.html
+post_number: '1252'
+reading_time_minutes: 2
+series: general
+slug: port_acad_app
+source_file: 1252_port_acad_app.htm
+tags:
+- revit-api
+- schedules
+title: Porting an AutoCAD Application to Revit
+word_count: 439
 ---
 
 ﻿

@@ -1,11 +1,22 @@
 ---
-post_number: "1345"
-title: "Revit Geometry Kernel Cylinder Faces"
-slug: "kernel_cylinder_faces"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'views']
-source_file: "1345_kernel_cylinder_faces.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1345_kernel_cylinder_faces.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.814970'
+original_url: https://thebuildingcoder.typepad.com/blog/1345_kernel_cylinder_faces.html
+post_number: '1345'
+reading_time_minutes: 5
+series: general
+slug: kernel_cylinder_faces
+source_file: 1345_kernel_cylinder_faces.htm
+tags:
+- elements
+- geometry
+- revit-api
+- views
+title: Revit Geometry Kernel Cylinder Faces
+word_count: 938
 ---
 
 ### Revit Geometry Kernel Cylinder Faces

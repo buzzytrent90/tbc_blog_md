@@ -1,11 +1,28 @@
 ---
-post_number: "1450"
-title: "The Building Coder"
-slug: "mep_system_json_graph"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'parameters', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1450_mep_system_json_graph.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1450_mep_system_json_graph.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.1
+content_type: news
+optimization_date: '2025-12-11T11:44:16.048355'
+original_url: https://thebuildingcoder.typepad.com/blog/1450_mep_system_json_graph.html
+post_number: '1450'
+reading_time_minutes: 8
+series: mep
+slug: mep_system_json_graph
+source_file: 1450_mep_system_json_graph.md
+tags:
+- elements
+- levels
+- parameters
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+- mep
+title: The Building Coder
+word_count: 1672
 ---
 
 ### MEP System Structure in Hierarchical JSON Graph

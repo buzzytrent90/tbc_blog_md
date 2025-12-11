@@ -1,11 +1,25 @@
 ---
-post_number: "1698"
-title: "Takeoff Forge Ifc"
-slug: "takeoff_forge_ifc"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1698_takeoff_forge_ifc.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1698_takeoff_forge_ifc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.548281'
+original_url: https://thebuildingcoder.typepad.com/blog/1698_takeoff_forge_ifc.html
+post_number: '1698'
+reading_time_minutes: 10
+series: general
+slug: takeoff_forge_ifc
+source_file: 1698_takeoff_forge_ifc.md
+tags:
+- doors
+- elements
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Takeoff Forge Ifc
+word_count: 1962
 ---
 
 ### Tailor Your BIM with F#, Forge, IFC and Takeoffs

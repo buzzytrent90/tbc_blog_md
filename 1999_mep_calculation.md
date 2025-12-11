@@ -1,11 +1,28 @@
 ---
-post_number: "1999"
-title: "Mep Calculation"
-slug: "mep_calculation"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1999_mep_calculation.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1999_mep_calculation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.235904'
+original_url: https://thebuildingcoder.typepad.com/blog/1999_mep_calculation.html
+post_number: '1999'
+reading_time_minutes: 8
+series: mep
+slug: mep_calculation
+source_file: 1999_mep_calculation.md
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- views
+- walls
+- mep
+title: Mep Calculation
+word_count: 1668
 ---
 
 ### Docs, Lookup, MEP Calculation and APS DevCon

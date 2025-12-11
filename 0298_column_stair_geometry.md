@@ -1,11 +1,25 @@
 ---
-post_number: "0298"
-title: "Retrieving Column and Stair Geometry"
-slug: "column_stair_geometry"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'revit-api', 'walls']
-source_file: "0298_column_stair_geometry.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0298_column_stair_geometry.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.703849'
+original_url: https://thebuildingcoder.typepad.com/blog/0298_column_stair_geometry.html
+post_number: 0298
+reading_time_minutes: 4
+series: geometry
+slug: column_stair_geometry
+source_file: 0298_column_stair_geometry.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- walls
+title: Retrieving Column and Stair Geometry
+word_count: 803
 ---
 
 ### Retrieving Column and Stair Geometry

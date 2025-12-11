@@ -1,11 +1,22 @@
 ---
-post_number: "0815"
-title: "AU Registration and ADN Open"
-slug: "au_adn_open"
-author: "Jeremy Tammik"
-tags: ['doors', 'references', 'revit-api', 'views']
-source_file: "0815_au_adn_open.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0815_au_adn_open.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.651209'
+original_url: https://thebuildingcoder.typepad.com/blog/0815_au_adn_open.html
+post_number: 0815
+reading_time_minutes: 3
+series: general
+slug: au_adn_open
+source_file: 0815_au_adn_open.htm
+tags:
+- doors
+- references
+- revit-api
+- views
+title: AU Registration and ADN Open
+word_count: 513
 ---
 
 ### AU Registration and ADN Open

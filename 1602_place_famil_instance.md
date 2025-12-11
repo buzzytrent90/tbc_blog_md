@@ -1,11 +1,23 @@
 ---
-post_number: "1602"
-title: "Place Famil Instance"
-slug: "place_famil_instance"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'references', 'revit-api', 'sheets']
-source_file: "1602_place_famil_instance.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1602_place_famil_instance.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.373018'
+original_url: https://thebuildingcoder.typepad.com/blog/1602_place_famil_instance.html
+post_number: '1602'
+reading_time_minutes: 4
+series: elements
+slug: place_famil_instance
+source_file: 1602_place_famil_instance.md
+tags:
+- elements
+- family
+- references
+- revit-api
+- sheets
+title: Place Famil Instance
+word_count: 842
 ---
 
 ### Migrating PlaceInstances to Revit 2018

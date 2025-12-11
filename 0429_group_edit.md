@@ -1,11 +1,27 @@
 ---
-post_number: "0429"
-title: "Editing Elements inside Groups"
-slug: "group_edit"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'revit-api', 'selection', 'transactions', 'walls', 'windows']
-source_file: "0429_group_edit.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0429_group_edit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.931897'
+original_url: https://thebuildingcoder.typepad.com/blog/0429_group_edit.html
+post_number: 0429
+reading_time_minutes: 8
+series: general
+slug: group_edit
+source_file: 0429_group_edit.htm
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- revit-api
+- selection
+- transactions
+- walls
+- windows
+title: Editing Elements inside Groups
+word_count: 1647
 ---
 
 ### Editing Elements inside Groups

@@ -1,11 +1,29 @@
 ---
-post_number: "1986"
-title: "Decorative title for SVG reference"
-slug: "directshape"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1986_directshape.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1986_directshape.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.198967'
+original_url: https://thebuildingcoder.typepad.com/blog/1986_directshape.html
+post_number: '1986'
+reading_time_minutes: 10
+series: general
+slug: directshape
+source_file: 1986_directshape.md
+tags:
+- doors
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+title: Decorative title for SVG reference
+word_count: 1919
 ---
 
 ### .NET Assembly and DirectShape Libraries

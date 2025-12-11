@@ -1,11 +1,25 @@
 ---
-post_number: "0675"
-title: "Set Family Parameter Requires Type"
-slug: "set_family_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'python', 'revit-api']
-source_file: "0675_set_family_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0675_set_family_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.377548'
+original_url: https://thebuildingcoder.typepad.com/blog/0675_set_family_param.html
+post_number: '0675'
+reading_time_minutes: 2
+series: family
+slug: set_family_param
+source_file: 0675_set_family_param.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- python
+- revit-api
+title: Set Family Parameter Requires Type
+word_count: 392
 ---
 
 ### Set Family Parameter Requires Type

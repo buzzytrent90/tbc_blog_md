@@ -1,11 +1,20 @@
 ---
-post_number: "1009"
-title: "Revit Server API Access and VBScript"
-slug: "revit_server_soap_vbs"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1009_revit_server_soap_vbs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1009_revit_server_soap_vbs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.111677'
+original_url: https://thebuildingcoder.typepad.com/blog/1009_revit_server_soap_vbs.html
+post_number: '1009'
+reading_time_minutes: 7
+series: general
+slug: revit_server_soap_vbs
+source_file: 1009_revit_server_soap_vbs.htm
+tags:
+- revit-api
+- views
+title: Revit Server API Access and VBScript
+word_count: 1482
 ---
 
 ### Revit Server API Access and VBScript

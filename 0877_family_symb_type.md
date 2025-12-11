@@ -1,11 +1,25 @@
 ---
-post_number: "0877"
-title: "Family Symbols versus Types and SelectionFilterElement"
-slug: "family_symb_type"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'revit-api', 'selection', 'views']
-source_file: "0877_family_symb_type.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0877_family_symb_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.783609'
+original_url: https://thebuildingcoder.typepad.com/blog/0877_family_symb_type.html
+post_number: 0877
+reading_time_minutes: 4
+series: elements
+slug: family_symb_type
+source_file: 0877_family_symb_type.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- selection
+- views
+title: Family Symbols versus Types and SelectionFilterElement
+word_count: 797
 ---
 
 ### Family Symbols versus Types and SelectionFilterElement

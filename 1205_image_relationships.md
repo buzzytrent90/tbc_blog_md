@@ -1,11 +1,30 @@
 ---
-post_number: "1205"
-title: "Debugging and Maintaining the Image Relationship"
-slug: "image_relationships"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1205_image_relationships.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1205_image_relationships.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.507080'
+original_url: https://thebuildingcoder.typepad.com/blog/1205_image_relationships.html
+post_number: '1205'
+reading_time_minutes: 5
+series: general
+slug: image_relationships
+source_file: 1205_image_relationships.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Debugging and Maintaining the Image Relationship
+word_count: 969
 ---
 
 ### Debugging and Maintaining the Image Relationship

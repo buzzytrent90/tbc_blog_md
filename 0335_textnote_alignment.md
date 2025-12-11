@@ -1,11 +1,21 @@
 ---
-post_number: "0335"
-title: "RevitLookup and TextNote Alignment"
-slug: "textnote_alignment"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api']
-source_file: "0335_textnote_alignment.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0335_textnote_alignment.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.766267'
+original_url: https://thebuildingcoder.typepad.com/blog/0335_textnote_alignment.html
+post_number: '0335'
+reading_time_minutes: 3
+series: general
+slug: textnote_alignment
+source_file: 0335_textnote_alignment.htm
+tags:
+- elements
+- parameters
+- revit-api
+title: RevitLookup and TextNote Alignment
+word_count: 606
 ---
 
 ### RevitLookup and TextNote Alignment

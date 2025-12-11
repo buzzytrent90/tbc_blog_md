@@ -1,11 +1,33 @@
 ---
-post_number: "1917"
-title: "Select Level"
-slug: "select_level"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'selection', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1917_select_level.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1917_select_level.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.037698'
+original_url: https://thebuildingcoder.typepad.com/blog/1917_select_level.html
+post_number: '1917'
+reading_time_minutes: 14
+series: general
+slug: select_level
+source_file: 1917_select_level.md
+tags:
+- elements
+- family
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- sheets
+- transactions
+- views
+- walls
+title: Select Level
+word_count: 2802
 ---
 
 ### View Sheet from View and Select All on Level

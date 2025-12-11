@@ -1,11 +1,26 @@
 ---
-post_number: "0136"
-title: "Revit API Introduction Webcast"
-slug: "revit_api_intro_webcast"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'schedules', 'views']
-source_file: "0136_revit_api_intro_webcast.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0136_revit_api_intro_webcast.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.421353'
+original_url: https://thebuildingcoder.typepad.com/blog/0136_revit_api_intro_webcast.html
+post_number: '0136'
+reading_time_minutes: 2
+series: general
+slug: revit_api_intro_webcast
+source_file: 0136_revit_api_intro_webcast.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- schedules
+- views
+title: Revit API Introduction Webcast
+word_count: 360
 ---
 
 ### Revit API Introduction Webcast

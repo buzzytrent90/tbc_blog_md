@@ -1,11 +1,25 @@
 ---
-post_number: "1419"
-title: "Rebar Shape Hook Loc"
-slug: "rebar_shape_hook_loc"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'levels', 'parameters', 'revit-api', 'sheets']
-source_file: "1419_rebar_shape_hook_loc.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1419_rebar_shape_hook_loc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.976536'
+original_url: https://thebuildingcoder.typepad.com/blog/1419_rebar_shape_hook_loc.html
+post_number: '1419'
+reading_time_minutes: 4
+series: general
+slug: rebar_shape_hook_loc
+source_file: 1419_rebar_shape_hook_loc.md
+tags:
+- elements
+- family
+- geometry
+- levels
+- parameters
+- revit-api
+- sheets
+title: Rebar Shape Hook Loc
+word_count: 777
 ---
 
 ### Location of Hooks in a Rebar Shape Family

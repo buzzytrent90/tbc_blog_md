@@ -1,11 +1,31 @@
 ---
-post_number: "1504"
-title: "Views Showing Element"
-slug: "views_showing_element"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'filtering', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1504_views_showing_element.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1504_views_showing_element.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.176873'
+original_url: https://thebuildingcoder.typepad.com/blog/1504_views_showing_element.html
+post_number: '1504'
+reading_time_minutes: 14
+series: elements
+slug: views_showing_element
+source_file: 1504_views_showing_element.md
+tags:
+- doors
+- elements
+- filtering
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Views Showing Element
+word_count: 2806
 ---
 
 ### Determining Views Showing an Element

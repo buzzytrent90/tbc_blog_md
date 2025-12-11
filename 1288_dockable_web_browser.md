@@ -1,11 +1,22 @@
 ---
-post_number: "1288"
-title: "A Dockable Web Browser"
-slug: "dockable_web_browser"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'windows']
-source_file: "1288_dockable_web_browser.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1288_dockable_web_browser.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.687396'
+original_url: https://thebuildingcoder.typepad.com/blog/1288_dockable_web_browser.html
+post_number: '1288'
+reading_time_minutes: 7
+series: general
+slug: dockable_web_browser
+source_file: 1288_dockable_web_browser.htm
+tags:
+- csharp
+- elements
+- revit-api
+- windows
+title: A Dockable Web Browser
+word_count: 1493
 ---
 
 ### A Dockable Web Browser

@@ -1,11 +1,26 @@
 ---
-post_number: "1765"
-title: "Autodim Filled Region"
-slug: "autodim_filled_region"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1765_autodim_filled_region.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1765_autodim_filled_region.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.700199'
+original_url: https://thebuildingcoder.typepad.com/blog/1765_autodim_filled_region.html
+post_number: '1765'
+reading_time_minutes: 4
+series: general
+slug: autodim_filled_region
+source_file: 1765_autodim_filled_region.md
+tags:
+- elements
+- filtering
+- geometry
+- references
+- revit-api
+- sheets
+- transactions
+- views
+title: Autodim Filled Region
+word_count: 833
 ---
 
 ### Auto-Dimension Filled Region Boundary

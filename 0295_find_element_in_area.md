@@ -1,11 +1,24 @@
 ---
-post_number: "0295"
-title: "Find an Element in an Area"
-slug: "find_element_in_area"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'revit-api', 'selection']
-source_file: "0295_find_element_in_area.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0295_find_element_in_area.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.697751'
+original_url: https://thebuildingcoder.typepad.com/blog/0295_find_element_in_area.html
+post_number: 0295
+reading_time_minutes: 2
+series: elements
+slug: find_element_in_area
+source_file: 0295_find_element_in_area.htm
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- revit-api
+- selection
+title: Find an Element in an Area
+word_count: 442
 ---
 
 ### Find an Element in an Area

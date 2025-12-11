@@ -1,11 +1,28 @@
 ---
-post_number: "2057"
-title: "Filter Type"
-slug: "filter_type"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'views']
-source_file: "2057_filter_type.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2057_filter_type.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.381329'
+original_url: https://thebuildingcoder.typepad.com/blog/2057_filter_type.html
+post_number: '2057'
+reading_time_minutes: 8
+series: filtering
+slug: filter_type
+source_file: 2057_filter_type.md
+tags:
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+title: Filter Type
+word_count: 1594
 ---
 
 ### Unload Links Offline and Filter for Types

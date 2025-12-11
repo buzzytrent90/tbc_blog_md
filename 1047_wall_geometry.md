@@ -1,11 +1,27 @@
 ---
-post_number: "1047"
-title: "Wall Compound Layer, Other Geometry and Licenses"
-slug: "wall_geometry"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'geometry', 'revit-api', 'rooms', 'selection', 'walls', 'windows']
-source_file: "1047_wall_geometry.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1047_wall_geometry.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.190868'
+original_url: https://thebuildingcoder.typepad.com/blog/1047_wall_geometry.html
+post_number: '1047'
+reading_time_minutes: 4
+series: geometry
+slug: wall_geometry
+source_file: 1047_wall_geometry.htm
+tags:
+- csharp
+- doors
+- elements
+- geometry
+- revit-api
+- rooms
+- selection
+- walls
+- windows
+title: Wall Compound Layer, Other Geometry and Licenses
+word_count: 798
 ---
 
 ### Wall Compound Layer, Other Geometry and Licenses

@@ -1,11 +1,21 @@
 ---
-post_number: "0900"
-title: "ADN Revit API Training Material Update and Vacation"
-slug: "adn_material"
-author: "Jeremy Tammik"
-tags: ['family', 'revit-api']
-source_file: "0900_adn_material.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0900_adn_material.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.825370'
+original_url: https://thebuildingcoder.typepad.com/blog/0900_adn_material.html
+post_number: 0900
+reading_time_minutes: 1
+series: materials
+slug: adn_material
+source_file: 0900_adn_material.htm
+tags:
+- family
+- revit-api
+- materials
+title: ADN Revit API Training Material Update and Vacation
+word_count: 266
 ---
 
 ### ADN Revit API Training Material Update and Vacation

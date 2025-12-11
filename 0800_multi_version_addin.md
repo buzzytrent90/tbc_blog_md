@@ -1,11 +1,25 @@
 ---
-post_number: "0800"
-title: "Multi-Version Add-in"
-slug: "multi_version_addin"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'references', 'revit-api', 'views', 'windows']
-source_file: "0800_multi_version_addin.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0800_multi_version_addin.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.618765'
+original_url: https://thebuildingcoder.typepad.com/blog/0800_multi_version_addin.html
+post_number: 0800
+reading_time_minutes: 7
+series: general
+slug: multi_version_addin
+source_file: 0800_multi_version_addin.htm
+tags:
+- csharp
+- elements
+- python
+- references
+- revit-api
+- views
+- windows
+title: Multi-Version Add-in
+word_count: 1316
 ---
 
 ### Multi-Version Add-in

@@ -1,11 +1,25 @@
 ---
-post_number: "1612"
-title: "Param Vary Group"
-slug: "param_vary_group"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1612_param_vary_group.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1612_param_vary_group.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.392023'
+original_url: https://thebuildingcoder.typepad.com/blog/1612_param_vary_group.html
+post_number: '1612'
+reading_time_minutes: 4
+series: general
+slug: param_vary_group
+source_file: 1612_param_vary_group.md
+tags:
+- elements
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- windows
+title: Param Vary Group
+word_count: 757
 ---
 
 ### Setting Parameter Varies Between Groups

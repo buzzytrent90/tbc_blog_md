@@ -1,11 +1,26 @@
 ---
-post_number: "1663"
-title: "Explode Nested Families"
-slug: "explode_nested_families"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1663_explode_nested_families.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1663_explode_nested_families.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.487658'
+original_url: https://thebuildingcoder.typepad.com/blog/1663_explode_nested_families.html
+post_number: '1663'
+reading_time_minutes: 3
+series: family
+slug: explode_nested_families
+source_file: 1663_explode_nested_families.md
+tags:
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Explode Nested Families
+word_count: 595
 ---
 
 ### Simplifying Nested Family Instances

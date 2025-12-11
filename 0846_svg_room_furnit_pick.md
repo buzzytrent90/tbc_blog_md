@@ -1,11 +1,27 @@
 ---
-post_number: "0846"
-title: "Room Polygon and Furniture Picker in SVG"
-slug: "svg_room_furnit_pick"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'revit-api', 'rooms', 'selection', 'views', 'windows']
-source_file: "0846_svg_room_furnit_pick.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0846_svg_room_furnit_pick.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.722769'
+original_url: https://thebuildingcoder.typepad.com/blog/0846_svg_room_furnit_pick.html
+post_number: 0846
+reading_time_minutes: 19
+series: general
+slug: svg_room_furnit_pick
+source_file: 0846_svg_room_furnit_pick.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- revit-api
+- rooms
+- selection
+- views
+- windows
+title: Room Polygon and Furniture Picker in SVG
+word_count: 3893
 ---
 
 ### Room Polygon and Furniture Picker in SVG

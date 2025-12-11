@@ -1,11 +1,26 @@
 ---
-post_number: "1950"
-title: "Forge Data Days"
-slug: "forge_data_days"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1950_forge_data_days.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1950_forge_data_days.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.113335'
+original_url: https://thebuildingcoder.typepad.com/blog/1950_forge_data_days.html
+post_number: '1950'
+reading_time_minutes: 6
+series: general
+slug: forge_data_days
+source_file: 1950_forge_data_days.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- revit-api
+- sheets
+- transactions
+- views
+title: Forge Data Days
+word_count: 1209
 ---
 
 ### Forge Data Days and JoinGeometryUtils

@@ -1,11 +1,33 @@
 ---
-post_number: "1546"
-title: "Wta Mech Prov Void"
-slug: "wta_mech_prov_void"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1546_wta_mech_prov_void.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1546_wta_mech_prov_void.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.263291'
+original_url: https://thebuildingcoder.typepad.com/blog/1546_wta_mech_prov_void.html
+post_number: '1546'
+reading_time_minutes: 13
+series: general
+slug: wta_mech_prov_void
+source_file: 1546_wta_mech_prov_void.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Wta Mech Prov Void
+word_count: 2687
 ---
 
 ### WTA Mech and TTT for Provision for Voids

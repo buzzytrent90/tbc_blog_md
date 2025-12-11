@@ -1,11 +1,26 @@
 ---
-post_number: "0746"
-title: "DevCamp and Refresh Display for a Kinetic Facade"
-slug: "kinetic_facade"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0746_kinetic_facade.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0746_kinetic_facade.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.508859'
+original_url: https://thebuildingcoder.typepad.com/blog/0746_kinetic_facade.html
+post_number: '0746'
+reading_time_minutes: 6
+series: general
+slug: kinetic_facade
+source_file: 0746_kinetic_facade.htm
+tags:
+- csharp
+- elements
+- filtering
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: DevCamp and Refresh Display for a Kinetic Facade
+word_count: 1207
 ---
 
 ### DevCamp and Refresh Display for a Kinetic Facade

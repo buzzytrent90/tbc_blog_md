@@ -1,11 +1,19 @@
 ---
-post_number: "1111"
-title: "AutoCAD and Revit API Training in Peru"
-slug: "api_training_peru"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1111_api_training_peru.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1111_api_training_peru.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: documentation
+optimization_date: '2025-12-11T11:44:15.325365'
+original_url: https://thebuildingcoder.typepad.com/blog/1111_api_training_peru.html
+post_number: '1111'
+reading_time_minutes: 1
+series: general
+slug: api_training_peru
+source_file: 1111_api_training_peru.htm
+tags:
+- revit-api
+title: AutoCAD and Revit API Training in Peru
+word_count: 71
 ---
 
 ### AutoCAD and Revit API Training in Peru

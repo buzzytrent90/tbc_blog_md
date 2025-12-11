@@ -1,11 +1,23 @@
 ---
-post_number: "0059"
-title: "PickOne"
-slug: "pickone"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'selection', 'windows']
-source_file: "0059_pickone.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0059_pickone.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.299954'
+original_url: https://thebuildingcoder.typepad.com/blog/0059_pickone.html
+post_number: 0059
+reading_time_minutes: 1
+series: general
+slug: pickone
+source_file: 0059_pickone.htm
+tags:
+- csharp
+- elements
+- revit-api
+- selection
+- windows
+title: PickOne
+word_count: 277
 ---
 
 ### PickOne

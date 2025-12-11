@@ -1,11 +1,25 @@
 ---
-post_number: "0203"
-title: "Bottom Face of a Wall"
-slug: "wall_bottom_face"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0203_wall_bottom_face.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0203_wall_bottom_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.543538'
+original_url: https://thebuildingcoder.typepad.com/blog/0203_wall_bottom_face.html
+post_number: '0203'
+reading_time_minutes: 2
+series: general
+slug: wall_bottom_face
+source_file: 0203_wall_bottom_face.htm
+tags:
+- csharp
+- elements
+- geometry
+- revit-api
+- views
+- walls
+- windows
+title: Bottom Face of a Wall
+word_count: 429
 ---
 
 ### Bottom Face of a Wall

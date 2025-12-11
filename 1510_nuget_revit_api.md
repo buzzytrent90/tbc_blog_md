@@ -1,11 +1,21 @@
 ---
-post_number: "1510"
-title: "Nuget Revit Api"
-slug: "nuget_revit_api"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets']
-source_file: "1510_nuget_revit_api.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1510_nuget_revit_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: news
+optimization_date: '2025-12-11T11:44:16.187569'
+original_url: https://thebuildingcoder.typepad.com/blog/1510_nuget_revit_api.html
+post_number: '1510'
+reading_time_minutes: 3
+series: general
+slug: nuget_revit_api
+source_file: 1510_nuget_revit_api.md
+tags:
+- references
+- revit-api
+- sheets
+title: Nuget Revit Api
+word_count: 661
 ---
 
 ### NuGet Revit API Package

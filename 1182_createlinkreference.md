@@ -1,11 +1,29 @@
 ---
-post_number: "1182"
-title: "CreateLinkReference Sample Code"
-slug: "createlinkreference"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'rooms', 'transactions', 'views', 'walls']
-source_file: "1182_createlinkreference.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1182_createlinkreference.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.468697'
+original_url: https://thebuildingcoder.typepad.com/blog/1182_createlinkreference.html
+post_number: '1182'
+reading_time_minutes: 4
+series: general
+slug: createlinkreference
+source_file: 1182_createlinkreference.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- rooms
+- transactions
+- views
+- walls
+title: CreateLinkReference Sample Code
+word_count: 762
 ---
 
 ### CreateLinkReference Sample Code

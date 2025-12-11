@@ -1,11 +1,26 @@
 ---
-post_number: "0094"
-title: "Inserting a Column"
-slug: "insert_column"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api']
-source_file: "0094_insert_column.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0094_insert_column.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.349197'
+original_url: https://thebuildingcoder.typepad.com/blog/0094_insert_column.html
+post_number: 0094
+reading_time_minutes: 4
+series: structural
+slug: insert_column
+source_file: 0094_insert_column.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- structural
+title: Inserting a Column
+word_count: 720
 ---
 
 ### Inserting a Column

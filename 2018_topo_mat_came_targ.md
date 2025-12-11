@@ -1,11 +1,28 @@
 ---
-post_number: "2018"
-title: "Topo Mat Came Targ"
-slug: "topo_mat_came_targ"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "2018_topo_mat_came_targ.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2018_topo_mat_came_targ.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.285036'
+original_url: https://thebuildingcoder.typepad.com/blog/2018_topo_mat_came_targ.html
+post_number: '2018'
+reading_time_minutes: 7
+series: general
+slug: topo_mat_came_targ
+source_file: 2018_topo_mat_came_targ.md
+tags:
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+title: Topo Mat Came Targ
+word_count: 1495
 ---
 
 ### Camera Target and Toposolid Subdivision Material

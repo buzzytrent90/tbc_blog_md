@@ -1,11 +1,28 @@
 ---
-post_number: "1215"
-title: "Events, Again, and Creating an Extrusion Roof"
-slug: "extrusion_roof"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'python', 'references', 'revit-api', 'rooms', 'schedules', 'transactions', 'views']
-source_file: "1215_extrusion_roof.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1215_extrusion_roof.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.527231'
+original_url: https://thebuildingcoder.typepad.com/blog/1215_extrusion_roof.html
+post_number: '1215'
+reading_time_minutes: 8
+series: general
+slug: extrusion_roof
+source_file: 1215_extrusion_roof.htm
+tags:
+- elements
+- filtering
+- levels
+- python
+- references
+- revit-api
+- rooms
+- schedules
+- transactions
+- views
+title: Events, Again, and Creating an Extrusion Roof
+word_count: 1650
 ---
 
 ### Events, Again, and Creating an Extrusion Roof

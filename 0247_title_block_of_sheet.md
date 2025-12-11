@@ -1,11 +1,27 @@
 ---
-post_number: "0247"
-title: "Title Block of Sheet"
-slug: "title_block_of_sheet"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'views']
-source_file: "0247_title_block_of_sheet.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0247_title_block_of_sheet.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.617445'
+original_url: https://thebuildingcoder.typepad.com/blog/0247_title_block_of_sheet.html
+post_number: '0247'
+reading_time_minutes: 6
+series: views
+slug: title_block_of_sheet
+source_file: 0247_title_block_of_sheet.htm
+tags:
+- elements
+- family
+- parameters
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- views
+title: Title Block of Sheet
+word_count: 1147
 ---
 
 ### Title Block of Sheet

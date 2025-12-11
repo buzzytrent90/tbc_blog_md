@@ -1,11 +1,25 @@
 ---
-post_number: "0717"
-title: "Element in View Crop Box Predicate"
-slug: "elem_in_crop_box"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'parameters', 'revit-api', 'views']
-source_file: "0717_elem_in_crop_box.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0717_elem_in_crop_box.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.455581'
+original_url: https://thebuildingcoder.typepad.com/blog/0717_elem_in_crop_box.html
+post_number: '0717'
+reading_time_minutes: 3
+series: general
+slug: elem_in_crop_box
+source_file: 0717_elem_in_crop_box.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- parameters
+- revit-api
+- views
+title: Element in View Crop Box Predicate
+word_count: 516
 ---
 
 ### Element in View Crop Box Predicate

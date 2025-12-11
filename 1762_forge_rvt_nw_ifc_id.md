@@ -1,11 +1,24 @@
 ---
-post_number: "1762"
-title: "Forge Rvt Nw Ifc Id"
-slug: "forge_rvt_nw_ifc_id"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1762_forge_rvt_nw_ifc_id.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1762_forge_rvt_nw_ifc_id.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.694391'
+original_url: https://thebuildingcoder.typepad.com/blog/1762_forge_rvt_nw_ifc_id.html
+post_number: '1762'
+reading_time_minutes: 5
+series: general
+slug: forge_rvt_nw_ifc_id
+source_file: 1762_forge_rvt_nw_ifc_id.md
+tags:
+- elements
+- levels
+- revit-api
+- selection
+- sheets
+- views
+title: Forge Rvt Nw Ifc Id
+word_count: 975
 ---
 
 ### Element Identifiers in RVT, IFC, NW and Forge

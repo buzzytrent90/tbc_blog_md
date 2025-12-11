@@ -1,11 +1,19 @@
 ---
-post_number: "1003"
-title: "ADN Training Material on GitHub and Portathon Reminder"
-slug: "train_github_portathon"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "1003_train_github_portathon.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1003_train_github_portathon.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.7
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.098746'
+original_url: https://thebuildingcoder.typepad.com/blog/1003_train_github_portathon.html
+post_number: '1003'
+reading_time_minutes: 2
+series: general
+slug: train_github_portathon
+source_file: 1003_train_github_portathon.htm
+tags:
+- revit-api
+title: ADN Training Material on GitHub and Portathon Reminder
+word_count: 493
 ---
 
 ### ADN Training Material on GitHub and Portathon Reminder

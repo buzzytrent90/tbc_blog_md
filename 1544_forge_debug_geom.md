@@ -1,11 +1,28 @@
 ---
-post_number: "1544"
-title: "Forge Debug Geom"
-slug: "forge_debug_geom"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1544_forge_debug_geom.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1544_forge_debug_geom.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.257441'
+original_url: https://thebuildingcoder.typepad.com/blog/1544_forge_debug_geom.html
+post_number: '1544'
+reading_time_minutes: 6
+series: general
+slug: forge_debug_geom
+source_file: 1544_forge_debug_geom.md
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Forge Debug Geom
+word_count: 1291
 ---
 
 ### Adding Custom Geometry to the Forge Viewer

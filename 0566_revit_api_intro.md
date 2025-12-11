@@ -1,11 +1,21 @@
 ---
-post_number: "0566"
-title: "Ritchie's Revit API Introduction"
-slug: "revit_api_intro"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api']
-source_file: "0566_revit_api_intro.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0566_revit_api_intro.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.9
+content_type: news
+optimization_date: '2025-12-11T11:44:14.186834'
+original_url: https://thebuildingcoder.typepad.com/blog/0566_revit_api_intro.html
+post_number: '0566'
+reading_time_minutes: 2
+series: general
+slug: revit_api_intro
+source_file: 0566_revit_api_intro.htm
+tags:
+- elements
+- geometry
+- revit-api
+title: Ritchie's Revit API Introduction
+word_count: 402
 ---
 
 ### Ritchie's Revit API Introduction

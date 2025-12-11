@@ -1,11 +1,24 @@
 ---
-post_number: "0125"
-title: "Create an Area"
-slug: "new_area"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'revit-api', 'rooms', 'views']
-source_file: "0125_new_area.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0125_new_area.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.403261'
+original_url: https://thebuildingcoder.typepad.com/blog/0125_new_area.html
+post_number: '0125'
+reading_time_minutes: 2
+series: general
+slug: new_area
+source_file: 0125_new_area.htm
+tags:
+- csharp
+- elements
+- levels
+- revit-api
+- rooms
+- views
+title: Create an Area
+word_count: 429
 ---
 
 ### Create an Area

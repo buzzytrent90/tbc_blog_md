@@ -1,11 +1,21 @@
 ---
-post_number: "1830"
-title: "Face Bounding Box Uv"
-slug: "face_bounding_box_uv"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'sheets']
-source_file: "1830_face_bounding_box_uv.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1830_face_bounding_box_uv.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.836059'
+original_url: https://thebuildingcoder.typepad.com/blog/1830_face_bounding_box_uv.html
+post_number: '1830'
+reading_time_minutes: 4
+series: geometry
+slug: face_bounding_box_uv
+source_file: 1830_face_bounding_box_uv.md
+tags:
+- revit-api
+- sheets
+- geometry
+title: Face Bounding Box Uv
+word_count: 885
 ---
 
 ### Command Binding Conflicts and Face UV Coords

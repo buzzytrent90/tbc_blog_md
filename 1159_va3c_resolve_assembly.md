@@ -1,11 +1,25 @@
 ---
-post_number: "1159"
-title: "Assembly Resolver"
-slug: "va3c_resolve_assembly"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'geometry', 'revit-api', 'rooms', 'views']
-source_file: "1159_va3c_resolve_assembly.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1159_va3c_resolve_assembly.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.424117'
+original_url: https://thebuildingcoder.typepad.com/blog/1159_va3c_resolve_assembly.html
+post_number: '1159'
+reading_time_minutes: 6
+series: general
+slug: va3c_resolve_assembly
+source_file: 1159_va3c_resolve_assembly.htm
+tags:
+- csharp
+- elements
+- filtering
+- geometry
+- revit-api
+- rooms
+- views
+title: Assembly Resolver
+word_count: 1149
 ---
 
 ### Assembly Resolver

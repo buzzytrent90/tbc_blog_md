@@ -1,11 +1,28 @@
 ---
-post_number: "1515"
-title: "Repro Tray Conduit"
-slug: "repro_tray_conduit"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1515_repro_tray_conduit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1515_repro_tray_conduit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.196223'
+original_url: https://thebuildingcoder.typepad.com/blog/1515_repro_tray_conduit.html
+post_number: '1515'
+reading_time_minutes: 14
+series: general
+slug: repro_tray_conduit
+source_file: 1515_repro_tray_conduit.md
+tags:
+- elements
+- family
+- levels
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+- walls
+title: Repro Tray Conduit
+word_count: 2751
 ---
 
 ### Virtues Reproduction, Research, Settings, Ontology

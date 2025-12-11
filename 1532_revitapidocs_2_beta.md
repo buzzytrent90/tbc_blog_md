@@ -1,11 +1,24 @@
 ---
-post_number: "1532"
-title: "Revitapidocs 2 Beta"
-slug: "revitapidocs_2_beta"
-author: "Jeremy Tammik"
-tags: ['filtering', 'python', 'revit-api', 'sheets', 'walls', 'windows']
-source_file: "1532_revitapidocs_2_beta.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1532_revitapidocs_2_beta.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: news
+optimization_date: '2025-12-11T11:44:16.232979'
+original_url: https://thebuildingcoder.typepad.com/blog/1532_revitapidocs_2_beta.html
+post_number: '1532'
+reading_time_minutes: 2
+series: general
+slug: revitapidocs_2_beta
+source_file: 1532_revitapidocs_2_beta.md
+tags:
+- filtering
+- python
+- revit-api
+- sheets
+- walls
+- windows
+title: Revitapidocs 2 Beta
+word_count: 495
 ---
 
 ### Revit API Docs 2.0 Beta

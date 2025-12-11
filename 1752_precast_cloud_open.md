@@ -1,11 +1,23 @@
 ---
-post_number: "1752"
-title: "Precast Cloud Open"
-slug: "precast_cloud_open"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1752_precast_cloud_open.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1752_precast_cloud_open.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.670733'
+original_url: https://thebuildingcoder.typepad.com/blog/1752_precast_cloud_open.html
+post_number: '1752'
+reading_time_minutes: 4
+series: general
+slug: precast_cloud_open
+source_file: 1752_precast_cloud_open.md
+tags:
+- elements
+- revit-api
+- sheets
+- transactions
+- views
+title: Precast Cloud Open
+word_count: 762
 ---
 
 ### Precast API and Cloud Open Callback

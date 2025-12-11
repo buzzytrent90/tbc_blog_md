@@ -1,11 +1,28 @@
 ---
-post_number: "1992"
-title: "Rvtsamples2024"
-slug: "rvtsamples2024"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'parameters', 'revit-api', 'sheets', 'transactions', 'vbnet', 'views', 'walls', 'windows']
-source_file: "1992_rvtsamples2024.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1992_rvtsamples2024.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.219910'
+original_url: https://thebuildingcoder.typepad.com/blog/1992_rvtsamples2024.html
+post_number: '1992'
+reading_time_minutes: 7
+series: general
+slug: rvtsamples2024
+source_file: 1992_rvtsamples2024.md
+tags:
+- elements
+- geometry
+- parameters
+- revit-api
+- sheets
+- transactions
+- vbnet
+- views
+- walls
+- windows
+title: Rvtsamples2024
+word_count: 1458
 ---
 
 ### Configuring RvtSamples 2024 and Big Numbers

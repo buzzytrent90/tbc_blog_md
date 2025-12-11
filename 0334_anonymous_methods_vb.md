@@ -1,11 +1,27 @@
 ---
-post_number: "0334"
-title: "Anonymous Methods in VB"
-slug: "anonymous_methods_vb"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'transactions', 'vbnet']
-source_file: "0334_anonymous_methods_vb.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0334_anonymous_methods_vb.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.764655'
+original_url: https://thebuildingcoder.typepad.com/blog/0334_anonymous_methods_vb.html
+post_number: '0334'
+reading_time_minutes: 6
+series: general
+slug: anonymous_methods_vb
+source_file: 0334_anonymous_methods_vb.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- transactions
+- vbnet
+title: Anonymous Methods in VB
+word_count: 1259
 ---
 
 ### Anonymous Methods in VB

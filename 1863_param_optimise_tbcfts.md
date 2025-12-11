@@ -1,11 +1,27 @@
 ---
-post_number: "1863"
-title: "Param Optimise Tbcfts"
-slug: "param_optimise_tbcfts"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1863_param_optimise_tbcfts.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1863_param_optimise_tbcfts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.918419'
+original_url: https://thebuildingcoder.typepad.com/blog/1863_param_optimise_tbcfts.html
+post_number: '1863'
+reading_time_minutes: 7
+series: general
+slug: param_optimise_tbcfts
+source_file: 1863_param_optimise_tbcfts.md
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Param Optimise Tbcfts
+word_count: 1494
 ---
 
 ### Optimising Parameters and Full-Text Search

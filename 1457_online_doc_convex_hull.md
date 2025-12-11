@@ -1,11 +1,27 @@
 ---
-post_number: "1457"
-title: "The Building Coder"
-slug: "online_doc_convex_hull"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'levels', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'walls']
-source_file: "1457_online_doc_convex_hull.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1457_online_doc_convex_hull.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: news
+optimization_date: '2025-12-11T11:44:16.066900'
+original_url: https://thebuildingcoder.typepad.com/blog/1457_online_doc_convex_hull.html
+post_number: '1457'
+reading_time_minutes: 8
+series: general
+slug: online_doc_convex_hull
+source_file: 1457_online_doc_convex_hull.md
+tags:
+- csharp
+- elements
+- levels
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- walls
+title: The Building Coder
+word_count: 1560
 ---
 
 ### Online Revit API Docs and Convex Hull

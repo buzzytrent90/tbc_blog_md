@@ -1,11 +1,30 @@
 ---
-post_number: "0359"
-title: "Get Type Id and Preview Image"
-slug: "preview_image"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'levels', 'references', 'revit-api', 'transactions', 'views', 'walls', 'windows']
-source_file: "0359_preview_image.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0359_preview_image.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.807877'
+original_url: https://thebuildingcoder.typepad.com/blog/0359_preview_image.html
+post_number: 0359
+reading_time_minutes: 5
+series: views
+slug: preview_image
+source_file: 0359_preview_image.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- levels
+- references
+- revit-api
+- transactions
+- views
+- walls
+- windows
+title: Get Type Id and Preview Image
+word_count: 937
 ---
 
 ### Get Type Id and Preview Image

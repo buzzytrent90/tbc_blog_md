@@ -1,11 +1,24 @@
 ---
-post_number: "0701"
-title: "Identifying Wall Compound Layers and Parts"
-slug: "wall_layers_and_parts"
-author: "Jeremy Tammik"
-tags: ['geometry', 'levels', 'parameters', 'references', 'revit-api', 'walls']
-source_file: "0701_wall_layers_and_parts.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0701_wall_layers_and_parts.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.425862'
+original_url: https://thebuildingcoder.typepad.com/blog/0701_wall_layers_and_parts.html
+post_number: '0701'
+reading_time_minutes: 2
+series: general
+slug: wall_layers_and_parts
+source_file: 0701_wall_layers_and_parts.htm
+tags:
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- walls
+title: Identifying Wall Compound Layers and Parts
+word_count: 433
 ---
 
 ### Identifying Wall Compound Layers and Parts

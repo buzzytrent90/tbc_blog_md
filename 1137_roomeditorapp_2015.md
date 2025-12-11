@@ -1,11 +1,28 @@
 ---
-post_number: "1137"
-title: "Migrating RoomEditorApp to Revit 2015"
-slug: "roomeditorapp_2015"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'windows']
-source_file: "1137_roomeditorapp_2015.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1137_roomeditorapp_2015.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.375045'
+original_url: https://thebuildingcoder.typepad.com/blog/1137_roomeditorapp_2015.html
+post_number: '1137'
+reading_time_minutes: 6
+series: general
+slug: roomeditorapp_2015
+source_file: 1137_roomeditorapp_2015.htm
+tags:
+- csharp
+- elements
+- python
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- windows
+title: Migrating RoomEditorApp to Revit 2015
+word_count: 1265
 ---
 
 ### Migrating RoomEditorApp to Revit 2015

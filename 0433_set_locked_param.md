@@ -1,11 +1,21 @@
 ---
-post_number: "0433"
-title: "Setting a Locked Parameter"
-slug: "set_locked_param"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api']
-source_file: "0433_set_locked_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0433_set_locked_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.938412'
+original_url: https://thebuildingcoder.typepad.com/blog/0433_set_locked_param.html
+post_number: '0433'
+reading_time_minutes: 1
+series: general
+slug: set_locked_param
+source_file: 0433_set_locked_param.htm
+tags:
+- family
+- parameters
+- revit-api
+title: Setting a Locked Parameter
+word_count: 276
 ---
 
 ### Setting a Locked Parameter

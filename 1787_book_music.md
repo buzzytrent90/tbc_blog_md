@@ -1,11 +1,27 @@
 ---
-post_number: "1787"
-title: "Book Music"
-slug: "book_music"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'python', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1787_book_music.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1787_book_music.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.745790'
+original_url: https://thebuildingcoder.typepad.com/blog/1787_book_music.html
+post_number: '1787'
+reading_time_minutes: 6
+series: general
+slug: book_music
+source_file: 1787_book_music.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- python
+- revit-api
+- sheets
+- transactions
+- views
+title: Book Music
+word_count: 1204
 ---
 
 ### Starter Kit, Books and Music

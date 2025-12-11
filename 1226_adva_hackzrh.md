@@ -1,11 +1,27 @@
 ---
-post_number: "1226"
-title: "Autodesk View and Data API Notes and Samples"
-slug: "adva_hackzrh"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'levels', 'revit-api', 'selection', 'sheets', 'views', 'walls', 'windows']
-source_file: "1226_adva_hackzrh.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1226_adva_hackzrh.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.552250'
+original_url: https://thebuildingcoder.typepad.com/blog/1226_adva_hackzrh.html
+post_number: '1226'
+reading_time_minutes: 11
+series: general
+slug: adva_hackzrh
+source_file: 1226_adva_hackzrh.htm
+tags:
+- elements
+- geometry
+- levels
+- revit-api
+- selection
+- sheets
+- views
+- walls
+- windows
+title: Autodesk View and Data API Notes and Samples
+word_count: 2263
 ---
 
 ### Autodesk View and Data API Notes and Samples

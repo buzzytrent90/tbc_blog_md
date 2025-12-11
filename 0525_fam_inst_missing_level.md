@@ -1,11 +1,26 @@
 ---
-post_number: "0525"
-title: "Family Instance Missing Level Property"
-slug: "fam_inst_missing_level"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'windows']
-source_file: "0525_fam_inst_missing_level.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0525_fam_inst_missing_level.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.104190'
+original_url: https://thebuildingcoder.typepad.com/blog/0525_fam_inst_missing_level.html
+post_number: '0525'
+reading_time_minutes: 2
+series: general
+slug: fam_inst_missing_level
+source_file: 0525_fam_inst_missing_level.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- windows
+title: Family Instance Missing Level Property
+word_count: 452
 ---
 
 ### Family Instance Missing Level Property

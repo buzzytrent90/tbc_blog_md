@@ -1,11 +1,22 @@
 ---
-post_number: "1625"
-title: "Mergedviews"
-slug: "mergedviews"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'sheets', 'views']
-source_file: "1625_mergedviews.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1625_mergedviews.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.413199'
+original_url: https://thebuildingcoder.typepad.com/blog/1625_mergedviews.html
+post_number: '1625'
+reading_time_minutes: 2
+series: views
+slug: mergedviews
+source_file: 1625_mergedviews.md
+tags:
+- references
+- revit-api
+- sheets
+- views
+title: Mergedviews
+word_count: 321
 ---
 
 ### MergedViews and Exporting to a Single DWG

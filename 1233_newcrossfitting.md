@@ -1,11 +1,26 @@
 ---
-post_number: "1233"
-title: "NewCrossFitting Connection Order"
-slug: "newcrossfitting"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'python', 'revit-api', 'selection', 'transactions']
-source_file: "1233_newcrossfitting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1233_newcrossfitting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.568196'
+original_url: https://thebuildingcoder.typepad.com/blog/1233_newcrossfitting.html
+post_number: '1233'
+reading_time_minutes: 7
+series: general
+slug: newcrossfitting
+source_file: 1233_newcrossfitting.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+title: NewCrossFitting Connection Order
+word_count: 1316
 ---
 
 ### NewCrossFitting Connection Order

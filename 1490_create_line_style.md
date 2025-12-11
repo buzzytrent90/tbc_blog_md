@@ -1,11 +1,26 @@
 ---
-post_number: "1490"
-title: "The Building Coder"
-slug: "create_line_style"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'revit-api', 'sheets', 'transactions', 'walls']
-source_file: "1490_create_line_style.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1490_create_line_style.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.145171'
+original_url: https://thebuildingcoder.typepad.com/blog/1490_create_line_style.html
+post_number: '1490'
+reading_time_minutes: 4
+series: general
+slug: create_line_style
+source_file: 1490_create_line_style.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- sheets
+- transactions
+- walls
+title: The Building Coder
+word_count: 878
 ---
 
 ### How to Create a New Line Style

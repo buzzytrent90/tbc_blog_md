@@ -1,11 +1,24 @@
 ---
-post_number: "1696"
-title: "Bim360 Issues Api"
-slug: "bim360_issues_api"
-author: "Jeremy Tammik"
-tags: ['csharp', 'filtering', 'levels', 'revit-api', 'sheets', 'views']
-source_file: "1696_bim360_issues_api.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1696_bim360_issues_api.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.543222'
+original_url: https://thebuildingcoder.typepad.com/blog/1696_bim360_issues_api.html
+post_number: '1696'
+reading_time_minutes: 4
+series: general
+slug: bim360_issues_api
+source_file: 1696_bim360_issues_api.md
+tags:
+- csharp
+- filtering
+- levels
+- revit-api
+- sheets
+- views
+title: Bim360 Issues Api
+word_count: 896
 ---
 
 ### BIM 360 Issues API

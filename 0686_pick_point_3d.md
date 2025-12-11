@@ -1,11 +1,26 @@
 ---
-post_number: "0686"
-title: "Pick a Point in 3D"
-slug: "pick_point_3d"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'references', 'revit-api', 'selection', 'transactions', 'views']
-source_file: "0686_pick_point_3d.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0686_pick_point_3d.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.394204'
+original_url: https://thebuildingcoder.typepad.com/blog/0686_pick_point_3d.html
+post_number: 0686
+reading_time_minutes: 4
+series: geometry
+slug: pick_point_3d
+source_file: 0686_pick_point_3d.htm
+tags:
+- csharp
+- elements
+- geometry
+- references
+- revit-api
+- selection
+- transactions
+- views
+title: Pick a Point in 3D
+word_count: 718
 ---
 
 ### Pick a Point in 3D

@@ -1,11 +1,23 @@
 ---
-post_number: "0759"
-title: "DevDays Online on What's New in Revit 2013"
-slug: "devdays_online_r2013"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'schedules', 'views']
-source_file: "0759_devdays_online_r2013.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0759_devdays_online_r2013.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: news
+optimization_date: '2025-12-11T11:44:14.534564'
+original_url: https://thebuildingcoder.typepad.com/blog/0759_devdays_online_r2013.html
+post_number: 0759
+reading_time_minutes: 2
+series: general
+slug: devdays_online_r2013
+source_file: 0759_devdays_online_r2013.htm
+tags:
+- elements
+- references
+- revit-api
+- schedules
+- views
+title: DevDays Online on What's New in Revit 2013
+word_count: 392
 ---
 
 ### DevDays Online on What's New in Revit 2013

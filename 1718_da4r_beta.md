@@ -1,11 +1,24 @@
 ---
-post_number: "1718"
-title: "Da4r Beta"
-slug: "da4r_beta"
-author: "Jeremy Tammik"
-tags: ['levels', 'parameters', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1718_da4r_beta.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1718_da4r_beta.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.597894'
+original_url: https://thebuildingcoder.typepad.com/blog/1718_da4r_beta.html
+post_number: '1718'
+reading_time_minutes: 3
+series: general
+slug: da4r_beta
+source_file: 1718_da4r_beta.md
+tags:
+- levels
+- parameters
+- python
+- revit-api
+- sheets
+- views
+title: Da4r Beta
+word_count: 616
 ---
 
 ### Design Automation for Revit in Public Beta

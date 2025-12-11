@@ -1,11 +1,23 @@
 ---
-post_number: "0267"
-title: "Parameter Filter Units"
-slug: "filter_units"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'rooms']
-source_file: "0267_filter_units.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0267_filter_units.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: documentation
+optimization_date: '2025-12-11T11:44:13.647940'
+original_url: https://thebuildingcoder.typepad.com/blog/0267_filter_units.html
+post_number: '0267'
+reading_time_minutes: 2
+series: filtering
+slug: filter_units
+source_file: 0267_filter_units.htm
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- rooms
+title: Parameter Filter Units
+word_count: 434
 ---
 
 ### Parameter Filter Units

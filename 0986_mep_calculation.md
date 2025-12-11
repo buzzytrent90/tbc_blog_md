@@ -1,11 +1,22 @@
 ---
-post_number: "0986"
-title: "User MEP Calculation Sample"
-slug: "mep_calculation"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'schedules']
-source_file: "0986_mep_calculation.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0986_mep_calculation.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.056224'
+original_url: https://thebuildingcoder.typepad.com/blog/0986_mep_calculation.html
+post_number: 0986
+reading_time_minutes: 4
+series: mep
+slug: mep_calculation
+source_file: 0986_mep_calculation.htm
+tags:
+- csharp
+- revit-api
+- schedules
+- mep
+title: User MEP Calculation Sample
+word_count: 853
 ---
 
 ### User MEP Calculation Sample

@@ -1,11 +1,26 @@
 ---
-post_number: "0011"
-title: "Units"
-slug: "units"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'revit-api', 'views', 'walls', 'windows']
-source_file: "0011_units.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0011_units.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.226126'
+original_url: https://thebuildingcoder.typepad.com/blog/0011_units.html
+post_number: '0011'
+reading_time_minutes: 8
+series: general
+slug: units
+source_file: 0011_units.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- revit-api
+- views
+- walls
+- windows
+title: Units
+word_count: 1540
 ---
 
 ### Units

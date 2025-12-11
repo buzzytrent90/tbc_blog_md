@@ -1,11 +1,24 @@
 ---
-post_number: "0592"
-title: "Subscription Packs"
-slug: "subscription_packs"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'revit-api', 'rooms', 'views']
-source_file: "0592_subscription_packs.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0592_subscription_packs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.226009'
+original_url: https://thebuildingcoder.typepad.com/blog/0592_subscription_packs.html
+post_number: 0592
+reading_time_minutes: 3
+series: general
+slug: subscription_packs
+source_file: 0592_subscription_packs.htm
+tags:
+- elements
+- family
+- parameters
+- revit-api
+- rooms
+- views
+title: Subscription Packs
+word_count: 591
 ---
 
 ### Subscription Packs

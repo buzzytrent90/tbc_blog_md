@@ -1,11 +1,27 @@
 ---
-post_number: "1861"
-title: "Params Tiles"
-slug: "params_tiles"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1861_params_tiles.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1861_params_tiles.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.912771'
+original_url: https://thebuildingcoder.typepad.com/blog/1861_params_tiles.html
+post_number: '1861'
+reading_time_minutes: 11
+series: general
+slug: params_tiles
+source_file: 1861_params_tiles.md
+tags:
+- csharp
+- family
+- parameters
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+title: Params Tiles
+word_count: 2166
 ---
 
 ### Custom Parameters and Tile Packing

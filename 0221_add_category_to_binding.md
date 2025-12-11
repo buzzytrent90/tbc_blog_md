@@ -1,11 +1,21 @@
 ---
-post_number: "0221"
-title: "Adding a Category to a Parameter Binding"
-slug: "add_category_to_binding"
-author: "Jeremy Tammik"
-tags: ['elements', 'parameters', 'revit-api']
-source_file: "0221_add_category_to_binding.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0221_add_category_to_binding.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.575451'
+original_url: https://thebuildingcoder.typepad.com/blog/0221_add_category_to_binding.html
+post_number: '0221'
+reading_time_minutes: 4
+series: parameters
+slug: add_category_to_binding
+source_file: 0221_add_category_to_binding.htm
+tags:
+- elements
+- parameters
+- revit-api
+title: Adding a Category to a Parameter Binding
+word_count: 826
 ---
 
 ### Adding a Category to a Parameter Binding

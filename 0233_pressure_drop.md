@@ -1,11 +1,27 @@
 ---
-post_number: "0233"
-title: "Modeless Pressure Drop Tool"
-slug: "pressure_drop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'selection', 'views', 'windows']
-source_file: "0233_pressure_drop.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0233_pressure_drop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.595040'
+original_url: https://thebuildingcoder.typepad.com/blog/0233_pressure_drop.html
+post_number: '0233'
+reading_time_minutes: 9
+series: general
+slug: pressure_drop
+source_file: 0233_pressure_drop.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- selection
+- views
+- windows
+title: Modeless Pressure Drop Tool
+word_count: 1829
 ---
 
 ### Modeless Pressure Drop Tool

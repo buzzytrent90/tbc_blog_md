@@ -1,11 +1,21 @@
 ---
-post_number: "0884"
-title: "Implement Progress Bar and Abort Lengthy Process"
-slug: "progress_bar"
-author: "Jeremy Tammik"
-tags: ['csharp', 'revit-api', 'windows']
-source_file: "0884_progress_bar.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0884_progress_bar.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.793002'
+original_url: https://thebuildingcoder.typepad.com/blog/0884_progress_bar.html
+post_number: 0884
+reading_time_minutes: 3
+series: general
+slug: progress_bar
+source_file: 0884_progress_bar.htm
+tags:
+- csharp
+- revit-api
+- windows
+title: Implement Progress Bar and Abort Lengthy Process
+word_count: 652
 ---
 
 ### Implement Progress Bar and Abort Lengthy Process

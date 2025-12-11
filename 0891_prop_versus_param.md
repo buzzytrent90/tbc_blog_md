@@ -1,11 +1,28 @@
 ---
-post_number: "0891"
-title: "Parameters versus Properties"
-slug: "prop_versus_param"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'python', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0891_prop_versus_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0891_prop_versus_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.1
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.806890'
+original_url: https://thebuildingcoder.typepad.com/blog/0891_prop_versus_param.html
+post_number: 0891
+reading_time_minutes: 4
+series: general
+slug: prop_versus_param
+source_file: 0891_prop_versus_param.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- python
+- revit-api
+- rooms
+- views
+- walls
+title: Parameters versus Properties
+word_count: 780
 ---
 
 ### Parameters versus Properties

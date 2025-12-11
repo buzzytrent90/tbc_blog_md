@@ -1,11 +1,31 @@
 ---
-post_number: "1080"
-title: "Driving CNC Fabrication and Shared Parameters"
-slug: "exportcncfab"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "1080_exportcncfab.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1080_exportcncfab.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.9
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.264951'
+original_url: https://thebuildingcoder.typepad.com/blog/1080_exportcncfab.html
+post_number: '1080'
+reading_time_minutes: 16
+series: general
+slug: exportcncfab
+source_file: 1080_exportcncfab.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Driving CNC Fabrication and Shared Parameters
+word_count: 3176
 ---
 
 ### Driving CNC Fabrication and Shared Parameters

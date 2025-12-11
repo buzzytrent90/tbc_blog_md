@@ -1,11 +1,30 @@
 ---
-post_number: "1084"
-title: "Sustainably Chugging Along"
-slug: "sustainability"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1084_sustainability.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1084_sustainability.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.274101'
+original_url: https://thebuildingcoder.typepad.com/blog/1084_sustainability.html
+post_number: '1084'
+reading_time_minutes: 8
+series: general
+slug: sustainability
+source_file: 1084_sustainability.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- transactions
+- views
+title: Sustainably Chugging Along
+word_count: 1577
 ---
 
 ### Sustainably Chugging Along

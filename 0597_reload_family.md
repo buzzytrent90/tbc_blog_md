@@ -1,11 +1,26 @@
 ---
-post_number: "0597"
-title: "Reloading a Family"
-slug: "reload_family"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'parameters', 'python', 'revit-api', 'transactions']
-source_file: "0597_reload_family.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0597_reload_family.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.234324'
+original_url: https://thebuildingcoder.typepad.com/blog/0597_reload_family.html
+post_number: 0597
+reading_time_minutes: 4
+series: structural
+slug: reload_family
+source_file: 0597_reload_family.htm
+tags:
+- csharp
+- elements
+- family
+- parameters
+- python
+- revit-api
+- transactions
+- structural
+title: Reloading a Family
+word_count: 825
 ---
 
 ### Reloading a Family

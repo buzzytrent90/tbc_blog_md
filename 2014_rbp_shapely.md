@@ -1,11 +1,24 @@
 ---
-post_number: "2014"
-title: "Rbp Shapely"
-slug: "rbp_shapely"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'python', 'revit-api', 'sheets', 'views']
-source_file: "2014_rbp_shapely.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2014_rbp_shapely.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.276684'
+original_url: https://thebuildingcoder.typepad.com/blog/2014_rbp_shapely.html
+post_number: '2014'
+reading_time_minutes: 7
+series: general
+slug: rbp_shapely
+source_file: 2014_rbp_shapely.md
+tags:
+- elements
+- geometry
+- python
+- revit-api
+- sheets
+- views
+title: Rbp Shapely
+word_count: 1371
 ---
 
 ### Contour Lines, Batch Processor and Dynamo Shapely

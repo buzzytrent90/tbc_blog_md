@@ -1,11 +1,29 @@
 ---
-post_number: "2071"
-title: "Gen Ai Rag"
-slug: "gen_ai_rag"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'parameters', 'python', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "2071_gen_ai_rag.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2071_gen_ai_rag.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:17.419522'
+original_url: https://thebuildingcoder.typepad.com/blog/2071_gen_ai_rag.html
+post_number: '2071'
+reading_time_minutes: 12
+series: general
+slug: gen_ai_rag
+source_file: 2071_gen_ai_rag.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- parameters
+- python
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Gen Ai Rag
+word_count: 2385
 ---
 
 ### Revit Gen AI: MCP, RAG and Vibe

@@ -1,11 +1,23 @@
 ---
-post_number: "1867"
-title: "Designscript Da4r"
-slug: "designscript_da4r"
-author: "Jeremy Tammik"
-tags: ['csharp', 'geometry', 'revit-api', 'sheets', 'views']
-source_file: "1867_designscript_da4r.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1867_designscript_da4r.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.924703'
+original_url: https://thebuildingcoder.typepad.com/blog/1867_designscript_da4r.html
+post_number: '1867'
+reading_time_minutes: 7
+series: general
+slug: designscript_da4r
+source_file: 1867_designscript_da4r.md
+tags:
+- csharp
+- geometry
+- revit-api
+- sheets
+- views
+title: Designscript Da4r
+word_count: 1381
 ---
 
 ### Forge Design Automation and DesignScript

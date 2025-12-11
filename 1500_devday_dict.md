@@ -1,11 +1,25 @@
 ---
-post_number: "1500"
-title: "Devday Dict"
-slug: "devday_dict"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'parameters', 'revit-api', 'sheets', 'views']
-source_file: "1500_devday_dict.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1500_devday_dict.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.168625'
+original_url: https://thebuildingcoder.typepad.com/blog/1500_devday_dict.html
+post_number: '1500'
+reading_time_minutes: 7
+series: general
+slug: devday_dict
+source_file: 1500_devday_dict.md
+tags:
+- csharp
+- elements
+- geometry
+- parameters
+- revit-api
+- sheets
+- views
+title: Devday Dict
+word_count: 1377
 ---
 
 ### 1500 Posts, DevDay and Storing a Dictionary

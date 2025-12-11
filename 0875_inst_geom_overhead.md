@@ -1,11 +1,24 @@
 ---
-post_number: "0875"
-title: "GetInstanceGeometry Overhead and Exceptions"
-slug: "inst_geom_overhead"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'references', 'revit-api', 'views']
-source_file: "0875_inst_geom_overhead.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0875_inst_geom_overhead.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.779215'
+original_url: https://thebuildingcoder.typepad.com/blog/0875_inst_geom_overhead.html
+post_number: 0875
+reading_time_minutes: 3
+series: general
+slug: inst_geom_overhead
+source_file: 0875_inst_geom_overhead.htm
+tags:
+- elements
+- family
+- geometry
+- references
+- revit-api
+- views
+title: GetInstanceGeometry Overhead and Exceptions
+word_count: 596
 ---
 
 ### GetInstanceGeometry Overhead and Exceptions

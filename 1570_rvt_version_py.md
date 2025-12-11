@@ -1,11 +1,24 @@
 ---
-post_number: "1570"
-title: "Rvt Version Py"
-slug: "rvt_version_py"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'python', 'revit-api', 'sheets', 'views']
-source_file: "1570_rvt_version_py.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1570_rvt_version_py.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.309249'
+original_url: https://thebuildingcoder.typepad.com/blog/1570_rvt_version_py.html
+post_number: '1570'
+reading_time_minutes: 2
+series: general
+slug: rvt_version_py
+source_file: 1570_rvt_version_py.md
+tags:
+- csharp
+- family
+- python
+- revit-api
+- sheets
+- views
+title: Rvt Version Py
+word_count: 473
 ---
 
 ### Determining RVT File Version Using Python

@@ -1,11 +1,28 @@
 ---
-post_number: "0548"
-title: "Unreliable Room Properties"
-slug: "unreliable_room_props"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'rooms', 'walls', 'windows']
-source_file: "0548_unreliable_room_props.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0548_unreliable_room_props.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.149999'
+original_url: https://thebuildingcoder.typepad.com/blog/0548_unreliable_room_props.html
+post_number: 0548
+reading_time_minutes: 4
+series: general
+slug: unreliable_room_props
+source_file: 0548_unreliable_room_props.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- rooms
+- walls
+- windows
+title: Unreliable Room Properties
+word_count: 781
 ---
 
 ### Unreliable Room Properties

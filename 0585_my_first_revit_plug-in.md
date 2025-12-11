@@ -1,11 +1,22 @@
 ---
-post_number: "0585"
-title: "My First Revit Plug-in"
-slug: "my_first_revit_plug-in"
-author: "Jeremy Tammik"
-tags: ['csharp', 'levels', 'revit-api', 'views']
-source_file: "0585_my_first_revit_plug-in.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0585_my_first_revit_plug-in.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:14.215675'
+original_url: https://thebuildingcoder.typepad.com/blog/0585_my_first_revit_plug-in.html
+post_number: 0585
+reading_time_minutes: 2
+series: general
+slug: my_first_revit_plug-in
+source_file: 0585_my_first_revit_plug-in.htm
+tags:
+- csharp
+- levels
+- revit-api
+- views
+title: My First Revit Plug-in
+word_count: 459
 ---
 
 ### My First Revit Plug-in

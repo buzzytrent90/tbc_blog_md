@@ -1,11 +1,25 @@
 ---
-post_number: "0412"
-title: "Beam Maker Using a Void Extrusion to Cut"
-slug: "beam_maker"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'revit-api', 'transactions']
-source_file: "0412_beam_maker.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0412_beam_maker.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.906948'
+original_url: https://thebuildingcoder.typepad.com/blog/0412_beam_maker.html
+post_number: '0412'
+reading_time_minutes: 4
+series: structural
+slug: beam_maker
+source_file: 0412_beam_maker.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- revit-api
+- transactions
+- structural
+title: Beam Maker Using a Void Extrusion to Cut
+word_count: 705
 ---
 
 ### Beam Maker Using a Void Extrusion to Cut

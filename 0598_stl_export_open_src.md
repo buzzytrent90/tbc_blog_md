@@ -1,11 +1,21 @@
 ---
-post_number: "0598"
-title: "Revit STL Exporter Released as Open Source"
-slug: "stl_export_open_src"
-author: "Jeremy Tammik"
-tags: ['family', 'parameters', 'revit-api']
-source_file: "0598_stl_export_open_src.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0598_stl_export_open_src.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.236240'
+original_url: https://thebuildingcoder.typepad.com/blog/0598_stl_export_open_src.html
+post_number: 0598
+reading_time_minutes: 1
+series: general
+slug: stl_export_open_src
+source_file: 0598_stl_export_open_src.htm
+tags:
+- family
+- parameters
+- revit-api
+title: Revit STL Exporter Released as Open Source
+word_count: 206
 ---
 
 ### Revit STL Exporter Released as Open Source

@@ -1,11 +1,26 @@
 ---
-post_number: "0579"
-title: "Set Preview Image"
-slug: "set_preview_image"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "0579_set_preview_image.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0579_set_preview_image.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.206984'
+original_url: https://thebuildingcoder.typepad.com/blog/0579_set_preview_image.html
+post_number: 0579
+reading_time_minutes: 5
+series: views
+slug: set_preview_image
+source_file: 0579_set_preview_image.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- revit-api
+- sheets
+- transactions
+- views
+title: Set Preview Image
+word_count: 948
 ---
 
 ### Set Preview Image

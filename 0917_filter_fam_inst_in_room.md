@@ -1,11 +1,28 @@
 ---
-post_number: "0917"
-title: "Filter for Family Instances in a Room"
-slug: "filter_fam_inst_in_room"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0917_filter_fam_inst_in_room.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0917_filter_fam_inst_in_room.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.886650'
+original_url: https://thebuildingcoder.typepad.com/blog/0917_filter_fam_inst_in_room.html
+post_number: 0917
+reading_time_minutes: 4
+series: filtering
+slug: filter_fam_inst_in_room
+source_file: 0917_filter_fam_inst_in_room.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- revit-api
+- rooms
+- schedules
+- views
+title: Filter for Family Instances in a Room
+word_count: 756
 ---
 
 ### Filter for Family Instances in a Room

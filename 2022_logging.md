@@ -1,11 +1,27 @@
 ---
-post_number: "2022"
-title: "Logging"
-slug: "logging"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'walls', 'windows']
-source_file: "2022_logging.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2022_logging.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.294106'
+original_url: https://thebuildingcoder.typepad.com/blog/2022_logging.html
+post_number: '2022'
+reading_time_minutes: 13
+series: general
+slug: logging
+source_file: 2022_logging.md
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+- windows
+title: Logging
+word_count: 2645
 ---
 
 ### Journals, Logging, Progress Bar, AEC, AI and CO2

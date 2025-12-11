@@ -1,11 +1,23 @@
 ---
-post_number: "1151"
-title: "Add-In Wizards for Revit 2015"
-slug: "addin_wizard_2015"
-author: "Jeremy Tammik"
-tags: ['csharp', 'references', 'revit-api', 'vbnet', 'views']
-source_file: "1151_addin_wizard_2015.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1151_addin_wizard_2015.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.411210'
+original_url: https://thebuildingcoder.typepad.com/blog/1151_addin_wizard_2015.html
+post_number: '1151'
+reading_time_minutes: 4
+series: general
+slug: addin_wizard_2015
+source_file: 1151_addin_wizard_2015.htm
+tags:
+- csharp
+- references
+- revit-api
+- vbnet
+- views
+title: Add-In Wizards for Revit 2015
+word_count: 779
 ---
 
 ### Add-In Wizards for Revit 2015

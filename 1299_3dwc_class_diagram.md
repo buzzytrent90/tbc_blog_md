@@ -1,11 +1,20 @@
 ---
-post_number: "1299"
-title: "Split Personality and Revit API Class Diagram"
-slug: "3dwc_class_diagram"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'views']
-source_file: "1299_3dwc_class_diagram.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1299_3dwc_class_diagram.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.713093'
+original_url: https://thebuildingcoder.typepad.com/blog/1299_3dwc_class_diagram.html
+post_number: '1299'
+reading_time_minutes: 5
+series: general
+slug: 3dwc_class_diagram
+source_file: 1299_3dwc_class_diagram.htm
+tags:
+- revit-api
+- views
+title: Split Personality and Revit API Class Diagram
+word_count: 1050
 ---
 
 ### Split Personality and Revit API Class Diagram

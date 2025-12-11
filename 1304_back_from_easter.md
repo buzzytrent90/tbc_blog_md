@@ -1,11 +1,29 @@
 ---
-post_number: "1304"
-title: "Back from Easter Holidays and Various Revit API Issues"
-slug: "back_from_easter"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'rooms', 'walls', 'windows']
-source_file: "1304_back_from_easter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1304_back_from_easter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.726206'
+original_url: https://thebuildingcoder.typepad.com/blog/1304_back_from_easter.html
+post_number: '1304'
+reading_time_minutes: 7
+series: general
+slug: back_from_easter
+source_file: 1304_back_from_easter.htm
+tags:
+- csharp
+- doors
+- elements
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- rooms
+- walls
+- windows
+title: Back from Easter Holidays and Various Revit API Issues
+word_count: 1485
 ---
 
 ### Back from Easter Holidays and Various Revit API Issues

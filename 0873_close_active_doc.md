@@ -1,11 +1,20 @@
 ---
-post_number: "0873"
-title: "Installing a Macro and Closing the Active Document"
-slug: "close_active_doc"
-author: "Jeremy Tammik"
-tags: ['revit-api', 'windows']
-source_file: "0873_close_active_doc.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0873_close_active_doc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.771811'
+original_url: https://thebuildingcoder.typepad.com/blog/0873_close_active_doc.html
+post_number: 0873
+reading_time_minutes: 6
+series: general
+slug: close_active_doc
+source_file: 0873_close_active_doc.htm
+tags:
+- revit-api
+- windows
+title: Installing a Macro and Closing the Active Document
+word_count: 1193
 ---
 
 ### Installing a Macro and Closing the Active Document

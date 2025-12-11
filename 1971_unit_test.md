@@ -1,11 +1,27 @@
 ---
-post_number: "1971"
-title: "Unit Test"
-slug: "unit_test"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'revit-api', 'sheets', 'views', 'walls', 'windows']
-source_file: "1971_unit_test.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1971_unit_test.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.160514'
+original_url: https://thebuildingcoder.typepad.com/blog/1971_unit_test.html
+post_number: '1971'
+reading_time_minutes: 15
+series: general
+slug: unit_test
+source_file: 1971_unit_test.md
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- revit-api
+- sheets
+- views
+- walls
+- windows
+title: Unit Test
+word_count: 3002
 ---
 
 ### Unit Test Your Revit Add-In

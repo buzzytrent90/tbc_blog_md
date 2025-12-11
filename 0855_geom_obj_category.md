@@ -1,11 +1,31 @@
 ---
-post_number: "0855"
-title: "Geometry Object Subcategory"
-slug: "geom_obj_category"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'filtering', 'geometry', 'python', 'references', 'revit-api', 'schedules', 'selection', 'sheets', 'transactions', 'views']
-source_file: "0855_geom_obj_category.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0855_geom_obj_category.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.741904'
+original_url: https://thebuildingcoder.typepad.com/blog/0855_geom_obj_category.html
+post_number: 0855
+reading_time_minutes: 3
+series: elements
+slug: geom_obj_category
+source_file: 0855_geom_obj_category.htm
+tags:
+- doors
+- elements
+- family
+- filtering
+- geometry
+- python
+- references
+- revit-api
+- schedules
+- selection
+- sheets
+- transactions
+- views
+title: Geometry Object Subcategory
+word_count: 594
 ---
 
 ﻿

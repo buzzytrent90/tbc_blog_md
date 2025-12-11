@@ -1,11 +1,25 @@
 ---
-post_number: "1539"
-title: "Q4r4 Lookup"
-slug: "q4r4_lookup"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'sheets', 'walls', 'windows']
-source_file: "1539_q4r4_lookup.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1539_q4r4_lookup.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.246560'
+original_url: https://thebuildingcoder.typepad.com/blog/1539_q4r4_lookup.html
+post_number: '1539'
+reading_time_minutes: 7
+series: general
+slug: q4r4_lookup
+source_file: 1539_q4r4_lookup.md
+tags:
+- elements
+- python
+- references
+- revit-api
+- sheets
+- walls
+- windows
+title: Q4r4 Lookup
+word_count: 1340
 ---
 
 ### Q4R4 tbc Import and RevitLookup

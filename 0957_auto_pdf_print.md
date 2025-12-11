@@ -1,11 +1,24 @@
 ---
-post_number: "0957"
-title: "Auto PDF Print from Revit 2014"
-slug: "auto_pdf_print"
-author: "Jeremy Tammik"
-tags: ['references', 'revit-api', 'schedules', 'sheets', 'views', 'windows']
-source_file: "0957_auto_pdf_print.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0957_auto_pdf_print.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.987587'
+original_url: https://thebuildingcoder.typepad.com/blog/0957_auto_pdf_print.html
+post_number: 0957
+reading_time_minutes: 5
+series: general
+slug: auto_pdf_print
+source_file: 0957_auto_pdf_print.htm
+tags:
+- references
+- revit-api
+- schedules
+- sheets
+- views
+- windows
+title: Auto PDF Print from Revit 2014
+word_count: 1045
 ---
 
 ﻿

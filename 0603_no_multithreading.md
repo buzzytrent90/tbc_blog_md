@@ -1,11 +1,25 @@
 ---
-post_number: "0603"
-title: "No Multithreading in Revit"
-slug: "no_multithreading"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'parameters', 'revit-api', 'windows']
-source_file: "0603_no_multithreading.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0603_no_multithreading.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.244669'
+original_url: https://thebuildingcoder.typepad.com/blog/0603_no_multithreading.html
+post_number: '0603'
+reading_time_minutes: 2
+series: general
+slug: no_multithreading
+source_file: 0603_no_multithreading.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- parameters
+- revit-api
+- windows
+title: No Multithreading in Revit
+word_count: 447
 ---
 
 ### No Multithreading in Revit

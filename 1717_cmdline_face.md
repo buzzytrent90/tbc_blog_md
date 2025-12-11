@@ -1,11 +1,25 @@
 ---
-post_number: "1717"
-title: "Cmdline Face"
-slug: "cmdline_face"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'parameters', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1717_cmdline_face.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1717_cmdline_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.595438'
+original_url: https://thebuildingcoder.typepad.com/blog/1717_cmdline_face.html
+post_number: '1717'
+reading_time_minutes: 4
+series: general
+slug: cmdline_face
+source_file: 1717_cmdline_face.md
+tags:
+- family
+- geometry
+- parameters
+- revit-api
+- sheets
+- views
+- windows
+title: Cmdline Face
+word_count: 890
 ---
 
 ### Face Methods and Custom Command Line Arguments

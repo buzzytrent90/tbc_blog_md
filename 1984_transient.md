@@ -1,11 +1,27 @@
 ---
-post_number: "1984"
-title: "Transient"
-slug: "transient"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views']
-source_file: "1984_transient.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1984_transient.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.191543'
+original_url: https://thebuildingcoder.typepad.com/blog/1984_transient.html
+post_number: '1984'
+reading_time_minutes: 7
+series: general
+slug: transient
+source_file: 1984_transient.md
+tags:
+- elements
+- family
+- geometry
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+title: Transient
+word_count: 1397
 ---
 
 ### Lookup Ideas, Jigs and ACC Docs Access

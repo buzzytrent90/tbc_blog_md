@@ -1,11 +1,24 @@
 ---
-post_number: "0894"
-title: "Add a Button to Existing Ribbon Panel"
-slug: "exist_ribbon_panel"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'references', 'revit-api', 'transactions', 'windows']
-source_file: "0894_exist_ribbon_panel.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0894_exist_ribbon_panel.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.813288'
+original_url: https://thebuildingcoder.typepad.com/blog/0894_exist_ribbon_panel.html
+post_number: 0894
+reading_time_minutes: 4
+series: general
+slug: exist_ribbon_panel
+source_file: 0894_exist_ribbon_panel.htm
+tags:
+- csharp
+- elements
+- references
+- revit-api
+- transactions
+- windows
+title: Add a Button to Existing Ribbon Panel
+word_count: 826
 ---
 
 ### Add a Button to Existing Ribbon Panel

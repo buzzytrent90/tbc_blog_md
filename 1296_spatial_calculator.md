@@ -1,11 +1,33 @@
 ---
-post_number: "1296"
-title: "Calculating Gross and Net Wall Areas"
-slug: "spatial_calculator"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'parameters', 'python', 'revit-api', 'rooms', 'transactions', 'vbnet', 'views', 'walls', 'windows']
-source_file: "1296_spatial_calculator.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1296_spatial_calculator.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.706844'
+original_url: https://thebuildingcoder.typepad.com/blog/1296_spatial_calculator.html
+post_number: '1296'
+reading_time_minutes: 14
+series: general
+slug: spatial_calculator
+source_file: 1296_spatial_calculator.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- parameters
+- python
+- revit-api
+- rooms
+- transactions
+- vbnet
+- views
+- walls
+- windows
+title: Calculating Gross and Net Wall Areas
+word_count: 2847
 ---
 
 ### Calculating Gross and Net Wall Areas

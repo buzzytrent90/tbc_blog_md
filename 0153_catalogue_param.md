@@ -1,11 +1,23 @@
 ---
-post_number: "0153"
-title: "Revit Library Shape Type Catalogue Parameters"
-slug: "catalogue_param"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'parameters', 'revit-api', 'views']
-source_file: "0153_catalogue_param.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0153_catalogue_param.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.452230'
+original_url: https://thebuildingcoder.typepad.com/blog/0153_catalogue_param.html
+post_number: '0153'
+reading_time_minutes: 3
+series: general
+slug: catalogue_param
+source_file: 0153_catalogue_param.htm
+tags:
+- family
+- geometry
+- parameters
+- revit-api
+- views
+title: Revit Library Shape Type Catalogue Parameters
+word_count: 572
 ---
 
 ### Revit Library Shape Type Catalogue Parameters

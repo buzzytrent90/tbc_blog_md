@@ -1,11 +1,28 @@
 ---
-post_number: "1611"
-title: "Pipe K Factor"
-slug: "pipe_k_factor"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'transactions', 'views']
-source_file: "1611_pipe_k_factor.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1611_pipe_k_factor.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: code_example
+optimization_date: '2025-12-11T11:44:16.390206'
+original_url: https://thebuildingcoder.typepad.com/blog/1611_pipe_k_factor.html
+post_number: '1611'
+reading_time_minutes: 10
+series: mep
+slug: pipe_k_factor
+source_file: 1611_pipe_k_factor.md
+tags:
+- elements
+- family
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- transactions
+- views
+- mep
+title: Pipe K Factor
+word_count: 2033
 ---
 
 ### Pipe Fitting K Factor, Archi+Lab and Installer

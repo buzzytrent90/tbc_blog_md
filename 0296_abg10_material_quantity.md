@@ -1,11 +1,32 @@
 ---
-post_number: "0296"
-title: "Material Quantity Extraction"
-slug: "abg10_material_quantity"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'references', 'revit-api', 'schedules', 'sheets', 'transactions', 'walls', 'windows']
-source_file: "0296_abg10_material_quantity.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0296_abg10_material_quantity.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.7
+content_type: news
+optimization_date: '2025-12-11T11:44:13.699536'
+original_url: https://thebuildingcoder.typepad.com/blog/0296_abg10_material_quantity.html
+post_number: 0296
+reading_time_minutes: 6
+series: materials
+slug: abg10_material_quantity
+source_file: 0296_abg10_material_quantity.htm
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- references
+- revit-api
+- schedules
+- sheets
+- transactions
+- walls
+- windows
+- materials
+title: Material Quantity Extraction
+word_count: 1202
 ---
 
 ### Material Quantity Extraction

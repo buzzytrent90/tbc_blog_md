@@ -1,11 +1,27 @@
 ---
-post_number: "1266"
-title: "Cloud Accelerator and More Revit Stuff"
-slug: "cloud_accelerator"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "1266_cloud_accelerator.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1266_cloud_accelerator.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.637593'
+original_url: https://thebuildingcoder.typepad.com/blog/1266_cloud_accelerator.html
+post_number: '1266'
+reading_time_minutes: 7
+series: general
+slug: cloud_accelerator
+source_file: 1266_cloud_accelerator.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- windows
+title: Cloud Accelerator and More Revit Stuff
+word_count: 1312
 ---
 
 ### Cloud Accelerator and More Revit Stuff

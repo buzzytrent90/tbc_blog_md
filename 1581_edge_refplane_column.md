@@ -1,11 +1,32 @@
 ---
-post_number: "1581"
-title: "Edge Refplane Column"
-slug: "edge_refplane_column"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'windows']
-source_file: "1581_edge_refplane_column.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1581_edge_refplane_column.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 7.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.334454'
+original_url: https://thebuildingcoder.typepad.com/blog/1581_edge_refplane_column.html
+post_number: '1581'
+reading_time_minutes: 16
+series: structural
+slug: edge_refplane_column
+source_file: 1581_edge_refplane_column.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- windows
+- structural
+title: Edge Refplane Column
+word_count: 3217
 ---
 
 ### Edge Loop, Point Reference Plane and Column Line

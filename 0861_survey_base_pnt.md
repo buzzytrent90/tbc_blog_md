@@ -1,11 +1,25 @@
 ---
-post_number: "0861"
-title: "Survey and Project Base Point"
-slug: "survey_base_pnt"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0861_survey_base_pnt.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0861_survey_base_pnt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.751712'
+original_url: https://thebuildingcoder.typepad.com/blog/0861_survey_base_pnt.html
+post_number: 0861
+reading_time_minutes: 5
+series: general
+slug: survey_base_pnt
+source_file: 0861_survey_base_pnt.htm
+tags:
+- elements
+- family
+- filtering
+- parameters
+- references
+- revit-api
+- views
+title: Survey and Project Base Point
+word_count: 963
 ---
 
 ### Survey and Project Base Point

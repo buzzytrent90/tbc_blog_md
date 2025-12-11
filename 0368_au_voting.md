@@ -1,11 +1,25 @@
 ---
-post_number: "0368"
-title: "Voting Open for AU 2010 Sessions"
-slug: "au_voting"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'revit-api', 'rooms', 'schedules', 'selection', 'views']
-source_file: "0368_au_voting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0368_au_voting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.829055'
+original_url: https://thebuildingcoder.typepad.com/blog/0368_au_voting.html
+post_number: 0368
+reading_time_minutes: 3
+series: general
+slug: au_voting
+source_file: 0368_au_voting.htm
+tags:
+- elements
+- filtering
+- revit-api
+- rooms
+- schedules
+- selection
+- views
+title: Voting Open for AU 2010 Sessions
+word_count: 689
 ---
 
 ### Voting Open for AU 2010 Sessions

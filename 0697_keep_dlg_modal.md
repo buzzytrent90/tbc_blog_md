@@ -1,11 +1,22 @@
 ---
-post_number: "0697"
-title: "Keep Dialogues Modal!"
-slug: "keep_dlg_modal"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'revit-api', 'selection']
-source_file: "0697_keep_dlg_modal.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0697_keep_dlg_modal.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.417000'
+original_url: https://thebuildingcoder.typepad.com/blog/0697_keep_dlg_modal.html
+post_number: 0697
+reading_time_minutes: 3
+series: general
+slug: keep_dlg_modal
+source_file: 0697_keep_dlg_modal.htm
+tags:
+- elements
+- python
+- revit-api
+- selection
+title: Keep Dialogues Modal!
+word_count: 619
 ---
 
 ### Keep Dialogues Modal!

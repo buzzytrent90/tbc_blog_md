@@ -1,11 +1,25 @@
 ---
-post_number: "1594"
-title: "Record Book Edu Unit"
-slug: "record_book_edu_unit"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'levels', 'parameters', 'revit-api', 'sheets', 'transactions']
-source_file: "1594_record_book_edu_unit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1594_record_book_edu_unit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.360578'
+original_url: https://thebuildingcoder.typepad.com/blog/1594_record_book_edu_unit.html
+post_number: '1594'
+reading_time_minutes: 6
+series: general
+slug: record_book_edu_unit
+source_file: 1594_record_book_edu_unit.md
+tags:
+- elements
+- family
+- levels
+- parameters
+- revit-api
+- sheets
+- transactions
+title: Record Book Edu Unit
+word_count: 1178
 ---
 
 ### AU Recording, Books, Education and Units

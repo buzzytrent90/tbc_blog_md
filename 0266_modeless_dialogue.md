@@ -1,11 +1,23 @@
 ---
-post_number: "0266"
-title: "Modeless Dialogues in Revit"
-slug: "modeless_dialogue"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'transactions', 'views', 'windows']
-source_file: "0266_modeless_dialogue.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0266_modeless_dialogue.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.646457'
+original_url: https://thebuildingcoder.typepad.com/blog/0266_modeless_dialogue.html
+post_number: '0266'
+reading_time_minutes: 3
+series: general
+slug: modeless_dialogue
+source_file: 0266_modeless_dialogue.htm
+tags:
+- elements
+- revit-api
+- transactions
+- views
+- windows
+title: Modeless Dialogues in Revit
+word_count: 653
 ---
 
 ### Modeless Dialogues in Revit

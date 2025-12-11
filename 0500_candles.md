@@ -1,11 +1,19 @@
 ---
-post_number: "0500"
-title: "Pointless 500th Post with Candles"
-slug: "candles"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0500_candles.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0500_candles.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.1
+content_type: documentation
+optimization_date: '2025-12-11T11:44:14.061009'
+original_url: https://thebuildingcoder.typepad.com/blog/0500_candles.html
+post_number: '0500'
+reading_time_minutes: 1
+series: general
+slug: candles
+source_file: 0500_candles.htm
+tags:
+- revit-api
+title: Pointless 500th Post with Candles
+word_count: 175
 ---
 
 ### Pointless 500th Post with Candles

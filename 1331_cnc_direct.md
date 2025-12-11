@@ -1,11 +1,27 @@
 ---
-post_number: "1331"
-title: "CNC Direct – Export Wall Parts to DXF and SAT"
-slug: "cnc_direct"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'selection', 'walls']
-source_file: "1331_cnc_direct.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1331_cnc_direct.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.787559'
+original_url: https://thebuildingcoder.typepad.com/blog/1331_cnc_direct.html
+post_number: '1331'
+reading_time_minutes: 7
+series: general
+slug: cnc_direct
+source_file: 1331_cnc_direct.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- selection
+- walls
+title: "CNC Direct \u2013 Export Wall Parts to DXF and SAT"
+word_count: 1364
 ---
 
 ### CNC Direct – Export Wall Parts to DXF and SAT

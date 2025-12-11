@@ -1,11 +1,22 @@
 ---
-post_number: "1043"
-title: "Move Tag to Host Location"
-slug: "move_tag_to_host"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'views']
-source_file: "1043_move_tag_to_host.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1043_move_tag_to_host.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.181739'
+original_url: https://thebuildingcoder.typepad.com/blog/1043_move_tag_to_host.html
+post_number: '1043'
+reading_time_minutes: 1
+series: general
+slug: move_tag_to_host
+source_file: 1043_move_tag_to_host.htm
+tags:
+- csharp
+- elements
+- revit-api
+- views
+title: Move Tag to Host Location
+word_count: 193
 ---
 
 ### Move Tag to Host Location

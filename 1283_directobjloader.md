@@ -1,11 +1,29 @@
 ---
-post_number: "1283"
-title: "From Hack to App – OBJ Mesh Import to DirectShape"
-slug: "directobjloader"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'views', 'windows']
-source_file: "1283_directobjloader.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1283_directobjloader.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 13.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.673365'
+original_url: https://thebuildingcoder.typepad.com/blog/1283_directobjloader.html
+post_number: '1283'
+reading_time_minutes: 32
+series: structural
+slug: directobjloader
+source_file: 1283_directobjloader.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- views
+- windows
+- structural
+title: "From Hack to App \u2013 OBJ Mesh Import to DirectShape"
+word_count: 6394
 ---
 
 ### From Hack to App – OBJ Mesh Import to DirectShape

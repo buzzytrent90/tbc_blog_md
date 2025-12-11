@@ -1,11 +1,21 @@
 ---
-post_number: "0127"
-title: "Area Boundary Segments"
-slug: "area_boundary_segments"
-author: "Jeremy Tammik"
-tags: ['elements', 'revit-api', 'rooms']
-source_file: "0127_area_boundary_segments.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0127_area_boundary_segments.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.405664'
+original_url: https://thebuildingcoder.typepad.com/blog/0127_area_boundary_segments.html
+post_number: '0127'
+reading_time_minutes: 1
+series: general
+slug: area_boundary_segments
+source_file: 0127_area_boundary_segments.htm
+tags:
+- elements
+- revit-api
+- rooms
+title: Area Boundary Segments
+word_count: 288
 ---
 
 ### Area Boundary Segments

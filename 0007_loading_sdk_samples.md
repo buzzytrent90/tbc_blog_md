@@ -1,11 +1,21 @@
 ---
-post_number: "0007"
-title: "Loading SDK Samples"
-slug: "loading_sdk_samples"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api']
-source_file: "0007_loading_sdk_samples.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0007_loading_sdk_samples.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.218839'
+original_url: https://thebuildingcoder.typepad.com/blog/0007_loading_sdk_samples.html
+post_number: '0007'
+reading_time_minutes: 5
+series: structural
+slug: loading_sdk_samples
+source_file: 0007_loading_sdk_samples.htm
+tags:
+- levels
+- revit-api
+- structural
+title: Loading SDK Samples
+word_count: 916
 ---
 
 ### Loading SDK Samples

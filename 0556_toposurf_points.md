@@ -1,11 +1,24 @@
 ---
-post_number: "0556"
-title: "Toposurface Interior and Boundary Points"
-slug: "toposurf_points"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'windows']
-source_file: "0556_toposurf_points.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0556_toposurf_points.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.5
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.166733'
+original_url: https://thebuildingcoder.typepad.com/blog/0556_toposurf_points.html
+post_number: '0556'
+reading_time_minutes: 16
+series: geometry
+slug: toposurf_points
+source_file: 0556_toposurf_points.htm
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- windows
+- geometry
+title: Toposurface Interior and Boundary Points
+word_count: 3237
 ---
 
 ### Toposurface Interior and Boundary Points

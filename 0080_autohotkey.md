@@ -1,11 +1,23 @@
 ---
-post_number: "0080"
-title: "AutoHotKey"
-slug: "autohotkey"
-author: "Jeremy Tammik"
-tags: ['filtering', 'parameters', 'revit-api', 'views', 'windows']
-source_file: "0080_autohotkey.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0080_autohotkey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.330340'
+original_url: https://thebuildingcoder.typepad.com/blog/0080_autohotkey.html
+post_number: 0080
+reading_time_minutes: 1
+series: general
+slug: autohotkey
+source_file: 0080_autohotkey.htm
+tags:
+- filtering
+- parameters
+- revit-api
+- views
+- windows
+title: AutoHotKey
+word_count: 181
 ---
 
 ### AutoHotKey

@@ -1,11 +1,26 @@
 ---
-post_number: "1256"
-title: "DevDays Conference and Meetup in Paris"
-slug: "devday_paris"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'revit-api', 'views', 'walls', 'windows']
-source_file: "1256_devday_paris.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1256_devday_paris.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.619911'
+original_url: https://thebuildingcoder.typepad.com/blog/1256_devday_paris.html
+post_number: '1256'
+reading_time_minutes: 3
+series: general
+slug: devday_paris
+source_file: 1256_devday_paris.htm
+tags:
+- elements
+- family
+- filtering
+- geometry
+- revit-api
+- views
+- walls
+- windows
+title: DevDays Conference and Meetup in Paris
+word_count: 671
 ---
 
 ### DevDays Conference and Meetup in Paris

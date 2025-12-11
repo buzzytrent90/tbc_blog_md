@@ -1,11 +1,32 @@
 ---
-post_number: "0972"
-title: "Key Concepts of the Family Editor"
-slug: "family_key_concept"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'schedules', 'selection', 'views', 'walls', 'windows']
-source_file: "0972_family_key_concept.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0972_family_key_concept.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.022532'
+original_url: https://thebuildingcoder.typepad.com/blog/0972_family_key_concept.html
+post_number: 0972
+reading_time_minutes: 14
+series: family
+slug: family_key_concept
+source_file: 0972_family_key_concept.htm
+tags:
+- doors
+- elements
+- family
+- geometry
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- schedules
+- selection
+- views
+- walls
+- windows
+title: Key Concepts of the Family Editor
+word_count: 2820
 ---
 
 ### Key Concepts of the Family Editor

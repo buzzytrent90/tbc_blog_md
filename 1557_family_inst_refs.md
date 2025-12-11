@@ -1,11 +1,25 @@
 ---
-post_number: "1557"
-title: "Family Inst Refs"
-slug: "family_inst_refs"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'parameters', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1557_family_inst_refs.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1557_family_inst_refs.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.284564'
+original_url: https://thebuildingcoder.typepad.com/blog/1557_family_inst_refs.html
+post_number: '1557'
+reading_time_minutes: 3
+series: family
+slug: family_inst_refs
+source_file: 1557_family_inst_refs.md
+tags:
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- sheets
+- views
+title: Family Inst Refs
+word_count: 557
 ---
 
 ### API Access to Family Instance References

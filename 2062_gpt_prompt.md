@@ -1,11 +1,25 @@
 ---
-post_number: "2062"
-title: "Gpt Prompt"
-slug: "gpt_prompt"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'python', 'revit-api', 'sheets', 'vbnet', 'views']
-source_file: "2062_gpt_prompt.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2062_gpt_prompt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.395984'
+original_url: https://thebuildingcoder.typepad.com/blog/2062_gpt_prompt.html
+post_number: '2062'
+reading_time_minutes: 10
+series: general
+slug: gpt_prompt
+source_file: 2062_gpt_prompt.md
+tags:
+- csharp
+- elements
+- python
+- revit-api
+- sheets
+- vbnet
+- views
+title: Gpt Prompt
+word_count: 1990
 ---
 
 ### LLM Prompting, RAG Ingestion and New Projects

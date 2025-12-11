@@ -1,11 +1,24 @@
 ---
-post_number: "1839"
-title: "Da4r Cesium"
-slug: "da4r_cesium"
-author: "Jeremy Tammik"
-tags: ['family', 'geometry', 'revit-api', 'sheets', 'views', 'walls']
-source_file: "1839_da4r_cesium.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1839_da4r_cesium.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.863364'
+original_url: https://thebuildingcoder.typepad.com/blog/1839_da4r_cesium.html
+post_number: '1839'
+reading_time_minutes: 5
+series: general
+slug: da4r_cesium
+source_file: 1839_da4r_cesium.md
+tags:
+- family
+- geometry
+- revit-api
+- sheets
+- views
+- walls
+title: Da4r Cesium
+word_count: 1095
 ---
 
 ### DA4R I/O, Logging, Updater and Custom Properties

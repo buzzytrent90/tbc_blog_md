@@ -1,11 +1,26 @@
 ---
-post_number: "1161"
-title: "Properties in DWF, IFC, Tables and Extensible Storage"
-slug: "property_dwf_ifc_table"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'parameters', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "1161_property_dwf_ifc_table.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1161_property_dwf_ifc_table.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.427596'
+original_url: https://thebuildingcoder.typepad.com/blog/1161_property_dwf_ifc_table.html
+post_number: '1161'
+reading_time_minutes: 7
+series: parameters
+slug: property_dwf_ifc_table
+source_file: 1161_property_dwf_ifc_table.htm
+tags:
+- doors
+- elements
+- family
+- parameters
+- revit-api
+- rooms
+- schedules
+- views
+title: Properties in DWF, IFC, Tables and Extensible Storage
+word_count: 1336
 ---
 
 ### Properties in DWF, IFC, Tables and Extensible Storage

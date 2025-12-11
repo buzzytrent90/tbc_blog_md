@@ -1,11 +1,24 @@
 ---
-post_number: "1957"
-title: "Rps Lookup Mep Start"
-slug: "rps_lookup_mep_start"
-author: "Jeremy Tammik"
-tags: ['family', 'python', 'revit-api', 'sheets', 'windows']
-source_file: "1957_rps_lookup_mep_start.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1957_rps_lookup_mep_start.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.128759'
+original_url: https://thebuildingcoder.typepad.com/blog/1957_rps_lookup_mep_start.html
+post_number: '1957'
+reading_time_minutes: 4
+series: mep
+slug: rps_lookup_mep_start
+source_file: 1957_rps_lookup_mep_start.md
+tags:
+- family
+- python
+- revit-api
+- sheets
+- windows
+- mep
+title: Rps Lookup Mep Start
+word_count: 797
 ---
 
 ### MEP API Intro and RevitPythonShell Lookup Nuptials

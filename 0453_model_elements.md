@@ -1,11 +1,30 @@
 ---
-post_number: "0453"
-title: "Selecting Model Elements"
-slug: "model_elements"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'parameters', 'python', 'revit-api', 'selection', 'transactions', 'views', 'walls', 'windows']
-source_file: "0453_model_elements.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0453_model_elements.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.0
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.971652'
+original_url: https://thebuildingcoder.typepad.com/blog/0453_model_elements.html
+post_number: '0453'
+reading_time_minutes: 5
+series: elements
+slug: model_elements
+source_file: 0453_model_elements.htm
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- parameters
+- python
+- revit-api
+- selection
+- transactions
+- views
+- walls
+- windows
+title: Selecting Model Elements
+word_count: 985
 ---
 
 ### Selecting Model Elements

@@ -1,11 +1,19 @@
 ---
-post_number: "0769"
-title: "Revit and Navisworks API Wishlist Surveys"
-slug: "api_wishlist_survey"
-author: "Jeremy Tammik"
-tags: ['revit-api']
-source_file: "0769_api_wishlist_survey.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0769_api_wishlist_survey.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.555141'
+original_url: https://thebuildingcoder.typepad.com/blog/0769_api_wishlist_survey.html
+post_number: 0769
+reading_time_minutes: 2
+series: general
+slug: api_wishlist_survey
+source_file: 0769_api_wishlist_survey.htm
+tags:
+- revit-api
+title: Revit and Navisworks API Wishlist Surveys
+word_count: 305
 ---
 
 ### Revit and Navisworks API Wishlist Surveys

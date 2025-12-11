@@ -1,11 +1,23 @@
 ---
-post_number: "0854"
-title: "Temporary Transaction Trick Touchup"
-slug: "temp_transact"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'revit-api', 'transactions', 'views']
-source_file: "0854_temp_transact.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0854_temp_transact.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.740438'
+original_url: https://thebuildingcoder.typepad.com/blog/0854_temp_transact.html
+post_number: 0854
+reading_time_minutes: 2
+series: general
+slug: temp_transact
+source_file: 0854_temp_transact.htm
+tags:
+- elements
+- geometry
+- revit-api
+- transactions
+- views
+title: Temporary Transaction Trick Touchup
+word_count: 431
 ---
 
 ﻿

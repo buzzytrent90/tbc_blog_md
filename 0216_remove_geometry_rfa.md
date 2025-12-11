@@ -1,11 +1,27 @@
 ---
-post_number: "0216"
-title: "Remove all Geometry from a Family"
-slug: "remove_geometry_rfa"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'python', 'references', 'revit-api', 'selection', 'views']
-source_file: "0216_remove_geometry_rfa.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0216_remove_geometry_rfa.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.7
+content_type: code_example
+optimization_date: '2025-12-11T11:44:13.566858'
+original_url: https://thebuildingcoder.typepad.com/blog/0216_remove_geometry_rfa.html
+post_number: '0216'
+reading_time_minutes: 3
+series: geometry
+slug: remove_geometry_rfa
+source_file: 0216_remove_geometry_rfa.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- python
+- references
+- revit-api
+- selection
+- views
+title: Remove all Geometry from a Family
+word_count: 580
 ---
 
 ### Remove all Geometry from a Family

@@ -1,11 +1,26 @@
 ---
-post_number: "1225"
-title: "PoiPointer, View Depth Override and Destination BIM"
-slug: "poipointer_view_depth"
-author: "Jeremy Tammik"
-tags: ['elements', 'python', 'references', 'revit-api', 'schedules', 'views', 'walls']
-source_file: "1225_poipointer_view_depth.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1225_poipointer_view_depth.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.549672'
+original_url: https://thebuildingcoder.typepad.com/blog/1225_poipointer_view_depth.html
+post_number: '1225'
+reading_time_minutes: 5
+series: geometry
+slug: poipointer_view_depth
+source_file: 1225_poipointer_view_depth.htm
+tags:
+- elements
+- python
+- references
+- revit-api
+- schedules
+- views
+- walls
+- geometry
+title: PoiPointer, View Depth Override and Destination BIM
+word_count: 1028
 ---
 
 ### PoiPointer, View Depth Override and Destination BIM

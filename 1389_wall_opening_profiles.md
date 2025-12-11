@@ -1,11 +1,34 @@
 ---
-post_number: "1389"
-title: "Wall Opening Profiles"
-slug: "wall_opening_profiles"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'selection', 'sheets', 'transactions', 'views', 'walls', 'windows']
-source_file: "1389_wall_opening_profiles.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1389_wall_opening_profiles.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.920716'
+original_url: https://thebuildingcoder.typepad.com/blog/1389_wall_opening_profiles.html
+post_number: '1389'
+reading_time_minutes: 11
+series: general
+slug: wall_opening_profiles
+source_file: 1389_wall_opening_profiles.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- selection
+- sheets
+- transactions
+- views
+- walls
+- windows
+title: Wall Opening Profiles
+word_count: 2136
 ---
 
 ### Wall Opening Profiles and Happy Holidays!

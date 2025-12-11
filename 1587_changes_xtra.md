@@ -1,11 +1,27 @@
 ---
-post_number: "1587"
-title: "Changes Xtra"
-slug: "changes_xtra"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'references', 'revit-api', 'selection', 'sheets', 'views']
-source_file: "1587_changes_xtra.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1587_changes_xtra.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.345496'
+original_url: https://thebuildingcoder.typepad.com/blog/1587_changes_xtra.html
+post_number: '1587'
+reading_time_minutes: 6
+series: transactions
+slug: changes_xtra
+source_file: 1587_changes_xtra.md
+tags:
+- csharp
+- elements
+- family
+- references
+- revit-api
+- selection
+- sheets
+- views
+- transactions
+title: Changes Xtra
+word_count: 1202
 ---
 
 ### ADN Xtra Labs and API Changes since Revit 2013

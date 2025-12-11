@@ -1,11 +1,30 @@
 ---
-post_number: "1499"
-title: "Au Two Ifc"
-slug: "au_two_ifc"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'python', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1499_au_two_ifc.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1499_au_two_ifc.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.165964'
+original_url: https://thebuildingcoder.typepad.com/blog/1499_au_two_ifc.html
+post_number: '1499'
+reading_time_minutes: 10
+series: general
+slug: au_two_ifc
+source_file: 1499_au_two_ifc.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- python
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Au Two Ifc
+word_count: 1955
 ---
 
 ### AU Day Two, IFC and Revit API Panel

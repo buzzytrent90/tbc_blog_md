@@ -1,11 +1,26 @@
 ---
-post_number: "1774"
-title: "Param And Edge"
-slug: "param_and_edge"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'parameters', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1774_param_and_edge.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1774_param_and_edge.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.0
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.718378'
+original_url: https://thebuildingcoder.typepad.com/blog/1774_param_and_edge.html
+post_number: '1774'
+reading_time_minutes: 4
+series: general
+slug: param_and_edge
+source_file: 1774_param_and_edge.md
+tags:
+- doors
+- elements
+- parameters
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Param And Edge
+word_count: 881
 ---
 
 ### Accessing Parameters and Hiding DirectShape Edges

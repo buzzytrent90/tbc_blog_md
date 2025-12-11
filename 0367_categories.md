@@ -1,11 +1,27 @@
 ---
-post_number: "0367"
-title: "Categories"
-slug: "categories"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'levels', 'parameters', 'references', 'revit-api', 'rooms', 'selection']
-source_file: "0367_categories.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0367_categories.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.827045'
+original_url: https://thebuildingcoder.typepad.com/blog/0367_categories.html
+post_number: '0367'
+reading_time_minutes: 4
+series: general
+slug: categories
+source_file: 0367_categories.htm
+tags:
+- csharp
+- elements
+- family
+- levels
+- parameters
+- references
+- revit-api
+- rooms
+- selection
+title: Categories
+word_count: 715
 ---
 
 ### Categories

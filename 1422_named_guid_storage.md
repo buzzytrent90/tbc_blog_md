@@ -1,11 +1,24 @@
 ---
-post_number: "1422"
-title: "Named Guid Storage"
-slug: "named_guid_storage"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'python', 'revit-api', 'sheets', 'transactions']
-source_file: "1422_named_guid_storage.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1422_named_guid_storage.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.8
+content_type: code_example
+optimization_date: '2025-12-11T11:44:15.982971'
+original_url: https://thebuildingcoder.typepad.com/blog/1422_named_guid_storage.html
+post_number: '1422'
+reading_time_minutes: 5
+series: general
+slug: named_guid_storage
+source_file: 1422_named_guid_storage.md
+tags:
+- elements
+- filtering
+- python
+- revit-api
+- sheets
+- transactions
+title: Named Guid Storage
+word_count: 918
 ---
 
 ### Named Guid Storage for Project Identification

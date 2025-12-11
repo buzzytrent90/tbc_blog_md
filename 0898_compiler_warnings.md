@@ -1,11 +1,26 @@
 ---
-post_number: "0898"
-title: "Eliminating Compiler Warnings and Deprecated Calls"
-slug: "compiler_warnings"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'geometry', 'levels', 'revit-api', 'rooms', 'views', 'walls']
-source_file: "0898_compiler_warnings.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0898_compiler_warnings.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 10.2
+content_type: news
+optimization_date: '2025-12-11T11:44:14.820903'
+original_url: https://thebuildingcoder.typepad.com/blog/0898_compiler_warnings.html
+post_number: 0898
+reading_time_minutes: 5
+series: general
+slug: compiler_warnings
+source_file: 0898_compiler_warnings.htm
+tags:
+- csharp
+- elements
+- geometry
+- levels
+- revit-api
+- rooms
+- views
+- walls
+title: Eliminating Compiler Warnings and Deprecated Calls
+word_count: 1014
 ---
 
 ### Eliminating Compiler Warnings and Deprecated Calls

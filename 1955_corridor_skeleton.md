@@ -1,11 +1,26 @@
 ---
-post_number: "1955"
-title: "Corridor Skeleton"
-slug: "corridor_skeleton"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'revit-api', 'rooms', 'sheets', 'views', 'walls']
-source_file: "1955_corridor_skeleton.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1955_corridor_skeleton.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.8
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.125169'
+original_url: https://thebuildingcoder.typepad.com/blog/1955_corridor_skeleton.html
+post_number: '1955'
+reading_time_minutes: 6
+series: general
+slug: corridor_skeleton
+source_file: 1955_corridor_skeleton.md
+tags:
+- csharp
+- doors
+- elements
+- revit-api
+- rooms
+- sheets
+- views
+- walls
+title: Corridor Skeleton
+word_count: 1214
 ---
 
 ### Corridor Skeleton, Copy and Paste API

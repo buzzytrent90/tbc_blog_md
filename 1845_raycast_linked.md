@@ -1,11 +1,29 @@
 ---
-post_number: "1845"
-title: "Raycast Linked"
-slug: "raycast_linked"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'filtering', 'geometry', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'views', 'walls']
-source_file: "1845_raycast_linked.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1845_raycast_linked.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.877840'
+original_url: https://thebuildingcoder.typepad.com/blog/1845_raycast_linked.html
+post_number: '1845'
+reading_time_minutes: 6
+series: general
+slug: raycast_linked
+source_file: 1845_raycast_linked.md
+tags:
+- elements
+- family
+- filtering
+- geometry
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- views
+- walls
+title: Raycast Linked
+word_count: 1253
 ---
 
 ### Using ReferenceIntersector with a Linked File

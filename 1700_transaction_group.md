@@ -1,11 +1,24 @@
 ---
-post_number: "1700"
-title: "Transaction Group"
-slug: "transaction_group"
-author: "Jeremy Tammik"
-tags: ['levels', 'parameters', 'revit-api', 'sheets', 'transactions', 'windows']
-source_file: "1700_transaction_group.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1700_transaction_group.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.552636'
+original_url: https://thebuildingcoder.typepad.com/blog/1700_transaction_group.html
+post_number: '1700'
+reading_time_minutes: 5
+series: transactions
+slug: transaction_group
+source_file: 1700_transaction_group.md
+tags:
+- levels
+- parameters
+- revit-api
+- sheets
+- transactions
+- windows
+title: Transaction Group
+word_count: 973
 ---
 
 ### More on Transaction Groups and Assimilation

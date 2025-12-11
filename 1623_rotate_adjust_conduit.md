@@ -1,11 +1,23 @@
 ---
-post_number: "1623"
-title: "Rotate Adjust Conduit"
-slug: "rotate_adjust_conduit"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'revit-api', 'sheets', 'transactions']
-source_file: "1623_rotate_adjust_conduit.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1623_rotate_adjust_conduit.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.409410'
+original_url: https://thebuildingcoder.typepad.com/blog/1623_rotate_adjust_conduit.html
+post_number: '1623'
+reading_time_minutes: 1
+series: general
+slug: rotate_adjust_conduit
+source_file: 1623_rotate_adjust_conduit.md
+tags:
+- elements
+- family
+- revit-api
+- sheets
+- transactions
+title: Rotate Adjust Conduit
+word_count: 214
 ---
 
 ### Rotation Adjusts and Fixes Conduit End

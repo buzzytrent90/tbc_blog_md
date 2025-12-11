@@ -1,11 +1,25 @@
 ---
-post_number: "1784"
-title: "Ext Evt Dat Dll"
-slug: "ext_evt_dat_dll"
-author: "Jeremy Tammik"
-tags: ['elements', 'geometry', 'references', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1784_ext_evt_dat_dll.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1784_ext_evt_dat_dll.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.740583'
+original_url: https://thebuildingcoder.typepad.com/blog/1784_ext_evt_dat_dll.html
+post_number: '1784'
+reading_time_minutes: 7
+series: general
+slug: ext_evt_dat_dll
+source_file: 1784_ext_evt_dat_dll.md
+tags:
+- elements
+- geometry
+- references
+- revit-api
+- sheets
+- views
+- windows
+title: Ext Evt Dat Dll
+word_count: 1440
 ---
 
 ### Extensible Storage, External Event, DLL, Pipe Face

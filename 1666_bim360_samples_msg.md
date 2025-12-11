@@ -1,11 +1,23 @@
 ---
-post_number: "1666"
-title: "Bim360 Samples Msg"
-slug: "bim360_samples_msg"
-author: "Jeremy Tammik"
-tags: ['elements', 'levels', 'revit-api', 'sheets', 'views']
-source_file: "1666_bim360_samples_msg.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1666_bim360_samples_msg.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:16.492684'
+original_url: https://thebuildingcoder.typepad.com/blog/1666_bim360_samples_msg.html
+post_number: '1666'
+reading_time_minutes: 4
+series: general
+slug: bim360_samples_msg
+source_file: 1666_bim360_samples_msg.md
+tags:
+- elements
+- levels
+- revit-api
+- sheets
+- views
+title: Bim360 Samples Msg
+word_count: 758
 ---
 
 ### BIM360 and Forge for AEC Message and Samples

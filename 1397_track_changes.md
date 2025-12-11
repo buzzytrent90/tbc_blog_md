@@ -1,11 +1,33 @@
 ---
-post_number: "1397"
-title: "Track Changes"
-slug: "track_changes"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'family', 'filtering', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'sheets', 'transactions', 'views', 'walls']
-source_file: "1397_track_changes.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1397_track_changes.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 11.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.934739'
+original_url: https://thebuildingcoder.typepad.com/blog/1397_track_changes.html
+post_number: '1397'
+reading_time_minutes: 21
+series: transactions
+slug: track_changes
+source_file: 1397_track_changes.md
+tags:
+- csharp
+- doors
+- elements
+- family
+- filtering
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- sheets
+- transactions
+- views
+- walls
+title: Track Changes
+word_count: 4122
 ---
 
 ### Tracking Element Modification

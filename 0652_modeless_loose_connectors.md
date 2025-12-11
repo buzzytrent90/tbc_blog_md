@@ -1,11 +1,27 @@
 ---
-post_number: "0652"
-title: "Yet Another Modeless Update"
-slug: "modeless_loose_connectors"
-author: "Jeremy Tammik"
-tags: ['csharp', 'doors', 'elements', 'references', 'revit-api', 'selection', 'transactions', 'windows']
-source_file: "0652_modeless_loose_connectors.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0652_modeless_loose_connectors.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 9.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.334552'
+original_url: https://thebuildingcoder.typepad.com/blog/0652_modeless_loose_connectors.html
+post_number: '0652'
+reading_time_minutes: 14
+series: mep
+slug: modeless_loose_connectors
+source_file: 0652_modeless_loose_connectors.htm
+tags:
+- csharp
+- doors
+- elements
+- references
+- revit-api
+- selection
+- transactions
+- windows
+- mep
+title: Yet Another Modeless Update
+word_count: 2858
 ---
 
 ### Yet Another Modeless Update

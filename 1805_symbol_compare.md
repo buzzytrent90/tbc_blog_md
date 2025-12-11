@@ -1,11 +1,24 @@
 ---
-post_number: "1805"
-title: "Symbol Compare"
-slug: "symbol_compare"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'revit-api', 'schedules', 'sheets']
-source_file: "1805_symbol_compare.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1805_symbol_compare.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.9
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.781152'
+original_url: https://thebuildingcoder.typepad.com/blog/1805_symbol_compare.html
+post_number: '1805'
+reading_time_minutes: 4
+series: elements
+slug: symbol_compare
+source_file: 1805_symbol_compare.md
+tags:
+- elements
+- family
+- geometry
+- revit-api
+- schedules
+- sheets
+title: Symbol Compare
+word_count: 891
 ---
 
 ### Comparing Symbols and Comparison Operators

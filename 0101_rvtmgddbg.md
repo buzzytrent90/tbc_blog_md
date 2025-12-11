@@ -1,11 +1,27 @@
 ---
-post_number: "0101"
-title: "RvtMgdDbg"
-slug: "rvtmgddbg"
-author: "Jeremy Tammik"
-tags: ['elements', 'family', 'geometry', 'parameters', 'revit-api', 'selection', 'views', 'walls', 'windows']
-source_file: "0101_rvtmgddbg.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0101_rvtmgddbg.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:13.362603'
+original_url: https://thebuildingcoder.typepad.com/blog/0101_rvtmgddbg.html
+post_number: '0101'
+reading_time_minutes: 8
+series: general
+slug: rvtmgddbg
+source_file: 0101_rvtmgddbg.htm
+tags:
+- elements
+- family
+- geometry
+- parameters
+- revit-api
+- selection
+- views
+- walls
+- windows
+title: RvtMgdDbg
+word_count: 1651
 ---
 
 ### RvtMgdDbg

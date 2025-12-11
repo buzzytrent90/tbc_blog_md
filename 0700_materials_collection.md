@@ -1,11 +1,27 @@
 ---
-post_number: "0700"
-title: "Materials Collection and Filtering"
-slug: "materials_collection"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'parameters', 'python', 'references', 'revit-api', 'transactions']
-source_file: "0700_materials_collection.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0700_materials_collection.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.4
+content_type: code_example
+optimization_date: '2025-12-11T11:44:14.423733'
+original_url: https://thebuildingcoder.typepad.com/blog/0700_materials_collection.html
+post_number: '0700'
+reading_time_minutes: 5
+series: materials
+slug: materials_collection
+source_file: 0700_materials_collection.htm
+tags:
+- csharp
+- elements
+- filtering
+- parameters
+- python
+- references
+- revit-api
+- transactions
+- materials
+title: Materials Collection and Filtering
+word_count: 1056
 ---
 
 ### Materials Collection and Filtering

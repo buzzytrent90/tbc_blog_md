@@ -1,11 +1,22 @@
 ---
-post_number: "0523"
-title: "Automate DesignOption and 64 Bit Add-In Templates"
-slug: "ui_auto_design_option"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'revit-api', 'views']
-source_file: "0523_ui_auto_design_option.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0523_ui_auto_design_option.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.100023'
+original_url: https://thebuildingcoder.typepad.com/blog/0523_ui_auto_design_option.html
+post_number: '0523'
+reading_time_minutes: 3
+series: general
+slug: ui_auto_design_option
+source_file: 0523_ui_auto_design_option.htm
+tags:
+- csharp
+- elements
+- revit-api
+- views
+title: Automate DesignOption and 64 Bit Add-In Templates
+word_count: 631
 ---
 
 ### Automate DesignOption and 64 Bit Add-In Templates

@@ -1,11 +1,26 @@
 ---
-post_number: "1537"
-title: "Event Uv Room Filt"
-slug: "event_uv_room_filt"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'geometry', 'levels', 'revit-api', 'rooms', 'sheets', 'views']
-source_file: "1537_event_uv_room_filt.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1537_event_uv_room_filt.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.242848'
+original_url: https://thebuildingcoder.typepad.com/blog/1537_event_uv_room_filt.html
+post_number: '1537'
+reading_time_minutes: 5
+series: geometry
+slug: event_uv_room_filt
+source_file: 1537_event_uv_room_filt.md
+tags:
+- elements
+- filtering
+- geometry
+- levels
+- revit-api
+- rooms
+- sheets
+- views
+title: Event Uv Room Filt
+word_count: 923
 ---
 
 ### Events, UV Coordinates and Rooms on Level

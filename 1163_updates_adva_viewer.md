@@ -1,11 +1,21 @@
 ---
-post_number: "1163"
-title: "Updated SDK, DevTV, BIM 360 News and Viewer"
-slug: "updates_adva_viewer"
-author: "Jeremy Tammik"
-tags: ['levels', 'revit-api', 'views']
-source_file: "1163_updates_adva_viewer.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1163_updates_adva_viewer.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.2
+content_type: tutorial
+optimization_date: '2025-12-11T11:44:15.430911'
+original_url: https://thebuildingcoder.typepad.com/blog/1163_updates_adva_viewer.html
+post_number: '1163'
+reading_time_minutes: 3
+series: views
+slug: updates_adva_viewer
+source_file: 1163_updates_adva_viewer.htm
+tags:
+- levels
+- revit-api
+- views
+title: Updated SDK, DevTV, BIM 360 News and Viewer
+word_count: 617
 ---
 
 ### Updated SDK, DevTV, BIM 360 News and Viewer

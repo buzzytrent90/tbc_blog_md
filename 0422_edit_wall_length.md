@@ -1,11 +1,25 @@
 ---
-post_number: "0422"
-title: "Edit Wall Length"
-slug: "edit_wall_length"
-author: "Jeremy Tammik"
-tags: ['csharp', 'family', 'parameters', 'revit-api', 'vbnet', 'walls', 'windows']
-source_file: "0422_edit_wall_length.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0422_edit_wall_length.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.922481'
+original_url: https://thebuildingcoder.typepad.com/blog/0422_edit_wall_length.html
+post_number: '0422'
+reading_time_minutes: 3
+series: general
+slug: edit_wall_length
+source_file: 0422_edit_wall_length.htm
+tags:
+- csharp
+- family
+- parameters
+- revit-api
+- vbnet
+- walls
+- windows
+title: Edit Wall Length
+word_count: 698
 ---
 
 ### Edit Wall Length

@@ -1,11 +1,29 @@
 ---
-post_number: "0912"
-title: "Cloud & Mobile, Extensible Storage Data Use in Schedules"
-slug: "cm_estorage_schedule"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'views']
-source_file: "0912_cm_estorage_schedule.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0912_cm_estorage_schedule.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.874393'
+original_url: https://thebuildingcoder.typepad.com/blog/0912_cm_estorage_schedule.html
+post_number: 0912
+reading_time_minutes: 7
+series: general
+slug: cm_estorage_schedule
+source_file: 0912_cm_estorage_schedule.htm
+tags:
+- doors
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- views
+title: Cloud & Mobile, Extensible Storage Data Use in Schedules
+word_count: 1404
 ---
 
 ### Cloud & Mobile, Extensible Storage Data Use in Schedules

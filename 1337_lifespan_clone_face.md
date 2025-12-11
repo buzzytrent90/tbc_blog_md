@@ -1,11 +1,28 @@
 ---
-post_number: "1337"
-title: "IFC GUID Access, Life Span and Cloning of Geometry"
-slug: "lifespan_clone_face"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'transactions', 'views', 'walls']
-source_file: "1337_lifespan_clone_face.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1337_lifespan_clone_face.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.799343'
+original_url: https://thebuildingcoder.typepad.com/blog/1337_lifespan_clone_face.html
+post_number: '1337'
+reading_time_minutes: 6
+series: general
+slug: lifespan_clone_face
+source_file: 1337_lifespan_clone_face.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- transactions
+- views
+- walls
+title: IFC GUID Access, Life Span and Cloning of Geometry
+word_count: 1295
 ---
 
 ### IFC GUID Access, Life Span and Cloning of Geometry

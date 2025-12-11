@@ -1,11 +1,28 @@
 ---
-post_number: "2067"
-title: "Revittest"
-slug: "revittest"
-author: "Jeremy Tammik"
-tags: ['family', 'levels', 'parameters', 'python', 'revit-api', 'rooms', 'schedules', 'sheets', 'views', 'windows']
-source_file: "2067_revittest.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/2067_revittest.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 6.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.407879'
+original_url: https://thebuildingcoder.typepad.com/blog/2067_revittest.html
+post_number: '2067'
+reading_time_minutes: 11
+series: general
+slug: revittest
+source_file: 2067_revittest.md
+tags:
+- family
+- levels
+- parameters
+- python
+- revit-api
+- rooms
+- schedules
+- sheets
+- views
+- windows
+title: Revittest
+word_count: 2282
 ---
 
 ### Unit Testing and More Serious Matters

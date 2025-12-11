@@ -1,11 +1,22 @@
 ---
-post_number: "1261"
-title: "DevDays in Milano, Links, Textures, UR4 vs R2"
-slug: "devdays_milano"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'views']
-source_file: "1261_devdays_milano.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1261_devdays_milano.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.7
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.632134'
+original_url: https://thebuildingcoder.typepad.com/blog/1261_devdays_milano.html
+post_number: '1261'
+reading_time_minutes: 4
+series: general
+slug: devdays_milano
+source_file: 1261_devdays_milano.htm
+tags:
+- elements
+- references
+- revit-api
+- views
+title: DevDays in Milano, Links, Textures, UR4 vs R2
+word_count: 770
 ---
 
 ### DevDays in Milano, Links, Textures, UR4 vs R2

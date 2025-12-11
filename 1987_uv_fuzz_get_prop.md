@@ -1,11 +1,29 @@
 ---
-post_number: "1987"
-title: "Uv Fuzz Get Prop"
-slug: "uv_fuzz_get_prop"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'levels', 'parameters', 'python', 'references', 'revit-api', 'sheets', 'views']
-source_file: "1987_uv_fuzz_get_prop.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1987_uv_fuzz_get_prop.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 8.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:17.202177'
+original_url: https://thebuildingcoder.typepad.com/blog/1987_uv_fuzz_get_prop.html
+post_number: '1987'
+reading_time_minutes: 15
+series: geometry
+slug: uv_fuzz_get_prop
+source_file: 1987_uv_fuzz_get_prop.md
+tags:
+- csharp
+- elements
+- family
+- geometry
+- levels
+- parameters
+- python
+- references
+- revit-api
+- sheets
+- views
+title: Uv Fuzz Get Prop
+word_count: 2952
 ---
 
 ### UV, Emergence, Fuzz and the get_ Prefix

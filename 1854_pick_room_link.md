@@ -1,11 +1,28 @@
 ---
-post_number: "1854"
-title: "Pick Room Link"
-slug: "pick_room_link"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'levels', 'references', 'revit-api', 'rooms', 'selection', 'sheets', 'views', 'walls']
-source_file: "1854_pick_room_link.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1854_pick_room_link.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.898684'
+original_url: https://thebuildingcoder.typepad.com/blog/1854_pick_room_link.html
+post_number: '1854'
+reading_time_minutes: 9
+series: general
+slug: pick_room_link
+source_file: 1854_pick_room_link.md
+tags:
+- elements
+- filtering
+- levels
+- references
+- revit-api
+- rooms
+- selection
+- sheets
+- views
+- walls
+title: Pick Room Link
+word_count: 1860
 ---
 
 ### Selection in Link, Cancel in Export, Multithreading

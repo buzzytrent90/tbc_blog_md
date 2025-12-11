@@ -1,11 +1,28 @@
 ---
-post_number: "1709"
-title: "Rebar Framework Fuzz"
-slug: "rebar_framework_fuzz"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'filtering', 'levels', 'references', 'revit-api', 'selection', 'sheets', 'walls', 'windows']
-source_file: "1709_rebar_framework_fuzz.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1709_rebar_framework_fuzz.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 5.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.577113'
+original_url: https://thebuildingcoder.typepad.com/blog/1709_rebar_framework_fuzz.html
+post_number: '1709'
+reading_time_minutes: 5
+series: general
+slug: rebar_framework_fuzz
+source_file: 1709_rebar_framework_fuzz.md
+tags:
+- csharp
+- elements
+- filtering
+- levels
+- references
+- revit-api
+- selection
+- sheets
+- walls
+- windows
+title: Rebar Framework Fuzz
+word_count: 975
 ---
 
 ### Rebars in Host, .NET Framework and Importance of Fuzz

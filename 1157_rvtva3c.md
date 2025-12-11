@@ -1,11 +1,24 @@
 ---
-post_number: "1157"
-title: "RvtVa3c – Revit Va3c Generic AEC Viewer JSON Export"
-slug: "rvtva3c"
-author: "Jeremy Tammik"
-tags: ['doors', 'elements', 'family', 'revit-api', 'views', 'windows']
-source_file: "1157_rvtva3c.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1157_rvtva3c.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.5
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.419403'
+original_url: https://thebuildingcoder.typepad.com/blog/1157_rvtva3c.html
+post_number: '1157'
+reading_time_minutes: 3
+series: general
+slug: rvtva3c
+source_file: 1157_rvtva3c.htm
+tags:
+- doors
+- elements
+- family
+- revit-api
+- views
+- windows
+title: "RvtVa3c \u2013 Revit Va3c Generic AEC Viewer JSON Export"
+word_count: 689
 ---
 
 ### RvtVa3c – Revit Va3c Generic AEC Viewer JSON Export

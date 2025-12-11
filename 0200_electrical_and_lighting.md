@@ -1,11 +1,27 @@
 ---
-post_number: "0200"
-title: "Electrical Settings and Lighting Fixtures"
-slug: "electrical_and_lighting"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'filtering', 'levels', 'parameters', 'revit-api', 'selection']
-source_file: "0200_electrical_and_lighting.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0200_electrical_and_lighting.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 4.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.537159'
+original_url: https://thebuildingcoder.typepad.com/blog/0200_electrical_and_lighting.html
+post_number: '0200'
+reading_time_minutes: 3
+series: mep
+slug: electrical_and_lighting
+source_file: 0200_electrical_and_lighting.htm
+tags:
+- csharp
+- elements
+- family
+- filtering
+- levels
+- parameters
+- revit-api
+- selection
+- mep
+title: Electrical Settings and Lighting Fixtures
+word_count: 663
 ---
 
 ### Electrical Settings and Lighting Fixtures

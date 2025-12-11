@@ -1,11 +1,25 @@
 ---
-post_number: "1694"
-title: "Addin Locations"
-slug: "addin_locations"
-author: "Jeremy Tammik"
-tags: ['elements', 'references', 'revit-api', 'rooms', 'sheets', 'views', 'windows']
-source_file: "1694_addin_locations.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1694_addin_locations.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:16.537290'
+original_url: https://thebuildingcoder.typepad.com/blog/1694_addin_locations.html
+post_number: '1694'
+reading_time_minutes: 6
+series: general
+slug: addin_locations
+source_file: 1694_addin_locations.md
+tags:
+- elements
+- references
+- revit-api
+- rooms
+- sheets
+- views
+- windows
+title: Addin Locations
+word_count: 1184
 ---
 
 ### Revit Add-In Locations and BIM360 EU

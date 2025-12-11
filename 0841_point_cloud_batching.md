@@ -1,11 +1,24 @@
 ---
-post_number: "0841"
-title: "Point Cloud Request Batching"
-slug: "point_cloud_batching"
-author: "Jeremy Tammik"
-tags: ['family', 'filtering', 'levels', 'revit-api', 'views']
-source_file: "0841_point_cloud_batching.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0841_point_cloud_batching.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 1.6
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.712342'
+original_url: https://thebuildingcoder.typepad.com/blog/0841_point_cloud_batching.html
+post_number: 0841
+reading_time_minutes: 3
+series: geometry
+slug: point_cloud_batching
+source_file: 0841_point_cloud_batching.htm
+tags:
+- family
+- filtering
+- levels
+- revit-api
+- views
+- geometry
+title: Point Cloud Request Batching
+word_count: 615
 ---
 
 ﻿

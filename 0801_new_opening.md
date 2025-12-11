@@ -1,11 +1,24 @@
 ---
-post_number: "0801"
-title: "Creating an Opening"
-slug: "new_opening"
-author: "Jeremy Tammik"
-tags: ['geometry', 'references', 'revit-api', 'transactions', 'walls', 'windows']
-source_file: "0801_new_opening.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0801_new_opening.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.1
+content_type: qa
+optimization_date: '2025-12-11T11:44:14.620761'
+original_url: https://thebuildingcoder.typepad.com/blog/0801_new_opening.html
+post_number: 0801
+reading_time_minutes: 4
+series: general
+slug: new_opening
+source_file: 0801_new_opening.htm
+tags:
+- geometry
+- references
+- revit-api
+- transactions
+- walls
+- windows
+title: Creating an Opening
+word_count: 759
 ---
 
 ### Creating an Opening

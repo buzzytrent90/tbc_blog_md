@@ -1,11 +1,24 @@
 ---
-post_number: "1402"
-title: "Bim Docs Addin Folders"
-slug: "bim_docs_addin_folders"
-author: "Jeremy Tammik"
-tags: ['csharp', 'python', 'revit-api', 'sheets', 'views', 'windows']
-source_file: "1402_bim_docs_addin_folders.md"
-original_url: "https://thebuildingcoder.typepad.com/blog/1402_bim_docs_addin_folders.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 2.3
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.945169'
+original_url: https://thebuildingcoder.typepad.com/blog/1402_bim_docs_addin_folders.html
+post_number: '1402'
+reading_time_minutes: 5
+series: general
+slug: bim_docs_addin_folders
+source_file: 1402_bim_docs_addin_folders.md
+tags:
+- csharp
+- python
+- revit-api
+- sheets
+- views
+- windows
+title: Bim Docs Addin Folders
+word_count: 912
 ---
 
 ### BIM 360 Docs, Add-In Folders, Stallman and Abc

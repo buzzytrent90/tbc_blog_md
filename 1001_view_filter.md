@@ -1,11 +1,24 @@
 ---
-post_number: "1001"
-title: "View Filter API"
-slug: "view_filter"
-author: "Jeremy Tammik"
-tags: ['elements', 'filtering', 'parameters', 'revit-api', 'schedules', 'views']
-source_file: "1001_view_filter.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/1001_view_filter.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.4
+content_type: qa
+optimization_date: '2025-12-11T11:44:15.094250'
+original_url: https://thebuildingcoder.typepad.com/blog/1001_view_filter.html
+post_number: '1001'
+reading_time_minutes: 4
+series: filtering
+slug: view_filter
+source_file: 1001_view_filter.htm
+tags:
+- elements
+- filtering
+- parameters
+- revit-api
+- schedules
+- views
+title: View Filter API
+word_count: 744
 ---
 
 ### View Filter API

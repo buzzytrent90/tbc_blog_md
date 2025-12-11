@@ -1,11 +1,26 @@
 ---
-post_number: "0297"
-title: "Creating a Dimension Label"
-slug: "dimension_label"
-author: "Jeremy Tammik"
-tags: ['csharp', 'elements', 'family', 'geometry', 'parameters', 'references', 'revit-api', 'views']
-source_file: "0297_dimension_label.htm"
-original_url: "https://thebuildingcoder.typepad.com/blog/0297_dimension_label.html"
+ai_optimized: true
+author: Jeremy Tammik
+complexity_score: 3.2
+content_type: qa
+optimization_date: '2025-12-11T11:44:13.701745'
+original_url: https://thebuildingcoder.typepad.com/blog/0297_dimension_label.html
+post_number: 0297
+reading_time_minutes: 4
+series: general
+slug: dimension_label
+source_file: 0297_dimension_label.htm
+tags:
+- csharp
+- elements
+- family
+- geometry
+- parameters
+- references
+- revit-api
+- views
+title: Creating a Dimension Label
+word_count: 762
 ---
 
 ### Creating a Dimension Label
