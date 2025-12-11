@@ -2,7 +2,7 @@
 
 > Jeremy Tammik's Revit API Blog - Whats-New Posts
 
-## Whats-New Posts
+## Whats-New
 
 - [DevCamp Session on What's New](https://buzzytrent90.github.io/tbc_blog_md/0385_devcamp_whats_new.md)
 - [Major Changes and Renovations - What's New in the Revit 2014 API](https://buzzytrent90.github.io/tbc_blog_md/0938-01_whats_new_in_the_revit_2014_api.md)

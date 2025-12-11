@@ -2,7 +2,7 @@
 
 > Jeremy Tammik's Revit API Blog - Filtering Posts
 
-## Filtering Posts
+## Filtering
 
 - [Filter Performance](https://buzzytrent90.github.io/tbc_blog_md/0017_filter_performance.md)
 - [More Filter Performance](https://buzzytrent90.github.io/tbc_blog_md/0019_more_filter_performance.md)

@@ -2,7 +2,7 @@
 
 > Jeremy Tammik's Revit API Blog - Getting-Started Posts
 
-## Getting-Started Posts
+## Getting-Started
 
 - [Welcome](https://buzzytrent90.github.io/tbc_blog_md/0001_welcome.md)
 - [Introduction to DevTech](https://buzzytrent90.github.io/tbc_blog_md/0002_devtech.md)

@@ -2,7 +2,7 @@
 
 > Jeremy Tammik's Revit API Blog - Geometry Posts
 
-## Geometry Posts
+## Geometry
 
 - [Geometry Library](https://buzzytrent90.github.io/tbc_blog_md/0012_geometry_library.md)
 - [Geometry Viewers](https://buzzytrent90.github.io/tbc_blog_md/0013_geometry_viewers.md)
