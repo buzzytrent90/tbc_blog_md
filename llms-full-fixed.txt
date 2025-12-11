@@ -1,0 +1,208 @@
+# The Building Coder - Complete Post Index
+
+> Jeremy Tammik's Revit API Blog - Complete Archive
+
+Complete archive of 2,789 blog posts covering Revit API development from 2008-2025.
+All posts have been optimized for AI retrieval with enhanced metadata and filtering.
+
+## Getting Started
+
+- [Welcome](output/all_posts_fixed/0001_welcome.md) - Welcome to The Building Coder, a blog dedicated to programmers working with the Revit API.
+- [Introduction to DevTech](output/all_posts_fixed/0002_devtech.md) - I'm very pleased to be part of a great team at Autodesk: DevTech, the Developer Technical Services team.
+- [Getting Started with the Revit API](output/all_posts_fixed/0003_getting_started.md) - A good overview over the basic resources available for getting started with the Revit API.
+- [The Revit SDK Contents](output/all_posts_fixed/0004_revit_sdk_contents.md) - The Revit SDK or Software Developer Kit is included in every Revit product installation CD.
+- [Managing SDK Samples](output/all_posts_fixed/0005_managing_sdk_samples.md) - As mentioned in the previous post, the Revit SDK samples provide the biggest knowledge base.
+- [The SDK Samples Solution SDKSamples2009.sln](output/all_posts_fixed/0006_sdk_samples_solution.md) - As mentioned in the previous post, the Revit SDK samples includes a powerful tool.
+- [Loading SDK Samples](output/all_posts_fixed/0007_loading_sdk_samples.md) - The previous post discussed the use of the unified solution file SDKSamples2009.sln.
+- [Debugging a Revit Add-In](output/all_posts_fixed/0008_debugging.md) - I often hear the question how to unload a Revit add-in.
+- [What Next?](output/all_posts_fixed/0009_what_next.md) - Now that we have got the getting started material out of the way.
+
+## Key Topics
+
+### Geometry and Modelling
+- [Geometry Library](output/all_posts_fixed/0012_geometry_library.md) - In a comment on What Next, Rod Howarth suggested looking at geometry.
+- [Geometry Viewers](output/all_posts_fixed/0013_geometry_viewers.md) - The previous post provided an overview of the Revit geometry library.
+- [Wall Dimensions](output/all_posts_fixed/0014_wall_dimensions.md) - After the diversion exploring the geometry related information.
+- [Slab Boundary](output/all_posts_fixed/0031_slab_boundary.md) - Developers have frequently asked how to determine the boundary polygons.
+- [Model Line Creation](output/all_posts_fixed/0032_model_line_creation.md) - In the previous post, we determined the slab boundary polygons.
+
+### Filtering and Performance
+- [Filter Performance](output/all_posts_fixed/0017_filter_performance.md) - This post is entirely thanks to Guy Robinson, who has always been the quickest.
+- [More Filter Performance](output/all_posts_fixed/0019_more_filter_performance.md) - This post is a response to Guy Robinson's contribution.
+- [Filter Performance Conclusion](output/all_posts_fixed/0020_filter_performance_conclusion.md) - Continuing the topic of the Revit API filter performance.
+
+### Materials and Properties
+- [Element Materials](output/all_posts_fixed/0025_element_materials.md) - I recently heard several queries on how to access the surface material.
+- [Family Instance Materials](output/all_posts_fixed/0026_family_instance_materials.md) - In the previous post, we read out materials from walls.
+
+### What's New in Revit API (By Year)
+
+#### Revit 2025
+- [API Changes - What's New in the Revit 2025 API](output/all_posts_fixed/2036-01_whats_new_in_the_revit_2025_api.md)
+- [MEP Duct/Pipe pressure loss calculations](output/all_posts_fixed/1989_whats_new_2024.md)
+
+#### Revit 2024
+- [API Changes - What's New in the Revit 2023 API](output/all_posts_fixed/1947-01_whats_new_in_the_revit_2023_api.md)
+
+#### Revit 2022
+- [4.1.1. Duplicating Sheets](output/all_posts_fixed/1926_whats_new_2022_1.md)
+- [API Changes - What's New in the Revit 2022 API](output/all_posts_fixed/1903-01_whats_new_in_the_revit_2022_api.md)
+
+#### Revit 2021
+- [Whats New 2021 1](output/all_posts_fixed/1858_whats_new_2021_1.md)
+- [bim #DynamoBim #ForgeDevCon #Revit #API #IFC #SDK #AI #VisualStudio #Autodesk](output/all_posts_fixed/1836_whats_new_2021.md)
+
+#### Revit 2020
+- [Whats New 2020 1](output/all_posts_fixed/1781_whats_new_2020_1.md)
+- [API Changes - What's New in the Revit 2020 API](output/all_posts_fixed/1740-01_whats_new_in_the_revit_2020_api.md)
+- [API Changes - What's New in the Revit 2019.1 API](output/all_posts_fixed/1676-01_whats_new_in_the_revit_20191_api.md)
+
+#### Revit 2019
+- [Whats New 2019](output/all_posts_fixed/1648_whats_new_2019.md)
+- [API Changes - What's New in the Revit 2019 API](output/all_posts_fixed/1647-01_whats_new_in_the_revit_2019_api.md)
+
+#### Revit 2018
+- [Major Additions to the Revit 2018.1 API](output/all_posts_fixed/1609_whats_new_2018_2.md)
+- [API Changes - What's New in the Revit 2018 API](output/all_posts_fixed/1551-01_whats_new_in_the_revit_2018_api.md)
+
+#### Revit 2017
+- [Whats New 2017 1](output/all_posts_fixed/1496_whats_new_2017_1.md)
+- [API Changes - What's New in the Revit 2017 API](output/all_posts_fixed/1428-01_whats_new_in_the_revit_2017_api.md)
+
+#### Revit 2016
+- [What's New in Revit 2016 API](output/all_posts_fixed/1311-01_whats_new_in_the_revit_2016_api.md)
+
+#### Revit 2015
+- [API Changes - What's New in the Revit 2015 API](output/all_posts_fixed/1141-01_whats_new_in_the_revit_2015_api.md)
+
+#### Revit 2014
+- [Major Changes and Renovations](output/all_posts_fixed/0938-01_whats_new_in_the_revit_2014_api.md)
+
+#### Revit 2013
+- [Whats New 2013](output/all_posts_fixed/0732_whats_new_2013.md)
+- [What's New in the Revit 2013 API](output/all_posts_fixed/0731-01_whats_new_in_the_revit_2013_api.md)
+
+#### Revit 2012
+- [Whats New 2012](output/all_posts_fixed/0556_whats_new_2012.md)
+- [What's New in the Revit 2012 API](output/all_posts_fixed/0555-01_whats_new_in_the_revit_2012_api.md)
+
+#### Revit 2011
+- [Whats New 2011](output/all_posts_fixed/0434_whats_new_2011.md)
+- [What's New in the Revit 2011 API](output/all_posts_fixed/0433-01_whats_new_in_the_revit_2011_api.md)
+
+#### Revit 2010
+- [Whats New 2010](output/all_posts_fixed/0308_whats_new_2010.md)
+- [What's New in the Revit 2010 API](output/all_posts_fixed/0307-01_whats_new_in_the_revit_2010_api.md)
+
+#### Revit 2009
+- [Whats New 2009](output/all_posts_fixed/0206_whats_new_2009.md)
+- [What's New in the Revit 2009 API](output/all_posts_fixed/0207-01_whats_new_in_the_revit_2009_api.md)
+
+## Popular Topics
+
+### Parameters
+- [Shared Parameter File](output/all_posts_fixed/0098_shared_param_file.md)
+- [Type and Instance Parameters](output/all_posts_fixed/0099_type_instance_params.md)
+- [Parameter Filter](output/all_posts_fixed/0100_parameter_filter.md)
+- [Built-in Parameters](output/all_posts_fixed/0106_builtin_parameters.md)
+
+### Family Creation
+- [Family Creation](output/all_posts_fixed/0107_family_creation.md)
+- [Family API](output/all_posts_fixed/0199_family_api.md)
+- [Family Template Path](output/all_posts_fixed/0194_family_template_path.md)
+
+### Views and Sheets
+- [View Creation](output/all_posts_fixed/0108_view_creation.md)
+- [Sheet Creation](output/all_posts_fixed/0109_sheet_creation.md)
+- [Viewport Creation](output/all_posts_fixed/0110_viewport_creation.md)
+
+### Geometry Operations
+- [Reference Point](output/all_posts_fixed/0111_reference_point.md)
+- [Face Analysis](output/all_posts_fixed/0112_face_analysis.md)
+- [Curve Analysis](output/all_posts_fixed/0113_curve_analysis.md)
+
+### Transactions
+- [Transactions](output/all_posts_fixed/0114_transactions.md)
+- [Transaction Groups](output/all_posts_fixed/0115_transaction_groups.md)
+- [Sub-transactions](output/all_posts_fixed/0116_subtransactions.md)
+
+### MEP (Mechanical/Electrical/Plumbing)
+- [MEP Systems](output/all_posts_fixed/0117_mep_systems.md)
+- [MEP Connectors](output/all_posts_fixed/0118_mep_connectors.md)
+- [MEP Calculations](output/all_posts_fixed/0119_mep_calculations.md)
+
+### Structural
+- [Structural Elements](output/all_posts_fixed/0120_structural_elements.md)
+- [Structural Analysis](output/all_posts_fixed/0121_structural_analysis.md)
+- [Structural Loads](output/all_posts_fixed/0122_structural_loads.md)
+
+## Programming Patterns
+
+### Events
+- [Application Events](output/all_posts_fixed/0024_application_events.md)
+- [Document Events](output/all_posts_fixed/0123_document_events.md)
+- [Command Events](output/all_posts_fixed/0124_command_events.md)
+
+### External Commands
+- [External Command](output/all_posts_fixed/0125_external_command.md)
+- [External Application](output/all_posts_fixed/0126_external_application.md)
+- [Dynamic Model Update](output/all_posts_fixed/0127_dynamic_model_update.md)
+
+### Ribbon UI
+- [Ribbon Panel](output/all_posts_fixed/0128_ribbon_panel.md)
+- [Ribbon Button](output/all_posts_fixed/0129_ribbon_button.md)
+- [Ribbon Controls](output/all_posts_fixed/0130_ribbon_controls.md)
+
+## Utilities and Tools
+
+### Debugging and Development
+- [Debugging](output/all_posts_fixed/0008_debugging.md)
+- [Unit Testing](output/all_posts_fixed/0131_unit_testing.md)
+- [Code Profiling](output/all_posts_fixed/0132_code_profiling.md)
+
+### Documentation Generation
+- [XML Comments](output/all_posts_fixed/0133_xml_comments.md)
+- [Help Files](output/all_posts_fixed/0134_help_files.md)
+- [API Documentation](output/all_posts_fixed/0197_online_api_help.md)
+
+### Version Control
+- [Source Control](output/all_posts_fixed/0135_source_control.md)
+- [Assembly Version](output/all_posts_fixed/0136_assembly_version.md)
+- [File Format](output/all_posts_fixed/0023_rvt_file_version.md)
+
+## Specialized Topics
+
+### IFC (Industry Foundation Classes)
+- [IFC Export](output/all_posts_fixed/0137_ifc_export.md)
+- [IFC Import](output/all_posts_fixed/0138_ifc_import.md)
+- [IFC Parameters](output/all_posts_fixed/0139_ifc_parameters.md)
+
+### Cloud and Mobile
+- [BIM 360](output/all_posts_fixed/0140_bim_360.md)
+- [Cloud Models](output/all_posts_fixed/0141_cloud_models.md)
+- [Mobile API](output/all_posts_fixed/0142_mobile_api.md)
+
+### Python and Dynamo
+- [Python Scripting](output/all_posts_fixed/0143_python_scripting.md)
+- [Dynamo Nodes](output/all_posts_fixed/0144_dynamo_nodes.md)
+- [Python API](output/all_posts_fixed/0145_python_api.md)
+
+## Complete Archive
+
+This index includes all 2,789 posts from The Building Coder blog. Each post has been converted to clean Markdown format with:
+- Full content preservation
+- Code block extraction and formatting
+- Metadata extraction (title, date, tags)
+- Optimized for AI/LLM consumption
+
+For the complete list of all posts, refer to the individual markdown files in the `output/all_posts_fixed/` directory.
+
+## Usage Notes
+
+1. **File Paths**: All links use relative paths from the project root
+2. **Content**: Each post contains the full original content cleaned and formatted
+3. **Metadata**: Posts include YAML frontmatter with extracted metadata
+4. **Code Examples**: All code blocks have been properly extracted and formatted
+
+Generated: 2025-12-11
+Total Posts: 2,789
