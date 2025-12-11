@@ -5,7 +5,7 @@
 Complete archive of 2,764 blog posts covering Revit API development from 2008-2025.
 All posts have been optimized for AI retrieval with enhanced metadata and filtering.
 
-## Quick Start
+## Getting Started
 
 - [Welcome](https://buzzytrent90.github.io/tbc_blog_md/0001_welcome.md)
 - [Introduction to DevTech](https://buzzytrent90.github.io/tbc_blog_md/0002_devtech.md)
@@ -85,6 +85,86 @@ All posts have been optimized for AI retrieval with enhanced metadata and filter
 ### Revit 2014
 
 - [Major Changes and Renovations - What's New in the Revit 2014 API](https://buzzytrent90.github.io/tbc_blog_md/0938-01_whats_new_in_the_revit_2014_api.md)
+
+## API Reference
+
+### Geometry
+
+- [Geometry Library](https://buzzytrent90.github.io/tbc_blog_md/0012_geometry_library.md)
+- [Geometry Viewers](https://buzzytrent90.github.io/tbc_blog_md/0013_geometry_viewers.md)
+- [Picking a Point](https://buzzytrent90.github.io/tbc_blog_md/0022_picking_a_point.md)
+- [Polygon Transformation](https://buzzytrent90.github.io/tbc_blog_md/0057_polygon_transformation.md)
+- [Transform](https://buzzytrent90.github.io/tbc_blog_md/0110_transform.md)
+- [Transform Instance Coordinates](https://buzzytrent90.github.io/tbc_blog_md/0111_transform_instance_coords.md)
+- [Access to Linked File Geometry](https://buzzytrent90.github.io/tbc_blog_md/0126_access_linked_file_geometry.md)
+- [Transform an Element](https://buzzytrent90.github.io/tbc_blog_md/0133_transform_element.md)
+- [Creating a Curved Beam](https://buzzytrent90.github.io/tbc_blog_md/0152_curved_beam.md)
+- [Scale a Curve](https://buzzytrent90.github.io/tbc_blog_md/0183_scale_curve.md)
+
+### Filtering
+
+- [Filter Performance](https://buzzytrent90.github.io/tbc_blog_md/0017_filter_performance.md)
+- [More Filter Performance](https://buzzytrent90.github.io/tbc_blog_md/0019_more_filter_performance.md)
+- [Filter Performance Conclusion](https://buzzytrent90.github.io/tbc_blog_md/0020_filter_conclusion.md)
+- [Filter for Hosted Elements](https://buzzytrent90.github.io/tbc_blog_md/0071_filter_hosted_elements.md)
+- [Converting to Filters](https://buzzytrent90.github.io/tbc_blog_md/0093_converting_to_filters.md)
+- [Selection Questions](https://buzzytrent90.github.io/tbc_blog_md/0105_selection_questions.md)
+- [Filter for a Family](https://buzzytrent90.github.io/tbc_blog_md/0115_filter_for_family.md)
+- [Parameter Filter Units](https://buzzytrent90.github.io/tbc_blog_md/0267_filter_units.md)
+- [Collector Benchmark](https://buzzytrent90.github.io/tbc_blog_md/0333_collector_benchmark.md)
+- [Filter for Views and the IsTemplate Predicate](https://buzzytrent90.github.io/tbc_blog_md/0355_view_filter.md)
+
+### Parameters
+
+- [Adding a Shared Parameter to a DWG File](https://buzzytrent90.github.io/tbc_blog_md/0036_dwg_shared_param.md)
+- [Exploring Element Parameters](https://buzzytrent90.github.io/tbc_blog_md/0042_exploring_param.md)
+- [Defining a New Parameter](https://buzzytrent90.github.io/tbc_blog_md/0043_new_param.md)
+- [Parameter Modification Performance](https://buzzytrent90.github.io/tbc_blog_md/0050_modify_param.md)
+- [Parameter Binding Performance](https://buzzytrent90.github.io/tbc_blog_md/0109_param_binding_performance.md)
+- [Deeper Parameter Exploration](https://buzzytrent90.github.io/tbc_blog_md/0118_deeper_param_exploration.md)
+- [Adding a Shared Parameter to an RFA File](https://buzzytrent90.github.io/tbc_blog_md/0147_shared_param_rfa.md)
+- [Revit Library Shape Type Catalogue Parameters](https://buzzytrent90.github.io/tbc_blog_md/0153_catalogue_param.md)
+- [Model Group Shared Parameter](https://buzzytrent90.github.io/tbc_blog_md/0158_model_group_shared_param.md)
+- [Get and Set Family Category and Parameters](https://buzzytrent90.github.io/tbc_blog_md/0166_family_category_param.md)
+
+### Elements
+
+- [Element Materials](https://buzzytrent90.github.io/tbc_blog_md/0025_element_materials.md)
+- [Parameter Modification Performance](https://buzzytrent90.github.io/tbc_blog_md/0050_modify_param.md)
+- [Filter for Hosted Elements](https://buzzytrent90.github.io/tbc_blog_md/0071_filter_hosted_elements.md)
+- [Element Caching](https://buzzytrent90.github.io/tbc_blog_md/0078_element_caching.md)
+- [Creating a Group and How to Fish](https://buzzytrent90.github.io/tbc_blog_md/0089_create_group.md)
+- [List Linked Elements](https://buzzytrent90.github.io/tbc_blog_md/0106_list_linked_elements.md)
+- [Transform an Element](https://buzzytrent90.github.io/tbc_blog_md/0133_transform_element.md)
+- [Selecting Model Elements](https://buzzytrent90.github.io/tbc_blog_md/0140_select_model_elements.md)
+- [Mirror an Element](https://buzzytrent90.github.io/tbc_blog_md/0170_mirror_element.md)
+- [Retrieving Newly Created Elements](https://buzzytrent90.github.io/tbc_blog_md/0172_newly_created_elements.md)
+
+### Views
+
+- [Geometry Viewers](https://buzzytrent90.github.io/tbc_blog_md/0013_geometry_viewers.md)
+- [Creating a Viewport](https://buzzytrent90.github.io/tbc_blog_md/0065_creating_a_viewport.md)
+- [Viewports and Sheets](https://buzzytrent90.github.io/tbc_blog_md/0067_viewports_and_sheets.md)
+- [DWF View Definition](https://buzzytrent90.github.io/tbc_blog_md/0116_dwf_view_definition.md)
+- [View Sketch Plane](https://buzzytrent90.github.io/tbc_blog_md/0171_view_sketch_plane.md)
+- [Elevation and Section Views](https://buzzytrent90.github.io/tbc_blog_md/0215_elevation_section_view.md)
+- [Model Review](https://buzzytrent90.github.io/tbc_blog_md/0241_model_review.md)
+- [Crop 3D View to Room](https://buzzytrent90.github.io/tbc_blog_md/0259_crop_view_to_room.md)
+- [Filter for Views and the IsTemplate Predicate](https://buzzytrent90.github.io/tbc_blog_md/0355_view_filter.md)
+- [Get Type Id and Preview Image](https://buzzytrent90.github.io/tbc_blog_md/0359_preview_image.md)
+
+### Transactions
+
+- [Transactions](https://buzzytrent90.github.io/tbc_blog_md/0073_transaction.md)
+- [Transaction Responsibility](https://buzzytrent90.github.io/tbc_blog_md/0075_transaction_responsibility.md)
+- [Extra Transaction Required](https://buzzytrent90.github.io/tbc_blog_md/0291_extra_transaction.md)
+- [Transaction Migration Errors](https://buzzytrent90.github.io/tbc_blog_md/0419_transaction_migration.md)
+- [Extra Transaction or Regeneration Required](https://buzzytrent90.github.io/tbc_blog_md/0866_extra_transaction.md)
+- [What's New in Revit 2011 API - New transaction interfaces](https://buzzytrent90.github.io/tbc_blog_md/0902-06_new_transaction_interfaces.md)
+- [Major Changes and Renovations - No transactions from outside threads](https://buzzytrent90.github.io/tbc_blog_md/0938-96_no_transactions_from_outside_threads.md)
+- [Handling Transaction Status and Errors](https://buzzytrent90.github.io/tbc_blog_md/1250_transaction.md)
+- [Using Transaction Groups](https://buzzytrent90.github.io/tbc_blog_md/1280_transaction_group.md)
+- [API Changes - Automatic transaction mode obsolete](https://buzzytrent90.github.io/tbc_blog_md/1428-06_automatic_transaction_mode_obsolete.md)
 
 ## Complete Archive
 
@@ -3089,14 +3169,3 @@ All posts have been optimized for AI retrieval with enhanced metadata and filter
 
 - [Materials](https://buzzytrent90.github.io/tbc_blog_md/2000_materials.md)
 
----
-
-**Archive Statistics:**
-- Total posts: 2764
-- Years covered: 79 (2008-2025)
-- Files optimized: All files enhanced with metadata
-- Large files split: 15 files → 726 focused chunks
-- Personal content: Filtered out for technical focus
-
-**Repository:** https://github.com/buzzytrent90/tbc_blog_md
-**Last Updated:** 2025-12-11

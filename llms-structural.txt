@@ -1,6 +1,8 @@
-# The Building Coder - Structural
+# The Building Coder
 
 > Jeremy Tammik's Revit API Blog - Structural Posts
+
+## Structural Posts
 
 - [Inserting a Column](https://buzzytrent90.github.io/tbc_blog_md/0094_insert_column.md)
 - [Inserting a Beam](https://buzzytrent90.github.io/tbc_blog_md/0096_insert_beam.md)
