@@ -1,5 +1,7 @@
 # The Building Coder - Getting-Started
 
+> Jeremy Tammik's Revit API Blog - Getting-Started Posts
+
 - [Welcome](https://buzzytrent90.github.io/tbc_blog_md/0001_welcome.md)
 - [Introduction to DevTech](https://buzzytrent90.github.io/tbc_blog_md/0002_devtech.md)
 - [Getting Started with the Revit API](https://buzzytrent90.github.io/tbc_blog_md/0003_getting_started.md)
@@ -14,3 +16,8 @@
 - [Getting Started with the Revit 2010 API](https://buzzytrent90.github.io/tbc_blog_md/0222_getting_started_2010.md)
 - [Getting Started with the Revit 2012 API](https://buzzytrent90.github.io/tbc_blog_md/0661_getting_started_2012.md)
 - [Getting Started with the Revit API](https://buzzytrent90.github.io/tbc_blog_md/0923_getting_started.md)
+
+---
+
+**Total posts in this category:** 14
+**Main archive:** [llms-full.txt](https://buzzytrent90.github.io/tbc_blog_md/llms-full.txt)

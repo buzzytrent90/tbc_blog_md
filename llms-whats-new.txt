@@ -1,5 +1,7 @@
 # The Building Coder - Whats-New
 
+> Jeremy Tammik's Revit API Blog - Whats-New Posts
+
 - [DevCamp Session on What's New](https://buzzytrent90.github.io/tbc_blog_md/0385_devcamp_whats_new.md)
 - [Major Changes and Renovations - What's New in the Revit 2014 API](https://buzzytrent90.github.io/tbc_blog_md/0938-01_whats_new_in_the_revit_2014_api.md)
 - [API Changes - What's New in the Revit 2015 API](https://buzzytrent90.github.io/tbc_blog_md/1141-01_whats_new_in_the_revit_2015_api.md)
@@ -20,3 +22,8 @@
 - [API Changes - What's New in the Revit 2023 API](https://buzzytrent90.github.io/tbc_blog_md/1947-01_whats_new_in_the_revit_2023_api.md)
 - [MEP Duct/Pipe pressure loss calculations](https://buzzytrent90.github.io/tbc_blog_md/1989_whats_new_2024.md)
 - [1. API Changes - What's New in the Revit 2025 API](https://buzzytrent90.github.io/tbc_blog_md/2036-01_whats_new_in_the_revit_2025_api.md)
+
+---
+
+**Total posts in this category:** 20
+**Main archive:** [llms-full.txt](https://buzzytrent90.github.io/tbc_blog_md/llms-full.txt)
