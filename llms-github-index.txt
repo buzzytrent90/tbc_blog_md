@@ -9,179 +9,179 @@ All posts have been optimized for AI retrieval with enhanced metadata and filter
 
 ## Getting Started
 
-- [Welcome](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0001_welcome.md) - Welcome to The Building Coder, a blog dedicated to programmers working with the Revit API.
-- [Introduction to DevTech](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0002_devtech.md) - I'm very pleased to be part of a great team at Autodesk: DevTech, the Developer Technical Services team.
-- [Getting Started with the Revit API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0003_getting_started.md) - A good overview over the basic resources available for getting started with the Revit API.
-- [The Revit SDK Contents](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0004_revit_sdk_contents.md) - The Revit SDK or Software Developer Kit is included in every Revit product installation CD.
-- [Managing SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0005_managing_sdk_samples.md) - As mentioned in the previous post, the Revit SDK samples provide the biggest knowledge base.
-- [The SDK Samples Solution SDKSamples2009.sln](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0006_sdk_samples_solution.md) - As mentioned in the previous post, the Revit SDK samples includes a powerful tool.
-- [Loading SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0007_loading_sdk_samples.md) - The previous post discussed the use of the unified solution file SDKSamples2009.sln.
-- [Debugging a Revit Add-In](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0008_debugging.md) - I often hear the question how to unload a Revit add-in.
-- [What Next?](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0009_what_next.md) - Now that we have got the getting started material out of the way.
+- [Welcome](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0001_welcome.md) - Welcome to The Building Coder, a blog dedicated to programmers working with the Revit API.
+- [Introduction to DevTech](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0002_devtech.md) - I'm very pleased to be part of a great team at Autodesk: DevTech, the Developer Technical Services team.
+- [Getting Started with the Revit API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0003_getting_started.md) - A good overview over the basic resources available for getting started with the Revit API.
+- [The Revit SDK Contents](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0004_revit_sdk_contents.md) - The Revit SDK or Software Developer Kit is included in every Revit product installation CD.
+- [Managing SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0005_managing_sdk_samples.md) - As mentioned in the previous post, the Revit SDK samples provide the biggest knowledge base.
+- [The SDK Samples Solution SDKSamples2009.sln](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0006_sdk_samples_solution.md) - As mentioned in the previous post, the Revit SDK samples includes a powerful tool.
+- [Loading SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0007_loading_sdk_samples.md) - The previous post discussed the use of the unified solution file SDKSamples2009.sln.
+- [Debugging a Revit Add-In](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0008_debugging.md) - I often hear the question how to unload a Revit add-in.
+- [What Next?](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0009_what_next.md) - Now that we have got the getting started material out of the way.
 
 ## Key Topics
 
 ### Geometry and Modelling
-- [Geometry Library](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0012_geometry_library.md) - In a comment on What Next, Rod Howarth suggested looking at geometry.
-- [Geometry Viewers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0013_geometry_viewers.md) - The previous post provided an overview of the Revit geometry library.
-- [Wall Dimensions](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0014_wall_dimensions.md) - After the diversion exploring the geometry related information.
-- [Slab Boundary](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0031_slab_boundary.md) - Developers have frequently asked how to determine the boundary polygons.
-- [Model Line Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0032_model_line_creation.md) - In the previous post, we determined the slab boundary polygons.
+- [Geometry Library](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0012_geometry_library.md) - In a comment on What Next, Rod Howarth suggested looking at geometry.
+- [Geometry Viewers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0013_geometry_viewers.md) - The previous post provided an overview of the Revit geometry library.
+- [Wall Dimensions](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0014_wall_dimensions.md) - After the diversion exploring the geometry related information.
+- [Slab Boundary](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0031_slab_boundary.md) - Developers have frequently asked how to determine the boundary polygons.
+- [Model Line Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0032_model_line_creation.md) - In the previous post, we determined the slab boundary polygons.
 
 ### Filtering and Performance
-- [Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0017_filter_performance.md) - This post is entirely thanks to Guy Robinson, who has always been the quickest.
-- [More Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0019_more_filter_performance.md) - This post is a response to Guy Robinson's contribution.
-- [Filter Performance Conclusion](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0020_filter_performance_conclusion.md) - Continuing the topic of the Revit API filter performance.
+- [Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0017_filter_performance.md) - This post is entirely thanks to Guy Robinson, who has always been the quickest.
+- [More Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0019_more_filter_performance.md) - This post is a response to Guy Robinson's contribution.
+- [Filter Performance Conclusion](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0020_filter_performance_conclusion.md) - Continuing the topic of the Revit API filter performance.
 
 ### Materials and Properties
-- [Element Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0025_element_materials.md) - I recently heard several queries on how to access the surface material.
-- [Family Instance Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0026_family_instance_materials.md) - In the previous post, we read out materials from walls.
+- [Element Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0025_element_materials.md) - I recently heard several queries on how to access the surface material.
+- [Family Instance Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0026_family_instance_materials.md) - In the previous post, we read out materials from walls.
 
 ### What's New in Revit API (By Year)
 
 #### Revit 2025
-- [API Changes - What's New in the Revit 2025 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/2036-01_whats_new_in_the_revit_2025_api.md)
-- [MEP Duct/Pipe pressure loss calculations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1989_whats_new_2024.md)
+- [API Changes - What's New in the Revit 2025 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/2036-01_whats_new_in_the_revit_2025_api.md)
+- [MEP Duct/Pipe pressure loss calculations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1989_whats_new_2024.md)
 
 #### Revit 2024
-- [API Changes - What's New in the Revit 2023 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1947-01_whats_new_in_the_revit_2023_api.md)
+- [API Changes - What's New in the Revit 2023 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1947-01_whats_new_in_the_revit_2023_api.md)
 
 #### Revit 2022
-- [4.1.1. Duplicating Sheets](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1926_whats_new_2022_1.md)
-- [API Changes - What's New in the Revit 2022 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1903-01_whats_new_in_the_revit_2022_api.md)
+- [4.1.1. Duplicating Sheets](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1926_whats_new_2022_1.md)
+- [API Changes - What's New in the Revit 2022 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1903-01_whats_new_in_the_revit_2022_api.md)
 
 #### Revit 2021
-- [Whats New 2021 1](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1858_whats_new_2021_1.md)
-- [bim #DynamoBim #ForgeDevCon #Revit #API #IFC #SDK #AI #VisualStudio #Autodesk](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1836_whats_new_2021.md)
+- [Whats New 2021 1](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1858_whats_new_2021_1.md)
+- [bim #DynamoBim #ForgeDevCon #Revit #API #IFC #SDK #AI #VisualStudio #Autodesk](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1836_whats_new_2021.md)
 
 #### Revit 2020
-- [Whats New 2020 1](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1781_whats_new_2020_1.md)
-- [API Changes - What's New in the Revit 2020 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1740-01_whats_new_in_the_revit_2020_api.md)
-- [API Changes - What's New in the Revit 2019.1 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1676-01_whats_new_in_the_revit_20191_api.md)
+- [Whats New 2020 1](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1781_whats_new_2020_1.md)
+- [API Changes - What's New in the Revit 2020 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1740-01_whats_new_in_the_revit_2020_api.md)
+- [API Changes - What's New in the Revit 2019.1 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1676-01_whats_new_in_the_revit_20191_api.md)
 
 #### Revit 2019
-- [Whats New 2019](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1648_whats_new_2019.md)
-- [API Changes - What's New in the Revit 2019 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1647-01_whats_new_in_the_revit_2019_api.md)
+- [Whats New 2019](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1648_whats_new_2019.md)
+- [API Changes - What's New in the Revit 2019 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1647-01_whats_new_in_the_revit_2019_api.md)
 
 #### Revit 2018
-- [Major Additions to the Revit 2018.1 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1609_whats_new_2018_2.md)
-- [API Changes - What's New in the Revit 2018 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1551-01_whats_new_in_the_revit_2018_api.md)
+- [Major Additions to the Revit 2018.1 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1609_whats_new_2018_2.md)
+- [API Changes - What's New in the Revit 2018 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1551-01_whats_new_in_the_revit_2018_api.md)
 
 #### Revit 2017
-- [Whats New 2017 1](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1496_whats_new_2017_1.md)
-- [API Changes - What's New in the Revit 2017 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1428-01_whats_new_in_the_revit_2017_api.md)
+- [Whats New 2017 1](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1496_whats_new_2017_1.md)
+- [API Changes - What's New in the Revit 2017 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1428-01_whats_new_in_the_revit_2017_api.md)
 
 #### Revit 2016
-- [What's New in Revit 2016 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1311-01_whats_new_in_the_revit_2016_api.md)
+- [What's New in Revit 2016 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1311-01_whats_new_in_the_revit_2016_api.md)
 
 #### Revit 2015
-- [API Changes - What's New in the Revit 2015 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/1141-01_whats_new_in_the_revit_2015_api.md)
+- [API Changes - What's New in the Revit 2015 API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/1141-01_whats_new_in_the_revit_2015_api.md)
 
 #### Revit 2014
-- [Major Changes and Renovations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0938-01_whats_new_in_the_revit_2014_api.md)
+- [Major Changes and Renovations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0938-01_whats_new_in_the_revit_2014_api.md)
 
 ## Complete Archive by Sections
 
 ### 0000-0099
-- [0001 - Welcome](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0001_welcome.md)
-- [0002 - Introduction to DevTech](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0002_devtech.md)
-- [0003 - Getting Started with the Revit API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0003_getting_started.md)
-- [0004 - The Revit SDK Contents](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0004_revit_sdk_contents.md)
-- [0005 - Managing SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0005_managing_sdk_samples.md)
-- [0006 - The SDK Samples Solution SDKSamples2009.sln](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0006_sdk_samples_solution.md)
-- [0007 - Loading SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0007_loading_sdk_samples.md)
-- [0008 - Debugging a Revit Add-In](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0008_debugging.md)
-- [0009 - What Next?](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0009_what_next.md)
-- [0010 - Selecting all Walls](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0010_selecting_all_walls.md)
-- [0011 - Units](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0011_units.md)
-- [0012 - Geometry Library](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0012_geometry_library.md)
-- [0013 - Geometry Viewers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0013_geometry_viewers.md)
-- [0014 - Wall Dimensions](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0014_wall_dimensions.md)
-- [0015 - RoomsRoofs Sample](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0015_roomsroofs_sample.md)
-- [0016 - Relationship Inverter](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0016_relationship_inverter.md)
-- [0017 - Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0017_filter_performance.md)
-- [0018 - AU 2008](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0018_au_2008.md)
-- [0019 - More Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0019_more_filter_performance.md)
-- [0020 - Filter Performance Conclusion](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0020_filter_performance_conclusion.md)
-- [0021 - SDK Update Posted](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0021_sdk_update_posted.md)
-- [0022 - Picking a Point](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0022_picking_a_point.md)
-- [0023 - RVT File Version](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0023_rvt_file_version.md)
-- [0024 - Application Events in VB](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0024_application_events.md)
-- [0025 - Element Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0025_element_materials.md)
-- [0026 - Family Instance Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0026_family_instance_materials.md)
-- [0027 - Azimuth](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0027_azimuth.md)
-- [0028 - Converting between VB and C#, and .NET Decompilation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0028_converting_between_vb_and_csharp.md)
-- [0029 - Obfuscation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0029_obfuscation.md)
-- [0030 - Element Bounding Box](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0030_element_bounding_box.md)
-- [0031 - Slab Boundary](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0031_slab_boundary.md)
-- [0032 - Model Line Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0032_model_line_creation.md)
-- [0033 - Slab Side Faces](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0033_slab_side_faces.md)
-- [0034 - Creating and Naming Saved Views](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0034_creating_and_naming_saved_views.md)
-- [0035 - Dockable and Floating Windows](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0035_dockable_and_floating_windows.md)
-- [0036 - Temporary Cleanup and Trim](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0036_temporary_cleanup_and_trim.md)
-- [0037 - Determining the Level of a Selected Element](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0037_determining_the_level_of_a_selected_element.md)
-- [0038 - PlanetPTC and Dimension Text](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0038_planetptc_and_dimension_text.md)
-- [0039 - Dimension Segment Overwrite](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0039_dimension_segment_overwrite.md)
-- [0040 - Automatic Dimension Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0040_automatic_dimension_update.md)
-- [0041 - Finding the Solid of a Wall Layer](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0041_finding_the_solid_of_a_wall_layer.md)
-- [0042 - VB Category List](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0042_vb_category_list.md)
-- [0043 - Get Total Length of Multiple Walls](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0043_get_total_length_of_multiple_walls.md)
-- [0044 - Copying Elements between Levels](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0044_copying_elements_between_levels.md)
-- [0045 - Detail Component Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0045_detail_component_creation.md)
-- [0046 - Detail Line Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0046_detail_line_creation.md)
-- [0047 - Text Note Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0047_text_note_creation.md)
-- [0048 - JavaScript and Revit API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0048_javascript_and_revit_api.md)
-- [0049 - Revit API Frequently Asked Questions FAQ](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0049_revit_api_frequently_asked_questions_faq.md)
-- [0050 - SPATIAL Check and Other Conference Topics](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0050_spatial_check_and_other_conference_topics.md)
-- [0051 - Adding a Parameter to Elements](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0051_adding_a_parameter_to_elements.md)
-- [0052 - Parameter Filter for Door Numbers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0052_parameter_filter_for_door_numbers.md)
-- [0053 - Retrieve Room and Door Numbering](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0053_retrieve_room_and_door_numbering.md)
-- [0054 - Detail Openings and Instance Properties](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0054_detail_openings_and_instance_properties.md)
-- [0055 - Import 2008 Export 2009, and Category Comparison](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0055_import_2008_export_2009_and_category_comparison.md)
-- [0056 - Data Structure Lab](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0056_data_structure_lab.md)
-- [0057 - Family Instances and Symbol Geometry](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0057_family_instances_and_symbol_geometry.md)
-- [0058 - Retrieving Wall Types and Layers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0058_retrieving_wall_types_and_layers.md)
-- [0059 - List All Rooms and Furniture](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0059_list_all_rooms_and_furniture.md)
+- [0001 - Welcome](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0001_welcome.md)
+- [0002 - Introduction to DevTech](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0002_devtech.md)
+- [0003 - Getting Started with the Revit API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0003_getting_started.md)
+- [0004 - The Revit SDK Contents](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0004_revit_sdk_contents.md)
+- [0005 - Managing SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0005_managing_sdk_samples.md)
+- [0006 - The SDK Samples Solution SDKSamples2009.sln](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0006_sdk_samples_solution.md)
+- [0007 - Loading SDK Samples](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0007_loading_sdk_samples.md)
+- [0008 - Debugging a Revit Add-In](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0008_debugging.md)
+- [0009 - What Next?](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0009_what_next.md)
+- [0010 - Selecting all Walls](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0010_selecting_all_walls.md)
+- [0011 - Units](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0011_units.md)
+- [0012 - Geometry Library](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0012_geometry_library.md)
+- [0013 - Geometry Viewers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0013_geometry_viewers.md)
+- [0014 - Wall Dimensions](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0014_wall_dimensions.md)
+- [0015 - RoomsRoofs Sample](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0015_roomsroofs_sample.md)
+- [0016 - Relationship Inverter](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0016_relationship_inverter.md)
+- [0017 - Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0017_filter_performance.md)
+- [0018 - AU 2008](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0018_au_2008.md)
+- [0019 - More Filter Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0019_more_filter_performance.md)
+- [0020 - Filter Performance Conclusion](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0020_filter_performance_conclusion.md)
+- [0021 - SDK Update Posted](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0021_sdk_update_posted.md)
+- [0022 - Picking a Point](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0022_picking_a_point.md)
+- [0023 - RVT File Version](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0023_rvt_file_version.md)
+- [0024 - Application Events in VB](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0024_application_events.md)
+- [0025 - Element Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0025_element_materials.md)
+- [0026 - Family Instance Materials](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0026_family_instance_materials.md)
+- [0027 - Azimuth](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0027_azimuth.md)
+- [0028 - Converting between VB and C#, and .NET Decompilation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0028_converting_between_vb_and_csharp.md)
+- [0029 - Obfuscation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0029_obfuscation.md)
+- [0030 - Element Bounding Box](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0030_element_bounding_box.md)
+- [0031 - Slab Boundary](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0031_slab_boundary.md)
+- [0032 - Model Line Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0032_model_line_creation.md)
+- [0033 - Slab Side Faces](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0033_slab_side_faces.md)
+- [0034 - Creating and Naming Saved Views](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0034_creating_and_naming_saved_views.md)
+- [0035 - Dockable and Floating Windows](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0035_dockable_and_floating_windows.md)
+- [0036 - Temporary Cleanup and Trim](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0036_temporary_cleanup_and_trim.md)
+- [0037 - Determining the Level of a Selected Element](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0037_determining_the_level_of_a_selected_element.md)
+- [0038 - PlanetPTC and Dimension Text](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0038_planetptc_and_dimension_text.md)
+- [0039 - Dimension Segment Overwrite](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0039_dimension_segment_overwrite.md)
+- [0040 - Automatic Dimension Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0040_automatic_dimension_update.md)
+- [0041 - Finding the Solid of a Wall Layer](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0041_finding_the_solid_of_a_wall_layer.md)
+- [0042 - VB Category List](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0042_vb_category_list.md)
+- [0043 - Get Total Length of Multiple Walls](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0043_get_total_length_of_multiple_walls.md)
+- [0044 - Copying Elements between Levels](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0044_copying_elements_between_levels.md)
+- [0045 - Detail Component Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0045_detail_component_creation.md)
+- [0046 - Detail Line Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0046_detail_line_creation.md)
+- [0047 - Text Note Creation](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0047_text_note_creation.md)
+- [0048 - JavaScript and Revit API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0048_javascript_and_revit_api.md)
+- [0049 - Revit API Frequently Asked Questions FAQ](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0049_revit_api_frequently_asked_questions_faq.md)
+- [0050 - SPATIAL Check and Other Conference Topics](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0050_spatial_check_and_other_conference_topics.md)
+- [0051 - Adding a Parameter to Elements](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0051_adding_a_parameter_to_elements.md)
+- [0052 - Parameter Filter for Door Numbers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0052_parameter_filter_for_door_numbers.md)
+- [0053 - Retrieve Room and Door Numbering](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0053_retrieve_room_and_door_numbering.md)
+- [0054 - Detail Openings and Instance Properties](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0054_detail_openings_and_instance_properties.md)
+- [0055 - Import 2008 Export 2009, and Category Comparison](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0055_import_2008_export_2009_and_category_comparison.md)
+- [0056 - Data Structure Lab](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0056_data_structure_lab.md)
+- [0057 - Family Instances and Symbol Geometry](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0057_family_instances_and_symbol_geometry.md)
+- [0058 - Retrieving Wall Types and Layers](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0058_retrieving_wall_types_and_layers.md)
+- [0059 - List All Rooms and Furniture](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0059_list_all_rooms_and_furniture.md)
 - [0060 - Delete Unreferenced Elements and Purge All](https://github.com/Retho5/YOUR_REPO_NAME/blob/main/output/all_posts_fixed/0060_delete_unreferenced_elements_and_purge_all.md)
-- [0061 - Revit API INT Zoom Filter](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0061_revit_api_int_zoom_filter.md)
-- [0062 - Item Selection and Id Extraction](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0062_item_selection_and_id_extraction.md)
-- [0063 - New Revit 2010 Web Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0063_new_revit_2010_web_update.md)
-- [0064 - Performance Monitoring and Larger Point Clouds](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0064_performance_monitoring_and_larger_point_clouds.md)
-- [0065 - Point Clouds and BIM Specs](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0065_point_clouds_and_bim_specs.md)
-- [0066 - AU Class Collateral and Point Cloud Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0066_au_class_collateral_and_point_cloud_update.md)
-- [0067 - Disable Built-in Revit Commands](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0067_disable_built_in_revit_commands.md)
-- [0068 - Switching Between Conceptual Design and Detailed Design](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0068_switching_between_conceptual_design_and_detailed_design.md)
-- [0069 - View Discipline and the Mass Instancing Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0069_view_discipline_and_the_mass_instancing_performance.md)
-- [0070 - New Point Cloud AEC DevBlog and Transition Period](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0070_new_point_cloud_aec_devblog_and_transition_period.md)
-- [0071 - Point Cloud API and Desktop Connector](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0071_point_cloud_api_and_desktop_connector.md)
-- [0072 - Regenerating a Column and Running a Simple Form](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0072_regenerating_a_column_and_running_a_simple_form.md)
-- [0073 - Macro Language, Embedded Image Resources and more](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0073_macro_language_embedded_image_resources_and_more.md)
-- [0074 - Multiple Languages and Unfinished Projects](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0074_multiple_languages_and_unfinished_projects.md)
-- [0075 - Shared Parameter File and MD5](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0075_shared_parameter_file_and_md5.md)
-- [0076 - System Family Creation and Wall Foundations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0076_system_family_creation_and_wall_foundations.md)
-- [0077 - Columns in Spanish and Walls from Slabs](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0077_columns_in_spanish_and_walls_from_slabs.md)
-- [0078 - Starting Family Creation and Loading Shared Parameters](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0078_starting_family_creation_and_loading_shared_parameters.md)
-- [0079 - Family Creation and Line Style](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0079_family_creation_and_line_style.md)
-- [0080 - The Family Creation Traverse Family Types Grid](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0080_the_family_creation_traverse_family_types_grid.md)
-- [0081 - New Year, AEC DevBlog Progress, and Replacing a Detail Symbol](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0081_new_year_aec_devblog_progress_and_replacing_a_detail_symbol.md)
-- [0082 - Replacing a Detail Symbol and the Rebar API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0082_replacing_a_detail_symbol_and_the_rebar_api.md)
-- [0083 - ClassCastException in Revit 2010 API and MEP Calculations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0083_classcastexception_in_revit_2010_api_and_mep_calculations.md)
-- [0084 - Winter Break, SDM, ServerTimeoutException, and GitHub](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0084_winter_break_sdm_servertimeoutexception_and_github.md)
-- [0085 - AEC DevBlog Roundup and More Rebar](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0085_aec_devblog_roundup_and_more_rebar.md)
-- [0086 - Rebar Connections and RevitLookup Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0086_rebar_connections_and_revitlookup_update.md)
-- [0087 - Rebar in a Circle with Non-uniform Distribution](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0087_rebar_in_a_circle_with_non_uniform_distribution.md)
-- [0088 - Type and Instance Parameters](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0088_type_and_instance_parameters.md)
-- [0089 - Changing the View Family Type](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0089_changing_the_view_family_type.md)
-- [0090 - Setting the View Type](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0090_setting_the_view_type.md)
-- [0091 - New Release of the Revit SDK and ADN Sample Code](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0091_new_release_of_the_revit_sdk_and_adn_sample_code.md)
-- [0092 - Solid Creation from Face References](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0092_solid_creation_from_face_references.md)
-- [0093 - Determining the View Family Type](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0093_determining_the_view_family_type.md)
-- [0094 - Multiple Languages and Back Button](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0094_multiple_languages_and_back_button.md)
-- [0095 - Lazy and Eager Families and a Grep Link](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0095_lazy_and_eager_families_and_a_grep_link.md)
-- [0096 - Deleting Dimensions and Extensible Storage](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0096_deleting_dimensions_and_extensible_storage.md)
-- [0097 - Extensible Storage Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0097_extensible_storage_update.md)
-- [0098 - Shared Parameter File](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0098_shared_param_file.md)
-- [0099 - Type and Instance Parameters](https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/0099_type_instance_params.md)
+- [0061 - Revit API INT Zoom Filter](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0061_revit_api_int_zoom_filter.md)
+- [0062 - Item Selection and Id Extraction](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0062_item_selection_and_id_extraction.md)
+- [0063 - New Revit 2010 Web Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0063_new_revit_2010_web_update.md)
+- [0064 - Performance Monitoring and Larger Point Clouds](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0064_performance_monitoring_and_larger_point_clouds.md)
+- [0065 - Point Clouds and BIM Specs](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0065_point_clouds_and_bim_specs.md)
+- [0066 - AU Class Collateral and Point Cloud Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0066_au_class_collateral_and_point_cloud_update.md)
+- [0067 - Disable Built-in Revit Commands](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0067_disable_built_in_revit_commands.md)
+- [0068 - Switching Between Conceptual Design and Detailed Design](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0068_switching_between_conceptual_design_and_detailed_design.md)
+- [0069 - View Discipline and the Mass Instancing Performance](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0069_view_discipline_and_the_mass_instancing_performance.md)
+- [0070 - New Point Cloud AEC DevBlog and Transition Period](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0070_new_point_cloud_aec_devblog_and_transition_period.md)
+- [0071 - Point Cloud API and Desktop Connector](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0071_point_cloud_api_and_desktop_connector.md)
+- [0072 - Regenerating a Column and Running a Simple Form](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0072_regenerating_a_column_and_running_a_simple_form.md)
+- [0073 - Macro Language, Embedded Image Resources and more](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0073_macro_language_embedded_image_resources_and_more.md)
+- [0074 - Multiple Languages and Unfinished Projects](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0074_multiple_languages_and_unfinished_projects.md)
+- [0075 - Shared Parameter File and MD5](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0075_shared_parameter_file_and_md5.md)
+- [0076 - System Family Creation and Wall Foundations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0076_system_family_creation_and_wall_foundations.md)
+- [0077 - Columns in Spanish and Walls from Slabs](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0077_columns_in_spanish_and_walls_from_slabs.md)
+- [0078 - Starting Family Creation and Loading Shared Parameters](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0078_starting_family_creation_and_loading_shared_parameters.md)
+- [0079 - Family Creation and Line Style](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0079_family_creation_and_line_style.md)
+- [0080 - The Family Creation Traverse Family Types Grid](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0080_the_family_creation_traverse_family_types_grid.md)
+- [0081 - New Year, AEC DevBlog Progress, and Replacing a Detail Symbol](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0081_new_year_aec_devblog_progress_and_replacing_a_detail_symbol.md)
+- [0082 - Replacing a Detail Symbol and the Rebar API](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0082_replacing_a_detail_symbol_and_the_rebar_api.md)
+- [0083 - ClassCastException in Revit 2010 API and MEP Calculations](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0083_classcastexception_in_revit_2010_api_and_mep_calculations.md)
+- [0084 - Winter Break, SDM, ServerTimeoutException, and GitHub](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0084_winter_break_sdm_servertimeoutexception_and_github.md)
+- [0085 - AEC DevBlog Roundup and More Rebar](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0085_aec_devblog_roundup_and_more_rebar.md)
+- [0086 - Rebar Connections and RevitLookup Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0086_rebar_connections_and_revitlookup_update.md)
+- [0087 - Rebar in a Circle with Non-uniform Distribution](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0087_rebar_in_a_circle_with_non_uniform_distribution.md)
+- [0088 - Type and Instance Parameters](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0088_type_and_instance_parameters.md)
+- [0089 - Changing the View Family Type](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0089_changing_the_view_family_type.md)
+- [0090 - Setting the View Type](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0090_setting_the_view_type.md)
+- [0091 - New Release of the Revit SDK and ADN Sample Code](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0091_new_release_of_the_revit_sdk_and_adn_sample_code.md)
+- [0092 - Solid Creation from Face References](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0092_solid_creation_from_face_references.md)
+- [0093 - Determining the View Family Type](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0093_determining_the_view_family_type.md)
+- [0094 - Multiple Languages and Back Button](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0094_multiple_languages_and_back_button.md)
+- [0095 - Lazy and Eager Families and a Grep Link](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0095_lazy_and_eager_families_and_a_grep_link.md)
+- [0096 - Deleting Dimensions and Extensible Storage](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0096_deleting_dimensions_and_extensible_storage.md)
+- [0097 - Extensible Storage Update](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0097_extensible_storage_update.md)
+- [0098 - Shared Parameter File](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0098_shared_param_file.md)
+- [0099 - Type and Instance Parameters](https://github.com/buzzytrent90/tbc_blog_md/blob/main/0099_type_instance_params.md)
 
 *Note: This is a partial list. The complete index includes all 2,789 posts organized by sections of 100 posts each.*
 
@@ -196,7 +196,7 @@ All posts have been optimized for AI retrieval with enhanced metadata and filter
 
 The URLs use GitHub's blob view format:
 ```
-https://github.com/buzzytrent90/tbc_blog_md/blob/main/output/all_posts_fixed/POST_FILENAME
+https://github.com/buzzytrent90/tbc_blog_md/blob/main/POST_FILENAME
 ```
 
 This ensures Archon OS can directly access the file content through GitHub's web interface.
