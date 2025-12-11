@@ -1,35 +1,22 @@
-# What's New in Revit API - Complete Series
+# The Building Coder - Whats-New
 
-## Revit 0938
-0938-01_whats_new_in_the_revit_2014_api.md
-
-## Revit 1141
-1141-01_whats_new_in_the_revit_2015_api.md
-
-## Revit 1311
-1311-01_whats_new_in_the_revit_2016_api.md
-
-## Revit 1428
-1428-01_whats_new_in_the_revit_2017_api.md
-
-## Revit 1551
-1551-01_whats_new_in_the_revit_2018_api.md
-
-## Revit 1647
-1647-01_whats_new_in_the_revit_2019_api.md
-
-## Revit 1676
-1676-01_whats_new_in_the_revit_20191_api.md
-
-## Revit 1740
-1740-01_whats_new_in_the_revit_2020_api.md
-
-## Revit 1903
-1903-01_whats_new_in_the_revit_2022_api.md
-
-## Revit 1947
-1947-01_whats_new_in_the_revit_2023_api.md
-
-## Revit 2036
-2036-01_whats_new_in_the_revit_2025_api.md
-
+- [DevCamp Session on What's New](https://buzzytrent90.github.io/tbc_blog_md/0385_devcamp_whats_new.md)
+- [Major Changes and Renovations - What's New in the Revit 2014 API](https://buzzytrent90.github.io/tbc_blog_md/0938-01_whats_new_in_the_revit_2014_api.md)
+- [API Changes - What's New in the Revit 2015 API](https://buzzytrent90.github.io/tbc_blog_md/1141-01_whats_new_in_the_revit_2015_api.md)
+- [What's New in Revit 2016 API - What's New in the Revit 2016 API](https://buzzytrent90.github.io/tbc_blog_md/1311-01_whats_new_in_the_revit_2016_api.md)
+- [API Changes - What's New in the Revit 2017 API](https://buzzytrent90.github.io/tbc_blog_md/1428-01_whats_new_in_the_revit_2017_api.md)
+- [Whats New 2017 1](https://buzzytrent90.github.io/tbc_blog_md/1496_whats_new_2017_1.md)
+- [API Changes - What's New in the Revit 2018 API](https://buzzytrent90.github.io/tbc_blog_md/1551-01_whats_new_in_the_revit_2018_api.md)
+- [Major Additions to the Revit 2018.1 API](https://buzzytrent90.github.io/tbc_blog_md/1609_whats_new_2018_2.md)
+- [API Changes - What's New in the Revit 2019 API](https://buzzytrent90.github.io/tbc_blog_md/1647-01_whats_new_in_the_revit_2019_api.md)
+- [Whats New 2019](https://buzzytrent90.github.io/tbc_blog_md/1648_whats_new_2019.md)
+- [API Changes - What's New in the Revit 2019.1 API](https://buzzytrent90.github.io/tbc_blog_md/1676-01_whats_new_in_the_revit_20191_api.md)
+- [API Changes - What's New in the Revit 2020 API](https://buzzytrent90.github.io/tbc_blog_md/1740-01_whats_new_in_the_revit_2020_api.md)
+- [Whats New 2020 1](https://buzzytrent90.github.io/tbc_blog_md/1781_whats_new_2020_1.md)
+- [bim #DynamoBim #ForgeDevCon #Revit #API #IFC #SDK #AI #VisualStudio #Autodesk](https://buzzytrent90.github.io/tbc_blog_md/1836_whats_new_2021.md)
+- [Whats New 2021 1](https://buzzytrent90.github.io/tbc_blog_md/1858_whats_new_2021_1.md)
+- [API Changes - What's New in the Revit 2022 API](https://buzzytrent90.github.io/tbc_blog_md/1903-01_whats_new_in_the_revit_2022_api.md)
+- [4.1.1. Duplicating Sheets](https://buzzytrent90.github.io/tbc_blog_md/1926_whats_new_2022_1.md)
+- [API Changes - What's New in the Revit 2023 API](https://buzzytrent90.github.io/tbc_blog_md/1947-01_whats_new_in_the_revit_2023_api.md)
+- [MEP Duct/Pipe pressure loss calculations](https://buzzytrent90.github.io/tbc_blog_md/1989_whats_new_2024.md)
+- [1. API Changes - What's New in the Revit 2025 API](https://buzzytrent90.github.io/tbc_blog_md/2036-01_whats_new_in_the_revit_2025_api.md)
